@@ -1,0 +1,8 @@
+{
+  "id": "mt31pan7-0dhfl",
+  "command": "pipeline_status",
+  "args": {},
+  "write": false,
+  "requested_at": 1787322556,
+  "requested_by": "console"
+}
