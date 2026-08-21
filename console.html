@@ -228,7 +228,7 @@ const WRITE_CMDS=[
   ['trigger_crawl','크롤 실행',{source:'humor'}],
   ['trigger_pipeline','파이프라인 실행',{}],
 ];
-const CRAWL_SOURCES=['humor','sports','portrait'];  // agent_tools.CRAWL_WHITELIST 키와 일치
+const CRAWL_SOURCES=['humor','sports','portrait','fitness','lookbook','diet'];  // agent_tools.CRAWL_WHITELIST 키와 일치
 function vCommands(){
   const hasPat=!!cfg.pat;
   const log=(DATA.commands_log||{}).commands||[];
