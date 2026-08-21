@@ -1,0 +1,8 @@
+{
+  "id": "mt31p5jn-i1gdu",
+  "command": "pipeline_status",
+  "args": {},
+  "write": false,
+  "requested_at": 1787322549,
+  "requested_by": "console"
+}
