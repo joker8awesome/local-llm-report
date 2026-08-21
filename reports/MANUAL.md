@@ -287,3 +287,45 @@ pip install open-interpreter litellm
 - **브리핑 모델 확정:** `workspaces/bench_briefing/BENCH_REVIEW_REQUEST.md`를 클라우드 브레인에 붙여넣어 채점 → 승자를 `BRIEFING_MODEL`로 설정.
 - **Gemini 실호출:** `GEMINI_API_KEY` 설정 시 검증.
 - **Telegram 에이전트:** BotFather 토큰 + 본인 user ID 필요.
+
+---
+
+## 11. 웹 운영 콘솔 (DEV-07 — 원격 보기 + 클릭 트리거)
+
+브라우저에서 파이프라인 상태·수집물·오류·건강을 **원격 조회**하고, 조회/실행 명령을 **클릭으로 트리거**한다.
+2계층: ① 정적 대시보드(`report_site/console.html`, GitHub Pages) ② 로컬 명령 폴러(`console_poller.py`).
+
+### 11.1 구성 파일
+| 파일 | 역할 |
+| --- | --- |
+| `export_web_data.py` | metrics·refined_data·건강 → `report_site/data/*.json` 발행(**새니타이즈**: 경로·토큰·개인문서 배제). `--push`로 git push |
+| `report_site/console.html` | 대시보드(개요·실행이력·오류·수집물·건강·명령). 60초 자동갱신 |
+| `console_poller.py` | 저장소를 주기 pull → 명령 검증·실행 → 결과 push. 이슈 자동화 포함 |
+| `report_site/commands/` | 파일 명령 큐(`pending/`, `confirm/`) — 대시보드가 Contents API로 기록 |
+| `report_site/data/commands_log.json` | 명령 처리 로그(대시보드 "명령 로그"에 표시) |
+
+### 11.2 실행 순서
+1. **폴러 상시 구동(로컬):** `python console_poller.py` (주기 `CONSOLE_POLL_SEC`, 기본 45초).
+2. **파이프라인 실행 시 자동 발행:** `pipeline_orchestrator.py` 종료 시 `data/` 발행+push(`WEB_EXPORT=0`/`WEB_PUSH=0`로 비활성).
+3. **대시보드 접속:** GitHub Pages URL 또는 로컬 `python -m http.server`(report_site 폴더)로 `console.html`.
+
+### 11.3 대시보드 PAT 발급(명령 전송용, 조회는 불필요)
+- 조회(실행이력·오류·수집물·건강)는 **PAT 없이** 동작. **명령 전송에만** PAT 필요.
+- GitHub → Settings → Developer settings → **Fine-grained PAT** → 대상 저장소 `local-llm-report`만 → 권한 **Contents: Read and write** 만 부여.
+- 대시보드 우측 상단 **⚙ 설정** → PAT 입력 → 저장. **PAT는 이 브라우저 localStorage에만 저장**되며 저장소·HTML에 절대 포함되지 않는다.
+
+### 11.4 명령 화이트리스트(고정 5종 — 신규 추가 금지)
+- 조회: `pipeline_status`, `get_briefing`, `search_archive` — 즉시 처리.
+- 실행: `trigger_crawl`(source=`humor`/`sports`/`portrait`), `trigger_pipeline` — **2단계 확인** 후 처리.
+- 폴러는 화이트리스트를 `agent_tools.DISPATCH`에서 단일 임포트하여 **스스로 확장 불가**. 그 외 명령은 실행 없이 거부 로그.
+- 쓰기 명령은 `pending`+`confirm` 파일이 **둘 다·id 일치·요청 후 10분 이내**일 때만 폴러가 실행(2단계를 실행 지점에서 강제). GPU 락으로 웹·Telegram 동시 트리거도 **단일 실행** 보장.
+
+### 11.5 GitHub Pages 활성화(사용자 조치)
+- **저장소가 Private + 무료 플랜이면 Pages 라이브 URL이 제공되지 않는다.** 두 경로 중 택1:
+  - **(권장) 저장소를 Public 전환** → Pages 무료. 발행 데이터는 §3 새니타이즈로 **공개돼도 무해**(경로·토큰·개인문서·원문 전문 없음)하도록 설계됨.
+  - **GitHub Pro 유지 + Private** → Private Pages 사용.
+- 활성화: 저장소 **Settings → Pages → Source: Deploy from a branch → `main` / `/ (root)`** → 저장. 수 분 후 `https://joker8awesome.github.io/local-llm-report/console.html` 접속.
+
+### 11.6 이슈 자동화(Phase 5)
+- 폴러가 **최근 2회 연속 실행 실패** 또는 **소스 급감 경보** 감지 시 GitHub 이슈 자동 생성(중복 방지). `CONSOLE_ISSUES=0`로 비활성.
+- 이슈 생성에는 `gh` CLI가 **Issues 쓰기 권한**을 가진 계정으로 로그인돼 있어야 한다(현재 push용 토큰은 Contents 전용이라 실패할 수 있음 — 비치명적으로 스킵).
