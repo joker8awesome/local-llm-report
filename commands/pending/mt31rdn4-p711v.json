@@ -1,0 +1,8 @@
+{
+  "id": "mt31rdn4-p711v",
+  "command": "pipeline_status",
+  "args": {},
+  "write": false,
+  "requested_at": 1787322653,
+  "requested_by": "console"
+}
