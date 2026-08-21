@@ -1,8 +1,0 @@
-{
-  "id": "mt31pqad-frzao",
-  "command": "pipeline_status",
-  "args": {},
-  "write": false,
-  "requested_at": 1787322576,
-  "requested_by": "console"
-}
