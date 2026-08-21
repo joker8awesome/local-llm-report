@@ -1,0 +1,343 @@
+<title>운영 콘솔</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root{
+    --bg:#f6f7f9; --panel:#ffffff; --ink:#1a1d21; --muted:#6b7280; --line:#e5e7eb;
+    --accent:#2563eb; --ok:#16a34a; --warn:#d97706; --bad:#dc2626; --chip:#eef2ff;
+    --shadow:0 1px 2px rgba(0,0,0,.04),0 1px 3px rgba(0,0,0,.06);
+    font-family:'Inter',system-ui,-apple-system,'Segoe UI','Malgun Gothic',sans-serif;
+  }
+  :root:not([data-theme=light]) @media (prefers-color-scheme:dark){}
+  @media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+    --bg:#0f1115; --panel:#171a21; --ink:#e6e8eb; --muted:#9aa1ac; --line:#262b34;
+    --accent:#60a5fa; --chip:#1e2636; --shadow:none;
+  }}
+  :root[data-theme=dark]{
+    --bg:#0f1115; --panel:#171a21; --ink:#e6e8eb; --muted:#9aa1ac; --line:#262b34;
+    --accent:#60a5fa; --chip:#1e2636; --shadow:none;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-size:14px;line-height:1.55}
+  .wrap{max-width:1080px;margin:0 auto;padding:18px 16px 60px}
+  header{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+  h1{font-size:19px;margin:0;font-weight:700}
+  .pill{font-size:12px;padding:3px 10px;border-radius:999px;background:var(--chip);color:var(--accent);font-weight:600}
+  .pill.ok{background:rgba(22,163,74,.12);color:var(--ok)} .pill.bad{background:rgba(220,38,38,.12);color:var(--bad)}
+  .pill.run{background:rgba(217,119,6,.12);color:var(--warn)}
+  .spacer{flex:1}
+  button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--ink);
+    padding:7px 12px;border-radius:8px;transition:.12s}
+  button:hover{border-color:var(--accent)}
+  button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+  button.danger{border-color:var(--bad);color:var(--bad)}
+  button:disabled{opacity:.45;cursor:not-allowed}
+  .tabs{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 16px;border-bottom:1px solid var(--line);padding-bottom:0}
+  .tab{border:none;border-bottom:2px solid transparent;border-radius:0;padding:8px 10px;color:var(--muted);background:none}
+  .tab.active{color:var(--accent);border-bottom-color:var(--accent);font-weight:600}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;box-shadow:var(--shadow);margin-bottom:14px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px}
+  .kpi{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+  .kpi .n{font-size:24px;font-weight:700} .kpi .l{font-size:12px;color:var(--muted);margin-top:2px}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--muted);font-weight:600;font-size:12px}
+  .tag{display:inline-block;font-size:11px;background:var(--chip);color:var(--accent);padding:1px 7px;border-radius:6px;margin:1px 3px 1px 0}
+  .muted{color:var(--muted)} .mono{font-variant-numeric:tabular-nums}
+  .item h3{margin:0 0 4px;font-size:15px} .item{padding:12px 0;border-bottom:1px solid var(--line)}
+  .item:last-child{border:none}
+  .scroll{overflow-x:auto}
+  input,select{font:inherit;padding:7px 9px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);width:100%}
+  label{font-size:12px;color:var(--muted);display:block;margin:10px 0 4px}
+  .row{display:flex;gap:10px;flex-wrap:wrap}
+  .row>div{flex:1;min-width:180px}
+  .note{font-size:12px;color:var(--muted);margin-top:6px}
+  .modal{position:fixed;inset:0;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center;padding:16px;z-index:9}
+  .modal.on{display:flex}
+  .modal .card{max-width:420px;width:100%;margin:0}
+  .cmdlog{font-size:12px} .badge{font-size:11px;padding:1px 7px;border-radius:6px}
+  .badge.done{background:rgba(22,163,74,.12);color:var(--ok)} .badge.err{background:rgba(220,38,38,.12);color:var(--bad)}
+  .badge.pend{background:rgba(217,119,6,.12);color:var(--warn)}
+  a{color:var(--accent)}
+  .hide{display:none}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>🛰️ 로컬 파이프라인 운영 콘솔</h1>
+    <span id="statusPill" class="pill">로딩…</span>
+    <span class="spacer"></span>
+    <span id="refreshInfo" class="muted" style="font-size:12px"></span>
+    <button id="refreshBtn" title="새로고침">↻</button>
+    <button id="themeBtn" title="테마">◐</button>
+    <button id="setBtn">⚙ 설정</button>
+  </header>
+
+  <!-- 설정 -->
+  <div id="settings" class="card hide">
+    <b>설정</b> <span class="note">PAT는 이 브라우저의 localStorage에만 저장됩니다. 저장소·HTML에 절대 포함되지 않습니다.</span>
+    <div class="row">
+      <div><label>저장소 (owner/repo)</label><input id="repo" placeholder="joker8awesome/local-llm-report"></div>
+      <div><label>브랜치</label><input id="branch" placeholder="main"></div>
+    </div>
+    <label>GitHub PAT (Contents: write · 명령 전송용, 선택)</label>
+    <input id="pat" type="password" placeholder="github_pat_… (비워두면 조회 전용)">
+    <div class="row" style="margin-top:12px">
+      <button class="primary" id="saveSet">저장</button>
+      <button id="clearPat">PAT 삭제</button>
+    </div>
+    <div class="note">PAT 없이도 모든 조회(실행이력·오류·수집물·건강)는 동작합니다. PAT는 명령 전송에만 필요합니다.</div>
+  </div>
+
+  <nav class="tabs" id="tabs"></nav>
+  <div id="view"></div>
+</div>
+
+<!-- 확인 모달 -->
+<div class="modal" id="modal">
+  <div class="card">
+    <b id="mTitle">확인</b>
+    <p id="mBody" class="note"></p>
+    <div class="row" style="margin-top:8px">
+      <button class="primary" id="mYes">확인 전송</button>
+      <button id="mNo">취소</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const LS = { repo:'con_repo', branch:'con_branch', pat:'con_pat', theme:'con_theme' };
+const cfg = {
+  repo: localStorage.getItem(LS.repo) || 'joker8awesome/local-llm-report',
+  branch: localStorage.getItem(LS.branch) || 'main',
+  pat: localStorage.getItem(LS.pat) || '',
+};
+const DATA = {}; // 캐시된 json
+const esc = s => (s==null?'':String(s)).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const ago = ts => { if(!ts) return ''; const d=Math.floor((Date.now()/1000)-ts);
+  if(d<60)return d+'초 전'; if(d<3600)return Math.floor(d/60)+'분 전'; if(d<86400)return Math.floor(d/3600)+'시간 전'; return Math.floor(d/86400)+'일 전'; };
+const dt = ts => ts? new Date(ts*1000).toLocaleString('ko-KR',{month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'}) : '-';
+
+// ---- 데이터 로드 ----
+async function loadAll(){
+  const files=['status','runs','errors','items','health','commands_log'];
+  let okAny=false;
+  await Promise.all(files.map(async f=>{
+    try{ const r=await fetch('./data/'+f+'.json?_='+Date.now()); if(r.ok){DATA[f]=await r.json();okAny=true;} }
+    catch(e){ DATA[f]=DATA[f]||null; }
+  }));
+  $('#refreshInfo').textContent = '갱신 ' + new Date().toLocaleTimeString('ko-KR');
+  paintStatus(okAny);
+  render();
+}
+function paintStatus(okAny){
+  const p=$('#statusPill'); const s=DATA.status;
+  if(!okAny){ p.className='pill bad'; p.textContent='데이터 없음'; return; }
+  if(s&&s.running){ p.className='pill run'; p.textContent='실행 중'; return; }
+  const l=s&&s.latest;
+  if(l){ p.className='pill '+(l.success?'ok':'bad'); p.textContent=(l.success?'정상':'최근 실패')+' · '+ago(l.started); }
+  else { p.className='pill'; p.textContent='대기'; }
+}
+
+// ---- 탭 ----
+const TABS=[['overview','개요'],['runs','실행이력'],['errors','오류'],['items','수집물'],['health','건강'],['commands','명령']];
+let active='overview';
+function buildTabs(){
+  $('#tabs').innerHTML='';
+  TABS.forEach(([k,l])=>{ const b=document.createElement('button'); b.className='tab'+(k===active?' active':'');
+    b.textContent=l; b.onclick=()=>{active=k;buildTabs();render();}; $('#tabs').appendChild(b); });
+}
+function render(){ const v=$('#view'); v.innerHTML = ({
+  overview:vOverview, runs:vRuns, errors:vErrors, items:vItems, health:vHealth, commands:vCommands
+}[active]||(()=>''))(); if(active==='commands') wireCommands(); }
+
+function vOverview(){
+  const s=DATA.status||{}, h=(DATA.health||{}).stats||{}, e=DATA.errors||{}, it=DATA.items||{};
+  const l=s.latest;
+  return `<div class="grid">
+    ${kpi(h.success_rate!=null?h.success_rate+'%':'-','최근 성공률')}
+    ${kpi(h.avg_sec!=null?h.avg_sec+'s':'-','평균 소요')}
+    ${kpi(e.unresolved!=null?e.unresolved:'-','미해결 오류')}
+    ${kpi(it.count!=null?it.count:'-','최근 수집물')}
+  </div>
+  <div class="card"><b>최근 실행</b>${ l? `
+    <table class="mono"><tr><th>실행</th><td>${esc(l.run_id)}</td></tr>
+    <tr><th>시각</th><td>${dt(l.started)} (${ago(l.started)})</td></tr>
+    <tr><th>결과</th><td>${l.success?'✅ 성공':'❌ 실패'}</td></tr>
+    <tr><th>소요</th><td>${l.total_sec}s</td></tr>
+    <tr><th>단계</th><td>${Object.entries(l.stages||{}).map(([k,v])=>`${esc(k)} ${v}s`).join(' · ')||'-'}</td></tr></table>`
+    : '<p class="muted">기록 없음</p>' }</div>`;
+}
+function kpi(n,l){return `<div class="kpi"><div class="n">${esc(n)}</div><div class="l">${esc(l)}</div></div>`;}
+
+function vRuns(){
+  const rs=(DATA.runs||{}).runs||[];
+  if(!rs.length) return '<div class="card muted">실행 이력이 없습니다.</div>';
+  return `<div class="card scroll"><table class="mono"><thead><tr>
+    <th>시각</th><th>트리거</th><th>결과</th><th>소요</th><th>단계</th></tr></thead><tbody>${
+    rs.map(r=>`<tr><td>${dt(r.started)}</td><td>${esc(r.trigger||'-')}</td>
+      <td>${r.success?'✅':'❌'}</td><td>${r.total_sec}s</td>
+      <td class="muted">${Object.entries(r.stages||{}).map(([k,v])=>esc(k)+' '+v+'s').join(' · ')}</td></tr>`).join('')
+    }</tbody></table></div>`;
+}
+function vErrors(){
+  const es=(DATA.errors||{}).errors||[];
+  if(!es.length) return '<div class="card ok">현재 보고된 오류가 없습니다. ✅</div>';
+  return `<div class="card scroll"><table><thead><tr><th>유형</th><th>단계</th><th>대상</th><th>내용</th><th>상태</th></tr></thead><tbody>${
+    es.map(e=>`<tr><td>${esc(e.type)}</td><td>${esc(e.stage)}</td><td>${esc(e.source||'-')}</td>
+      <td>${esc(e.message)}</td><td><span class="badge ${e.resolved?'done':'err'}">${e.resolved?'해결':'미해결'}</span></td></tr>`).join('')
+    }</tbody></table></div>`;
+}
+function vItems(){
+  const its=(DATA.items||{}).items||[];
+  if(!its.length) return '<div class="card muted">수집물이 없습니다.</div>';
+  return `<div class="card">${its.map(i=>`<div class="item">
+    <h3>${esc((i.title||'').trim())}</h3>
+    <div class="muted" style="font-size:12px">${esc(i.kind||'')} · ${ago(i.collected)}${i.importance?' · 중요도 '+esc(i.importance):''}
+      ${i.url&&/^https?:/.test(i.url)?` · <a href="${esc(i.url)}" target="_blank" rel="noopener">원문↗</a>`:''}</div>
+    <p style="margin:6px 0">${esc(i.summary)}</p>
+    <div>${(i.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div>
+  </div>`).join('')}</div>`;
+}
+function vHealth(){
+  const h=DATA.health||{}; if(h.error) return '<div class="card bad">건강 데이터 오류: '+esc(h.error)+'</div>';
+  const st=h.stats||{}, src=h.sources||{}, dk=h.disk_mb||{}, al=h.drop_alerts||[];
+  return `<div class="grid">
+    ${kpi((st.success_rate??'-')+'%','성공률(최근'+(st.runs||0)+')')}
+    ${kpi((st.avg_sec??'-')+'s','평균 소요')}
+    ${kpi(al.length,'급감 경보')}
+    ${kpi(Object.values(dk).reduce((a,b)=>a+b,0).toFixed(1)+'MB','저장 사용량')}
+  </div>
+  <div class="card"><b>소스별 수집량</b><table class="mono">${
+    Object.entries(src).map(([k,v])=>`<tr><th>${esc(k)}</th><td>${esc(v)}건</td></tr>`).join('')||'<tr><td class="muted">-</td></tr>'
+  }</table></div>
+  ${al.length?`<div class="card bad"><b>⚠ 급감 경보</b><ul>${al.map(a=>`<li>${esc(JSON.stringify(a))}</li>`).join('')}</ul></div>`:''}
+  <div class="card"><b>디스크(MB)</b><table class="mono">${
+    Object.entries(dk).map(([k,v])=>`<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join('')
+  }</table></div>`;
+}
+
+// ---- 명령 탭 ----
+const READ_CMDS=[
+  ['pipeline_status','파이프라인 상태',{}],
+  ['get_briefing','최신 브리핑',{}],
+  ['search_archive','아카이브 검색',{q:''}],
+];
+const WRITE_CMDS=[
+  ['trigger_crawl','크롤 실행',{source:'humor'}],
+  ['trigger_pipeline','파이프라인 실행',{}],
+];
+const CRAWL_SOURCES=['humor','sports','portrait'];  // agent_tools.CRAWL_WHITELIST 키와 일치
+function vCommands(){
+  const hasPat=!!cfg.pat;
+  const log=(DATA.commands_log||{}).commands||[];
+  return `<div class="card">
+    <b>조회 명령</b> <span class="note">결과는 폴러가 처리 후 아래 로그·해당 탭에 반영됩니다.</span>
+    <div class="row" style="margin-top:10px">
+      <button data-cmd="pipeline_status">상태 조회</button>
+      <button data-cmd="get_briefing">최신 브리핑</button>
+    </div>
+    <label>아카이브 검색어</label>
+    <div class="row"><div><input id="searchQ" placeholder="예: AI 반도체"></div>
+      <button data-cmd="search_archive" style="flex:0 0 auto">검색 요청</button></div>
+  </div>
+  <div class="card">
+    <b>실행 명령 <span class="badge pend">확인 2단계</span></b>
+    <div class="row" style="margin-top:10px">
+      <div><label>크롤 소스</label><select id="crawlSrc">${CRAWL_SOURCES.map(s=>`<option>${s}</option>`).join('')}</select></div>
+      <button class="danger" data-wcmd="trigger_crawl" style="flex:0 0 auto;align-self:end">크롤 실행</button>
+    </div>
+    <div class="row" style="margin-top:10px">
+      <button class="danger" data-wcmd="trigger_pipeline">전체 파이프라인 실행</button>
+    </div>
+    ${hasPat?'':'<div class="note" style="color:var(--warn)">⚠ 명령 전송에는 설정에서 PAT 입력이 필요합니다.</div>'}
+  </div>
+  <div class="card">
+    <b>명령 로그</b>
+    <div class="scroll" style="margin-top:8px"><table class="cmdlog mono"><thead><tr>
+      <th>시각</th><th>명령</th><th>상태</th><th>결과</th></tr></thead><tbody>${
+      log.length? log.map(c=>`<tr><td>${dt(c.ts)}</td><td>${esc(c.command)}${c.args&&Object.keys(c.args).length?' '+esc(JSON.stringify(c.args)):''}</td>
+        <td><span class="badge ${c.status==='done'?'done':c.status==='error'?'err':'pend'}">${esc(c.status)}</span></td>
+        <td class="muted">${esc((c.result_summary||'').slice(0,140))}</td></tr>`).join('')
+      : '<tr><td colspan=4 class="muted">아직 명령 기록이 없습니다.</td></tr>'
+    }</tbody></table></div>
+  </div>`;
+}
+function wireCommands(){
+  document.querySelectorAll('[data-cmd]').forEach(b=>b.onclick=()=>{
+    const cmd=b.dataset.cmd; const args={};
+    if(cmd==='search_archive'){ args.query=($('#searchQ').value||'').trim(); if(!args.query){alert('검색어를 입력하세요.');return;} }
+    sendCommand(cmd,args,false);
+  });
+  document.querySelectorAll('[data-wcmd]').forEach(b=>b.onclick=()=>{
+    const cmd=b.dataset.wcmd; const args={};
+    if(cmd==='trigger_crawl') args.source=$('#crawlSrc').value;
+    confirmWrite(cmd,args);
+  });
+}
+
+// ---- 명령 전송(Contents API 파일 큐) ----
+function newId(){ return Date.now().toString(36)+'-'+Math.random().toString(36).slice(2,7); }
+async function ghPut(path,obj,msg){
+  if(!cfg.pat) throw new Error('PAT 미설정');
+  const url=`https://api.github.com/repos/${cfg.repo}/contents/${path}`;
+  const body={ message:msg, branch:cfg.branch,
+    content: btoa(unescape(encodeURIComponent(JSON.stringify(obj,null,2)))) };
+  const r=await fetch(url,{method:'PUT',headers:{
+    'Authorization':'Bearer '+cfg.pat,'Accept':'application/vnd.github+json'},body:JSON.stringify(body)});
+  if(!r.ok){ const t=await r.text(); throw new Error('GitHub '+r.status+': '+t.slice(0,120)); }
+  return r.json();
+}
+async function sendCommand(cmd,args,isWrite,reqId){
+  try{
+    const id=reqId||newId();
+    const payload={ id, command:cmd, args:args||{}, write:!!isWrite, requested_at:Math.floor(Date.now()/1000),
+                    requested_by:'console' };
+    await ghPut(`commands/pending/${id}.json`, payload, `cmd: ${cmd} 요청`);
+    toast(`요청 전송됨: ${cmd} (${id.slice(0,8)}) — 폴러 처리 대기`);
+    return id;
+  }catch(e){ toast('전송 실패: '+e.message, true); }
+}
+// 쓰기 명령: 2단계(요청→확인 파일 별도). 폴러가 둘 다 있어야 실행.
+let pendingWrite=null;
+function confirmWrite(cmd,args){
+  if(!cfg.pat){ toast('PAT를 먼저 설정하세요.', true); return; }
+  pendingWrite={cmd,args};
+  $('#mTitle').textContent='⚠ 실행 명령 확인';
+  $('#mBody').innerHTML=`<b>${esc(cmd)}</b> ${esc(JSON.stringify(args))}<br>이 명령은 로컬 GPU 파이프라인을 실제로 실행합니다. 확인을 전송하면 폴러가 락 확인 후 1회 실행합니다.`;
+  $('#modal').classList.add('on');
+}
+$('#mNo').onclick=()=>{ $('#modal').classList.remove('on'); pendingWrite=null; };
+$('#mYes').onclick=async ()=>{
+  const w=pendingWrite; $('#modal').classList.remove('on'); pendingWrite=null; if(!w) return;
+  const id=await sendCommand(w.cmd,w.args,true);
+  if(id){ // 확인 파일(별도) — 폴러가 요청+확인 둘 다 & 10분내 & id일치일 때만 실행
+    try{ await ghPut(`commands/confirm/${id}.json`,{id,confirmed_at:Math.floor(Date.now()/1000)},`confirm: ${w.cmd}`);
+      toast('확인 전송 완료 — 폴러 실행 대기'); }
+    catch(e){ toast('확인 전송 실패: '+e.message,true); }
+  }
+};
+
+function toast(msg,bad){ const p=$('#statusPill'); const o=p.textContent,oc=p.className;
+  p.textContent=msg; p.className='pill '+(bad?'bad':'ok');
+  setTimeout(()=>loadAll(),1500); }
+
+// ---- 설정/테마 ----
+function applyTheme(t){ if(t) document.documentElement.setAttribute('data-theme',t);
+  else document.documentElement.removeAttribute('data-theme'); }
+applyTheme(localStorage.getItem(LS.theme));
+$('#themeBtn').onclick=()=>{ const cur=document.documentElement.getAttribute('data-theme');
+  const nx=cur==='dark'?'light':cur==='light'?'':'dark'; if(nx){localStorage.setItem(LS.theme,nx);}else{localStorage.removeItem(LS.theme);} applyTheme(nx); };
+$('#setBtn').onclick=()=>{ $('#settings').classList.toggle('hide');
+  $('#repo').value=cfg.repo; $('#branch').value=cfg.branch; $('#pat').value=cfg.pat; };
+$('#saveSet').onclick=()=>{ cfg.repo=$('#repo').value.trim()||cfg.repo; cfg.branch=$('#branch').value.trim()||'main';
+  cfg.pat=$('#pat').value.trim();
+  localStorage.setItem(LS.repo,cfg.repo); localStorage.setItem(LS.branch,cfg.branch);
+  if(cfg.pat) localStorage.setItem(LS.pat,cfg.pat); else localStorage.removeItem(LS.pat);
+  $('#settings').classList.add('hide'); render(); toast('설정 저장됨'); };
+$('#clearPat').onclick=()=>{ cfg.pat=''; localStorage.removeItem(LS.pat); $('#pat').value=''; toast('PAT 삭제됨'); };
+$('#refreshBtn').onclick=loadAll;
+
+buildTabs(); loadAll(); setInterval(loadAll, 60000);
+</script>

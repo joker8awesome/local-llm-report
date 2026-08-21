@@ -1,0 +1,19 @@
+{
+  "latest": {
+    "run_id": "kv_q8-1787315847",
+    "trigger": "kv_q8",
+    "started": 1787315847.2860405,
+    "total_sec": 90.3,
+    "success": true,
+    "stages": {
+      "load": 0.1,
+      "images": 0.0,
+      "summary": 67.0,
+      "briefing": 15.9,
+      "render": 0.1
+    }
+  },
+  "running": false,
+  "lock_owner": "",
+  "generated_at": 1787320561
+}

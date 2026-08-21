@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "runs": 7,
+    "success_rate": 100,
+    "avg_sec": 117.1
+  },
+  "sources": {
+    "인물": 50,
+    "스포츠": 50,
+    "유머": 5,
+    "전사": 1,
+    "음성": 0
+  },
+  "disk_mb": {
+    "refined_data": 0.1,
+    "images": 6.3,
+    "audio_out": 0.8,
+    "audio_cache": 54.0,
+    "chroma": 1.7
+  },
+  "drop_alerts": [],
+  "generated_at": 1787320561
+}
