@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>로컬 LLM 파이프라인 — 운영 대시보드</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f6f7fb; --card:#ffffff; --ink:#1a1f2e; --muted:#5b6478; --line:#e6e8ef;
+    --brand:#6366f1; --brand2:#8b5cf6; --ok:#16a34a; --warn:#d97706; --bad:#dc2626;
+    --chip:#eef2ff; --chip-ink:#4338ca; --shadow:0 4px 20px rgba(20,25,45,.06);
+  }
+  :root:not([data-theme=light]) @media (prefers-color-scheme:dark){}
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme=light]){
+      --bg:#0f1320; --card:#171c2b; --ink:#e8ebf5; --muted:#9aa3bd; --line:#26304a;
+      --chip:#1e2440; --chip-ink:#a5b4fc; --shadow:0 6px 24px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme=dark]{
+    --bg:#0f1320; --card:#171c2b; --ink:#e8ebf5; --muted:#9aa3bd; --line:#26304a;
+    --chip:#1e2440; --chip-ink:#a5b4fc; --shadow:0 6px 24px rgba(0,0,0,.35);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:Inter,-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard",sans-serif;
+    line-height:1.6;-webkit-font-smoothing:antialiased}
+  a{color:var(--brand);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  header.hero{background:linear-gradient(135deg,var(--brand),var(--brand2));color:#fff;
+    padding:38px 0 30px;box-shadow:var(--shadow)}
+  .hero h1{margin:0;font-size:1.7rem;font-weight:800;letter-spacing:-.02em}
+  .hero p{margin:8px 0 0;opacity:.95;font-size:.95rem}
+  .badges{margin-top:16px;display:flex;flex-wrap:wrap;gap:8px}
+  .badge{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.25);
+    padding:5px 11px;border-radius:999px;font-size:.78rem;font-weight:600}
+  nav.tabs{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+  nav.tabs .wrap{display:flex;gap:4px;overflow-x:auto;padding:8px 20px}
+  nav.tabs a{color:var(--muted);font-weight:600;font-size:.86rem;padding:8px 12px;
+    border-radius:9px;white-space:nowrap}
+  nav.tabs a:hover{background:var(--chip);color:var(--chip-ink);text-decoration:none}
+  section{padding:30px 0 6px}
+  h2{font-size:1.2rem;font-weight:700;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--muted);font-size:.88rem;margin:0 0 16px}
+  .grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:var(--shadow)}
+  .card h3{margin:0 0 6px;font-size:.82rem;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+  .kpi{font-size:1.5rem;font-weight:800;letter-spacing:-.02em}
+  .kpi small{font-size:.9rem;font-weight:600;color:var(--muted)}
+  .delta{font-size:.8rem;font-weight:700}
+  .delta.up{color:var(--ok)} .delta.down{color:var(--bad)}
+  table{width:100%;border-collapse:collapse;font-size:.88rem}
+  .tw{overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--card);box-shadow:var(--shadow)}
+  th,td{padding:10px 13px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+  th{color:var(--muted);font-weight:600;font-size:.78rem;text-transform:uppercase;letter-spacing:.03em;background:transparent}
+  tbody tr:last-child td{border-bottom:0}
+  td.num{text-align:right;font-variant-numeric:tabular-nums}
+  .pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:.72rem;font-weight:700}
+  .pill.ok{background:rgba(22,163,74,.14);color:var(--ok)}
+  .pill.warn{background:rgba(217,119,6,.14);color:var(--warn)}
+  .pill.wait{background:var(--chip);color:var(--chip-ink)}
+  ul.clean{margin:8px 0;padding-left:18px} ul.clean li{margin:5px 0}
+  .guide{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--brand);
+    border-radius:12px;padding:16px 18px;box-shadow:var(--shadow);margin-bottom:12px}
+  .guide h4{margin:0 0 6px;font-size:.95rem}
+  .guide .who{font-size:.75rem;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+  code{background:var(--chip);color:var(--chip-ink);padding:1px 6px;border-radius:6px;font-size:.82em}
+  footer{color:var(--muted);font-size:.8rem;padding:28px 0 40px;text-align:center;border-top:1px solid var(--line);margin-top:24px}
+  .reportlinks a{display:block;padding:12px 14px;background:var(--card);border:1px solid var(--line);
+    border-radius:12px;margin-bottom:8px;font-weight:600;box-shadow:var(--shadow)}
+  .reportlinks a:hover{border-color:var(--brand);text-decoration:none}
+  .reportlinks .d{display:block;font-weight:400;font-size:.8rem;color:var(--muted);margin-top:2px}
+</style>
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <h1>🧠 로컬 LLM & 멀티미디어 파이프라인 — 운영 대시보드</h1>
+    <p>수집(크롤+STT) → VLM 캡션 → EXAONE 요약 → 브리핑 → RAG / Telegram 에이전트 / TTS 작업요약 · 코드 v3.0-dev</p>
+    <div class="badges">
+      <span class="badge">RTX 4070 Ti · 12GB</span>
+      <span class="badge">Ollama 로컬</span>
+      <span class="badge">최종: 2026-08-21</span>
+      <span class="badge">콜드 파이프라인 2.03× 최적화</span>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs"><div class="wrap">
+  <a href="#overview">개요</a>
+  <a href="#spec">스펙·모델</a>
+  <a href="#perf">성능 최적화</a>
+  <a href="#quality">품질</a>
+  <a href="#status">구현 현황</a>
+  <a href="#guide">수정지침</a>
+  <a href="#reports">리포트</a>
+</div></nav>
+
+<main class="wrap">
+
+<section id="overview">
+  <h2>개요</h2>
+  <p class="sub">로컬 PC에서 외부 유료 API 없이 데이터 수집·이미지 이해·한국어 요약·브리핑·검색·음성 보고를 수행하는 하이브리드 파이프라인.</p>
+  <div class="grid">
+    <div class="card"><h3>수집 소스</h3><div class="kpi">5<small> 종</small></div>
+      <div class="delta">인물·스포츠·유머·유튜브 전사·음성</div></div>
+    <div class="card"><h3>현재 인덱스</h3><div class="kpi">107<small> 건</small></div>
+      <div class="delta">ChromaDB · KURE-v1</div></div>
+    <div class="card"><h3>콜드 파이프라인</h3><div class="kpi">90.3<small> s</small></div>
+      <div class="delta up">▼ 183.2s 대비 2.03×</div></div>
+    <div class="card"><h3>요약 스키마 통과</h3><div class="kpi">100<small> %</small></div>
+      <div class="delta up">폴백 0건</div></div>
+  </div>
+</section>
+
+<section id="spec">
+  <h2>스펙 · 모델</h2>
+  <p class="sub">VRAM 실가용 ≈ 10,832MB (데스크톱 상시 1,450MB 제외). 모델 동시상주는 예산 내에서만.</p>
+  <div class="tw"><table>
+    <thead><tr><th>역할</th><th>모델</th><th class="num">VRAM</th><th>비고</th></tr></thead>
+    <tbody>
+      <tr><td>개별 요약</td><td>EXAONE 3.5 7.8B</td><td class="num">6,792MB</td><td>한국어 특화·구조화 JSON</td></tr>
+      <tr><td>종합 브리핑</td><td>qwen2.5:14b</td><td class="num">10,140MB</td><td>비-reasoning</td></tr>
+      <tr><td>임베딩(RAG)</td><td>KURE-v1</td><td class="num">CPU</td><td>1024차원</td></tr>
+      <tr><td>STT</td><td>faster-whisper large-v3</td><td class="num">~2,500MB</td><td>GPU 복구(9.1×)·VAD·ko</td></tr>
+      <tr><td>VLM 캡션</td><td>qwen3-vl:8b</td><td class="num">~7,000MB</td><td>네이티브 /api/chat</td></tr>
+      <tr><td>reasoning(제외)</td><td>qwen3.5:9b</td><td class="num">—</td><td>content 없이 thinking만 → 브리핑 금지</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="perf">
+  <h2>성능 최적화 (DEV-04)</h2>
+  <p class="sub">측정 우선·한 변수씩·롤백 가능·오차면 원복. 헤드라인 2건 채택으로 콜드 파이프라인 반감.</p>
+  <div class="tw"><table>
+    <thead><tr><th>항목</th><th class="num">전</th><th class="num">후</th><th class="num">개선</th><th>판정</th></tr></thead>
+    <tbody>
+      <tr><td>콜드 총 소요</td><td class="num">183.2s</td><td class="num">90.3s</td><td class="num">2.03×</td><td><span class="pill ok">채택</span></td></tr>
+      <tr><td>콜드 요약 단계</td><td class="num">148.6s</td><td class="num">66.6s</td><td class="num">2.23×</td><td><span class="pill ok">병렬화</span></td></tr>
+      <tr><td>콜드 브리핑</td><td class="num">~30s</td><td class="num">15.9s</td><td class="num">~1.9×</td><td><span class="pill ok">q8_0</span></td></tr>
+      <tr><td>요약 피크 VRAM</td><td class="num">8,275MB</td><td class="num">7,288MB</td><td class="num">−987MB</td><td><span class="pill ok">q8_0</span></td></tr>
+      <tr><td>num_ctx=512</td><td class="num">—</td><td class="num">—</td><td class="num">개선 없음</td><td><span class="pill warn">원복</span></td></tr>
+    </tbody>
+  </table></div>
+  <p class="sub" style="margin-top:12px">채택: <code>SUMMARY_PARALLEL=3</code>(요약 동시 요청) · <code>OLLAMA_KV_CACHE_TYPE=q8_0</code>+<code>OLLAMA_FLASH_ATTENTION=1</code>. 품질 회귀 없음(스키마 100%).</p>
+</section>
+
+<section id="quality">
+  <h2>품질 베이스라인</h2>
+  <p class="sub">모든 최적화는 이 기준선으로 회귀를 판정한다.</p>
+  <div class="grid">
+    <div class="card"><h3>요약 스키마</h3><div class="kpi">100<small>%</small></div><div class="delta">106/106</div></div>
+    <div class="card"><h3>RAG hit@3 (easy)</h3><div class="kpi">9/9</div><div class="delta">hit@5 폐기(천장)</div></div>
+    <div class="card"><h3>RAG hit@3 (hard)</h3><div class="kpi">6/6</div><div class="delta">패러프레이즈</div></div>
+    <div class="card"><h3>네거티브 골드</h3><div class="kpi">✅</div><div class="delta">Winter Snow·KBO·배구외 전부 통과</div></div>
+  </div>
+</section>
+
+<section id="status">
+  <h2>구현 현황 (DEV-03 확장 5종)</h2>
+  <div class="tw"><table>
+    <thead><tr><th>Phase</th><th>기능</th><th>상태</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>STT (faster-whisper GPU + 유튜브 전사)</td><td><span class="pill ok">검증</span></td></tr>
+      <tr><td>2</td><td>Telegram 에이전트 (도구 5종·확인버튼·음성)</td><td><span class="pill ok">실사용</span></td></tr>
+      <tr><td>3</td><td>개인문서 RAG (컬렉션 격리·클라우드 차단)</td><td><span class="pill ok">모듈+대시보드</span></td></tr>
+      <tr><td>4</td><td>TTS 금일 작업요약 → 텔레그램</td><td><span class="pill ok">파이프라인 편입</span></td></tr>
+      <tr><td>5</td><td>VLM 이미지 캡션 → 요약 주입</td><td><span class="pill ok">파이프라인 편입</span></td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section id="guide">
+  <h2>수정지침 · 남은 작업</h2>
+  <p class="sub">이 섹션에 리비전 지시를 누적한다. (담당: 사용자 게이트 / 개발 세션)</p>
+
+  <div class="guide"><div class="who">사용자 게이트 · 육안검수</div>
+    <h4>완료 판정에 필요한 사람 확인 4건</h4>
+    <ul class="clean">
+      <li><b>Phase 3</b> — 한국어 PDF 3종(표 포함 1건)을 <code>workspaces\personal_inbox\</code>에 투입 → 파서 비교(docling/marker/pymupdf)</li>
+      <li><b>Phase 5</b> — 한국어 짤방 OCR 육안검수</li>
+      <li><b>Phase 1</b> — 30분 영상 VAD 무음 환각 육안검수</li>
+      <li><b>Phase 4</b>(선택) — MeloTTS 3안 비교(Python ≤3.10 전용 venv)</li>
+    </ul>
+  </div>
+
+  <div class="guide"><div class="who">개발 세션 · 후속 최적화</div>
+    <h4>DEV-04 남은 실험 (앱 레벨, 재시작 불필요)</h4>
+    <ul class="clean">
+      <li>keep_alive 실행모드 차등 — 에이전트 응답 27s→~7s</li>
+      <li>시스템 건강 리포트 + 급감 경보(텔레그램)</li>
+      <li>수집 병렬화 · RAG 청킹/top_k A/B · 메타 필터</li>
+      <li>EXAONE Q4 vs Q5 (모델 다운로드) · 저장소 TTL(승인 후)</li>
+    </ul>
+  </div>
+
+  <div class="guide"><div class="who">브릿지 대기 · 클라우드 채점</div>
+    <h4>B안 잔여 2건</h4>
+    <ul class="clean">
+      <li>브리핑 품질 채점 — <code>BENCH_REVIEW_REQUEST.md</code> 웹챗 투입·회수</li>
+      <li>프롬프트 압축안 — <code>PROMPT_DIET_REQUEST.md</code> 회수 후 검증(미미 시 원복)</li>
+    </ul>
+  </div>
+</section>
+
+<section id="reports">
+  <h2>리포트 (원문)</h2>
+  <p class="sub">상세 문서는 아래 마크다운을 참조.</p>
+  <div class="reportlinks">
+    <a href="reports/SYSTEM_STATE.md">SYSTEM_STATE<span class="d">현행 종합 스펙·모델·자료수집·환경변수</span></a>
+    <a href="reports/OPTIMIZATION_REPORT.md">OPTIMIZATION_REPORT<span class="d">DEV-04 최적화 전/후·채택/원복</span></a>
+    <a href="reports/OPTIMIZATION_BASELINE.md">OPTIMIZATION_BASELINE<span class="d">웜/콜드 베이스라인</span></a>
+    <a href="reports/QUALITY_BASELINE.md">QUALITY_BASELINE<span class="d">스키마·hit@3·네거티브 골드</span></a>
+    <a href="reports/VRAM_AUDIT.md">VRAM_AUDIT<span class="d">VRAM 규명·예산표</span></a>
+    <a href="reports/PARTIAL_OPT_REPORT.md">PARTIAL_OPT_REPORT<span class="d">B안 부분 선행 최적화</span></a>
+    <a href="reports/DEFERRED_ITEMS.md">DEFERRED_ITEMS<span class="d">보류 목록(착수 금지)</span></a>
+    <a href="reports/MANUAL.md">MANUAL<span class="d">사용 매뉴얼</span></a>
+    <a href="reports/PROJECT_GUIDE.md">PROJECT_GUIDE<span class="d">아키텍처·트러블슈팅</span></a>
+    <a href="reports/PRD_본문_v3.md">PRD 본문 v3<span class="d">향후 설계 요구사항</span></a>
+  </div>
+</section>
+
+</main>
+<footer class="wrap">로컬 LLM 파이프라인 운영 대시보드 · 자동 생성 · 갱신 시 index.html / reports 수정 후 커밋</footer>
+</body>
+</html>
