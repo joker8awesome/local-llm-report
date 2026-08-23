@@ -1,16 +1,120 @@
 {
-  "count": 160,
-  "generated_at": 1787479691,
+  "count": 157,
+  "generated_at": 1787488061,
   "by_topic": {
     "kbo_rank": 20,
-    "hanwha": 20,
+    "hanwha": 18,
     "kia": 20,
     "kimdoyoung": 20,
     "ohtani": 20,
     "leekangin": 20,
-    "son": 20,
+    "son": 19,
     "epl": 20
   },
+  "dedupe": {
+    "raw": 160,
+    "unique": 157,
+    "removed": 3,
+    "rule": "video_id 전역 중복 제거 · 귀속=먼저 수집된 토픽",
+    "removed_samples": [
+      {
+        "topic": "hanwha",
+        "video_id": "nOS0L93JetU",
+        "title": "['엠빅' 이슈] '하이킥'에 폭발한 황재균 \"너 이리 와봐!\" 그 후 "
+      },
+      {
+        "topic": "hanwha",
+        "video_id": "dup7gM6Net8",
+        "title": "류현진이 황영묵 부른 이유?...\"사과해라\" 도대체 왜? 승리보다 이게 "
+      },
+      {
+        "topic": "son",
+        "video_id": "APY_Vk7HLfA",
+        "title": "탁구를 쳐? 화난 손흥민!...고참들이 이강인 명단 제외 요청까지! #손"
+      }
+    ]
+  },
+  "scoring": {
+    "criteria": "_shared/content_selection_criteria.md v1",
+    "verdicts": {
+      "후보": 2,
+      "보류": 16,
+      "제외": 139
+    },
+    "recommend_rule": "produce_target=true · 70점 이상 후보 · 상위 10 · 토픽당 최대 3"
+  },
+  "recommended": [
+    {
+      "video_id": "XLuH41HJKB8",
+      "score": 71,
+      "verdict": "후보",
+      "topic": "hanwha",
+      "title": "\"2등도 잘한 거라고?? X발 내년부터 다시 ㅈ랄날 게 보인다\" 준우승한 한화에 개빡쳐버린 야구팬들 ㅋㅋㅋㅋㅋ 분노분노 야구 모음집 레전드 모음 ㅋㅋㅋㅋㅋㅋ"
+    },
+    {
+      "video_id": "nOS0L93JetU",
+      "score": 71,
+      "verdict": "후보",
+      "topic": "kbo_rank",
+      "title": "['엠빅' 이슈] '하이킥'에 폭발한 황재균 \"너 이리 와봐!\" 그 후 (2024.06.07/엠빅뉴스)"
+    },
+    {
+      "video_id": "dup7gM6Net8",
+      "score": 69,
+      "verdict": "보류",
+      "topic": "kbo_rank",
+      "title": "류현진이 황영묵 부른 이유?...\"사과해라\" 도대체 왜? 승리보다 이게 더 중요해｜지금 이 장면"
+    },
+    {
+      "video_id": "s3RTmm5Qzvc",
+      "score": 64,
+      "verdict": "보류",
+      "topic": "hanwha",
+      "title": "\"경기 보다가 ㅈㄴ 빡쳐서 주먹으로 TV 뿌쉈다 버러지 새X들아\" 파멸적인 롯데와 한화의 실력에 개빡돌아버린 야구팬들 근황 ㅋㅋㅋㅋㅋㅋ 싱글벙글 KBO 야구 모음집 레전드"
+    },
+    {
+      "video_id": "cFwFYe4qON4",
+      "score": 64,
+      "verdict": "보류",
+      "topic": "kbo_rank",
+      "title": "타자들 화병나게 만들었던, KBO 역대 최고의 마구 TOP5 [야친랭킹]"
+    },
+    {
+      "video_id": "OfKSlM578Ds",
+      "score": 62,
+      "verdict": "보류",
+      "topic": "kimdoyoung",
+      "title": "앗! 💥리그 1위 김도영💥 상대 피홈런 없는 양현종의 기적의 논리ㅋㅋㅋㅠ🔥｜아는 형님｜JTBC 250118 방송"
+    },
+    {
+      "video_id": "-4q0s6JQcLo",
+      "score": 61,
+      "verdict": "보류",
+      "topic": "hanwha",
+      "title": "류현진, 채은성과 소고기 13인분 먹으며 시즌 비하인드 썰 들어봤습니다 (PC방 출몰, 티니핑 닮은 꼴, 내년 목표 등)"
+    },
+    {
+      "video_id": "yelk-Qpk84A",
+      "score": 61,
+      "verdict": "보류",
+      "topic": "ohtani",
+      "title": "이용규 Pick! '최고의 투수 오타니?' | #스톡킹 EP.48-3 (이용규 편)"
+    },
+    {
+      "video_id": "G-nQU370nx0",
+      "score": 60,
+      "verdict": "보류",
+      "topic": "kia",
+      "title": "기아 타이거즈🐯 이범호, 김선빈과 함께 광주 한정식 먹방! 그리고 그때 그 시절 이야기...(한화의 이범호 vs 기아의 이범호) [둘이 왔어요 EP.179]"
+    },
+    {
+      "video_id": "XiMp1jNMtP8",
+      "score": 60,
+      "verdict": "보류",
+      "topic": "kia",
+      "title": "\"투수들은 타이거즈정신을 몰라!\" 작년 결의대회 보고 답답해서 달려온 야수조 형님들과 토크 다이다이했습니다 | 사이버 윤석민 Ep.KIA타이거즈결의대회-1"
+    }
+  ],
   "items": [
     {
       "topic": "kbo_rank",
@@ -27,7 +131,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "MBCNEWS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 71,
+      "verdict": "후보",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 22,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 22(조회수 7,059,344) · 속도 9(일 9,670회) · 접미 15(접미 '썰') · 유머 6(유머신호 폭발) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -44,7 +161,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "JTBC News",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 69,
+      "verdict": "보류",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 22,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 10,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 22(조회수 5,213,820) · 속도 9(일 7,142회) · 접미 15(접미 '썰') · 유머 10(유머신호 도대체·왜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -61,7 +191,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "롯데사랑",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 40,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": -15
+      },
+      "why": "조회수 18(조회수 3,604,207) · 속도 9(일 4,937회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 -15(개인 비하·조롱 -15)"
     },
     {
       "topic": "kbo_rank",
@@ -78,7 +221,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친소리 : 야구를 말하다",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 64,
+      "verdict": "보류",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 2,384,733) · 속도 6(일 2,178회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 TOP·최고·역대) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -95,7 +251,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친소리 : 야구를 말하다",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 42,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": -15
+      },
+      "why": "조회수 14(조회수 928,221) · 속도 3(일 636회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 TOP·역대·숫자) · 리스크 -15(개인 비하·조롱 -15)"
     },
     {
       "topic": "kbo_rank",
@@ -112,7 +281,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "C-BALL",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 43,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 447,717) · 속도 6(일 1,227회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -129,7 +311,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 49,
+      "verdict": "제외",
+      "elapsed_days": 330.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 354,932) · 속도 6(일 1,076회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -146,7 +341,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 30.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 190,663) · 속도 9(일 6,355회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -163,7 +371,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "김효정",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 2555.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 149,219) · 속도 3(일 58회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -180,7 +401,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 40,
+      "verdict": "제외",
+      "elapsed_days": 120.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 111,596) · 속도 3(일 930회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -197,7 +431,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 120.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 97,669) · 속도 3(일 814회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -214,7 +461,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 53,
+      "verdict": "제외",
+      "elapsed_days": 150.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 86,351) · 속도 3(일 576회) · 접미 15(접미 '썰') · 유머 6(유머신호 미친) · 제작 10(제작대상) · 데이터 15(데이터신호 기록·역대) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -231,7 +491,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야구부장",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 120.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 69,240) · 속도 3(일 577회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -248,7 +521,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 47,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 43,169) · 속도 3(일 118회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -265,7 +551,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 47,
+      "verdict": "제외",
+      "elapsed_days": 330.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 40,350) · 속도 3(일 122회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -282,7 +581,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "조사하면다나와",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 47,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 29,949) · 속도 3(일 21회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -299,7 +611,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "KBS N SPORTS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 14,055) · 속도 3(일 13회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -316,7 +641,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "안지만TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 47,
+      "verdict": "제외",
+      "elapsed_days": 1825.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 6,099) · 속도 3(일 3회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -333,7 +671,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "이글수다",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 47,
+      "verdict": "제외",
+      "elapsed_days": 2190.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 2,921) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -350,41 +701,20 @@
       "collected_at": "2026-08-23T16:20:39+09:00",
       "channel": "엠콘:엠비씨콘텐츠",
       "produce_target": true,
-      "category": "character"
-    },
-    {
-      "topic": "hanwha",
-      "topic_name": "한화 이글스",
-      "suffix": "썰",
-      "title": "['엠빅' 이슈] '하이킥'에 폭발한 황재균 \"너 이리 와봐!\" 그 후 (2024.06.07/엠빅뉴스)",
-      "url": "https://www.youtube.com/watch?v=nOS0L93JetU",
-      "video_id": "nOS0L93JetU",
-      "thumbnail": "https://i.ytimg.com/vi/nOS0L93JetU/mqdefault.jpg",
-      "view_count": 7059344,
-      "duration_sec": null,
-      "published_at": "2년 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-23T16:24:14+09:00",
-      "channel": "MBCNEWS",
-      "produce_target": true,
-      "category": "character"
-    },
-    {
-      "topic": "hanwha",
-      "topic_name": "한화 이글스",
-      "suffix": "썰",
-      "title": "류현진이 황영묵 부른 이유?...\"사과해라\" 도대체 왜? 승리보다 이게 더 중요해｜지금 이 장면",
-      "url": "https://www.youtube.com/watch?v=dup7gM6Net8",
-      "video_id": "dup7gM6Net8",
-      "thumbnail": "https://i.ytimg.com/vi/dup7gM6Net8/mqdefault.jpg",
-      "view_count": 5213836,
-      "duration_sec": null,
-      "published_at": "2년 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-23T16:24:14+09:00",
-      "channel": "JTBC News",
-      "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 587) · 속도 3(일 0회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -401,7 +731,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "엠빅뉴스",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 52,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 2,151,369) · 속도 6(일 2,947회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -418,7 +761,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "ootb STUDIO",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 61,
+      "verdict": "보류",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,519,944) · 속도 9(일 4,164회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -435,7 +791,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 61,
+      "verdict": "보류",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,268,187) · 속도 9(일 3,474회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -452,7 +821,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "김준표",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 71,
+      "verdict": "후보",
+      "elapsed_days": 270.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 10,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,259,980) · 속도 9(일 4,667회) · 접미 15(접미 '썰') · 유머 10(유머신호 레전드·ㅋㅋ) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -469,7 +851,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "스튜디오 썰",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 48,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 945,807) · 속도 6(일 1,296회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -486,7 +881,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "김준표",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 64,
+      "verdict": "보류",
+      "elapsed_days": 60.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 10,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 900,307) · 속도 12(일 15,005회) · 접미 15(접미 '썰') · 유머 10(유머신호 레전드·ㅋㅋ) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -503,7 +911,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 412,800) · 속도 3(일 377회) · 접미 15(접미 '썰') · 유머 6(유머신호 실화) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -520,7 +941,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 40,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 299,839) · 속도 3(일 411회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -537,7 +971,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 299,493) · 속도 3(일 274회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -554,7 +1001,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "SportsTalk킹",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 293,076) · 속도 3(일 803회) · 접미 15(접미 '썰') · 유머 6(유머신호 진짜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -571,7 +1031,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 52,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 278,110) · 속도 3(일 762회) · 접미 15(접미 '썰') · 유머 6(유머신호 레전드) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -588,7 +1061,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "김태균 [TK52]",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 252,586) · 속도 3(일 692회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -605,7 +1091,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 150.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 139,028) · 속도 3(일 927회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -622,7 +1121,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "야필독",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 84,864) · 속도 3(일 116회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -639,7 +1151,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1825.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 68,735) · 속도 3(일 38회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -656,7 +1181,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 45,280) · 속도 3(일 31회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -673,7 +1211,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "크보쌍둥이",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 120.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 19,595) · 속도 3(일 163회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -690,7 +1241,20 @@
       "collected_at": "2026-08-23T16:24:14+09:00",
       "channel": "제육볶음 한화이글스",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 120.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 19,448) · 속도 3(일 162회) · 접미 15(접미 '썰') · 유머 6(유머신호 진짜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -707,7 +1271,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 57,
+      "verdict": "보류",
+      "elapsed_days": 240.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 978,412) · 속도 9(일 4,077회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -724,7 +1301,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "운동부 둘이 왔어요",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 60,
+      "verdict": "보류",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 953,483) · 속도 6(일 2,612회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 vs·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -741,7 +1331,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 54,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 949,133) · 속도 6(일 2,600회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -758,7 +1361,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "Studio 특",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 54,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 870,381) · 속도 6(일 2,385회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -775,7 +1391,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 60,
+      "verdict": "보류",
+      "elapsed_days": 30.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 714,174) · 속도 12(일 23,806회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -792,7 +1421,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 60,
+      "verdict": "보류",
+      "elapsed_days": 240.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 681,516) · 속도 6(일 2,840회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -809,7 +1451,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 54,
+      "verdict": "제외",
+      "elapsed_days": 240.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 631,679) · 속도 6(일 2,632회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -826,7 +1481,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 40,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 442,237) · 속도 3(일 606회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -843,7 +1511,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "SportsTalk킹",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 43,
+      "verdict": "제외",
+      "elapsed_days": 240.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 385,842) · 속도 6(일 1,608회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -860,7 +1541,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 49,
+      "verdict": "제외",
+      "elapsed_days": 150.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 338,454) · 속도 6(일 2,256회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -877,7 +1571,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "SportsTalk킹",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 49,
+      "verdict": "제외",
+      "elapsed_days": 4.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 193,469) · 속도 12(일 48,367회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -894,7 +1601,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "울쓰",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 92,439) · 속도 3(일 127회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -911,7 +1631,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 1825.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 56,299) · 속도 3(일 31회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -928,7 +1661,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 53,715) · 속도 3(일 74회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -945,7 +1691,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "크보오프너",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 180.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 47,219) · 속도 3(일 262회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -962,7 +1721,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 42,221) · 속도 3(일 39회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -979,7 +1751,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 50,
+      "verdict": "제외",
+      "elapsed_days": 1.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 20,467) · 속도 12(일 20,467회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -996,7 +1781,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "야구찜",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 60.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 15,728) · 속도 3(일 262회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1013,7 +1811,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 8,978) · 속도 3(일 8회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1030,7 +1841,20 @@
       "collected_at": "2026-08-23T16:24:50+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 5,880) · 속도 3(일 5회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 VS) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1047,7 +1871,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 48,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 880,942) · 속도 6(일 2,414회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1064,7 +1901,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 51,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 696,788) · 속도 3(일 636회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1081,7 +1931,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "MBCentertainment",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 55,
+      "verdict": "보류",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 437,068) · 속도 6(일 1,197회) · 접미 15(접미 '썰') · 유머 6(유머신호 폭발) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1098,7 +1961,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 49,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 379,397) · 속도 6(일 1,039회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1115,7 +1991,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "KBC 뉴스",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 304,798) · 속도 3(일 209회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1132,7 +2021,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "KBC 뉴스",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 52,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 241,360) · 속도 3(일 661회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 %·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1149,7 +2051,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 40,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 239,185) · 속도 3(일 164회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1166,7 +2081,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "스포츠조선",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 223,549) · 속도 3(일 204회) · 접미 15(접미 '썰') · 유머 6(유머신호 왜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1183,7 +2111,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 43,
+      "verdict": "제외",
+      "elapsed_days": 90.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 199,654) · 속도 6(일 2,218회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1200,7 +2141,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 49,
+      "verdict": "제외",
+      "elapsed_days": 150.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 168,354) · 속도 6(일 1,122회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1217,7 +2171,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 117,826) · 속도 3(일 108회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1234,7 +2201,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "Off the TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 107,716) · 속도 3(일 295회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1251,7 +2231,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "SportsTalk킹",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 93,702) · 속도 3(일 257회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1268,7 +2261,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "ෆ",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 84,669) · 속도 3(일 58회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1285,7 +2291,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 68,620) · 속도 3(일 188회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1302,7 +2321,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "울쓰",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 34,327) · 속도 3(일 24회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1319,7 +2351,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "오층스포츠",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 44,
+      "verdict": "제외",
+      "elapsed_days": 1.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 28,201) · 속도 12(일 28,201회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1336,7 +2381,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "광주일보",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 150.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 22,084) · 속도 3(일 147회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1353,7 +2411,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "JTBC Voyage",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 62,
+      "verdict": "보류",
+      "elapsed_days": 1.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 14,302) · 속도 12(일 14,302회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 10(제작대상) · 데이터 15(데이터신호 위·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1370,7 +2441,20 @@
       "collected_at": "2026-08-23T16:25:25+09:00",
       "channel": "팝핀지성",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 1825.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 6,349) · 속도 3(일 3회) · 접미 15(접미 '썰') · 유머 6(유머신호 진짜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1387,7 +2471,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "라이프시크릿",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 55,
+      "verdict": "보류",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 2,280,214) · 속도 9(일 3,124회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1404,7 +2501,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "이대호 [RE:DAEHO]",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 58,
+      "verdict": "보류",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,645,903) · 속도 6(일 2,255회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1421,7 +2531,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "Twins Lover",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 49,
+      "verdict": "제외",
+      "elapsed_days": 1825.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,132,925) · 속도 3(일 621회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1438,7 +2561,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "라이프시크릿",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 58,
+      "verdict": "보류",
+      "elapsed_days": 90.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,057,713) · 속도 12(일 11,752회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1455,7 +2591,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "우정잉",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 49,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,047,337) · 속도 3(일 956회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1472,7 +2621,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "SportsTalk킹",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 61,
+      "verdict": "보류",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,015,402) · 속도 3(일 695회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 최고·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1489,7 +2651,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "스포츠한입",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 45,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 996,255) · 속도 3(일 910회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1506,7 +2681,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "불양TV",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 45,
+      "verdict": "제외",
+      "elapsed_days": 1825.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 732,015) · 속도 3(일 401회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1523,7 +2711,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "라이프시크릿",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 51,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 705,140) · 속도 3(일 966회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1540,7 +2741,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "오타니17",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 40,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 398,409) · 속도 3(일 364회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1557,7 +2771,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "오타니짝사랑녀",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 270,143) · 속도 3(일 247회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1574,7 +2801,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "김태균 [TK52]",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 52,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 238,665) · 속도 3(일 327회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 최고·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1591,7 +2831,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "올스",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 40,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 205,296) · 속도 3(일 281회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1608,7 +2861,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "올스",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 117,280) · 속도 3(일 161회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1625,7 +2891,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "치과의사 매직박",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 55,132) · 속도 3(일 38회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1642,7 +2921,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "오타니17",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 38,529) · 속도 3(일 35회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1659,7 +2951,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "원",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 29,534) · 속도 3(일 40회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1676,7 +2981,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "스포츠이슈 3분",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 26,836) · 속도 3(일 37회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1693,7 +3011,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "오타니17",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 24,562) · 속도 3(일 22회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -1710,7 +3041,20 @@
       "collected_at": "2026-08-23T16:26:01+09:00",
       "channel": "SportScriptK",
       "produce_target": true,
-      "category": "character"
+      "category": "character",
+      "score": 47,
+      "verdict": "제외",
+      "elapsed_days": 300.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 10,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 24,002) · 속도 3(일 80회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 최고·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1727,7 +3071,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "리춘수 [이천수]",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 54,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,776,934) · 속도 6(일 1,623회) · 접미 15(접미 '썰') · 유머 6(유머신호 충격) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1744,7 +3101,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "올스",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 42,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,035,618) · 속도 6(일 1,419회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1761,7 +3131,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "슛포러브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 330.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 992,642) · 속도 9(일 3,008회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1778,7 +3161,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "슛포러브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 44,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 917,117) · 속도 6(일 1,256회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1795,7 +3191,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "피지컬갤러리",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 889,927) · 속도 3(일 813회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1812,7 +3221,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 41,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 502,842) · 속도 3(일 459회) · 접미 15(접미 '썰') · 유머 6(유머신호 난리) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1829,7 +3251,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "김진짜 Real KIM",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 33,
+      "verdict": "제외",
+      "elapsed_days": 210.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 467,067) · 속도 6(일 2,224회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1846,7 +3281,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "고알레 GOALE",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 407,492) · 속도 3(일 558회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1863,7 +3311,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "SBS 뉴스",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 30,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 406,423) · 속도 3(일 557회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1880,7 +3341,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 327,673) · 속도 3(일 299회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1897,7 +3371,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "TV-People",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 202,336) · 속도 3(일 185회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1914,7 +3401,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 21,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": -15
+      },
+      "why": "조회수 9(조회수 192,067) · 속도 3(일 175회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 -15(개인 비하·조롱 -15)"
     },
     {
       "topic": "leekangin",
@@ -1931,7 +3431,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "박종윤(축구)",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 42,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 100,197) · 속도 3(일 92회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 15(데이터신호 TOP·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1948,7 +3461,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "이스타",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 34,
+      "verdict": "제외",
+      "elapsed_days": 4.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 94,516) · 속도 12(일 23,629회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1965,7 +3491,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "KBS Entertain",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 93,048) · 속도 3(일 127회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1982,7 +3521,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 86,127) · 속도 3(일 236회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -1999,7 +3551,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 82,904) · 속도 3(일 57회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -2016,7 +3581,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "서울 이랜드 FC - SEOUL E·LAND FC",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 61,055) · 속도 3(일 84회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -2033,7 +3611,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "라이프시크릿",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 37,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 45,232) · 속도 3(일 62회) · 접미 15(접미 '썰') · 유머 6(유머신호 역대급) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 역대) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -2050,7 +3641,20 @@
       "collected_at": "2026-08-23T16:26:37+09:00",
       "channel": "베라노 및 인터티비(InterTV)",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 8.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 27,157) · 속도 9(일 3,395회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2067,7 +3671,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "하나TV [하나은행]",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 58,
+      "verdict": "보류",
+      "elapsed_days": 300.0,
+      "breakdown": {
+        "views": 22,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 22(조회수 6,501,064) · 속도 12(일 21,670회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2084,7 +3701,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "숏큐멘터리",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 54,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 12,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 3,906,019) · 속도 12(일 10,701회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 최고) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2101,7 +3731,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "스토리K - 축구in 인문학 by kei",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 42,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,678,385) · 속도 6(일 2,299회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2118,24 +3761,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "숏큐멘터리",
       "produce_target": false,
-      "category": "character"
-    },
-    {
-      "topic": "son",
-      "topic_name": "손흥민(LAFC)",
-      "suffix": "썰",
-      "title": "탁구를 쳐? 화난 손흥민!...고참들이 이강인 명단 제외 요청까지! #손흥민 #이강인 #김민재",
-      "url": "https://www.youtube.com/watch?v=APY_Vk7HLfA",
-      "video_id": "APY_Vk7HLfA",
-      "thumbnail": "https://i.ytimg.com/vi/APY_Vk7HLfA/mqdefault.jpg",
-      "view_count": 1035618,
-      "duration_sec": null,
-      "published_at": "2년 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-23T16:27:12+09:00",
-      "channel": "올스",
-      "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 51,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 9,
+        "suffix": 15,
+        "humor": 6,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,535,442) · 속도 9(일 4,207회) · 접미 15(접미 '썰') · 유머 6(유머신호 레전드) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2152,7 +3791,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "썰푸는 그림쟁이툰",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 42,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,002,922) · 속도 6(일 1,374회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2169,7 +3821,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "스브스뉴스 SUBUSUNEWS",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 905,545) · 속도 3(일 827회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2186,7 +3851,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "비디오머그 - VIDEOMUG",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 2190.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 726,163) · 속도 3(일 332회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2203,7 +3881,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "스토리K - 축구in 인문학 by kei",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 38,
+      "verdict": "제외",
+      "elapsed_days": 300.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 584,493) · 속도 6(일 1,948회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2220,7 +3911,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "디글 :Diggle",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 14,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 581,689) · 속도 3(일 531회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2237,7 +3941,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "JTBC Voyage",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 356,739) · 속도 3(일 326회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2254,7 +3971,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "TOTAL FOOTBALL",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 30,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 231,330) · 속도 3(일 158회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2271,7 +4001,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "겜스트GAMEST",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 171,795) · 속도 3(일 471회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2288,7 +4031,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "썰호정",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 4380.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 168,046) · 속도 3(일 38회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2305,7 +4061,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "MBCentertainment",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 137,903) · 속도 3(일 94회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2322,7 +4091,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "손흥민재강인",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 99,254) · 속도 3(일 68회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2339,7 +4121,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "서형욱의 뽈리TV",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 240.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 27,696) · 속도 3(일 115회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2356,7 +4151,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "Mhz 므흐즈: MBC RADIO",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 26,417) · 속도 3(일 18회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2373,7 +4181,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "스브스 트렌즈",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 4,724) · 속도 3(일 4회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -2390,7 +4211,20 @@
       "collected_at": "2026-08-23T16:27:12+09:00",
       "channel": "김하퍼HARPER",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 2190.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 2,499) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2407,7 +4241,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "동네축구형 용마니",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 39,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 18,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,042,169) · 속도 3(일 952회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2424,7 +4271,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "동네축구형 용마니",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 174,931) · 속도 3(일 240회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2441,7 +4301,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "동네축구형 용마니",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 30,
+      "verdict": "제외",
+      "elapsed_days": 730.0,
+      "breakdown": {
+        "views": 9,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 9(조회수 154,365) · 속도 3(일 211회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2458,7 +4331,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 83,902) · 속도 3(일 57회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2475,7 +4361,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "박종윤(축구)",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 2920.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 62,829) · 속도 3(일 22회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2492,7 +4391,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 1095.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 55,209) · 속도 3(일 50회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2509,7 +4421,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "박종윤(축구)",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 2555.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 46,992) · 속도 3(일 18회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2526,7 +4451,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 2555.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 24,353) · 속도 3(일 10회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2543,7 +4481,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "토탈싸커",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 18,203) · 속도 3(일 12회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2560,7 +4511,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "조코피TV",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 365.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 15,561) · 속도 3(일 43회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2577,7 +4541,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "스탐",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 2555.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 9,869) · 속도 3(일 4회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2594,7 +4571,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "히어로 스팟 - Hero Spotlight",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 2555.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 7,238) · 속도 3(일 3회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2611,7 +4601,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "Connect",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 1460.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 2,128) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2628,7 +4631,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "YTN",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 2190.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 1,916) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2645,7 +4661,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "YTN",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 2555.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 1,504) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2662,7 +4691,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "MBC Sports+",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 2190.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 1,381) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2679,7 +4721,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "스포츠조선",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 37,
+      "verdict": "제외",
+      "elapsed_days": 2190.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 1,198) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 15(데이터신호 vs·숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2696,7 +4751,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "인터티비(InterTV)",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 2555.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 250) · 속도 3(일 0회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2713,7 +4781,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "불꽃슛 (팟캐스트 불꽃슛)",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 31,
+      "verdict": "제외",
+      "elapsed_days": 1825.0,
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 9,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 2) · 속도 3(일 0회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -2730,7 +4811,20 @@
       "collected_at": "2026-08-23T16:27:46+09:00",
       "channel": "불꽃슛 (팟캐스트 불꽃슛)",
       "produce_target": false,
-      "category": "character"
+      "category": "character",
+      "score": 21,
+      "verdict": "제외",
+      "elapsed_days": 1825.0,
+      "breakdown": {
+        "views": 0,
+        "velocity": 3,
+        "suffix": 15,
+        "humor": 0,
+        "produce": 0,
+        "data": 3,
+        "risk": 0
+      },
+      "why": "조회수 0(조회수 없음) · 속도 3(속도 산출 불가(조회수 또는 게시일 없음)) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
     }
   ]
 }
