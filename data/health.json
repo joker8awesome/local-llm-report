@@ -1,11 +1,11 @@
 {
   "stats": {
-    "runs": 0,
-    "success_rate": 0,
-    "avg_sec": 0
+    "runs": 7,
+    "success_rate": 100,
+    "avg_sec": 117.1
   },
   "sources": {
-    "KBO 순위/5강": 0,
+    "KBO 순위/5강": 20,
     "한화 이글스": 0,
     "KIA 타이거즈": 0,
     "김도영": 0,
@@ -14,8 +14,13 @@
     "손흥민(LAFC)": 0,
     "프리미어리그 개막": 0
   },
-  "disk_mb": {},
+  "disk_mb": {
+    "refined_data": 0.1,
+    "images": 6.3,
+    "audio_out": 0.8,
+    "audio_cache": 54.0,
+    "chroma": 1.7
+  },
   "drop_alerts": [],
-  "generated_at": 1787464230,
-  "note": "A2 초기화(2026-08-23) — 첫 수집 전이라 빈 화면이 정상"
+  "generated_at": 1787469662
 }
