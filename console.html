@@ -60,6 +60,20 @@
   .badge.pend{background:rgba(217,119,6,.12);color:var(--warn)}
   a{color:var(--accent)}
   .hide{display:none}
+  /* 키워드 수집물 그리드 (2026-08-23) */
+  .kwbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:0 0 10px}
+  .kwchip{border:1px solid var(--line);border-radius:999px;padding:4px 10px;font-size:12px;
+          background:none;color:var(--muted);cursor:pointer}
+  .kwchip.on{border-color:var(--accent);color:var(--accent);font-weight:600}
+  .kwgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+  .kwcard{border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column}
+  .kwcard img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:#0002}
+  .kwbody{padding:8px 10px;display:flex;flex-direction:column;gap:4px}
+  .kwtitle{font-size:13px;line-height:1.35;font-weight:600;color:inherit;text-decoration:none;
+           display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .kwtitle:hover{text-decoration:underline}
+  .kwmeta{font-size:11px;color:var(--muted);display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .kwtag{border:1px solid var(--line);border-radius:4px;padding:1px 5px;font-size:10px}
 </style>
 
 <div class="wrap">
@@ -122,7 +136,7 @@ const dt = ts => ts? new Date(ts*1000).toLocaleString('ko-KR',{month:'2-digit',d
 
 // ---- 데이터 로드 ----
 async function loadAll(){
-  const files=['status','runs','errors','items','health','commands_log','sources','media','issues','yt_analysis'];
+  const files=['status','runs','errors','items','health','commands_log','sources','media','issues','yt_analysis','keywords'];
   let okAny=false;
   await Promise.all(files.map(async f=>{
     try{ const r=await fetch('./data/'+f+'.json?_='+Date.now()); if(r.ok){DATA[f]=await r.json();okAny=true;} }
@@ -167,7 +181,7 @@ function buildTabs(){
 }
 function render(){ const v=$('#view'); v.innerHTML = ({
   overview:vOverview, runs:vRuns, errors:vErrors, items:vItems, health:vHealth, commands:vCommands
-}[active]||(()=>''))(); if(active==='commands') wireCommands(); }
+}[active]||(()=>''))(); if(active==='commands') wireCommands(); if(active==='items') wireKeywords(); }
 
 function vOverview(){
   const s=DATA.status||{}, h=(DATA.health||{}).stats||{}, e=DATA.errors||{}, it=DATA.items||{};
@@ -206,9 +220,56 @@ function vErrors(){
       <td>${esc(e.message)}</td><td><span class="badge ${e.resolved?'done':'err'}">${e.resolved?'해결':'미해결'}</span></td></tr>`).join('')
     }</tbody></table></div>`;
 }
+let kwTopic='all';
+const nfmt = n => (typeof n==='number') ? n.toLocaleString('ko-KR') : '-';
+
+// 키워드 토픽 수집물 — data/keywords.json 이 주 소스다(media 0건, refined items 0건).
+function vKeywords(){
+  const kw=(DATA.keywords||{}).items||[];
+  if(!kw.length) return '';
+  const counts={}; kw.forEach(k=>{counts[k.topic]=(counts[k.topic]||0)+1;});
+  const names={}; kw.forEach(k=>{names[k.topic]=k.topic_name||k.topic;});
+  const topics=Object.keys(counts);
+  const shown = kwTopic==='all' ? kw : kw.filter(k=>k.topic===kwTopic);
+  const chip=(id,label,n)=>`<button class="kwchip${kwTopic===id?' on':''}" data-kw="${esc(id)}">${esc(label)} ${n}</button>`;
+  const bar=`<div class="kwbar"><b style="font-size:13px">🔑 키워드 수집물</b>`
+    + chip('all','전체',kw.length)
+    + topics.map(t=>chip(t,names[t],counts[t])).join('')
+    + `<span class="muted" style="font-size:11px;margin-left:auto">발행 ${dt((DATA.keywords||{}).generated_at)}</span></div>`;
+  const cards = shown.map(k=>{
+    const url=/^https?:/.test(k.url||'')?k.url:'';
+    const thumb=k.thumbnail?`<img src="${esc(k.thumbnail)}" alt="" loading="lazy">`:'';
+    return `<div class="kwcard">
+      ${url?`<a href="${esc(url)}" target="_blank" rel="noopener">${thumb}</a>`:thumb}
+      <div class="kwbody">
+        ${url?`<a class="kwtitle" href="${esc(url)}" target="_blank" rel="noopener">${esc(k.title)}</a>`
+             :`<span class="kwtitle">${esc(k.title)}</span>`}
+        <div class="kwmeta"><span>${esc(k.channel||'')}</span><span>·</span>
+          <span class="mono">조회수 ${nfmt(k.view_count)}</span></div>
+        <div class="kwmeta"><span class="kwtag">${esc(k.topic_name||k.topic)}</span>
+          <span class="kwtag">${esc(k.suffix||'')}</span>
+          ${k.produce_target?'':'<span class="kwtag">관측</span>'}</div>
+      </div></div>`;
+  }).join('');
+  return `<div class="card">${bar}<div class="kwgrid">${cards}</div></div>`;
+}
+
+function wireKeywords(){
+  document.querySelectorAll('[data-kw]').forEach(b=>{
+    b.onclick=()=>{ kwTopic=b.dataset.kw; render(); };
+  });
+}
+
 function vItems(){
+  const kwHtml=vKeywords();
   const its=(DATA.items||{}).items||[];
-  if(!its.length) return '<div class="card muted">수집물이 없습니다.</div>';
+  if(!its.length) return kwHtml || '<div class="card muted">수집물이 없습니다.</div>';
+  if(kwHtml) return kwHtml + vItemsLegacy(its);
+  return vItemsLegacy(its);
+}
+
+// 기존 refined 수집물 렌더(충돌 없이 아래에 이어 붙는다)
+function vItemsLegacy(its){
   return `<div class="card">${its.map(i=>`<div class="item">
     <h3>${esc((i.title||'').trim())}</h3>
     <div class="muted" style="font-size:12px">${esc(i.kind||'')} · ${ago(i.collected)}${i.importance?' · 중요도 '+esc(i.importance):''}
