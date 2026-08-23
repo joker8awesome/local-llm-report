@@ -67,6 +67,7 @@
     <h1>🛰️ 로컬 파이프라인 운영 콘솔</h1>
     <span id="statusPill" class="pill">로딩…</span>
     <span class="spacer"></span>
+    <span id="dataAge" class="pill" title="콘솔 데이터가 마지막으로 발행된 시각">데이터 —</span>
     <span id="refreshInfo" class="muted" style="font-size:12px"></span>
     <button id="refreshBtn" title="새로고침">↻</button>
     <button id="themeBtn" title="테마">◐</button>
@@ -121,15 +122,31 @@ const dt = ts => ts? new Date(ts*1000).toLocaleString('ko-KR',{month:'2-digit',d
 
 // ---- 데이터 로드 ----
 async function loadAll(){
-  const files=['status','runs','errors','items','health','commands_log'];
+  const files=['status','runs','errors','items','health','commands_log','sources','media','issues','yt_analysis'];
   let okAny=false;
   await Promise.all(files.map(async f=>{
     try{ const r=await fetch('./data/'+f+'.json?_='+Date.now()); if(r.ok){DATA[f]=await r.json();okAny=true;} }
     catch(e){ DATA[f]=DATA[f]||null; }
   }));
-  $('#refreshInfo').textContent = '갱신 ' + new Date().toLocaleTimeString('ko-KR');
+  $('#refreshInfo').textContent = '화면 갱신 ' + new Date().toLocaleTimeString('ko-KR');
+  paintDataAge();
   paintStatus(okAny);
   render();
+}
+const STALE_HOURS = 6;        // 이 시간 넘게 발행이 없으면 헤더에 경고(코디 초안 채택)
+function paintDataAge(){
+  const el=$('#dataAge'); if(!el) return;
+  // 발행 시각 = data/*.json 의 generated_at 중 가장 최신
+  const cands=['health','sources','items','runs','errors','status'].map(k=>(DATA[k]||{}).generated_at).filter(Boolean);
+  if(!cands.length){ el.textContent='데이터 —'; el.className='pill'; return; }
+  const ts=Math.max(...cands), ageH=(Date.now()/1000-ts)/3600;
+  const when=new Date(ts*1000).toLocaleString('ko-KR',{month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
+  el.textContent = (ageH>=STALE_HOURS?'⚠ ':'') + '데이터 ' + when + ' (' +
+                   (ageH<1? Math.round(ageH*60)+'분' : ageH.toFixed(1)+'시간') + ' 경과)';
+  el.className = 'pill' + (ageH>=STALE_HOURS?' bad':'');
+  el.title = ageH>=STALE_HOURS
+    ? STALE_HOURS+'시간 이상 발행이 없다 — 파이프라인/발행 경로 점검 필요'
+    : '콘솔 데이터 마지막 발행 시각';
 }
 function paintStatus(okAny){
   const p=$('#statusPill'); const s=DATA.status;
@@ -228,7 +245,7 @@ const WRITE_CMDS=[
   ['trigger_crawl','크롤 실행',{source:'humor'}],
   ['trigger_pipeline','파이프라인 실행',{}],
 ];
-const CRAWL_SOURCES=['humor','sports','portrait','fitness','lookbook','diet'];  // agent_tools.CRAWL_WHITELIST 키와 일치
+const CRAWL_SOURCES=['humor','sports','portrait','fitness','lookbook','diet','vlog'];  // agent_tools.CRAWL_WHITELIST 키와 일치
 function vCommands(){
   const hasPat=!!cfg.pat;
   const log=(DATA.commands_log||{}).commands||[];

@@ -1,23 +1,6 @@
 {
-  "count": 2,
-  "unresolved": 2,
-  "errors": [
-    {
-      "type": "LLM 폴백",
-      "stage": "summary",
-      "source": "exaone3.5:7.8b",
-      "message": "요약/브리핑이 원문 발췌 폴백으로 대체됨",
-      "resolved": false,
-      "run_id": "ctx_exp-1787262871"
-    },
-    {
-      "type": "단계 실패",
-      "stage": "summary",
-      "source": "",
-      "message": "summary 단계에서 1건 실패",
-      "resolved": false,
-      "run_id": "ctx_exp-1787262871"
-    }
-  ],
-  "generated_at": 1787328475
+  "count": 0,
+  "unresolved": 0,
+  "errors": [],
+  "generated_at": 1787464230
 }

@@ -1,0 +1,550 @@
+{
+  "generated_at": 1787464230,
+  "summary": {
+    "topics": 8,
+    "suffixes": 5,
+    "queries": 40,
+    "collect_topics": 8,
+    "produce_topics": 5,
+    "baseball_queries": 25,
+    "football_queries": 15
+  },
+  "suffixes": [
+    {
+      "suffix": "썰",
+      "category": "character"
+    },
+    {
+      "suffix": "별명",
+      "category": "character"
+    },
+    {
+      "suffix": "웃긴장면",
+      "category": "highlight"
+    },
+    {
+      "suffix": "레전드",
+      "category": "highlight"
+    },
+    {
+      "suffix": "기록",
+      "category": "article"
+    }
+  ],
+  "topics": [
+    {
+      "id": "kbo_rank",
+      "name": "KBO 순위/5강",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6,
+      "prefix": "kw_kbo_rank_"
+    },
+    {
+      "id": "hanwha",
+      "name": "한화 이글스",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6,
+      "prefix": "kw_hanwha_"
+    },
+    {
+      "id": "kia",
+      "name": "KIA 타이거즈",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6,
+      "prefix": "kw_kia_"
+    },
+    {
+      "id": "kimdoyoung",
+      "name": "김도영",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6,
+      "prefix": "kw_kimdoyoung_"
+    },
+    {
+      "id": "ohtani",
+      "name": "오타니/다저스",
+      "league": "mlb",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6,
+      "prefix": "kw_ohtani_"
+    },
+    {
+      "id": "leekangin",
+      "name": "이강인",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12,
+      "prefix": "kw_leekangin_"
+    },
+    {
+      "id": "son",
+      "name": "손흥민(LAFC)",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12,
+      "prefix": "kw_son_"
+    },
+    {
+      "id": "epl",
+      "name": "프리미어리그 개막",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12,
+      "prefix": "kw_epl_"
+    }
+  ],
+  "queries": [
+    {
+      "topic_id": "kbo_rank",
+      "topic": "KBO 순위/5강",
+      "suffix": "썰",
+      "query": "KBO 순위 썰",
+      "category": "character",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kbo_rank",
+      "topic": "KBO 순위/5강",
+      "suffix": "별명",
+      "query": "KBO 순위 별명",
+      "category": "character",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kbo_rank",
+      "topic": "KBO 순위/5강",
+      "suffix": "웃긴장면",
+      "query": "KBO 순위 웃긴장면",
+      "category": "highlight",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kbo_rank",
+      "topic": "KBO 순위/5강",
+      "suffix": "레전드",
+      "query": "KBO 순위 레전드",
+      "category": "highlight",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kbo_rank",
+      "topic": "KBO 순위/5강",
+      "suffix": "기록",
+      "query": "KBO 순위 기록",
+      "category": "article",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "hanwha",
+      "topic": "한화 이글스",
+      "suffix": "썰",
+      "query": "한화 이글스 썰",
+      "category": "character",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "hanwha",
+      "topic": "한화 이글스",
+      "suffix": "별명",
+      "query": "한화 이글스 별명",
+      "category": "character",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "hanwha",
+      "topic": "한화 이글스",
+      "suffix": "웃긴장면",
+      "query": "한화 이글스 웃긴장면",
+      "category": "highlight",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "hanwha",
+      "topic": "한화 이글스",
+      "suffix": "레전드",
+      "query": "한화 이글스 레전드",
+      "category": "highlight",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "hanwha",
+      "topic": "한화 이글스",
+      "suffix": "기록",
+      "query": "한화 이글스 기록",
+      "category": "article",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kia",
+      "topic": "KIA 타이거즈",
+      "suffix": "썰",
+      "query": "KIA 타이거즈 썰",
+      "category": "character",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kia",
+      "topic": "KIA 타이거즈",
+      "suffix": "별명",
+      "query": "KIA 타이거즈 별명",
+      "category": "character",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kia",
+      "topic": "KIA 타이거즈",
+      "suffix": "웃긴장면",
+      "query": "KIA 타이거즈 웃긴장면",
+      "category": "highlight",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kia",
+      "topic": "KIA 타이거즈",
+      "suffix": "레전드",
+      "query": "KIA 타이거즈 레전드",
+      "category": "highlight",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kia",
+      "topic": "KIA 타이거즈",
+      "suffix": "기록",
+      "query": "KIA 타이거즈 기록",
+      "category": "article",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kimdoyoung",
+      "topic": "김도영",
+      "suffix": "썰",
+      "query": "김도영 썰",
+      "category": "character",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kimdoyoung",
+      "topic": "김도영",
+      "suffix": "별명",
+      "query": "김도영 별명",
+      "category": "character",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kimdoyoung",
+      "topic": "김도영",
+      "suffix": "웃긴장면",
+      "query": "김도영 웃긴장면",
+      "category": "highlight",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kimdoyoung",
+      "topic": "김도영",
+      "suffix": "레전드",
+      "query": "김도영 레전드",
+      "category": "highlight",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "kimdoyoung",
+      "topic": "김도영",
+      "suffix": "기록",
+      "query": "김도영 기록",
+      "category": "article",
+      "league": "baseball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "ohtani",
+      "topic": "오타니/다저스",
+      "suffix": "썰",
+      "query": "오타니 썰",
+      "category": "character",
+      "league": "mlb",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "ohtani",
+      "topic": "오타니/다저스",
+      "suffix": "별명",
+      "query": "오타니 별명",
+      "category": "character",
+      "league": "mlb",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "ohtani",
+      "topic": "오타니/다저스",
+      "suffix": "웃긴장면",
+      "query": "오타니 웃긴장면",
+      "category": "highlight",
+      "league": "mlb",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "ohtani",
+      "topic": "오타니/다저스",
+      "suffix": "레전드",
+      "query": "오타니 레전드",
+      "category": "highlight",
+      "league": "mlb",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "ohtani",
+      "topic": "오타니/다저스",
+      "suffix": "기록",
+      "query": "오타니 기록",
+      "category": "article",
+      "league": "mlb",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 6
+    },
+    {
+      "topic_id": "leekangin",
+      "topic": "이강인",
+      "suffix": "썰",
+      "query": "이강인 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leekangin",
+      "topic": "이강인",
+      "suffix": "별명",
+      "query": "이강인 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leekangin",
+      "topic": "이강인",
+      "suffix": "웃긴장면",
+      "query": "이강인 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leekangin",
+      "topic": "이강인",
+      "suffix": "레전드",
+      "query": "이강인 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leekangin",
+      "topic": "이강인",
+      "suffix": "기록",
+      "query": "이강인 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "son",
+      "topic": "손흥민(LAFC)",
+      "suffix": "썰",
+      "query": "손흥민 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "son",
+      "topic": "손흥민(LAFC)",
+      "suffix": "별명",
+      "query": "손흥민 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "son",
+      "topic": "손흥민(LAFC)",
+      "suffix": "웃긴장면",
+      "query": "손흥민 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "son",
+      "topic": "손흥민(LAFC)",
+      "suffix": "레전드",
+      "query": "손흥민 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "son",
+      "topic": "손흥민(LAFC)",
+      "suffix": "기록",
+      "query": "손흥민 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "epl",
+      "topic": "프리미어리그 개막",
+      "suffix": "썰",
+      "query": "프리미어리그 개막 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "epl",
+      "topic": "프리미어리그 개막",
+      "suffix": "별명",
+      "query": "프리미어리그 개막 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "epl",
+      "topic": "프리미어리그 개막",
+      "suffix": "웃긴장면",
+      "query": "프리미어리그 개막 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "epl",
+      "topic": "프리미어리그 개막",
+      "suffix": "레전드",
+      "query": "프리미어리그 개막 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "epl",
+      "topic": "프리미어리그 개막",
+      "suffix": "기록",
+      "query": "프리미어리그 개막 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": false,
+      "cycle_h": 12
+    }
+  ]
+}
