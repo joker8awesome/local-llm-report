@@ -1,6 +1,6 @@
 {
   "count": 157,
-  "generated_at": 1787488061,
+  "generated_at": 1787488499,
   "by_topic": {
     "kbo_rank": 20,
     "hanwha": 18,
@@ -35,84 +35,178 @@
     ]
   },
   "scoring": {
-    "criteria": "_shared/content_selection_criteria.md v1",
+    "criteria": "_shared/content_selection_criteria.md v2",
     "verdicts": {
-      "후보": 2,
-      "보류": 16,
-      "제외": 139
+      "후보": 5,
+      "보류": 34,
+      "제외": 118
     },
     "recommend_rule": "produce_target=true · 70점 이상 후보 · 상위 10 · 토픽당 최대 3"
   },
   "recommended": [
     {
+      "video_id": "dup7gM6Net8",
+      "score": 91,
+      "verdict": "후보",
+      "topic": "kbo_rank",
+      "topic_name": "KBO 순위/5강",
+      "title": "류현진이 황영묵 부른 이유?...\"사과해라\" 도대체 왜? 승리보다 이게 더 중요해｜지금 이 장면",
+      "view_count": 5213820,
+      "url": "https://www.youtube.com/watch?v=dup7gM6Net8",
+      "thumbnail": "https://i.ytimg.com/vi/dup7gM6Net8/mqdefault.jpg",
+      "channel": "JTBC News",
+      "tags": [
+        "서사형"
+      ],
+      "why": "조회수 22(조회수 5,213,820) · 속도 9(일 7,142회) · 접미 20(접미 '썰') · 유머 15(유머신호 도대체·왜) · 상황성 15(상황성 대사인용·대화체·서사어:이유) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
+    },
+    {
       "video_id": "XLuH41HJKB8",
-      "score": 71,
+      "score": 87,
       "verdict": "후보",
       "topic": "hanwha",
-      "title": "\"2등도 잘한 거라고?? X발 내년부터 다시 ㅈ랄날 게 보인다\" 준우승한 한화에 개빡쳐버린 야구팬들 ㅋㅋㅋㅋㅋ 분노분노 야구 모음집 레전드 모음 ㅋㅋㅋㅋㅋㅋ"
+      "topic_name": "한화 이글스",
+      "title": "\"2등도 잘한 거라고?? X발 내년부터 다시 ㅈ랄날 게 보인다\" 준우승한 한화에 개빡쳐버린 야구팬들 ㅋㅋㅋㅋㅋ 분노분노 야구 모음집 레전드 모음 ㅋㅋㅋㅋㅋㅋ",
+      "view_count": 1259980,
+      "url": "https://www.youtube.com/watch?v=XLuH41HJKB8",
+      "thumbnail": "https://i.ytimg.com/vi/XLuH41HJKB8/mqdefault.jpg",
+      "channel": "김준표",
+      "tags": [
+        "데이터형",
+        "제목 재작성 필요"
+      ],
+      "why": "조회수 18(조회수 1,259,980) · 속도 9(일 4,667회) · 접미 20(접미 '썰') · 유머 15(유머신호 레전드·ㅋㅋ) · 상황성 15(상황성 대사인용·대화체·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "nOS0L93JetU",
-      "score": 71,
+      "score": 81,
       "verdict": "후보",
       "topic": "kbo_rank",
-      "title": "['엠빅' 이슈] '하이킥'에 폭발한 황재균 \"너 이리 와봐!\" 그 후 (2024.06.07/엠빅뉴스)"
-    },
-    {
-      "video_id": "dup7gM6Net8",
-      "score": 69,
-      "verdict": "보류",
-      "topic": "kbo_rank",
-      "title": "류현진이 황영묵 부른 이유?...\"사과해라\" 도대체 왜? 승리보다 이게 더 중요해｜지금 이 장면"
+      "topic_name": "KBO 순위/5강",
+      "title": "['엠빅' 이슈] '하이킥'에 폭발한 황재균 \"너 이리 와봐!\" 그 후 (2024.06.07/엠빅뉴스)",
+      "view_count": 7059344,
+      "url": "https://www.youtube.com/watch?v=nOS0L93JetU",
+      "thumbnail": "https://i.ytimg.com/vi/nOS0L93JetU/mqdefault.jpg",
+      "channel": "MBCNEWS",
+      "tags": [
+        "데이터형"
+      ],
+      "why": "조회수 22(조회수 7,059,344) · 속도 9(일 9,670회) · 접미 20(접미 '썰') · 유머 9(유머신호 폭발) · 상황성 11(상황성 대사인용·대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "s3RTmm5Qzvc",
-      "score": 64,
-      "verdict": "보류",
+      "score": 77,
+      "verdict": "후보",
       "topic": "hanwha",
-      "title": "\"경기 보다가 ㅈㄴ 빡쳐서 주먹으로 TV 뿌쉈다 버러지 새X들아\" 파멸적인 롯데와 한화의 실력에 개빡돌아버린 야구팬들 근황 ㅋㅋㅋㅋㅋㅋ 싱글벙글 KBO 야구 모음집 레전드"
-    },
-    {
-      "video_id": "cFwFYe4qON4",
-      "score": 64,
-      "verdict": "보류",
-      "topic": "kbo_rank",
-      "title": "타자들 화병나게 만들었던, KBO 역대 최고의 마구 TOP5 [야친랭킹]"
-    },
-    {
-      "video_id": "OfKSlM578Ds",
-      "score": 62,
-      "verdict": "보류",
-      "topic": "kimdoyoung",
-      "title": "앗! 💥리그 1위 김도영💥 상대 피홈런 없는 양현종의 기적의 논리ㅋㅋㅋㅠ🔥｜아는 형님｜JTBC 250118 방송"
-    },
-    {
-      "video_id": "-4q0s6JQcLo",
-      "score": 61,
-      "verdict": "보류",
-      "topic": "hanwha",
-      "title": "류현진, 채은성과 소고기 13인분 먹으며 시즌 비하인드 썰 들어봤습니다 (PC방 출몰, 티니핑 닮은 꼴, 내년 목표 등)"
-    },
-    {
-      "video_id": "yelk-Qpk84A",
-      "score": 61,
-      "verdict": "보류",
-      "topic": "ohtani",
-      "title": "이용규 Pick! '최고의 투수 오타니?' | #스톡킹 EP.48-3 (이용규 편)"
-    },
-    {
-      "video_id": "G-nQU370nx0",
-      "score": 60,
-      "verdict": "보류",
-      "topic": "kia",
-      "title": "기아 타이거즈🐯 이범호, 김선빈과 함께 광주 한정식 먹방! 그리고 그때 그 시절 이야기...(한화의 이범호 vs 기아의 이범호) [둘이 왔어요 EP.179]"
+      "topic_name": "한화 이글스",
+      "title": "\"경기 보다가 ㅈㄴ 빡쳐서 주먹으로 TV 뿌쉈다 버러지 새X들아\" 파멸적인 롯데와 한화의 실력에 개빡돌아버린 야구팬들 근황 ㅋㅋㅋㅋㅋㅋ 싱글벙글 KBO 야구 모음집 레전드",
+      "view_count": 900307,
+      "url": "https://www.youtube.com/watch?v=s3RTmm5Qzvc",
+      "thumbnail": "https://i.ytimg.com/vi/s3RTmm5Qzvc/mqdefault.jpg",
+      "channel": "김준표",
+      "tags": [
+        "서사형",
+        "제목 재작성 필요"
+      ],
+      "why": "조회수 14(조회수 900,307) · 속도 12(일 15,005회) · 접미 20(접미 '썰') · 유머 15(유머신호 레전드·ㅋㅋ) · 상황성 6(상황성 대사인용) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "XiMp1jNMtP8",
-      "score": 60,
+      "score": 71,
+      "verdict": "후보",
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "\"투수들은 타이거즈정신을 몰라!\" 작년 결의대회 보고 답답해서 달려온 야수조 형님들과 토크 다이다이했습니다 | 사이버 윤석민 Ep.KIA타이거즈결의대회-1",
+      "view_count": 714174,
+      "url": "https://www.youtube.com/watch?v=XiMp1jNMtP8",
+      "thumbnail": "https://i.ytimg.com/vi/XiMp1jNMtP8/mqdefault.jpg",
+      "channel": "사이버 윤석민",
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
+      "why": "조회수 14(조회수 714,174) · 속도 12(일 23,806회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대사인용·대화체·서사어:형) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "cYjFQJPsb9Q",
+      "score": 66,
+      "verdict": "보류",
+      "topic": "hanwha",
+      "topic_name": "한화 이글스",
+      "title": "오키나와에서 '고향의 맛' 실화? 식성, 이상형, 족보까지 온갖 썰이 난무하는 저녁",
+      "view_count": 412800,
+      "url": "https://www.youtube.com/watch?v=cYjFQJPsb9Q",
+      "thumbnail": "https://i.ytimg.com/vi/cYjFQJPsb9Q/mqdefault.jpg",
+      "channel": "Eagles TV",
+      "tags": [
+        "서사형"
+      ],
+      "why": "조회수 9(조회수 412,800) · 속도 3(일 377회) · 접미 20(접미 '썰') · 유머 9(유머신호 실화) · 상황성 15(상황성 대사인용·대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "OfKSlM578Ds",
+      "score": 66,
+      "verdict": "보류",
+      "topic": "kimdoyoung",
+      "topic_name": "김도영",
+      "title": "앗! 💥리그 1위 김도영💥 상대 피홈런 없는 양현종의 기적의 논리ㅋㅋㅋㅠ🔥｜아는 형님｜JTBC 250118 방송",
+      "view_count": 14302,
+      "url": "https://www.youtube.com/watch?v=OfKSlM578Ds",
+      "thumbnail": "https://i.ytimg.com/vi/OfKSlM578Ds/mqdefault.jpg",
+      "channel": "JTBC Voyage",
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
+      "why": "조회수 4(조회수 14,302) · 속도 12(일 14,302회) · 접미 20(접미 '썰') · 유머 9(유머신호 ㅋㅋ) · 상황성 11(상황성 대화체·서사어:형) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "SEdq3d1GEN0",
+      "score": 66,
+      "verdict": "보류",
+      "topic": "ohtani",
+      "topic_name": "오타니/다저스",
+      "title": "'야구의 신'을 잘못 건드린 최후...| 오타니 쇼헤이의 모든 것",
+      "view_count": 1057713,
+      "url": "https://www.youtube.com/watch?v=SEdq3d1GEN0",
+      "thumbnail": "https://i.ytimg.com/vi/SEdq3d1GEN0/mqdefault.jpg",
+      "channel": "라이프시크릿",
+      "tags": [
+        "서사형"
+      ],
+      "why": "조회수 18(조회수 1,057,713) · 속도 12(일 11,752회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대사인용) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "bBl42dZHECA",
+      "score": 64,
       "verdict": "보류",
       "topic": "kia",
-      "title": "\"투수들은 타이거즈정신을 몰라!\" 작년 결의대회 보고 답답해서 달려온 야수조 형님들과 토크 다이다이했습니다 | 사이버 윤석민 Ep.KIA타이거즈결의대회-1"
+      "topic_name": "KIA 타이거즈",
+      "title": "\"그래 양현종이 왔구나?\" 타이거즈정신 무장하러 동기 & 후배들 집합시켰습니다 | 사이버 윤석민 Ep.KIA타이거즈총회-1",
+      "view_count": 978412,
+      "url": "https://www.youtube.com/watch?v=bBl42dZHECA",
+      "thumbnail": "https://i.ytimg.com/vi/bBl42dZHECA/mqdefault.jpg",
+      "channel": "사이버 윤석민",
+      "tags": [
+        "데이터형"
+      ],
+      "why": "조회수 14(조회수 978,412) · 속도 9(일 4,077회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "ZE8QFuGb29A",
+      "score": 62,
+      "verdict": "보류",
+      "topic": "kimdoyoung",
+      "topic_name": "김도영",
+      "title": "나성범만큼 비거리 나온 김도영의 괴력, 감탄하던 선배들 막판에 폭소 왜? [애리조나 LIVE]",
+      "view_count": 223549,
+      "url": "https://www.youtube.com/watch?v=ZE8QFuGb29A",
+      "thumbnail": "https://i.ytimg.com/vi/ZE8QFuGb29A/mqdefault.jpg",
+      "channel": "스포츠조선",
+      "tags": [
+        "서사형"
+      ],
+      "why": "조회수 9(조회수 223,549) · 속도 3(일 204회) · 접미 20(접미 '썰') · 유머 9(유머신호 왜) · 상황성 11(상황성 대화체·서사어:선배) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     }
   ],
   "items": [
@@ -132,19 +226,23 @@
       "channel": "MBCNEWS",
       "produce_target": true,
       "category": "character",
-      "score": 71,
+      "criteria_version": "v2",
+      "score": 81,
       "verdict": "후보",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 22,
         "velocity": 9,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 11,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 22(조회수 7,059,344) · 속도 9(일 9,670회) · 접미 15(접미 '썰') · 유머 6(유머신호 폭발) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 22(조회수 7,059,344) · 속도 9(일 9,670회) · 접미 20(접미 '썰') · 유머 9(유머신호 폭발) · 상황성 11(상황성 대사인용·대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -162,19 +260,23 @@
       "channel": "JTBC News",
       "produce_target": true,
       "category": "character",
-      "score": 69,
-      "verdict": "보류",
+      "criteria_version": "v2",
+      "score": 91,
+      "verdict": "후보",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 22,
         "velocity": 9,
-        "suffix": 15,
-        "humor": 10,
+        "suffix": 20,
+        "humor": 15,
+        "character": 15,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 22(조회수 5,213,820) · 속도 9(일 7,142회) · 접미 15(접미 '썰') · 유머 10(유머신호 도대체·왜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 22(조회수 5,213,820) · 속도 9(일 7,142회) · 접미 20(접미 '썰') · 유머 15(유머신호 도대체·왜) · 상황성 15(상황성 대사인용·대화체·서사어:이유) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -192,19 +294,24 @@
       "channel": "롯데사랑",
       "produce_target": true,
       "category": "character",
-      "score": 40,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 57,
+      "verdict": "보류",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형",
+        "제목 재작성 필요"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 9,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
-        "risk": -15
+        "risk": 0
       },
-      "why": "조회수 18(조회수 3,604,207) · 속도 9(일 4,937회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 -15(개인 비하·조롱 -15)"
+      "why": "조회수 18(조회수 3,604,207) · 속도 9(일 4,937회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -222,19 +329,23 @@
       "channel": "야친소리 : 야구를 말하다",
       "produce_target": true,
       "category": "character",
-      "score": 64,
-      "verdict": "보류",
+      "criteria_version": "v2",
+      "score": 54,
+      "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 18(조회수 2,384,733) · 속도 6(일 2,178회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 TOP·최고·역대) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 2,384,733) · 속도 6(일 2,178회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -252,19 +363,23 @@
       "channel": "야친소리 : 야구를 말하다",
       "produce_target": true,
       "category": "character",
-      "score": 42,
+      "criteria_version": "v2",
+      "score": 47,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 15,
-        "risk": -15
+        "risk": 0
       },
-      "why": "조회수 14(조회수 928,221) · 속도 3(일 636회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 TOP·역대·숫자) · 리스크 -15(개인 비하·조롱 -15)"
+      "why": "조회수 14(조회수 928,221) · 속도 3(일 636회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -282,19 +397,23 @@
       "channel": "C-BALL",
       "produce_target": true,
       "category": "character",
-      "score": 43,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 56,
+      "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 447,717) · 속도 6(일 1,227회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 447,717) · 속도 6(일 1,227회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -312,19 +431,23 @@
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
-      "score": 49,
+      "criteria_version": "v2",
+      "score": 51,
       "verdict": "제외",
       "elapsed_days": 330.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 354,932) · 속도 6(일 1,076회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 354,932) · 속도 6(일 1,076회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -342,19 +465,23 @@
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
-      "score": 46,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 59,
+      "verdict": "보류",
       "elapsed_days": 30.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 9,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 190,663) · 속도 9(일 6,355회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 190,663) · 속도 9(일 6,355회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -372,19 +499,23 @@
       "channel": "김효정",
       "produce_target": true,
       "category": "character",
-      "score": 46,
+      "criteria_version": "v2",
+      "score": 47,
       "verdict": "제외",
       "elapsed_days": 2555.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 6,
         "produce": 10,
-        "data": 3,
-        "risk": 0
+        "risk": -10
       },
-      "why": "조회수 9(조회수 149,219) · 속도 3(일 58회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 149,219) · 속도 3(일 58회) · 접미 20(접미 '썰') · 유머 9(유머신호 ㅋㅋ) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 -10(정치·병역·국적 -10)"
     },
     {
       "topic": "kbo_rank",
@@ -402,19 +533,23 @@
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
-      "score": 40,
+      "criteria_version": "v2",
+      "score": 53,
       "verdict": "제외",
       "elapsed_days": 120.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 111,596) · 속도 3(일 930회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 111,596) · 속도 3(일 930회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -432,19 +567,23 @@
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 120.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 97,669) · 속도 3(일 814회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 97,669) · 속도 3(일 814회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -462,19 +601,23 @@
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
-      "score": 53,
+      "criteria_version": "v2",
+      "score": 46,
       "verdict": "제외",
       "elapsed_days": 150.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 0,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 86,351) · 속도 3(일 576회) · 접미 15(접미 '썰') · 유머 6(유머신호 미친) · 제작 10(제작대상) · 데이터 15(데이터신호 기록·역대) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 86,351) · 속도 3(일 576회) · 접미 20(접미 '썰') · 유머 9(유머신호 미친) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -492,19 +635,23 @@
       "channel": "야구부장",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 120.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 69,240) · 속도 3(일 577회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 69,240) · 속도 3(일 577회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -522,19 +669,23 @@
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
-      "score": 47,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 43,169) · 속도 3(일 118회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 43,169) · 속도 3(일 118회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -552,19 +703,23 @@
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
-      "score": 47,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 330.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 40,350) · 속도 3(일 122회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 40,350) · 속도 3(일 122회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -582,19 +737,23 @@
       "channel": "조사하면다나와",
       "produce_target": true,
       "category": "character",
-      "score": 47,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 29,949) · 속도 3(일 21회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 29,949) · 속도 3(일 21회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -612,19 +771,24 @@
       "channel": "KBS N SPORTS",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 14,055) · 속도 3(일 13회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 14,055) · 속도 3(일 13회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -642,19 +806,23 @@
       "channel": "안지만TV",
       "produce_target": true,
       "category": "character",
-      "score": 47,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1825.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 6,099) · 속도 3(일 3회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 6,099) · 속도 3(일 3회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -672,19 +840,23 @@
       "channel": "이글수다",
       "produce_target": true,
       "category": "character",
-      "score": 47,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 2190.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 2,921) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 위·순위·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 2,921) · 속도 3(일 1회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -702,19 +874,24 @@
       "channel": "엠콘:엠비씨콘텐츠",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 587) · 속도 3(일 0회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 587) · 속도 3(일 0회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -732,19 +909,23 @@
       "channel": "엠빅뉴스",
       "produce_target": true,
       "category": "character",
-      "score": 52,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 65,
+      "verdict": "보류",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 2,151,369) · 속도 6(일 2,947회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 2,151,369) · 속도 6(일 2,947회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -762,19 +943,23 @@
       "channel": "ootb STUDIO",
       "produce_target": true,
       "category": "character",
-      "score": 61,
+      "criteria_version": "v2",
+      "score": 57,
       "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 9,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,519,944) · 속도 9(일 4,164회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,519,944) · 속도 9(일 4,164회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -792,19 +977,24 @@
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
-      "score": 61,
+      "criteria_version": "v2",
+      "score": 63,
       "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 9,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,268,187) · 속도 9(일 3,474회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,268,187) · 속도 9(일 3,474회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -822,19 +1012,24 @@
       "channel": "김준표",
       "produce_target": true,
       "category": "character",
-      "score": 71,
+      "criteria_version": "v2",
+      "score": 87,
       "verdict": "후보",
       "elapsed_days": 270.0,
+      "tags": [
+        "데이터형",
+        "제목 재작성 필요"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 9,
-        "suffix": 15,
-        "humor": 10,
+        "suffix": 20,
+        "humor": 15,
+        "character": 15,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,259,980) · 속도 9(일 4,667회) · 접미 15(접미 '썰') · 유머 10(유머신호 레전드·ㅋㅋ) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,259,980) · 속도 9(일 4,667회) · 접미 20(접미 '썰') · 유머 15(유머신호 레전드·ㅋㅋ) · 상황성 15(상황성 대사인용·대화체·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -852,19 +1047,23 @@
       "channel": "스튜디오 썰",
       "produce_target": true,
       "category": "character",
-      "score": 48,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 61,
+      "verdict": "보류",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 945,807) · 속도 6(일 1,296회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 945,807) · 속도 6(일 1,296회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -882,19 +1081,24 @@
       "channel": "김준표",
       "produce_target": true,
       "category": "character",
-      "score": 64,
-      "verdict": "보류",
+      "criteria_version": "v2",
+      "score": 77,
+      "verdict": "후보",
       "elapsed_days": 60.0,
+      "tags": [
+        "서사형",
+        "제목 재작성 필요"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 12,
-        "suffix": 15,
-        "humor": 10,
+        "suffix": 20,
+        "humor": 15,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 900,307) · 속도 12(일 15,005회) · 접미 15(접미 '썰') · 유머 10(유머신호 레전드·ㅋㅋ) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 900,307) · 속도 12(일 15,005회) · 접미 20(접미 '썰') · 유머 15(유머신호 레전드·ㅋㅋ) · 상황성 6(상황성 대사인용) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -912,19 +1116,23 @@
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
-      "score": 46,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 66,
+      "verdict": "보류",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 15,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 412,800) · 속도 3(일 377회) · 접미 15(접미 '썰') · 유머 6(유머신호 실화) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 412,800) · 속도 3(일 377회) · 접미 20(접미 '썰') · 유머 9(유머신호 실화) · 상황성 15(상황성 대사인용·대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -942,19 +1150,23 @@
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
-      "score": 40,
+      "criteria_version": "v2",
+      "score": 53,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 299,839) · 속도 3(일 411회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 299,839) · 속도 3(일 411회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -972,19 +1184,24 @@
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
-      "score": 46,
+      "criteria_version": "v2",
+      "score": 53,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 299,493) · 속도 3(일 274회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 299,493) · 속도 3(일 274회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1002,19 +1219,23 @@
       "channel": "SportsTalk킹",
       "produce_target": true,
       "category": "character",
-      "score": 46,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 62,
+      "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 293,076) · 속도 3(일 803회) · 접미 15(접미 '썰') · 유머 6(유머신호 진짜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 293,076) · 속도 3(일 803회) · 접미 20(접미 '썰') · 유머 9(유머신호 진짜) · 상황성 11(상황성 대화체·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1032,19 +1253,24 @@
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
-      "score": 52,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 57,
+      "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 278,110) · 속도 3(일 762회) · 접미 15(접미 '썰') · 유머 6(유머신호 레전드) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 278,110) · 속도 3(일 762회) · 접미 20(접미 '썰') · 유머 9(유머신호 레전드) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1062,19 +1288,23 @@
       "channel": "김태균 [TK52]",
       "produce_target": true,
       "category": "character",
-      "score": 46,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 57,
+      "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 252,586) · 속도 3(일 692회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 252,586) · 속도 3(일 692회) · 접미 20(접미 '썰') · 유머 9(유머신호 ㅋㅋ) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1092,19 +1322,24 @@
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
-      "score": 46,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 150.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 139,028) · 속도 3(일 927회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 139,028) · 속도 3(일 927회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1122,19 +1357,23 @@
       "channel": "야필독",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 84,864) · 속도 3(일 116회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 84,864) · 속도 3(일 116회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1152,19 +1391,23 @@
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 1825.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 68,735) · 속도 3(일 38회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 68,735) · 속도 3(일 38회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1182,19 +1425,23 @@
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 45,280) · 속도 3(일 31회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 45,280) · 속도 3(일 31회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1212,19 +1459,23 @@
       "channel": "크보쌍둥이",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 120.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 19,595) · 속도 3(일 163회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 19,595) · 속도 3(일 163회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1242,19 +1493,23 @@
       "channel": "제육볶음 한화이글스",
       "produce_target": true,
       "category": "character",
-      "score": 41,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 61,
+      "verdict": "보류",
       "elapsed_days": 120.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 15,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 19,448) · 속도 3(일 162회) · 접미 15(접미 '썰') · 유머 6(유머신호 진짜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 19,448) · 속도 3(일 162회) · 접미 20(접미 '썰') · 유머 9(유머신호 진짜) · 상황성 15(상황성 대화체·서사어:감독·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1272,19 +1527,23 @@
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
-      "score": 57,
+      "criteria_version": "v2",
+      "score": 64,
       "verdict": "보류",
       "elapsed_days": 240.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 9,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 14(조회수 978,412) · 속도 9(일 4,077회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 978,412) · 속도 9(일 4,077회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1302,19 +1561,24 @@
       "channel": "운동부 둘이 왔어요",
       "produce_target": true,
       "category": "character",
-      "score": 60,
+      "criteria_version": "v2",
+      "score": 61,
       "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 14(조회수 953,483) · 속도 6(일 2,612회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 vs·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 953,483) · 속도 6(일 2,612회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:그때) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1332,19 +1596,23 @@
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
-      "score": 54,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 56,
+      "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 14(조회수 949,133) · 속도 6(일 2,600회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 949,133) · 속도 6(일 2,600회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대사인용) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1362,19 +1630,24 @@
       "channel": "Studio 특",
       "produce_target": true,
       "category": "character",
-      "score": 54,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 56,
+      "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 14(조회수 870,381) · 속도 6(일 2,385회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 870,381) · 속도 6(일 2,385회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1392,19 +1665,24 @@
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
-      "score": 60,
-      "verdict": "보류",
+      "criteria_version": "v2",
+      "score": 71,
+      "verdict": "후보",
       "elapsed_days": 30.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 12,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 15,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 14(조회수 714,174) · 속도 12(일 23,806회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 714,174) · 속도 12(일 23,806회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대사인용·대화체·서사어:형) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1422,19 +1700,23 @@
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
-      "score": 60,
+      "criteria_version": "v2",
+      "score": 59,
       "verdict": "보류",
       "elapsed_days": 240.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 0,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 14(조회수 681,516) · 속도 6(일 2,840회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 681,516) · 속도 6(일 2,840회) · 접미 20(접미 '썰') · 유머 9(유머신호 ㅋㅋ) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1452,19 +1734,23 @@
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
-      "score": 54,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 56,
+      "verdict": "보류",
       "elapsed_days": 240.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 14(조회수 631,679) · 속도 6(일 2,632회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 631,679) · 속도 6(일 2,632회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대사인용) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1482,19 +1768,23 @@
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
-      "score": 40,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 442,237) · 속도 3(일 606회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 442,237) · 속도 3(일 606회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1512,19 +1802,23 @@
       "channel": "SportsTalk킹",
       "produce_target": true,
       "category": "character",
-      "score": 43,
+      "criteria_version": "v2",
+      "score": 51,
       "verdict": "제외",
       "elapsed_days": 240.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 385,842) · 속도 6(일 1,608회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 385,842) · 속도 6(일 1,608회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1542,19 +1836,23 @@
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
-      "score": 49,
+      "criteria_version": "v2",
+      "score": 45,
       "verdict": "제외",
       "elapsed_days": 150.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 338,454) · 속도 6(일 2,256회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 338,454) · 속도 6(일 2,256회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1572,19 +1870,23 @@
       "channel": "SportsTalk킹",
       "produce_target": true,
       "category": "character",
-      "score": 49,
+      "criteria_version": "v2",
+      "score": 51,
       "verdict": "제외",
       "elapsed_days": 4.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 12,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 193,469) · 속도 12(일 48,367회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 193,469) · 속도 12(일 48,367회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1602,19 +1904,23 @@
       "channel": "울쓰",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 92,439) · 속도 3(일 127회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 92,439) · 속도 3(일 127회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1632,19 +1938,23 @@
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1825.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 56,299) · 속도 3(일 31회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 56,299) · 속도 3(일 31회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1662,19 +1972,23 @@
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 53,715) · 속도 3(일 74회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 53,715) · 속도 3(일 74회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1692,19 +2006,23 @@
       "channel": "크보오프너",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 180.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 47,219) · 속도 3(일 262회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 47,219) · 속도 3(일 262회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1722,19 +2040,23 @@
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 42,221) · 속도 3(일 39회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 42,221) · 속도 3(일 39회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1752,19 +2074,24 @@
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
-      "score": 50,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 57,
+      "verdict": "보류",
       "elapsed_days": 1.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 12,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 20,467) · 속도 12(일 20,467회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 20,467) · 속도 12(일 20,467회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1782,19 +2109,24 @@
       "channel": "야구찜",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 60.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 15,728) · 속도 3(일 262회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 15,728) · 속도 3(일 262회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1812,19 +2144,23 @@
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 8,978) · 속도 3(일 8회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 8,978) · 속도 3(일 8회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1842,19 +2178,24 @@
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 52,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 15,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 5,880) · 속도 3(일 5회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 VS) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 5,880) · 속도 3(일 5회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대화체·서사어:썰·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1872,19 +2213,23 @@
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
-      "score": 48,
+      "criteria_version": "v2",
+      "score": 50,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 880,942) · 속도 6(일 2,414회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 880,942) · 속도 6(일 2,414회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1902,19 +2247,23 @@
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
-      "score": 51,
+      "criteria_version": "v2",
+      "score": 47,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 14(조회수 696,788) · 속도 3(일 636회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 696,788) · 속도 3(일 636회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1932,19 +2281,23 @@
       "channel": "MBCentertainment",
       "produce_target": true,
       "category": "character",
-      "score": 55,
+      "criteria_version": "v2",
+      "score": 60,
       "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 437,068) · 속도 6(일 1,197회) · 접미 15(접미 '썰') · 유머 6(유머신호 폭발) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 437,068) · 속도 6(일 1,197회) · 접미 20(접미 '썰') · 유머 9(유머신호 폭발) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1962,19 +2315,23 @@
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
-      "score": 49,
+      "criteria_version": "v2",
+      "score": 45,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 379,397) · 속도 6(일 1,039회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 379,397) · 속도 6(일 1,039회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -1992,19 +2349,23 @@
       "channel": "KBC 뉴스",
       "produce_target": true,
       "category": "character",
-      "score": 46,
+      "criteria_version": "v2",
+      "score": 42,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 304,798) · 속도 3(일 209회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 304,798) · 속도 3(일 209회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2022,19 +2383,23 @@
       "channel": "KBC 뉴스",
       "produce_target": true,
       "category": "character",
-      "score": 52,
+      "criteria_version": "v2",
+      "score": 42,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 241,360) · 속도 3(일 661회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 %·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 241,360) · 속도 3(일 661회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2052,19 +2417,23 @@
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
-      "score": 40,
+      "criteria_version": "v2",
+      "score": 42,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 239,185) · 속도 3(일 164회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 239,185) · 속도 3(일 164회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2082,19 +2451,23 @@
       "channel": "스포츠조선",
       "produce_target": true,
       "category": "character",
-      "score": 46,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 62,
+      "verdict": "보류",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 223,549) · 속도 3(일 204회) · 접미 15(접미 '썰') · 유머 6(유머신호 왜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 223,549) · 속도 3(일 204회) · 접미 20(접미 '썰') · 유머 9(유머신호 왜) · 상황성 11(상황성 대화체·서사어:선배) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2112,19 +2485,23 @@
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
-      "score": 43,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 56,
+      "verdict": "보류",
       "elapsed_days": 90.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 199,654) · 속도 6(일 2,218회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 199,654) · 속도 6(일 2,218회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:비하인드) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2142,19 +2519,24 @@
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
-      "score": 49,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 56,
+      "verdict": "보류",
       "elapsed_days": 150.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 168,354) · 속도 6(일 1,122회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 168,354) · 속도 6(일 1,122회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:비하인드) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2172,19 +2554,24 @@
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
-      "score": 46,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 117,826) · 속도 3(일 108회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 117,826) · 속도 3(일 108회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2202,19 +2589,24 @@
       "channel": "Off the TV",
       "produce_target": true,
       "category": "character",
-      "score": 46,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 57,
+      "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 15,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 107,716) · 속도 3(일 295회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 107,716) · 속도 3(일 295회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대사인용·대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2232,19 +2624,23 @@
       "channel": "SportsTalk킹",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 93,702) · 속도 3(일 257회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 93,702) · 속도 3(일 257회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2262,19 +2658,23 @@
       "channel": "ෆ",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 84,669) · 속도 3(일 58회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 84,669) · 속도 3(일 58회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2292,19 +2692,23 @@
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 68,620) · 속도 3(일 188회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 68,620) · 속도 3(일 188회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2322,19 +2726,23 @@
       "channel": "울쓰",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 34,327) · 속도 3(일 24회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 34,327) · 속도 3(일 24회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2352,19 +2760,23 @@
       "channel": "오층스포츠",
       "produce_target": true,
       "category": "character",
-      "score": 44,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 57,
+      "verdict": "보류",
       "elapsed_days": 1.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 12,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 28,201) · 속도 12(일 28,201회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 28,201) · 속도 12(일 28,201회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:형) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2382,19 +2794,24 @@
       "channel": "광주일보",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 52,
       "verdict": "제외",
       "elapsed_days": 150.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 15,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 22,084) · 속도 3(일 147회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 22,084) · 속도 3(일 147회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대사인용·대화체·서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2412,19 +2829,24 @@
       "channel": "JTBC Voyage",
       "produce_target": true,
       "category": "character",
-      "score": 62,
+      "criteria_version": "v2",
+      "score": 66,
       "verdict": "보류",
       "elapsed_days": 1.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 12,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 11,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 14,302) · 속도 12(일 14,302회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 10(제작대상) · 데이터 15(데이터신호 위·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 14,302) · 속도 12(일 14,302회) · 접미 20(접미 '썰') · 유머 9(유머신호 ㅋㅋ) · 상황성 11(상황성 대화체·서사어:형) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2442,19 +2864,23 @@
       "channel": "팝핀지성",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 52,
       "verdict": "제외",
       "elapsed_days": 1825.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 6,349) · 속도 3(일 3회) · 접미 15(접미 '썰') · 유머 6(유머신호 진짜) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 6,349) · 속도 3(일 3회) · 접미 20(접미 '썰') · 유머 9(유머신호 진짜) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2472,19 +2898,23 @@
       "channel": "라이프시크릿",
       "produce_target": true,
       "category": "character",
-      "score": 55,
+      "criteria_version": "v2",
+      "score": 57,
       "verdict": "보류",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 9,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 2,280,214) · 속도 9(일 3,124회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 2,280,214) · 속도 9(일 3,124회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2502,19 +2932,24 @@
       "channel": "이대호 [RE:DAEHO]",
       "produce_target": true,
       "category": "character",
-      "score": 58,
+      "criteria_version": "v2",
+      "score": 60,
       "verdict": "보류",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,645,903) · 속도 6(일 2,255회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,645,903) · 속도 6(일 2,255회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2532,19 +2967,23 @@
       "channel": "Twins Lover",
       "produce_target": true,
       "category": "character",
-      "score": 49,
+      "criteria_version": "v2",
+      "score": 51,
       "verdict": "제외",
       "elapsed_days": 1825.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,132,925) · 속도 3(일 621회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,132,925) · 속도 3(일 621회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2562,19 +3001,23 @@
       "channel": "라이프시크릿",
       "produce_target": true,
       "category": "character",
-      "score": 58,
+      "criteria_version": "v2",
+      "score": 66,
       "verdict": "보류",
       "elapsed_days": 90.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 12,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,057,713) · 속도 12(일 11,752회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,057,713) · 속도 12(일 11,752회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대사인용) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2592,19 +3035,23 @@
       "channel": "우정잉",
       "produce_target": true,
       "category": "character",
-      "score": 49,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 57,
+      "verdict": "보류",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,047,337) · 속도 3(일 956회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,047,337) · 속도 3(일 956회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2622,19 +3069,23 @@
       "channel": "SportsTalk킹",
       "produce_target": true,
       "category": "character",
-      "score": 61,
+      "criteria_version": "v2",
+      "score": 62,
       "verdict": "보류",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,015,402) · 속도 3(일 695회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 최고·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,015,402) · 속도 3(일 695회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2652,19 +3103,23 @@
       "channel": "스포츠한입",
       "produce_target": true,
       "category": "character",
-      "score": 45,
+      "criteria_version": "v2",
+      "score": 47,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 996,255) · 속도 3(일 910회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 996,255) · 속도 3(일 910회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2682,19 +3137,23 @@
       "channel": "불양TV",
       "produce_target": true,
       "category": "character",
-      "score": 45,
+      "criteria_version": "v2",
+      "score": 47,
       "verdict": "제외",
       "elapsed_days": 1825.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 732,015) · 속도 3(일 401회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 732,015) · 속도 3(일 401회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2712,19 +3171,23 @@
       "channel": "라이프시크릿",
       "produce_target": true,
       "category": "character",
-      "score": 51,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 58,
+      "verdict": "보류",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 14(조회수 705,140) · 속도 3(일 966회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 705,140) · 속도 3(일 966회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2742,19 +3205,23 @@
       "channel": "오타니17",
       "produce_target": true,
       "category": "character",
-      "score": 40,
+      "criteria_version": "v2",
+      "score": 42,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 398,409) · 속도 3(일 364회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 398,409) · 속도 3(일 364회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2772,19 +3239,23 @@
       "channel": "오타니짝사랑녀",
       "produce_target": true,
       "category": "character",
-      "score": 46,
+      "criteria_version": "v2",
+      "score": 42,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 270,143) · 속도 3(일 247회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 270,143) · 속도 3(일 247회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2802,19 +3273,23 @@
       "channel": "김태균 [TK52]",
       "produce_target": true,
       "category": "character",
-      "score": 52,
+      "criteria_version": "v2",
+      "score": 42,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 238,665) · 속도 3(일 327회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 최고·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 238,665) · 속도 3(일 327회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2832,19 +3307,23 @@
       "channel": "올스",
       "produce_target": true,
       "category": "character",
-      "score": 40,
+      "criteria_version": "v2",
+      "score": 53,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 205,296) · 속도 3(일 281회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 205,296) · 속도 3(일 281회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·구어체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2862,19 +3341,23 @@
       "channel": "올스",
       "produce_target": true,
       "category": "character",
-      "score": 46,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 117,280) · 속도 3(일 161회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 117,280) · 속도 3(일 161회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2892,19 +3375,24 @@
       "channel": "치과의사 매직박",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 55,132) · 속도 3(일 38회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 55,132) · 속도 3(일 38회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2922,19 +3410,23 @@
       "channel": "오타니17",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 38,529) · 속도 3(일 35회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 38,529) · 속도 3(일 35회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2952,19 +3444,23 @@
       "channel": "원",
       "produce_target": true,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 29,534) · 속도 3(일 40회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 29,534) · 속도 3(일 40회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2982,19 +3478,23 @@
       "channel": "스포츠이슈 3분",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 26,836) · 속도 3(일 37회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 26,836) · 속도 3(일 37회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3012,19 +3512,23 @@
       "channel": "오타니17",
       "produce_target": true,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 10,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 24,562) · 속도 3(일 22회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 24,562) · 속도 3(일 22회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3042,19 +3546,23 @@
       "channel": "SportScriptK",
       "produce_target": true,
       "category": "character",
-      "score": 47,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 300.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 10,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 24,002) · 속도 3(일 80회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 10(제작대상) · 데이터 15(데이터신호 최고·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 24,002) · 속도 3(일 80회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 10(제작대상) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3072,19 +3580,24 @@
       "channel": "리춘수 [이천수]",
       "produce_target": false,
       "category": "character",
-      "score": 54,
+      "criteria_version": "v2",
+      "score": 50,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 6,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,776,934) · 속도 6(일 1,623회) · 접미 15(접미 '썰') · 유머 6(유머신호 충격) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,776,934) · 속도 6(일 1,623회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:이유) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3102,19 +3615,23 @@
       "channel": "올스",
       "produce_target": false,
       "category": "character",
-      "score": 42,
+      "criteria_version": "v2",
+      "score": 50,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,035,618) · 속도 6(일 1,419회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,035,618) · 속도 6(일 1,419회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3132,19 +3649,23 @@
       "channel": "슛포러브",
       "produce_target": false,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 49,
       "verdict": "제외",
       "elapsed_days": 330.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 9,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 992,642) · 속도 9(일 3,008회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 992,642) · 속도 9(일 3,008회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3162,19 +3683,23 @@
       "channel": "슛포러브",
       "produce_target": false,
       "category": "character",
-      "score": 44,
+      "criteria_version": "v2",
+      "score": 49,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 0,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 917,117) · 속도 6(일 1,256회) · 접미 15(접미 '썰') · 유머 6(유머신호 ㅋㅋ) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 917,117) · 속도 6(일 1,256회) · 접미 20(접미 '썰') · 유머 9(유머신호 ㅋㅋ) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3192,19 +3717,23 @@
       "channel": "피지컬갤러리",
       "produce_target": false,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 37,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 889,927) · 속도 3(일 813회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 889,927) · 속도 3(일 813회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3222,19 +3751,23 @@
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
-      "score": 41,
+      "criteria_version": "v2",
+      "score": 52,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 502,842) · 속도 3(일 459회) · 접미 15(접미 '썰') · 유머 6(유머신호 난리) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 502,842) · 속도 3(일 459회) · 접미 20(접미 '썰') · 유머 9(유머신호 난리) · 상황성 6(상황성 서사어:이유) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3252,19 +3785,23 @@
       "channel": "김진짜 Real KIM",
       "produce_target": false,
       "category": "character",
-      "score": 33,
+      "criteria_version": "v2",
+      "score": 46,
       "verdict": "제외",
       "elapsed_days": 210.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 467,067) · 속도 6(일 2,224회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 467,067) · 속도 6(일 2,224회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·구어체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3282,19 +3819,24 @@
       "channel": "고알레 GOALE",
       "produce_target": false,
       "category": "character",
-      "score": 36,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 407,492) · 속도 3(일 558회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 407,492) · 속도 3(일 558회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:이유) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3312,19 +3854,23 @@
       "channel": "SBS 뉴스",
       "produce_target": false,
       "category": "character",
-      "score": 30,
+      "criteria_version": "v2",
+      "score": 47,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 15,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 406,423) · 속도 3(일 557회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 406,423) · 속도 3(일 557회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대사인용·서사어:사건·구어체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3342,19 +3888,23 @@
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
-      "score": 36,
+      "criteria_version": "v2",
+      "score": 32,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 327,673) · 속도 3(일 299회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 327,673) · 속도 3(일 299회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3372,19 +3922,24 @@
       "channel": "TV-People",
       "produce_target": false,
       "category": "character",
-      "score": 36,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 202,336) · 속도 3(일 185회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 202,336) · 속도 3(일 185회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:감독) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3402,19 +3957,24 @@
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
-      "score": 21,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 9,
-        "risk": -15
+        "risk": 0
       },
-      "why": "조회수 9(조회수 192,067) · 속도 3(일 175회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 -15(개인 비하·조롱 -15)"
+      "why": "조회수 9(조회수 192,067) · 속도 3(일 175회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·서사어:이유) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3432,19 +3992,24 @@
       "channel": "박종윤(축구)",
       "produce_target": false,
       "category": "character",
-      "score": 42,
+      "criteria_version": "v2",
+      "score": 47,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 15,
         "produce": 0,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 100,197) · 속도 3(일 92회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 15(데이터신호 TOP·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 100,197) · 속도 3(일 92회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대사인용·대화체·서사어:이유) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3462,19 +4027,23 @@
       "channel": "이스타",
       "produce_target": false,
       "category": "character",
-      "score": 34,
+      "criteria_version": "v2",
+      "score": 51,
       "verdict": "제외",
       "elapsed_days": 4.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 12,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 15,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 94,516) · 속도 12(일 23,629회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 94,516) · 속도 12(일 23,629회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대사인용·서사어:감독·구어체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3492,19 +4061,23 @@
       "channel": "KBS Entertain",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 93,048) · 속도 3(일 127회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 93,048) · 속도 3(일 127회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3522,19 +4095,24 @@
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 86,127) · 속도 3(일 236회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 86,127) · 속도 3(일 236회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3552,19 +4130,23 @@
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 82,904) · 속도 3(일 57회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 82,904) · 속도 3(일 57회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3582,19 +4164,23 @@
       "channel": "서울 이랜드 FC - SEOUL E·LAND FC",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 61,055) · 속도 3(일 84회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 61,055) · 속도 3(일 84회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 서사어:썰·구어체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3612,19 +4198,23 @@
       "channel": "라이프시크릿",
       "produce_target": false,
       "category": "character",
-      "score": 37,
+      "criteria_version": "v2",
+      "score": 42,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 45,232) · 속도 3(일 62회) · 접미 15(접미 '썰') · 유머 6(유머신호 역대급) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 역대) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 45,232) · 속도 3(일 62회) · 접미 20(접미 '썰') · 유머 9(유머신호 역대급) · 상황성 6(상황성 대사인용) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3642,19 +4232,23 @@
       "channel": "베라노 및 인터티비(InterTV)",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 44,
       "verdict": "제외",
       "elapsed_days": 8.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 9,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 27,157) · 속도 9(일 3,395회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 27,157) · 속도 9(일 3,395회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·서사어:비하인드) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3672,19 +4266,23 @@
       "channel": "하나TV [하나은행]",
       "produce_target": false,
       "category": "character",
-      "score": 58,
+      "criteria_version": "v2",
+      "score": 60,
       "verdict": "보류",
       "elapsed_days": 300.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 22,
         "velocity": 12,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 22(조회수 6,501,064) · 속도 12(일 21,670회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 22(조회수 6,501,064) · 속도 12(일 21,670회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3702,19 +4300,23 @@
       "channel": "숏큐멘터리",
       "produce_target": false,
       "category": "character",
-      "score": 54,
+      "criteria_version": "v2",
+      "score": 50,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 12,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 18(조회수 3,906,019) · 속도 12(일 10,701회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 최고) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 3,906,019) · 속도 12(일 10,701회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3732,19 +4334,23 @@
       "channel": "스토리K - 축구in 인문학 by kei",
       "produce_target": false,
       "category": "character",
-      "score": 42,
+      "criteria_version": "v2",
+      "score": 44,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,678,385) · 속도 6(일 2,299회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,678,385) · 속도 6(일 2,299회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3762,19 +4368,23 @@
       "channel": "숏큐멘터리",
       "produce_target": false,
       "category": "character",
-      "score": 51,
-      "verdict": "제외",
+      "criteria_version": "v2",
+      "score": 56,
+      "verdict": "보류",
       "elapsed_days": 365.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 9,
-        "suffix": 15,
-        "humor": 6,
+        "suffix": 20,
+        "humor": 9,
+        "character": 0,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,535,442) · 속도 9(일 4,207회) · 접미 15(접미 '썰') · 유머 6(유머신호 레전드) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,535,442) · 속도 9(일 4,207회) · 접미 20(접미 '썰') · 유머 9(유머신호 레전드) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3792,19 +4402,23 @@
       "channel": "썰푸는 그림쟁이툰",
       "produce_target": false,
       "category": "character",
-      "score": 42,
+      "criteria_version": "v2",
+      "score": 50,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,002,922) · 속도 6(일 1,374회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,002,922) · 속도 6(일 1,374회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3822,19 +4436,23 @@
       "channel": "스브스뉴스 SUBUSUNEWS",
       "produce_target": false,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 48,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 905,545) · 속도 3(일 827회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 905,545) · 속도 3(일 827회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:인터뷰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3852,19 +4470,23 @@
       "channel": "비디오머그 - VIDEOMUG",
       "produce_target": false,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 2190.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 726,163) · 속도 3(일 332회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 726,163) · 속도 3(일 332회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대사인용) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3882,19 +4504,23 @@
       "channel": "스토리K - 축구in 인문학 by kei",
       "produce_target": false,
       "category": "character",
-      "score": 38,
+      "criteria_version": "v2",
+      "score": 46,
       "verdict": "제외",
       "elapsed_days": 300.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 6,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 584,493) · 속도 6(일 1,948회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 584,493) · 속도 6(일 1,948회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:이유) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3912,19 +4538,23 @@
       "channel": "디글 :Diggle",
       "produce_target": false,
       "category": "character",
-      "score": 35,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 14,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 14(조회수 581,689) · 속도 3(일 531회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 581,689) · 속도 3(일 531회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 구어체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3942,19 +4572,24 @@
       "channel": "JTBC Voyage",
       "produce_target": false,
       "category": "character",
-      "score": 36,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 356,739) · 속도 3(일 326회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 356,739) · 속도 3(일 326회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -3972,19 +4607,23 @@
       "channel": "TOTAL FOOTBALL",
       "produce_target": false,
       "category": "character",
-      "score": 30,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 231,330) · 속도 3(일 158회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 231,330) · 속도 3(일 158회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 구어체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4002,19 +4641,24 @@
       "channel": "겜스트GAMEST",
       "produce_target": false,
       "category": "character",
-      "score": 36,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 171,795) · 속도 3(일 471회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 171,795) · 속도 3(일 471회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4032,19 +4676,23 @@
       "channel": "썰호정",
       "produce_target": false,
       "category": "character",
-      "score": 36,
+      "criteria_version": "v2",
+      "score": 32,
       "verdict": "제외",
       "elapsed_days": 4380.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 168,046) · 속도 3(일 38회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 168,046) · 속도 3(일 38회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4062,19 +4710,24 @@
       "channel": "MBCentertainment",
       "produce_target": false,
       "category": "character",
-      "score": 36,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 137,903) · 속도 3(일 94회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 137,903) · 속도 3(일 94회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4092,19 +4745,23 @@
       "channel": "손흥민재강인",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 99,254) · 속도 3(일 68회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 99,254) · 속도 3(일 68회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4122,19 +4779,23 @@
       "channel": "서형욱의 뽈리TV",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 240.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 27,696) · 속도 3(일 115회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 27,696) · 속도 3(일 115회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4152,19 +4813,23 @@
       "channel": "Mhz 므흐즈: MBC RADIO",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 26,417) · 속도 3(일 18회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 26,417) · 속도 3(일 18회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4182,19 +4847,23 @@
       "channel": "스브스 트렌즈",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 42,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 15,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 4,724) · 속도 3(일 4회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 4,724) · 속도 3(일 4회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 15(상황성 대사인용·대화체·서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4212,19 +4881,24 @@
       "channel": "김하퍼HARPER",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 2190.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 2,499) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 2,499) · 속도 3(일 1회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4242,19 +4916,23 @@
       "channel": "동네축구형 용마니",
       "produce_target": false,
       "category": "character",
-      "score": 39,
+      "criteria_version": "v2",
+      "score": 47,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 18,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,042,169) · 속도 3(일 952회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,042,169) · 속도 3(일 952회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4272,19 +4950,23 @@
       "channel": "동네축구형 용마니",
       "produce_target": false,
       "category": "character",
-      "score": 36,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 9(조회수 174,931) · 속도 3(일 240회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 174,931) · 속도 3(일 240회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4302,19 +4984,23 @@
       "channel": "동네축구형 용마니",
       "produce_target": false,
       "category": "character",
-      "score": 30,
+      "criteria_version": "v2",
+      "score": 43,
       "verdict": "제외",
       "elapsed_days": 730.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 9,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 9(조회수 154,365) · 속도 3(일 211회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 154,365) · 속도 3(일 211회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4332,19 +5018,23 @@
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 83,902) · 속도 3(일 57회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 83,902) · 속도 3(일 57회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4362,19 +5052,23 @@
       "channel": "박종윤(축구)",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 2920.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 62,829) · 속도 3(일 22회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 62,829) · 속도 3(일 22회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4392,19 +5086,23 @@
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 1095.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 55,209) · 속도 3(일 50회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 55,209) · 속도 3(일 50회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4422,19 +5120,24 @@
       "channel": "박종윤(축구)",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 2555.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 46,992) · 속도 3(일 18회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 46,992) · 속도 3(일 18회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:감독) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4452,19 +5155,24 @@
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 2555.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 24,353) · 속도 3(일 10회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 24,353) · 속도 3(일 10회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대화체·서사어:형) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4482,19 +5190,23 @@
       "channel": "토탈싸커",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 27,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 18,203) · 속도 3(일 12회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 18,203) · 속도 3(일 12회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4512,19 +5224,23 @@
       "channel": "조코피TV",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 365.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 15,561) · 속도 3(일 43회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 15,561) · 속도 3(일 43회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4542,19 +5258,23 @@
       "channel": "스탐",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 27,
       "verdict": "제외",
       "elapsed_days": 2555.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 9,869) · 속도 3(일 4회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 9,869) · 속도 3(일 4회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4572,19 +5292,23 @@
       "channel": "히어로 스팟 - Hero Spotlight",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 27,
       "verdict": "제외",
       "elapsed_days": 2555.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 7,238) · 속도 3(일 3회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 7,238) · 속도 3(일 3회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4602,19 +5326,23 @@
       "channel": "Connect",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 27,
       "verdict": "제외",
       "elapsed_days": 1460.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 2,128) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 2,128) · 속도 3(일 1회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4632,19 +5360,23 @@
       "channel": "YTN",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 27,
       "verdict": "제외",
       "elapsed_days": 2190.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 0,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 1,916) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 1,916) · 속도 3(일 1회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 0(상황성 없음(일반론·정보 나열)) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4662,19 +5394,23 @@
       "channel": "YTN",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 2555.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 1,504) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 1,504) · 속도 3(일 1회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대사인용) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4692,19 +5428,23 @@
       "channel": "MBC Sports+",
       "produce_target": false,
       "category": "character",
-      "score": 25,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 2190.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 4(조회수 1,381) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 1,381) · 속도 3(일 1회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·서사어:썰) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4722,19 +5462,23 @@
       "channel": "스포츠조선",
       "produce_target": false,
       "category": "character",
-      "score": 37,
+      "criteria_version": "v2",
+      "score": 38,
       "verdict": "제외",
       "elapsed_days": 2190.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 11,
         "produce": 0,
-        "data": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 1,198) · 속도 3(일 1회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 15(데이터신호 vs·숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 1,198) · 속도 3(일 1회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 11(상황성 대사인용·대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4752,19 +5496,23 @@
       "channel": "인터티비(InterTV)",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 2555.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 250) · 속도 3(일 0회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 250) · 속도 3(일 0회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4782,19 +5530,23 @@
       "channel": "불꽃슛 (팟캐스트 불꽃슛)",
       "produce_target": false,
       "category": "character",
-      "score": 31,
+      "criteria_version": "v2",
+      "score": 33,
       "verdict": "제외",
       "elapsed_days": 1825.0,
+      "tags": [
+        "데이터형"
+      ],
       "breakdown": {
         "views": 4,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 9,
         "risk": 0
       },
-      "why": "조회수 4(조회수 2) · 속도 3(일 0회) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 9(데이터신호 숫자) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 2) · 속도 3(일 0회) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -4812,19 +5564,23 @@
       "channel": "불꽃슛 (팟캐스트 불꽃슛)",
       "produce_target": false,
       "category": "character",
-      "score": 21,
+      "criteria_version": "v2",
+      "score": 29,
       "verdict": "제외",
       "elapsed_days": 1825.0,
+      "tags": [
+        "서사형"
+      ],
       "breakdown": {
         "views": 0,
         "velocity": 3,
-        "suffix": 15,
+        "suffix": 20,
         "humor": 0,
+        "character": 6,
         "produce": 0,
-        "data": 3,
         "risk": 0
       },
-      "why": "조회수 0(조회수 없음) · 속도 3(속도 산출 불가(조회수 또는 게시일 없음)) · 접미 15(접미 '썰') · 유머 0(유머신호 없음) · 제작 0(관측 전용(축구)) · 데이터 3(데이터신호 없음) · 리스크 0(리스크 없음)"
+      "why": "조회수 0(조회수 없음) · 속도 3(속도 산출 불가) · 접미 20(접미 '썰') · 유머 0(유머신호 없음) · 상황성 6(상황성 대화체) · 제작 0(관측 전용(축구)) · 리스크 0(리스크 없음)"
     }
   ]
 }
