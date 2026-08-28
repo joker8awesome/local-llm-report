@@ -1,6 +1,6 @@
 {
   "count": 160,
-  "generated_at": 1787920225,
+  "generated_at": 1787947476,
   "by_topic": {
     "kbo_rank": 20,
     "hanwha": 20,
@@ -21,8 +21,8 @@
   "scoring": {
     "criteria": "_shared/content_selection_criteria.md v3",
     "verdicts": {
-      "제외": 126,
-      "보류": 30,
+      "제외": 125,
+      "보류": 31,
       "후보": 4
     },
     "recommend_rule": "produce_target=true · 70점 이상 후보 · 상위 10 · 토픽당 최대 3"
@@ -35,14 +35,14 @@
       "topic": "ohtani",
       "topic_name": "오타니/다저스",
       "title": "'야구의 신'을 잘못 건드린 최후...| 오타니 쇼헤이의 모든 것",
-      "view_count": 1078455,
+      "view_count": 1081880,
       "url": "https://www.youtube.com/watch?v=SEdq3d1GEN0",
       "thumbnail": "https://i.ytimg.com/vi/SEdq3d1GEN0/mqdefault.jpg",
       "channel": "라이프시크릿",
       "tags": [
         "서사형"
       ],
-      "why": "조회수 18(조회수 1,078,455) · 속도 12(일 11,983회) · 접미 13(접미 '썰') · 유머 9(유머신호 최후) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(최후·건드린)) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,081,880) · 속도 12(일 12,021회) · 접미 13(접미 '썰') · 유머 9(유머신호 최후) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(최후·건드린)) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "0DIvs70EsBk",
@@ -51,14 +51,14 @@
       "topic": "kimdoyoung",
       "topic_name": "김도영",
       "title": "17년만에 야구 월드컵 본선 진출 성공해서 초흥분 상태가 된 야구팬들 ㅋㅋㅋㅋㅋㅋ WBC 8강 진출한 한국 야구팀 & 개웃긴 야구 짤 레전드 ㅋㅋㅋㅋㅋㅋ",
-      "view_count": 1350355,
+      "view_count": 1352392,
       "url": "https://www.youtube.com/watch?v=0DIvs70EsBk",
       "thumbnail": "https://i.ytimg.com/vi/0DIvs70EsBk/mqdefault.jpg",
       "channel": "김준표",
       "tags": [
         "데이터형"
       ],
-      "why": "조회수 18(조회수 1,350,355) · 속도 9(일 9,002회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 진출한) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,352,392) · 속도 9(일 9,016회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 진출한) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "b5XHbtsUyXw",
@@ -67,7 +67,7 @@
       "topic": "ohtani",
       "topic_name": "오타니/다저스",
       "title": "] 최지만이 메이저리그에 입성할 수 있었던 이유ㅣ야구돼장 이대호 EP24-1 최지만",
-      "view_count": 1323891,
+      "view_count": 1325174,
       "url": "https://www.youtube.com/watch?v=b5XHbtsUyXw",
       "thumbnail": "https://i.ytimg.com/vi/b5XHbtsUyXw/mqdefault.jpg",
       "channel": "이대호 [RE:DAEHO]",
@@ -75,7 +75,7 @@
         "데이터형",
         "서사형"
       ],
-      "why": "조회수 18(조회수 1,323,891) · 속도 9(일 4,012회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최지만·이대호) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,325,174) · 속도 9(일 4,016회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최지만·이대호) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "XiMp1jNMtP8",
@@ -84,14 +84,14 @@
       "topic": "kia",
       "topic_name": "KIA 타이거즈",
       "title": "\"투수들은 타이거즈정신을 몰라!\" 작년 결의대회 보고 답답해서 달려온 야수조 형님들과 토크 다이다이했습니다 | 사이버 윤석민 Ep.KIA타이거즈결의대회-1",
-      "view_count": 722281,
+      "view_count": 723380,
       "url": "https://www.youtube.com/watch?v=XiMp1jNMtP8",
       "thumbnail": "https://i.ytimg.com/vi/XiMp1jNMtP8/mqdefault.jpg",
       "channel": "사이버 윤석민",
       "tags": [
         "데이터형"
       ],
-      "why": "조회수 14(조회수 722,281) · 속도 12(일 24,076회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 윤석민) · 상황 15(특정 사건·장면(결의대회)) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 723,380) · 속도 12(일 24,113회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 윤석민) · 상황 15(특정 사건·장면(결의대회)) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "wtixulEVy7s",
@@ -100,7 +100,7 @@
       "topic": "kimdoyoung",
       "topic_name": "김도영",
       "title": "[전참시] 살치 주물럭+특상 우설+뭉티기+육회 먹으면서 야구 썰 푸는 87년생 야구 레전드들 MBC260131방송 #전지적참견시점 #황재균 #류현진",
-      "view_count": 878264,
+      "view_count": 879274,
       "url": "https://www.youtube.com/watch?v=wtixulEVy7s",
       "thumbnail": "https://i.ytimg.com/vi/wtixulEVy7s/mqdefault.jpg",
       "channel": "픽잇 :Pick it",
@@ -108,7 +108,7 @@
         "데이터형",
         "서사형"
       ],
-      "why": "조회수 14(조회수 878,264) · 속도 9(일 4,879회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 전참시·주물럭·황재균) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 879,274) · 속도 9(일 4,885회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 전참시·주물럭·황재균) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "bBl42dZHECA",
@@ -117,14 +117,14 @@
       "topic": "kia",
       "topic_name": "KIA 타이거즈",
       "title": "\"그래 양현종이 왔구나?\" 타이거즈정신 무장하러 동기 & 후배들 집합시켰습니다 | 사이버 윤석민 Ep.KIA타이거즈총회-1",
-      "view_count": 982602,
+      "view_count": 983127,
       "url": "https://www.youtube.com/watch?v=bBl42dZHECA",
       "thumbnail": "https://i.ytimg.com/vi/bBl42dZHECA/mqdefault.jpg",
       "channel": "사이버 윤석민",
       "tags": [
         "데이터형"
       ],
-      "why": "조회수 14(조회수 982,602) · 속도 9(일 3,639회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 양현종·윤석민) · 상황 15(특정 사건·장면(집합·무장)) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 983,127) · 속도 9(일 3,641회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 양현종·윤석민) · 상황 15(특정 사건·장면(집합·무장)) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "XLuH41HJKB8",
@@ -133,7 +133,7 @@
       "topic": "hanwha",
       "topic_name": "한화 이글스",
       "title": "\"2등도 잘한 거라고?? X발 내년부터 다시 ㅈ랄날 게 보인다\" 준우승한 한화에 개빡쳐버린 야구팬들 ㅋㅋㅋㅋㅋ 분노분노 야구 모음집 레전드 모음 ㅋㅋㅋㅋㅋㅋ",
-      "view_count": 1268540,
+      "view_count": 1269232,
       "url": "https://www.youtube.com/watch?v=XLuH41HJKB8",
       "thumbnail": "https://i.ytimg.com/vi/XLuH41HJKB8/mqdefault.jpg",
       "channel": "김준표",
@@ -141,7 +141,7 @@
         "데이터형",
         "제목 재작성 필요"
       ],
-      "why": "조회수 18(조회수 1,268,540) · 속도 9(일 4,698회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 모음집) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,269,232) · 속도 9(일 4,701회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 모음집) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "idCL-816j3c",
@@ -150,7 +150,7 @@
       "topic": "hanwha",
       "topic_name": "한화 이글스",
       "title": "21년, 우승반지 3개💍 그럼에도 이재원이 ‘다시 태어나도 포수’인 진짜 이유 [야진남]",
-      "view_count": 131963,
+      "view_count": 131973,
       "url": "https://www.youtube.com/watch?v=idCL-816j3c",
       "thumbnail": "https://i.ytimg.com/vi/idCL-816j3c/mqdefault.jpg",
       "channel": "Eagles TV",
@@ -158,7 +158,7 @@
         "데이터형",
         "서사형"
       ],
-      "why": "조회수 9(조회수 131,963) · 속도 3(일 733회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 이재원) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 131,973) · 속도 3(일 733회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 이재원) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "s3RTmm5Qzvc",
@@ -167,7 +167,7 @@
       "topic": "hanwha",
       "topic_name": "한화 이글스",
       "title": "\"경기 보다가 ㅈㄴ 빡쳐서 주먹으로 TV 뿌쉈다 버러지 새X들아\" 파멸적인 롯데와 한화의 실력에 개빡돌아버린 야구팬들 근황 ㅋㅋㅋㅋㅋㅋ 싱글벙글 KBO 야구 모음집 레전드",
-      "view_count": 919189,
+      "view_count": 920943,
       "url": "https://www.youtube.com/watch?v=s3RTmm5Qzvc",
       "thumbnail": "https://i.ytimg.com/vi/s3RTmm5Qzvc/mqdefault.jpg",
       "channel": "김준표",
@@ -175,7 +175,7 @@
         "서사형",
         "제목 재작성 필요"
       ],
-      "why": "조회수 14(조회수 919,189) · 속도 12(일 10,213회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 모음집) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 920,943) · 속도 12(일 10,233회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 모음집) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "tTq2dkX_RlE",
@@ -184,7 +184,7 @@
       "topic": "ohtani",
       "topic_name": "오타니/다저스",
       "title": "오타니 쇼헤이 명언 l '1조원' 벌고 느낀, 돈이 크게 중요하지 이유... l 야구 LA 다저스",
-      "view_count": 882730,
+      "view_count": 882818,
       "url": "https://www.youtube.com/watch?v=tTq2dkX_RlE",
       "thumbnail": "https://i.ytimg.com/vi/tTq2dkX_RlE/mqdefault.jpg",
       "channel": "멘탈케어::힐링 심리학 채널::",
@@ -192,7 +192,7 @@
         "데이터형",
         "서사형"
       ],
-      "why": "조회수 14(조회수 882,730) · 속도 6(일 2,675회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 882,818) · 속도 6(일 2,675회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     }
   ],
   "items": [
@@ -204,11 +204,11 @@
       "url": "https://www.youtube.com/watch?v=fH6DSRU8xdo",
       "video_id": "fH6DSRU8xdo",
       "thumbnail": "https://i.ytimg.com/vi/fH6DSRU8xdo/mqdefault.jpg",
-      "view_count": 706835,
+      "view_count": 709311,
       "duration_sec": 1445,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "KBOPLAYLIST",
       "produce_target": true,
       "category": "character",
@@ -228,7 +228,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 14(조회수 706,835) · 속도 6(일 2,945회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 709,311) · 속도 6(일 2,955회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -238,11 +238,11 @@
       "url": "https://www.youtube.com/watch?v=frrQH33O7jQ",
       "video_id": "frrQH33O7jQ",
       "thumbnail": "https://i.ytimg.com/vi/frrQH33O7jQ/mqdefault.jpg",
-      "view_count": 607851,
+      "view_count": 607944,
       "duration_sec": 965,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -262,7 +262,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 607,851) · 속도 6(일 2,895회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 607,944) · 속도 6(일 2,895회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -272,11 +272,11 @@
       "url": "https://www.youtube.com/watch?v=dN4JZdLs5Kg",
       "video_id": "dN4JZdLs5Kg",
       "thumbnail": "https://i.ytimg.com/vi/dN4JZdLs5Kg/mqdefault.jpg",
-      "view_count": 355276,
+      "view_count": 355376,
       "duration_sec": 827,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -296,7 +296,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 355,276) · 속도 6(일 1,077회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 355,376) · 속도 6(일 1,077회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -306,11 +306,11 @@
       "url": "https://www.youtube.com/watch?v=e25geYlHhpA",
       "video_id": "e25geYlHhpA",
       "thumbnail": "https://i.ytimg.com/vi/e25geYlHhpA/mqdefault.jpg",
-      "view_count": 334561,
+      "view_count": 334670,
       "duration_sec": 1295,
       "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -330,7 +330,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 334,561) · 속도 6(일 1,859회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 334,670) · 속도 6(일 1,859회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -340,11 +340,11 @@
       "url": "https://www.youtube.com/watch?v=Ye-p8wfQilM",
       "video_id": "Ye-p8wfQilM",
       "thumbnail": "https://i.ytimg.com/vi/Ye-p8wfQilM/mqdefault.jpg",
-      "view_count": 322780,
+      "view_count": 323024,
       "duration_sec": 1038,
       "published_at": "9개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -364,7 +364,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 9(조회수 322,780) · 속도 6(일 1,195회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 323,024) · 속도 6(일 1,196회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -374,11 +374,11 @@
       "url": "https://www.youtube.com/watch?v=J6fIl-GWmz0",
       "video_id": "J6fIl-GWmz0",
       "thumbnail": "https://i.ytimg.com/vi/J6fIl-GWmz0/mqdefault.jpg",
-      "view_count": 296453,
+      "view_count": 297776,
       "duration_sec": 1157,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -398,41 +398,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 296,453) · 속도 6(일 1,235회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 라인업) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "kbo_rank",
-      "topic_name": "KBO 순위/5강",
-      "suffix": "썰",
-      "title": "불펜 1대장은 팀은 무조건 여기입니다🔥 2026년 10개 구단 불펜 점검",
-      "url": "https://www.youtube.com/watch?v=IzCV0wKoHRI",
-      "video_id": "IzCV0wKoHRI",
-      "thumbnail": "https://i.ytimg.com/vi/IzCV0wKoHRI/mqdefault.jpg",
-      "view_count": 233406,
-      "duration_sec": 1302,
-      "published_at": "6개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
-      "channel": "야친남 너클볼",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 36,
-      "verdict": "제외",
-      "elapsed_days": 180.0,
-      "tags": [
-        "데이터형"
-      ],
-      "breakdown": {
-        "views": 9,
-        "velocity": 6,
-        "suffix": 13,
-        "humor": 0,
-        "person": 0,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 9(조회수 233,406) · 속도 6(일 1,297회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 297,776) · 속도 6(일 1,241회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 라인업) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -442,11 +408,11 @@
       "url": "https://www.youtube.com/watch?v=Y454bQhh7Oo",
       "video_id": "Y454bQhh7Oo",
       "thumbnail": "https://i.ytimg.com/vi/Y454bQhh7Oo/mqdefault.jpg",
-      "view_count": 201674,
+      "view_count": 206479,
       "duration_sec": 955,
       "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -466,41 +432,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 201,674) · 속도 9(일 6,722회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "kbo_rank",
-      "topic_name": "KBO 순위/5강",
-      "suffix": "썰",
-      "title": "구단별 가장 탐나는 선발 투수 10인 총정리🔥",
-      "url": "https://www.youtube.com/watch?v=O4wKoAHUX6o",
-      "video_id": "O4wKoAHUX6o",
-      "thumbnail": "https://i.ytimg.com/vi/O4wKoAHUX6o/mqdefault.jpg",
-      "view_count": 119214,
-      "duration_sec": 734,
-      "published_at": "2개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
-      "channel": "야친남 너클볼",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 43,
-      "verdict": "제외",
-      "elapsed_days": 60.0,
-      "tags": [
-        "데이터형"
-      ],
-      "breakdown": {
-        "views": 9,
-        "velocity": 6,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 0,
-        "risk": 0
-      },
-      "why": "조회수 9(조회수 119,214) · 속도 6(일 1,987회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 206,479) · 속도 9(일 6,883회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -510,11 +442,11 @@
       "url": "https://www.youtube.com/watch?v=CEcrOUVsWM4",
       "video_id": "CEcrOUVsWM4",
       "thumbnail": "https://i.ytimg.com/vi/CEcrOUVsWM4/mqdefault.jpg",
-      "view_count": 111949,
+      "view_count": 111983,
       "duration_sec": 1069,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -534,7 +466,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 111,949) · 속도 3(일 933회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 111,983) · 속도 3(일 933회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -544,11 +476,11 @@
       "url": "https://www.youtube.com/watch?v=DTdynRE5drE",
       "video_id": "DTdynRE5drE",
       "thumbnail": "https://i.ytimg.com/vi/DTdynRE5drE/mqdefault.jpg",
-      "view_count": 110457,
+      "view_count": 110490,
       "duration_sec": 930,
       "published_at": "9개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야구막내 The Baseball Youngest",
       "produce_target": true,
       "category": "character",
@@ -568,7 +500,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 110,457) · 속도 3(일 409회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김재호·유격수) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 110,490) · 속도 3(일 409회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김재호·유격수) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -578,11 +510,11 @@
       "url": "https://www.youtube.com/watch?v=7wgIitM5Xho",
       "video_id": "7wgIitM5Xho",
       "thumbnail": "https://i.ytimg.com/vi/7wgIitM5Xho/mqdefault.jpg",
-      "view_count": 105867,
+      "view_count": 105977,
       "duration_sec": 1017,
       "published_at": "3개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -602,7 +534,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 105,867) · 속도 6(일 1,176회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 105,977) · 속도 6(일 1,178회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -612,11 +544,11 @@
       "url": "https://www.youtube.com/watch?v=YgYOG_cVz2c",
       "video_id": "YgYOG_cVz2c",
       "thumbnail": "https://i.ytimg.com/vi/YgYOG_cVz2c/mqdefault.jpg",
-      "view_count": 97833,
+      "view_count": 97859,
       "duration_sec": 784,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -636,7 +568,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 4(조회수 97,833) · 속도 3(일 815회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 97,859) · 속도 3(일 815회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -646,11 +578,11 @@
       "url": "https://www.youtube.com/watch?v=GATar96Pj2I",
       "video_id": "GATar96Pj2I",
       "thumbnail": "https://i.ytimg.com/vi/GATar96Pj2I/mqdefault.jpg",
-      "view_count": 87021,
+      "view_count": 87137,
       "duration_sec": 482,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -670,7 +602,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 4(조회수 87,021) · 속도 3(일 580회) · 접미 13(접미 '썰') · 유머 9(유머신호 미친) · 인물 15(실명 기록들) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 87,137) · 속도 3(일 581회) · 접미 13(접미 '썰') · 유머 9(유머신호 미친) · 인물 15(실명 기록들) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -680,11 +612,11 @@
       "url": "https://www.youtube.com/watch?v=DPxJY3IhwRE",
       "video_id": "DPxJY3IhwRE",
       "thumbnail": "https://i.ytimg.com/vi/DPxJY3IhwRE/mqdefault.jpg",
-      "view_count": 69241,
+      "view_count": 69243,
       "duration_sec": 1303,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야구부장",
       "produce_target": true,
       "category": "character",
@@ -704,7 +636,41 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 69,241) · 속도 3(일 462회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김태형) · 상황 15(특정 사건·장면(난무)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 69,243) · 속도 3(일 462회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김태형) · 상황 15(특정 사건·장면(난무)) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "kbo_rank",
+      "topic_name": "KBO 순위/5강",
+      "suffix": "별명",
+      "title": "KBO 야구팬 1%만 만점 가능🔥팀 이름 듣고 응원가 맞추기(10구단 50문제)",
+      "url": "https://www.youtube.com/watch?v=EivrZCNE7gM",
+      "video_id": "EivrZCNE7gM",
+      "thumbnail": "https://i.ytimg.com/vi/EivrZCNE7gM/mqdefault.jpg",
+      "view_count": 53366,
+      "duration_sec": 943,
+      "published_at": "3개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:00:30+09:00",
+      "channel": "세모퀴즈 - 세상의 모든 퀴즈",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 25,
+      "verdict": "제외",
+      "elapsed_days": 90.0,
+      "tags": [
+        "데이터형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 10,
+        "humor": 0,
+        "person": 0,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 53,366) · 속도 3(일 593회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -714,11 +680,11 @@
       "url": "https://www.youtube.com/watch?v=sBsIboSY3Rg",
       "video_id": "sBsIboSY3Rg",
       "thumbnail": "https://i.ytimg.com/vi/sBsIboSY3Rg/mqdefault.jpg",
-      "view_count": 51460,
+      "view_count": 51473,
       "duration_sec": 892,
       "published_at": "3개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -738,7 +704,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 51,460) · 속도 3(일 572회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 51,473) · 속도 3(일 572회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -748,11 +714,11 @@
       "url": "https://www.youtube.com/watch?v=YU1DP4uhmXA",
       "video_id": "YU1DP4uhmXA",
       "thumbnail": "https://i.ytimg.com/vi/YU1DP4uhmXA/mqdefault.jpg",
-      "view_count": 50219,
+      "view_count": 50226,
       "duration_sec": 900,
       "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -772,7 +738,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 50,219) · 속도 6(일 1,674회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 50,226) · 속도 6(일 1,674회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -782,11 +748,11 @@
       "url": "https://www.youtube.com/watch?v=WCe3cqqiAnM",
       "video_id": "WCe3cqqiAnM",
       "thumbnail": "https://i.ytimg.com/vi/WCe3cqqiAnM/mqdefault.jpg",
-      "view_count": 47089,
+      "view_count": 47094,
       "duration_sec": 728,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -806,7 +772,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 47,089) · 속도 3(일 785회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 47,094) · 속도 3(일 785회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -816,11 +782,11 @@
       "url": "https://www.youtube.com/watch?v=btX-xbTQZPw",
       "video_id": "btX-xbTQZPw",
       "thumbnail": "https://i.ytimg.com/vi/btX-xbTQZPw/mqdefault.jpg",
-      "view_count": 32479,
+      "view_count": 35344,
       "duration_sec": 222,
       "published_at": "4일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "스포츠클래식 SportsClassic",
       "produce_target": true,
       "category": "character",
@@ -840,7 +806,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 32,479) · 속도 9(일 8,120회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 라운드) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 35,344) · 속도 9(일 8,836회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 라운드) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kbo_rank",
@@ -854,7 +820,7 @@
       "duration_sec": 1855,
       "published_at": "3주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:25:51+09:00",
+      "collected_at": "2026-08-29T05:00:30+09:00",
       "channel": "스포티비뉴스#스포타임",
       "produce_target": true,
       "category": "character",
@@ -878,6 +844,40 @@
       "why": "조회수 4(조회수 13,973) · 속도 3(일 665회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
     },
     {
+      "topic": "kbo_rank",
+      "topic_name": "KBO 순위/5강",
+      "suffix": "썰",
+      "title": "그렇다, 심수창은 야구 선수였다 [수근수근 최근야구] EP.22 [유료광고 포함]ㅣKBS 20260824",
+      "url": "https://www.youtube.com/watch?v=Xpg27EBvMSc",
+      "video_id": "Xpg27EBvMSc",
+      "thumbnail": "https://i.ytimg.com/vi/Xpg27EBvMSc/mqdefault.jpg",
+      "view_count": 2330,
+      "duration_sec": 1624,
+      "published_at": "4일 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:00:30+09:00",
+      "channel": "올스",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 43,
+      "verdict": "제외",
+      "elapsed_days": 4.0,
+      "tags": [
+        "데이터형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 13,
+        "humor": 0,
+        "person": 15,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 2,330) · 속도 3(일 582회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 심수창) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
       "topic": "hanwha",
       "topic_name": "한화 이글스",
       "suffix": "썰",
@@ -885,11 +885,11 @@
       "url": "https://www.youtube.com/watch?v=XLuH41HJKB8",
       "video_id": "XLuH41HJKB8",
       "thumbnail": "https://i.ytimg.com/vi/XLuH41HJKB8/mqdefault.jpg",
-      "view_count": 1268540,
+      "view_count": 1269232,
       "duration_sec": 721,
       "published_at": "9개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "김준표",
       "produce_target": true,
       "category": "character",
@@ -910,7 +910,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,268,540) · 속도 9(일 4,698회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 모음집) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,269,232) · 속도 9(일 4,701회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 모음집) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -920,11 +920,11 @@
       "url": "https://www.youtube.com/watch?v=s3RTmm5Qzvc",
       "video_id": "s3RTmm5Qzvc",
       "thumbnail": "https://i.ytimg.com/vi/s3RTmm5Qzvc/mqdefault.jpg",
-      "view_count": 919189,
+      "view_count": 920943,
       "duration_sec": 724,
       "published_at": "3개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "김준표",
       "produce_target": true,
       "category": "character",
@@ -945,7 +945,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 14(조회수 919,189) · 속도 12(일 10,213회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 모음집) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 920,943) · 속도 12(일 10,233회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 모음집) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -955,11 +955,11 @@
       "url": "https://www.youtube.com/watch?v=sp7R_IpUIss",
       "video_id": "sp7R_IpUIss",
       "thumbnail": "https://i.ytimg.com/vi/sp7R_IpUIss/mqdefault.jpg",
-      "view_count": 398949,
+      "view_count": 399080,
       "duration_sec": 1178,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
@@ -979,7 +979,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 398,949) · 속도 6(일 1,662회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최재훈·노시환·도쿄돔) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 399,080) · 속도 6(일 1,663회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최재훈·노시환·도쿄돔) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -989,11 +989,11 @@
       "url": "https://www.youtube.com/watch?v=2wnvoXbejos",
       "video_id": "2wnvoXbejos",
       "thumbnail": "https://i.ytimg.com/vi/2wnvoXbejos/mqdefault.jpg",
-      "view_count": 395641,
+      "view_count": 395654,
       "duration_sec": 2138,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
@@ -1014,7 +1014,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 395,641) · 속도 6(일 1,884회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김경문·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 395,654) · 속도 6(일 1,884회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김경문·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1024,11 +1024,11 @@
       "url": "https://www.youtube.com/watch?v=H1wrsEtEcPA",
       "video_id": "H1wrsEtEcPA",
       "thumbnail": "https://i.ytimg.com/vi/H1wrsEtEcPA/mqdefault.jpg",
-      "view_count": 383571,
+      "view_count": 385692,
       "duration_sec": 748,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -1048,7 +1048,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 383,571) · 속도 6(일 1,827회) · 접미 13(접미 '썰') · 유머 9(유머신호 역대급) · 인물 15(실명 이적들) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 385,692) · 속도 6(일 1,837회) · 접미 13(접미 '썰') · 유머 9(유머신호 역대급) · 인물 15(실명 이적들) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1058,11 +1058,11 @@
       "url": "https://www.youtube.com/watch?v=xrgEFjOVKK4",
       "video_id": "xrgEFjOVKK4",
       "thumbnail": "https://i.ytimg.com/vi/xrgEFjOVKK4/mqdefault.jpg",
-      "view_count": 292574,
+      "view_count": 292738,
       "duration_sec": 2201,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "SportsTalk킹",
       "produce_target": true,
       "category": "character",
@@ -1082,7 +1082,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 292,574) · 속도 6(일 1,393회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 라이징) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 292,738) · 속도 6(일 1,394회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 라이징) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1092,11 +1092,11 @@
       "url": "https://www.youtube.com/watch?v=I4FlnZZ3_cI",
       "video_id": "I4FlnZZ3_cI",
       "thumbnail": "https://i.ytimg.com/vi/I4FlnZZ3_cI/mqdefault.jpg",
-      "view_count": 205866,
+      "view_count": 205957,
       "duration_sec": 1165,
       "published_at": "9개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
@@ -1116,7 +1116,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 205,866) · 속도 3(일 762회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 방까지·방털기) · 상황 15(특정 사건·장면(난무)) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 205,957) · 속도 3(일 763회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 방까지·방털기) · 상황 15(특정 사건·장면(난무)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1126,11 +1126,11 @@
       "url": "https://www.youtube.com/watch?v=gLZBecubFvo",
       "video_id": "gLZBecubFvo",
       "thumbnail": "https://i.ytimg.com/vi/gLZBecubFvo/mqdefault.jpg",
-      "view_count": 139374,
+      "view_count": 139413,
       "duration_sec": 982,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
@@ -1151,7 +1151,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 139,374) · 속도 3(일 929회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김서현·정우주) · 상황 15(특정 사건·장면(사건)) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 139,413) · 속도 3(일 929회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김서현·정우주) · 상황 15(특정 사건·장면(사건)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1161,11 +1161,11 @@
       "url": "https://www.youtube.com/watch?v=idCL-816j3c",
       "video_id": "idCL-816j3c",
       "thumbnail": "https://i.ytimg.com/vi/idCL-816j3c/mqdefault.jpg",
-      "view_count": 131963,
+      "view_count": 131973,
       "duration_sec": 2627,
       "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "Eagles TV",
       "produce_target": true,
       "category": "character",
@@ -1186,7 +1186,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 131,963) · 속도 3(일 733회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 이재원) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 131,973) · 속도 3(일 733회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 이재원) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1196,11 +1196,11 @@
       "url": "https://www.youtube.com/watch?v=2zzPVWWChiU",
       "video_id": "2zzPVWWChiU",
       "thumbnail": "https://i.ytimg.com/vi/2zzPVWWChiU/mqdefault.jpg",
-      "view_count": 114235,
+      "view_count": 115375,
       "duration_sec": 885,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "야구막내 The Baseball Youngest",
       "produce_target": true,
       "category": "character",
@@ -1220,7 +1220,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 114,235) · 속도 6(일 1,904회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 기묘한·구대성) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 115,375) · 속도 6(일 1,923회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 기묘한·구대성) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1230,11 +1230,11 @@
       "url": "https://www.youtube.com/watch?v=AA99BxRw-5c",
       "video_id": "AA99BxRw-5c",
       "thumbnail": "https://i.ytimg.com/vi/AA99BxRw-5c/mqdefault.jpg",
-      "view_count": 104887,
+      "view_count": 104890,
       "duration_sec": 417,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "그분이 알고싶다",
       "produce_target": true,
       "category": "character",
@@ -1254,7 +1254,7 @@
         "situation": 8,
         "risk": -10
       },
-      "why": "조회수 9(조회수 104,887) · 속도 3(일 318회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 정치인·김승연·이야기) · 상황 8(일반 상황) · 리스크 -10(정치·병역·국적 -10)"
+      "why": "조회수 9(조회수 104,890) · 속도 3(일 318회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 정치인·김승연·이야기) · 상황 8(일반 상황) · 리스크 -10(정치·병역·국적 -10)"
     },
     {
       "topic": "hanwha",
@@ -1264,11 +1264,11 @@
       "url": "https://www.youtube.com/watch?v=25Bw7Vrd5c4",
       "video_id": "25Bw7Vrd5c4",
       "thumbnail": "https://i.ytimg.com/vi/25Bw7Vrd5c4/mqdefault.jpg",
-      "view_count": 99236,
+      "view_count": 99245,
       "duration_sec": 105,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "JTBC News",
       "produce_target": true,
       "category": "character",
@@ -1288,7 +1288,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 99,236) · 속도 3(일 827회) · 접미 13(접미 '썰') · 유머 9(유머신호 왜) · 인물 15(실명 안하지·선수들) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 99,245) · 속도 3(일 827회) · 접미 13(접미 '썰') · 유머 9(유머신호 왜) · 인물 15(실명 안하지·선수들) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1298,11 +1298,11 @@
       "url": "https://www.youtube.com/watch?v=GrP0ei28jik",
       "video_id": "GrP0ei28jik",
       "thumbnail": "https://i.ytimg.com/vi/GrP0ei28jik/mqdefault.jpg",
-      "view_count": 66091,
+      "view_count": 66100,
       "duration_sec": 1372,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "김태균 [TK52]",
       "produce_target": true,
       "category": "character",
@@ -1322,7 +1322,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 66,091) · 속도 6(일 1,102회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 박한결·장운호·윤대경) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 66,100) · 속도 6(일 1,102회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 박한결·장운호·윤대경) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1336,7 +1336,7 @@
       "duration_sec": 597,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "크보쌍둥이",
       "produce_target": true,
       "category": "character",
@@ -1366,11 +1366,11 @@
       "url": "https://www.youtube.com/watch?v=dM1KtV2t4B4",
       "video_id": "dM1KtV2t4B4",
       "thumbnail": "https://i.ytimg.com/vi/dM1KtV2t4B4/mqdefault.jpg",
-      "view_count": 19489,
+      "view_count": 19490,
       "duration_sec": 166,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "제육볶음 한화이글스",
       "produce_target": true,
       "category": "character",
@@ -1390,7 +1390,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 19,489) · 속도 3(일 162회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 김경문·이러고) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 19,490) · 속도 3(일 162회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 김경문·이러고) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1400,11 +1400,11 @@
       "url": "https://www.youtube.com/watch?v=pjtaiM9Awgo",
       "video_id": "pjtaiM9Awgo",
       "thumbnail": "https://i.ytimg.com/vi/pjtaiM9Awgo/mqdefault.jpg",
-      "view_count": 18262,
+      "view_count": 18269,
       "duration_sec": 2316,
       "published_at": "10개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "TV-People",
       "produce_target": true,
       "category": "character",
@@ -1425,7 +1425,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 18,262) · 속도 3(일 61회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 18,269) · 속도 3(일 61회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1435,11 +1435,11 @@
       "url": "https://www.youtube.com/watch?v=0ZQDAWR-qSk",
       "video_id": "0ZQDAWR-qSk",
       "thumbnail": "https://i.ytimg.com/vi/0ZQDAWR-qSk/mqdefault.jpg",
-      "view_count": 12859,
+      "view_count": 13355,
       "duration_sec": 485,
       "published_at": "1일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "이글수리수리",
       "produce_target": true,
       "category": "character",
@@ -1460,7 +1460,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 12,859) · 속도 12(일 12,859회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김경문·신구장) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 13,355) · 속도 12(일 13,355회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김경문·신구장) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "hanwha",
@@ -1474,7 +1474,7 @@
       "duration_sec": 58,
       "published_at": "3개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "쓱케치북",
       "produce_target": true,
       "category": "character",
@@ -1508,7 +1508,7 @@
       "duration_sec": 417,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "나연",
       "produce_target": true,
       "category": "character",
@@ -1539,11 +1539,11 @@
       "url": "https://www.youtube.com/watch?v=TFy00dTwyWk",
       "video_id": "TFy00dTwyWk",
       "thumbnail": "https://i.ytimg.com/vi/TFy00dTwyWk/mqdefault.jpg",
-      "view_count": 308,
+      "view_count": 316,
       "duration_sec": 689,
       "published_at": "3주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:26:41+09:00",
+      "collected_at": "2026-08-29T05:01:06+09:00",
       "channel": "예응yeeung",
       "produce_target": true,
       "category": "character",
@@ -1564,7 +1564,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 308) · 속도 3(일 15회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 박상원·이도윤·성심당) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 316) · 속도 3(일 15회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 박상원·이도윤·성심당) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1574,11 +1574,11 @@
       "url": "https://www.youtube.com/watch?v=bBl42dZHECA",
       "video_id": "bBl42dZHECA",
       "thumbnail": "https://i.ytimg.com/vi/bBl42dZHECA/mqdefault.jpg",
-      "view_count": 982602,
+      "view_count": 983127,
       "duration_sec": 2852,
       "published_at": "9개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
@@ -1598,7 +1598,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 14(조회수 982,602) · 속도 9(일 3,639회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 양현종·윤석민) · 상황 15(특정 사건·장면(집합·무장)) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 983,127) · 속도 9(일 3,641회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 양현종·윤석민) · 상황 15(특정 사건·장면(집합·무장)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1608,11 +1608,11 @@
       "url": "https://www.youtube.com/watch?v=XiMp1jNMtP8",
       "video_id": "XiMp1jNMtP8",
       "thumbnail": "https://i.ytimg.com/vi/XiMp1jNMtP8/mqdefault.jpg",
-      "view_count": 722281,
+      "view_count": 723380,
       "duration_sec": 3998,
       "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
@@ -1632,7 +1632,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 14(조회수 722,281) · 속도 12(일 24,076회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 윤석민) · 상황 15(특정 사건·장면(결의대회)) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 723,380) · 속도 12(일 24,113회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 윤석민) · 상황 15(특정 사건·장면(결의대회)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1642,11 +1642,11 @@
       "url": "https://www.youtube.com/watch?v=sd3M710PQJ8",
       "video_id": "sd3M710PQJ8",
       "thumbnail": "https://i.ytimg.com/vi/sd3M710PQJ8/mqdefault.jpg",
-      "view_count": 684087,
+      "view_count": 684424,
       "duration_sec": 2471,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
@@ -1666,7 +1666,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 684,087) · 속도 6(일 2,850회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 양현종·윤석민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 684,424) · 속도 6(일 2,852회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 양현종·윤석민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1676,11 +1676,11 @@
       "url": "https://www.youtube.com/watch?v=q7gXB1PeIaU",
       "video_id": "q7gXB1PeIaU",
       "thumbnail": "https://i.ytimg.com/vi/q7gXB1PeIaU/mqdefault.jpg",
-      "view_count": 635355,
+      "view_count": 635974,
       "duration_sec": 3221,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
@@ -1700,41 +1700,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 635,355) · 속도 6(일 2,647회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 윤석민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "suffix": "별명",
-      "title": "\"제가 모를 거 같죠?ㅋ\" 야구 경기보다 더 재밌는 야구선수 별명 맞히기 ㅋㅋㅋ | 사이버 윤석민 Ep.야구선수별명",
-      "url": "https://www.youtube.com/watch?v=jps8MKHfSa0",
-      "video_id": "jps8MKHfSa0",
-      "thumbnail": "https://i.ytimg.com/vi/jps8MKHfSa0/mqdefault.jpg",
-      "view_count": 503287,
-      "duration_sec": 1829,
-      "published_at": "4개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
-      "channel": "사이버 윤석민",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 56,
-      "verdict": "보류",
-      "elapsed_days": 120.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 14,
-        "velocity": 9,
-        "suffix": 10,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 14(조회수 503,287) · 속도 9(일 4,194회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 윤석민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 635,974) · 속도 6(일 2,650회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 윤석민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1744,11 +1710,11 @@
       "url": "https://www.youtube.com/watch?v=ncRKQTM4vmc",
       "video_id": "ncRKQTM4vmc",
       "thumbnail": "https://i.ytimg.com/vi/ncRKQTM4vmc/mqdefault.jpg",
-      "view_count": 390336,
+      "view_count": 390748,
       "duration_sec": 1571,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "SportsTalk킹",
       "produce_target": true,
       "category": "character",
@@ -1768,7 +1734,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 390,336) · 속도 6(일 1,626회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 390,748) · 속도 6(일 1,628회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1778,11 +1744,11 @@
       "url": "https://www.youtube.com/watch?v=hTVMwzRRssg",
       "video_id": "hTVMwzRRssg",
       "thumbnail": "https://i.ytimg.com/vi/hTVMwzRRssg/mqdefault.jpg",
-      "view_count": 360070,
+      "view_count": 360248,
       "duration_sec": 1381,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "썸타임즈Ssumtimes",
       "produce_target": true,
       "category": "character",
@@ -1802,7 +1768,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 360,070) · 속도 6(일 1,715회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최형우·구자욱·이종열·강민호·한솥밥·이영미) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 360,248) · 속도 6(일 1,715회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최형우·구자욱·이종열·강민호·한솥밥·이영미) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1812,11 +1778,11 @@
       "url": "https://www.youtube.com/watch?v=eTt1ndYO_Oc",
       "video_id": "eTt1ndYO_Oc",
       "thumbnail": "https://i.ytimg.com/vi/eTt1ndYO_Oc/mqdefault.jpg",
-      "view_count": 339505,
+      "view_count": 339616,
       "duration_sec": 3020,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
@@ -1836,7 +1802,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 339,505) · 속도 6(일 2,263회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 원석들·윤석민·성영탁·이호민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 339,616) · 속도 6(일 2,264회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 원석들·윤석민·성영탁·이호민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1846,11 +1812,11 @@
       "url": "https://www.youtube.com/watch?v=xKlqDJ9qXhY",
       "video_id": "xKlqDJ9qXhY",
       "thumbnail": "https://i.ytimg.com/vi/xKlqDJ9qXhY/mqdefault.jpg",
-      "view_count": 232330,
+      "view_count": 244404,
       "duration_sec": 888,
       "published_at": "4일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "야친남 너클볼",
       "produce_target": true,
       "category": "character",
@@ -1870,41 +1836,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 9(조회수 232,330) · 속도 15(일 58,082회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "suffix": "썰",
-      "title": "김호령이 기아 주전으로 올라서기까지의 과정",
-      "url": "https://www.youtube.com/watch?v=ANHm_0DUFyI",
-      "video_id": "ANHm_0DUFyI",
-      "thumbnail": "https://i.ytimg.com/vi/ANHm_0DUFyI/mqdefault.jpg",
-      "view_count": 225848,
-      "duration_sec": 515,
-      "published_at": "11개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
-      "channel": "야필독",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 48,
-      "verdict": "제외",
-      "elapsed_days": 330.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 9,
-        "velocity": 3,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 9(조회수 225,848) · 속도 3(일 684회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김호령) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 244,404) · 속도 15(일 61,101회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 구단별) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1914,11 +1846,11 @@
       "url": "https://www.youtube.com/watch?v=7cV3yWL2lw8",
       "video_id": "7cV3yWL2lw8",
       "thumbnail": "https://i.ytimg.com/vi/7cV3yWL2lw8/mqdefault.jpg",
-      "view_count": 147877,
+      "view_count": 148810,
       "duration_sec": 1203,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
@@ -1938,41 +1870,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 147,877) · 속도 3(일 704회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "suffix": "썰",
-      "title": "‘김호령은 누구인가‘ 챗GPT의 팩폭 파티에 아찔한 김호령 😵‍💫",
-      "url": "https://www.youtube.com/watch?v=BAtUUEKQF7k",
-      "video_id": "BAtUUEKQF7k",
-      "thumbnail": "https://i.ytimg.com/vi/BAtUUEKQF7k/mqdefault.jpg",
-      "view_count": 142633,
-      "duration_sec": 1020,
-      "published_at": "11개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
-      "channel": "기아타이거즈 KIA TIGERS",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 48,
-      "verdict": "제외",
-      "elapsed_days": 330.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 9,
-        "velocity": 3,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 9(조회수 142,633) · 속도 3(일 432회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김호령) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 148,810) · 속도 3(일 709회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -1982,11 +1880,11 @@
       "url": "https://www.youtube.com/watch?v=XNV0DPYN9-A",
       "video_id": "XNV0DPYN9-A",
       "thumbnail": "https://i.ytimg.com/vi/XNV0DPYN9-A/mqdefault.jpg",
-      "view_count": 47224,
+      "view_count": 47225,
       "duration_sec": 994,
       "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "크보오프너",
       "produce_target": true,
       "category": "character",
@@ -2006,41 +1904,41 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 47,224) · 속도 3(일 262회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 47,225) · 속도 3(일 262회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
       "topic_name": "KIA 타이거즈",
       "suffix": "썰",
-      "title": "못해도 응원하는 한화 팬 vs 못하면 가차 없는 기아 팬💢 | \"마해영 삼성가! 신종길 2군가\" 선수들 호되게 놀렸던 타이거즈 팬 지수를 아시나요? | EP62.차일목X김다원 4편",
-      "url": "https://www.youtube.com/watch?v=J4ghDSXwVFo",
-      "video_id": "J4ghDSXwVFo",
-      "thumbnail": "https://i.ytimg.com/vi/J4ghDSXwVFo/mqdefault.jpg",
-      "view_count": 46816,
-      "duration_sec": 673,
-      "published_at": "1개월 전",
+      "title": "데일 방출한 KIA, 왜 시라카와였나?ㅣ두산도 일본 투수 선택, 타깃은 타카다!ㅣ울산 웨일즈 日 3인방 선택 받을까",
+      "url": "https://www.youtube.com/watch?v=CEBFzIuxdio",
+      "video_id": "CEBFzIuxdio",
+      "thumbnail": "https://i.ytimg.com/vi/CEBFzIuxdio/mqdefault.jpg",
+      "view_count": 43267,
+      "duration_sec": 944,
+      "published_at": "3개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
-      "channel": "전설의 타이거즈",
+      "collected_at": "2026-08-29T05:01:40+09:00",
+      "channel": "뭐니볼TV",
       "produce_target": true,
       "category": "character",
       "criteria_version": "v3",
-      "score": 46,
+      "score": 52,
       "verdict": "제외",
-      "elapsed_days": 30.0,
+      "elapsed_days": 90.0,
       "tags": [
         "데이터형"
       ],
       "breakdown": {
         "views": 4,
-        "velocity": 6,
+        "velocity": 3,
         "suffix": 13,
-        "humor": 0,
+        "humor": 9,
         "person": 15,
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 46,816) · 속도 6(일 1,561회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 마해영·신종길·선수들·차일목·김다원) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 43,267) · 속도 3(일 481회) · 접미 13(접미 '썰') · 유머 9(유머신호 왜) · 인물 15(실명 방출한) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -2050,11 +1948,11 @@
       "url": "https://www.youtube.com/watch?v=IHtWz6ps29I",
       "video_id": "IHtWz6ps29I",
       "thumbnail": "https://i.ytimg.com/vi/IHtWz6ps29I/mqdefault.jpg",
-      "view_count": 36492,
+      "view_count": 36558,
       "duration_sec": 381,
       "published_at": "3주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "광주일보",
       "produce_target": true,
       "category": "character",
@@ -2074,7 +1972,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 36,492) · 속도 6(일 1,738회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 남자들·성영탁·정현창·선후배) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 36,558) · 속도 6(일 1,741회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 남자들·성영탁·정현창·선후배) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -2084,11 +1982,11 @@
       "url": "https://www.youtube.com/watch?v=gb1re5hoOL8",
       "video_id": "gb1re5hoOL8",
       "thumbnail": "https://i.ytimg.com/vi/gb1re5hoOL8/mqdefault.jpg",
-      "view_count": 32413,
+      "view_count": 32950,
       "duration_sec": 947,
       "published_at": "6일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
@@ -2109,7 +2007,42 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 32,413) · 속도 9(일 5,402회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김성근·오대산·김일권·임호균·유망주·곽도규) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 32,950) · 속도 9(일 5,492회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김성근·오대산·김일권·임호균·유망주·곽도규) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "suffix": "썰",
+      "title": "대구 출신 차일목이 해태를 안 갔던 이유는❓| 노림수 타격으론 제일 갔던 차일목✨| “개인운동 한다더니…” 성실함의 대명사 김다원의 이면⁉️🫢 | ㅣEP62.차일목X김다원 1편",
+      "url": "https://www.youtube.com/watch?v=Ik-VzQn64UU",
+      "video_id": "Ik-VzQn64UU",
+      "thumbnail": "https://i.ytimg.com/vi/Ik-VzQn64UU/mqdefault.jpg",
+      "view_count": 29253,
+      "duration_sec": 794,
+      "published_at": "2개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:01:40+09:00",
+      "channel": "전설의 타이거즈",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 50,
+      "verdict": "제외",
+      "elapsed_days": 60.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 13,
+        "humor": 0,
+        "person": 15,
+        "situation": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 29,253) · 속도 3(일 488회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 차일목·노림수·성실함·김다원) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -2119,11 +2052,11 @@
       "url": "https://www.youtube.com/watch?v=boyRrKRC_zU",
       "video_id": "boyRrKRC_zU",
       "thumbnail": "https://i.ytimg.com/vi/boyRrKRC_zU/mqdefault.jpg",
-      "view_count": 23364,
+      "view_count": 24182,
       "duration_sec": 656,
       "published_at": "4일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
@@ -2143,7 +2076,41 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 23,364) · 속도 9(일 5,841회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이의리·한재승·이벤트) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 24,182) · 속도 9(일 6,046회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이의리·한재승·이벤트) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "suffix": "썰",
+      "title": "트레이드썰 소신 발언 좀 하겠습니다.",
+      "url": "https://www.youtube.com/watch?v=9zJZeOio5lY",
+      "video_id": "9zJZeOio5lY",
+      "thumbnail": "https://i.ytimg.com/vi/9zJZeOio5lY/mqdefault.jpg",
+      "view_count": 20495,
+      "duration_sec": 496,
+      "published_at": "4개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:01:40+09:00",
+      "channel": "야채유",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 28,
+      "verdict": "제외",
+      "elapsed_days": 120.0,
+      "tags": [
+        "서사형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 13,
+        "humor": 0,
+        "person": 0,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 20,495) · 속도 3(일 171회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -2153,11 +2120,11 @@
       "url": "https://www.youtube.com/watch?v=t_TDBrnUsSE",
       "video_id": "t_TDBrnUsSE",
       "thumbnail": "https://i.ytimg.com/vi/t_TDBrnUsSE/mqdefault.jpg",
-      "view_count": 19569,
+      "view_count": 19594,
       "duration_sec": 754,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "전설의 타이거즈",
       "produce_target": true,
       "category": "character",
@@ -2177,7 +2144,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 19,569) · 속도 3(일 326회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 조갈량·조범현·선동열·노림수·차일목·김다원) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 19,594) · 속도 3(일 327회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 조갈량·조범현·선동열·노림수·차일목·김다원) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -2187,11 +2154,11 @@
       "url": "https://www.youtube.com/watch?v=Xh5qyhp69Gk",
       "video_id": "Xh5qyhp69Gk",
       "thumbnail": "https://i.ytimg.com/vi/Xh5qyhp69Gk/mqdefault.jpg",
-      "view_count": 15743,
+      "view_count": 15745,
       "duration_sec": 2306,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "야구찜",
       "produce_target": true,
       "category": "character",
@@ -2212,7 +2179,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 15,743) · 속도 3(일 262회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이대호·윤석민·오승환·서동욱) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 15,745) · 속도 3(일 262회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이대호·윤석민·오승환·서동욱) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kia",
@@ -2222,11 +2189,11 @@
       "url": "https://www.youtube.com/watch?v=DQnUsEvtuOQ",
       "video_id": "DQnUsEvtuOQ",
       "thumbnail": "https://i.ytimg.com/vi/DQnUsEvtuOQ/mqdefault.jpg",
-      "view_count": 9545,
+      "view_count": 9549,
       "duration_sec": 55,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:17+09:00",
+      "collected_at": "2026-08-29T05:01:40+09:00",
       "channel": "최우동",
       "produce_target": true,
       "category": "character",
@@ -2246,7 +2213,41 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 9,545) · 속도 3(일 80회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 선수단) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 9,549) · 속도 3(일 80회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 선수단) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "suffix": "썰",
+      "title": "[야구찜 토크] 기아타이거즈 서동욱선수의 취미썰 풀어봤습니다 (ft.슬기로운 취미생활)",
+      "url": "https://www.youtube.com/watch?v=qMe3A_Jzmxg",
+      "video_id": "qMe3A_Jzmxg",
+      "thumbnail": "https://i.ytimg.com/vi/qMe3A_Jzmxg/mqdefault.jpg",
+      "view_count": 1951,
+      "duration_sec": 1068,
+      "published_at": "1개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:01:40+09:00",
+      "channel": "야구찜",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 30.0,
+      "tags": [
+        "서사형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 13,
+        "humor": 0,
+        "person": 8,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 1,951) · 속도 3(일 65회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2256,11 +2257,11 @@
       "url": "https://www.youtube.com/watch?v=0DIvs70EsBk",
       "video_id": "0DIvs70EsBk",
       "thumbnail": "https://i.ytimg.com/vi/0DIvs70EsBk/mqdefault.jpg",
-      "view_count": 1350355,
+      "view_count": 1352392,
       "duration_sec": 722,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "김준표",
       "produce_target": true,
       "category": "character",
@@ -2280,7 +2281,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,350,355) · 속도 9(일 9,002회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 진출한) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,352,392) · 속도 9(일 9,016회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 진출한) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2290,11 +2291,11 @@
       "url": "https://www.youtube.com/watch?v=wtixulEVy7s",
       "video_id": "wtixulEVy7s",
       "thumbnail": "https://i.ytimg.com/vi/wtixulEVy7s/mqdefault.jpg",
-      "view_count": 878264,
+      "view_count": 879274,
       "duration_sec": 1025,
       "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "픽잇 :Pick it",
       "produce_target": true,
       "category": "character",
@@ -2315,33 +2316,67 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 878,264) · 속도 9(일 4,879회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 전참시·주물럭·황재균) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 879,274) · 속도 9(일 4,885회) · 접미 13(접미 '썰') · 유머 9(유머신호 레전드) · 인물 15(실명 전참시·주물럭·황재균) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "kimdoyoung",
+      "topic_name": "김도영",
+      "suffix": "썰",
+      "title": "[전참시] ＂너 어차피 혼자잖아＂ 황재균 은퇴 파티에서 매콤한 직구 주고받는 87라인ㅋㅋㅋㅣ#황재균 #류현진 #김현수 #양의지 MBC260131방송",
+      "url": "https://www.youtube.com/watch?v=-rwZiQopyQY",
+      "video_id": "-rwZiQopyQY",
+      "thumbnail": "https://i.ytimg.com/vi/-rwZiQopyQY/mqdefault.jpg",
+      "view_count": 757845,
+      "duration_sec": 831,
+      "published_at": "6개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:02:16+09:00",
+      "channel": "엠뚜루마뚜루 : MBC 공식 종합 채널",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 59,
+      "verdict": "보류",
+      "elapsed_days": 180.0,
+      "tags": [
+        "데이터형"
+      ],
+      "breakdown": {
+        "views": 14,
+        "velocity": 9,
+        "suffix": 13,
+        "humor": 0,
+        "person": 15,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 757,845) · 속도 9(일 4,210회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 전참시·황재균·주고받·김현수·양의지) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
       "topic_name": "김도영",
       "suffix": "별명",
-      "title": "[뉴스 '꾹'] \"남행열차를..따라부르네요?\" 박찬호 못 숨긴 '무의식' (2026.05.13/MBC뉴스)",
-      "url": "https://www.youtube.com/watch?v=lIHe0yBW0jA",
-      "video_id": "lIHe0yBW0jA",
-      "thumbnail": "https://i.ytimg.com/vi/lIHe0yBW0jA/mqdefault.jpg",
-      "view_count": 305946,
-      "duration_sec": 255,
-      "published_at": "3개월 전",
+      "title": "\"제가 모를 거 같죠?ㅋ\" 야구 경기보다 더 재밌는 야구선수 별명 맞히기 ㅋㅋㅋ | 사이버 윤석민 Ep.야구선수별명",
+      "url": "https://www.youtube.com/watch?v=jps8MKHfSa0",
+      "video_id": "jps8MKHfSa0",
+      "thumbnail": "https://i.ytimg.com/vi/jps8MKHfSa0/mqdefault.jpg",
+      "view_count": 504142,
+      "duration_sec": 1829,
+      "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
-      "channel": "MBCNEWS",
+      "collected_at": "2026-08-29T05:02:16+09:00",
+      "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
       "criteria_version": "v3",
-      "score": 51,
-      "verdict": "제외",
-      "elapsed_days": 90.0,
+      "score": 56,
+      "verdict": "보류",
+      "elapsed_days": 120.0,
       "tags": [
-        "데이터형"
+        "서사형"
       ],
       "breakdown": {
-        "views": 9,
+        "views": 14,
         "velocity": 9,
         "suffix": 10,
         "humor": 0,
@@ -2349,7 +2384,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 305,946) · 속도 9(일 3,399회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 박찬호) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 504,142) · 속도 9(일 4,201회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 윤석민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2359,11 +2394,11 @@
       "url": "https://www.youtube.com/watch?v=MqkRvHi5F0A",
       "video_id": "MqkRvHi5F0A",
       "thumbnail": "https://i.ytimg.com/vi/MqkRvHi5F0A/mqdefault.jpg",
-      "view_count": 227390,
+      "view_count": 227627,
       "duration_sec": 796,
       "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
@@ -2383,41 +2418,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 227,390) · 속도 6(일 1,263회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·윤도현·최지민·한승연·황동하) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "kimdoyoung",
-      "topic_name": "김도영",
-      "suffix": "별명",
-      "title": "KIA 타이거즈 박재현 응원가 Music Video",
-      "url": "https://www.youtube.com/watch?v=hdfFhe9uQlQ",
-      "video_id": "hdfFhe9uQlQ",
-      "thumbnail": "https://i.ytimg.com/vi/hdfFhe9uQlQ/mqdefault.jpg",
-      "view_count": 214194,
-      "duration_sec": 33,
-      "published_at": "3개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
-      "channel": "야쏭",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 48,
-      "verdict": "제외",
-      "elapsed_days": 90.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 9,
-        "velocity": 6,
-        "suffix": 10,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 9(조회수 214,194) · 속도 6(일 2,380회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 박재현) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 227,627) · 속도 6(일 1,265회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·윤도현·최지민·한승연·황동하) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2427,11 +2428,11 @@
       "url": "https://www.youtube.com/watch?v=ZKjon6uZiEY",
       "video_id": "ZKjon6uZiEY",
       "thumbnail": "https://i.ytimg.com/vi/ZKjon6uZiEY/mqdefault.jpg",
-      "view_count": 201510,
+      "view_count": 201766,
       "duration_sec": 1401,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
@@ -2451,7 +2452,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 201,510) · 속도 6(일 1,679회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 201,766) · 속도 6(일 1,681회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2461,11 +2462,11 @@
       "url": "https://www.youtube.com/watch?v=YLyu5rVCwLA",
       "video_id": "YLyu5rVCwLA",
       "thumbnail": "https://i.ytimg.com/vi/YLyu5rVCwLA/mqdefault.jpg",
-      "view_count": 182274,
+      "view_count": 182652,
       "duration_sec": 553,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
@@ -2485,7 +2486,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 182,274) · 속도 6(일 1,519회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 마음대·라커룸) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 182,652) · 속도 6(일 1,522회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 마음대·라커룸) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2495,11 +2496,11 @@
       "url": "https://www.youtube.com/watch?v=UXa3xoVKX2s",
       "video_id": "UXa3xoVKX2s",
       "thumbnail": "https://i.ytimg.com/vi/UXa3xoVKX2s/mqdefault.jpg",
-      "view_count": 170501,
+      "view_count": 170791,
       "duration_sec": 1713,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
@@ -2520,7 +2521,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 170,501) · 속도 6(일 1,137회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·라커룸·안현민·문현빈) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 170,791) · 속도 6(일 1,139회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·라커룸·안현민·문현빈) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2530,11 +2531,11 @@
       "url": "https://www.youtube.com/watch?v=vctu37L3rXQ",
       "video_id": "vctu37L3rXQ",
       "thumbnail": "https://i.ytimg.com/vi/vctu37L3rXQ/mqdefault.jpg",
-      "view_count": 150924,
+      "view_count": 151142,
       "duration_sec": 1169,
       "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "기아타이거즈 KIA TIGERS",
       "produce_target": true,
       "category": "character",
@@ -2555,99 +2556,30 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 9(조회수 150,924) · 속도 3(일 838회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 도마뱀·양림동) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 151,142) · 속도 3(일 840회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 도마뱀·양림동) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
       "topic_name": "김도영",
       "suffix": "썰",
-      "title": "6연승 직후 더그아웃🎊 활짝 웃는 김호령, 성영탁, 홍건희, 김도영, 박민 인터뷰 (4.15)",
-      "url": "https://www.youtube.com/watch?v=DXML-REZaJ0",
-      "video_id": "DXML-REZaJ0",
-      "thumbnail": "https://i.ytimg.com/vi/DXML-REZaJ0/mqdefault.jpg",
-      "view_count": 145476,
-      "duration_sec": 383,
-      "published_at": "4개월 전",
+      "title": "[긴급 특별 편성] ⚾ 야구 아나운서들의 WBC 비하인드 썰 풀이 ⚾│B급 청문회 RE:BOOT WBC 8강 특집",
+      "url": "https://www.youtube.com/watch?v=eeXuSO77ogY",
+      "video_id": "eeXuSO77ogY",
+      "thumbnail": "https://i.ytimg.com/vi/eeXuSO77ogY/mqdefault.jpg",
+      "view_count": 97950,
+      "duration_sec": 2135,
+      "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
-      "channel": "기아타이거즈 KIA TIGERS",
+      "collected_at": "2026-08-29T05:02:16+09:00",
+      "channel": "B급 스튜디오",
       "produce_target": true,
       "category": "character",
       "criteria_version": "v3",
-      "score": 58,
-      "verdict": "보류",
-      "elapsed_days": 120.0,
-      "tags": [
-        "데이터형",
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 9,
-        "velocity": 6,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 15,
-        "risk": 0
-      },
-      "why": "조회수 9(조회수 145,476) · 속도 6(일 1,212회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김호령·성영탁·홍건희·김도영·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "kimdoyoung",
-      "topic_name": "김도영",
-      "suffix": "썰",
-      "title": "동하는 짧머?, 22즈 세리머니 의미, 신입 PD 김범수 [더그아웃비하인드]",
-      "url": "https://www.youtube.com/watch?v=pLf-3GwY8VY",
-      "video_id": "pLf-3GwY8VY",
-      "thumbnail": "https://i.ytimg.com/vi/pLf-3GwY8VY/mqdefault.jpg",
-      "view_count": 124110,
-      "duration_sec": 1108,
-      "published_at": "3개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
-      "channel": "기아타이거즈 KIA TIGERS",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 58,
-      "verdict": "보류",
-      "elapsed_days": 90.0,
-      "tags": [
-        "데이터형",
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 9,
-        "velocity": 6,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 15,
-        "risk": 0
-      },
-      "why": "조회수 9(조회수 124,110) · 속도 6(일 1,379회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김범수) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "kimdoyoung",
-      "topic_name": "김도영",
-      "suffix": "썰",
-      "title": "'영탁' 이름의 뜻, 야구 시작 계기, 깨물하트 세리머니 비하인드 外 국가대표 성영탁 구독자 질답 인터뷰",
-      "url": "https://www.youtube.com/watch?v=86bT76BG8cI",
-      "video_id": "86bT76BG8cI",
-      "thumbnail": "https://i.ytimg.com/vi/86bT76BG8cI/mqdefault.jpg",
-      "view_count": 91307,
-      "duration_sec": 1846,
-      "published_at": "9개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
-      "channel": "기아타이거즈 KIA TIGERS",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 50,
+      "score": 35,
       "verdict": "제외",
-      "elapsed_days": 270.0,
+      "elapsed_days": 150.0,
       "tags": [
+        "데이터형",
         "서사형"
       ],
       "breakdown": {
@@ -2655,11 +2587,45 @@
         "velocity": 3,
         "suffix": 13,
         "humor": 0,
-        "person": 15,
+        "person": 0,
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 91,307) · 속도 3(일 338회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 성영탁·구독자·인터뷰) · 상황 15(특정 사건·장면(비하인드·인터뷰)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 97,950) · 속도 3(일 653회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "kimdoyoung",
+      "topic_name": "김도영",
+      "suffix": "썰",
+      "title": "🚨아무튼 금지🚨 잔소리 과다로 촬영 중단 위기 겪은 질롱 국대즈 회식🌮 [2026 스프링캠프]",
+      "url": "https://www.youtube.com/watch?v=ZhPf4DBSNhA",
+      "video_id": "ZhPf4DBSNhA",
+      "thumbnail": "https://i.ytimg.com/vi/ZhPf4DBSNhA/mqdefault.jpg",
+      "view_count": 87806,
+      "duration_sec": 1509,
+      "published_at": "6개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:02:16+09:00",
+      "channel": "kt wiz - 위즈TV",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 36,
+      "verdict": "제외",
+      "elapsed_days": 180.0,
+      "tags": [
+        "데이터형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 13,
+        "humor": 0,
+        "person": 8,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 87,806) · 속도 3(일 488회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2669,11 +2635,11 @@
       "url": "https://www.youtube.com/watch?v=MykERk0Tsqw",
       "video_id": "MykERk0Tsqw",
       "thumbnail": "https://i.ytimg.com/vi/MykERk0Tsqw/mqdefault.jpg",
-      "view_count": 70007,
+      "view_count": 70027,
       "duration_sec": 656,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "펀고 FUNGO",
       "produce_target": true,
       "category": "character",
@@ -2693,7 +2659,41 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 70,007) · 속도 6(일 1,167회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·주목하) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 70,027) · 속도 6(일 1,167회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·주목하) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "kimdoyoung",
+      "topic_name": "김도영",
+      "suffix": "썰",
+      "title": "못해도 응원하는 한화 팬 vs 못하면 가차 없는 기아 팬💢 | \"마해영 삼성가! 신종길 2군가\" 선수들 호되게 놀렸던 타이거즈 팬 지수를 아시나요? | EP62.차일목X김다원 4편",
+      "url": "https://www.youtube.com/watch?v=J4ghDSXwVFo",
+      "video_id": "J4ghDSXwVFo",
+      "thumbnail": "https://i.ytimg.com/vi/J4ghDSXwVFo/mqdefault.jpg",
+      "view_count": 46834,
+      "duration_sec": 673,
+      "published_at": "1개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:02:16+09:00",
+      "channel": "전설의 타이거즈",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 30.0,
+      "tags": [
+        "데이터형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 6,
+        "suffix": 13,
+        "humor": 0,
+        "person": 15,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 46,834) · 속도 6(일 1,561회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 마해영·신종길·선수들·차일목·김다원) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2703,11 +2703,11 @@
       "url": "https://www.youtube.com/watch?v=OfKSlM578Ds",
       "video_id": "OfKSlM578Ds",
       "thumbnail": "https://i.ytimg.com/vi/OfKSlM578Ds/mqdefault.jpg",
-      "view_count": 44628,
+      "view_count": 45901,
       "duration_sec": 1224,
       "published_at": "6일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "JTBC Voyage",
       "produce_target": true,
       "category": "character",
@@ -2727,7 +2727,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 44,628) · 속도 9(일 7,438회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·양현종) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 45,901) · 속도 9(일 7,650회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·양현종) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2737,11 +2737,11 @@
       "url": "https://www.youtube.com/watch?v=WHbAUAkL0B4",
       "video_id": "WHbAUAkL0B4",
       "thumbnail": "https://i.ytimg.com/vi/WHbAUAkL0B4/mqdefault.jpg",
-      "view_count": 35899,
+      "view_count": 35925,
       "duration_sec": 641,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "kt wiz - 위즈TV",
       "produce_target": true,
       "category": "character",
@@ -2761,7 +2761,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 35,899) · 속도 3(일 239회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 고영표·소형준·박영현·안현민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 35,925) · 속도 3(일 240회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 고영표·소형준·박영현·안현민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2771,18 +2771,18 @@
       "url": "https://www.youtube.com/watch?v=aTnCbWgzE5o",
       "video_id": "aTnCbWgzE5o",
       "thumbnail": "https://i.ytimg.com/vi/aTnCbWgzE5o/mqdefault.jpg",
-      "view_count": 29400,
+      "view_count": 29537,
       "duration_sec": 535,
-      "published_at": "6일 전",
+      "published_at": "7일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "오층스포츠",
       "produce_target": true,
       "category": "character",
       "criteria_version": "v3",
       "score": 34,
       "verdict": "제외",
-      "elapsed_days": 6.0,
+      "elapsed_days": 7.0,
       "tags": [
         "서사형"
       ],
@@ -2795,7 +2795,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 29,400) · 속도 9(일 4,900회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 29,537) · 속도 9(일 4,220회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2805,11 +2805,11 @@
       "url": "https://www.youtube.com/watch?v=H7edTaRfSIQ",
       "video_id": "H7edTaRfSIQ",
       "thumbnail": "https://i.ytimg.com/vi/H7edTaRfSIQ/mqdefault.jpg",
-      "view_count": 22138,
+      "view_count": 22142,
       "duration_sec": 89,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "광주일보",
       "produce_target": true,
       "category": "character",
@@ -2830,30 +2830,31 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 22,138) · 속도 3(일 148회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이범호·김선빈·김도영) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 22,142) · 속도 3(일 148회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이범호·김선빈·김도영) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
       "topic_name": "김도영",
       "suffix": "썰",
-      "title": "[ 2026 아시안게임 ver ] 김도영 응원가 🇰🇷",
-      "url": "https://www.youtube.com/watch?v=Y0z1LY5skL4",
-      "video_id": "Y0z1LY5skL4",
-      "thumbnail": "https://i.ytimg.com/vi/Y0z1LY5skL4/mqdefault.jpg",
-      "view_count": 12226,
-      "duration_sec": 33,
-      "published_at": "2주 전",
+      "title": "골글 김도영 공짜로 9강 찍은 썰 푼다 [컴프야V26]",
+      "url": "https://www.youtube.com/watch?v=VMVnsN6hTNc",
+      "video_id": "VMVnsN6hTNc",
+      "thumbnail": "https://i.ytimg.com/vi/VMVnsN6hTNc/mqdefault.jpg",
+      "view_count": 4206,
+      "duration_sec": 589,
+      "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
-      "channel": "서희",
+      "collected_at": "2026-08-29T05:02:16+09:00",
+      "channel": "SODA님",
       "produce_target": true,
       "category": "character",
       "criteria_version": "v3",
       "score": 43,
       "verdict": "제외",
-      "elapsed_days": 14.0,
+      "elapsed_days": 30.0,
       "tags": [
-        "데이터형"
+        "데이터형",
+        "서사형"
       ],
       "breakdown": {
         "views": 4,
@@ -2864,30 +2865,31 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 12,226) · 속도 3(일 873회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 4,206) · 속도 3(일 140회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김도영) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
       "topic_name": "김도영",
       "suffix": "별명",
-      "title": "😱 KIA 차세대 에이스 후보 박종혁! 김도영 잇는 슈퍼스타 꿈… 1군 향한 당찬 각오 공개",
-      "url": "https://www.youtube.com/watch?v=eKzru5zsfNw",
-      "video_id": "eKzru5zsfNw",
-      "thumbnail": "https://i.ytimg.com/vi/eKzru5zsfNw/mqdefault.jpg",
-      "view_count": 7960,
-      "duration_sec": 604,
-      "published_at": "1개월 전",
+      "title": "[동계올림픽] \"훠궈 먹고 싶어요···KIA 김도영 화이팅!\" 쇼트트랙 2관왕 김길리 귀국 인터뷰 / 스포테이너즈 생생현장",
+      "url": "https://www.youtube.com/watch?v=2WHnKBZ6lFw",
+      "video_id": "2WHnKBZ6lFw",
+      "thumbnail": "https://i.ytimg.com/vi/2WHnKBZ6lFw/mqdefault.jpg",
+      "view_count": 2762,
+      "duration_sec": 179,
+      "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
-      "channel": "코리아 언리미티드",
+      "collected_at": "2026-08-29T05:02:16+09:00",
+      "channel": "스포테이너즈 (SPORTAINERS)",
       "produce_target": true,
       "category": "character",
       "criteria_version": "v3",
-      "score": 40,
+      "score": 47,
       "verdict": "제외",
-      "elapsed_days": 30.0,
+      "elapsed_days": 180.0,
       "tags": [
-        "데이터형"
+        "데이터형",
+        "서사형"
       ],
       "breakdown": {
         "views": 4,
@@ -2895,10 +2897,10 @@
         "suffix": 10,
         "humor": 0,
         "person": 15,
-        "situation": 8,
+        "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 7,960) · 속도 3(일 265회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 차세대·박종혁·김도영) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 2,762) · 속도 3(일 15회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 김도영·김길리·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "kimdoyoung",
@@ -2908,11 +2910,11 @@
       "url": "https://www.youtube.com/watch?v=WqjNlXDYr5Q",
       "video_id": "WqjNlXDYr5Q",
       "thumbnail": "https://i.ytimg.com/vi/WqjNlXDYr5Q/mqdefault.jpg",
-      "view_count": 48,
+      "view_count": 68,
       "duration_sec": 125,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:27:53+09:00",
+      "collected_at": "2026-08-29T05:02:16+09:00",
       "channel": "KBO N행시",
       "produce_target": true,
       "category": "character",
@@ -2932,7 +2934,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 48) · 속도 3(일 0회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 도니살·김도영) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 68) · 속도 3(일 0회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 도니살·김도영) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2942,11 +2944,11 @@
       "url": "https://www.youtube.com/watch?v=7HLpR3RCbFQ",
       "video_id": "7HLpR3RCbFQ",
       "thumbnail": "https://i.ytimg.com/vi/7HLpR3RCbFQ/mqdefault.jpg",
-      "view_count": 1546283,
+      "view_count": 1546826,
       "duration_sec": 60,
       "published_at": "10개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "1분만",
       "produce_target": true,
       "category": "character",
@@ -2966,7 +2968,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,546,283) · 속도 9(일 5,154회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,546,826) · 속도 9(일 5,156회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -2976,11 +2978,11 @@
       "url": "https://www.youtube.com/watch?v=b5XHbtsUyXw",
       "video_id": "b5XHbtsUyXw",
       "thumbnail": "https://i.ytimg.com/vi/b5XHbtsUyXw/mqdefault.jpg",
-      "view_count": 1323891,
+      "view_count": 1325174,
       "duration_sec": 1417,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "이대호 [RE:DAEHO]",
       "produce_target": true,
       "category": "character",
@@ -3001,7 +3003,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,323,891) · 속도 9(일 4,012회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최지만·이대호) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,325,174) · 속도 9(일 4,016회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최지만·이대호) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3011,11 +3013,11 @@
       "url": "https://www.youtube.com/watch?v=SEdq3d1GEN0",
       "video_id": "SEdq3d1GEN0",
       "thumbnail": "https://i.ytimg.com/vi/SEdq3d1GEN0/mqdefault.jpg",
-      "view_count": 1078455,
+      "view_count": 1081880,
       "duration_sec": 1862,
       "published_at": "3개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "라이프시크릿",
       "produce_target": true,
       "category": "character",
@@ -3035,7 +3037,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,078,455) · 속도 12(일 11,983회) · 접미 13(접미 '썰') · 유머 9(유머신호 최후) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(최후·건드린)) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,081,880) · 속도 12(일 12,021회) · 접미 13(접미 '썰') · 유머 9(유머신호 최후) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(최후·건드린)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3045,11 +3047,11 @@
       "url": "https://www.youtube.com/watch?v=y33kvl6SetY",
       "video_id": "y33kvl6SetY",
       "thumbnail": "https://i.ytimg.com/vi/y33kvl6SetY/mqdefault.jpg",
-      "view_count": 956584,
+      "view_count": 963821,
       "duration_sec": 1030,
       "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "야구막내 The Baseball Youngest",
       "produce_target": true,
       "category": "character",
@@ -3069,7 +3071,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 956,584) · 속도 9(일 5,314회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 전성기·박찬호) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 963,821) · 속도 9(일 5,355회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 전성기·박찬호) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3079,11 +3081,11 @@
       "url": "https://www.youtube.com/watch?v=tTq2dkX_RlE",
       "video_id": "tTq2dkX_RlE",
       "thumbnail": "https://i.ytimg.com/vi/tTq2dkX_RlE/mqdefault.jpg",
-      "view_count": 882730,
+      "view_count": 882818,
       "duration_sec": 659,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "멘탈케어::힐링 심리학 채널::",
       "produce_target": true,
       "category": "character",
@@ -3104,7 +3106,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 14(조회수 882,730) · 속도 6(일 2,675회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 882,818) · 속도 6(일 2,675회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3114,11 +3116,11 @@
       "url": "https://www.youtube.com/watch?v=znBBDSyZXW4",
       "video_id": "znBBDSyZXW4",
       "thumbnail": "https://i.ytimg.com/vi/znBBDSyZXW4/mqdefault.jpg",
-      "view_count": 814635,
+      "view_count": 814923,
       "duration_sec": 67,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "황금누룽지",
       "produce_target": true,
       "category": "character",
@@ -3138,7 +3140,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 814,635) · 속도 9(일 5,431회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 현실편) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 814,923) · 속도 9(일 5,433회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 현실편) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3148,11 +3150,11 @@
       "url": "https://www.youtube.com/watch?v=JR7wsdt2LcI",
       "video_id": "JR7wsdt2LcI",
       "thumbnail": "https://i.ytimg.com/vi/JR7wsdt2LcI/mqdefault.jpg",
-      "view_count": 727829,
+      "view_count": 728329,
       "duration_sec": 1216,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "이대호 [RE:DAEHO]",
       "produce_target": true,
       "category": "character",
@@ -3172,7 +3174,41 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 727,829) · 속도 6(일 2,206회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최지만·이대호) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 728,329) · 속도 6(일 2,207회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 최지만·이대호) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "ohtani",
+      "topic_name": "오타니/다저스",
+      "suffix": "썰",
+      "title": "양재천 대낮의 너구리",
+      "url": "https://www.youtube.com/watch?v=2iYw3KwFXro",
+      "video_id": "2iYw3KwFXro",
+      "thumbnail": "https://i.ytimg.com/vi/2iYw3KwFXro/mqdefault.jpg",
+      "view_count": 641855,
+      "duration_sec": 28,
+      "published_at": "10개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:02:51+09:00",
+      "channel": "침착맨",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 56,
+      "verdict": "보류",
+      "elapsed_days": 300.0,
+      "tags": [
+        "서사형"
+      ],
+      "breakdown": {
+        "views": 14,
+        "velocity": 6,
+        "suffix": 13,
+        "humor": 0,
+        "person": 15,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 14(조회수 641,855) · 속도 6(일 2,140회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 양재천) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3182,11 +3218,11 @@
       "url": "https://www.youtube.com/watch?v=S6pGjZ5TZo0",
       "video_id": "S6pGjZ5TZo0",
       "thumbnail": "https://i.ytimg.com/vi/S6pGjZ5TZo0/mqdefault.jpg",
-      "view_count": 227215,
+      "view_count": 227458,
       "duration_sec": 3043,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "사이버 윤석민",
       "produce_target": true,
       "category": "character",
@@ -3206,41 +3242,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 9(조회수 227,215) · 속도 9(일 3,787회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 모먼트·윤석민) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "ohtani",
-      "topic_name": "오타니/다저스",
-      "suffix": "썰",
-      "title": "충격. 구단 직원에게 '등드름'을 먹였다는 트라웃 | 김형준 야구야구",
-      "url": "https://www.youtube.com/watch?v=mKPJu_szbRM",
-      "video_id": "mKPJu_szbRM",
-      "thumbnail": "https://i.ytimg.com/vi/mKPJu_szbRM/mqdefault.jpg",
-      "view_count": 168262,
-      "duration_sec": 355,
-      "published_at": "10개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
-      "channel": "김형준의 야구야구 YagooYagu",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 48,
-      "verdict": "제외",
-      "elapsed_days": 300.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 9,
-        "velocity": 3,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 9(조회수 168,262) · 속도 3(일 561회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 김형준) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 227,458) · 속도 9(일 3,791회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 모먼트·윤석민) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3250,11 +3252,11 @@
       "url": "https://www.youtube.com/watch?v=wqJGJs67vRE",
       "video_id": "wqJGJs67vRE",
       "thumbnail": "https://i.ytimg.com/vi/wqJGJs67vRE/mqdefault.jpg",
-      "view_count": 86545,
+      "view_count": 86657,
       "duration_sec": 1533,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "나무미키 흥신소",
       "produce_target": true,
       "category": "character",
@@ -3274,42 +3276,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 86,545) · 속도 3(일 721회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "ohtani",
-      "topic_name": "오타니/다저스",
-      "suffix": "별명",
-      "title": "[WBC] 1루에서 오타니 쇼헤이가 문보경에게 건넨 한마디는?!···'수퍼문' 문보경 귀국 인터뷰 / 스포테이너즈 생생현장",
-      "url": "https://www.youtube.com/watch?v=-4FBew-aJEc",
-      "video_id": "-4FBew-aJEc",
-      "thumbnail": "https://i.ytimg.com/vi/-4FBew-aJEc/mqdefault.jpg",
-      "view_count": 54821,
-      "duration_sec": 248,
-      "published_at": "5개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
-      "channel": "스포테이너즈 (SPORTAINERS)",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 47,
-      "verdict": "제외",
-      "elapsed_days": 150.0,
-      "tags": [
-        "데이터형",
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 4,
-        "velocity": 3,
-        "suffix": 10,
-        "humor": 0,
-        "person": 15,
-        "situation": 15,
-        "risk": 0
-      },
-      "why": "조회수 4(조회수 54,821) · 속도 3(일 365회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이·문보경·한마디·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 86,657) · 속도 3(일 722회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3319,11 +3286,11 @@
       "url": "https://www.youtube.com/watch?v=LebY0XBAbas",
       "video_id": "LebY0XBAbas",
       "thumbnail": "https://i.ytimg.com/vi/LebY0XBAbas/mqdefault.jpg",
-      "view_count": 35715,
+      "view_count": 35724,
       "duration_sec": 1013,
       "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "디글 클래식 :Diggle Classic",
       "produce_target": true,
       "category": "character",
@@ -3343,7 +3310,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 35,715) · 속도 6(일 1,190회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·정근우·한일전·노히트) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 35,724) · 속도 6(일 1,191회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·정근우·한일전·노히트) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3353,11 +3320,11 @@
       "url": "https://www.youtube.com/watch?v=kielkMmlbbc",
       "video_id": "kielkMmlbbc",
       "thumbnail": "https://i.ytimg.com/vi/kielkMmlbbc/mqdefault.jpg",
-      "view_count": 24019,
+      "view_count": 24022,
       "duration_sec": 246,
       "published_at": "10개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "SportScriptK",
       "produce_target": true,
       "category": "character",
@@ -3377,7 +3344,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 24,019) · 속도 3(일 80회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이·지구상·오티스) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 24,022) · 속도 3(일 80회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이·지구상·오티스) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3387,11 +3354,11 @@
       "url": "https://www.youtube.com/watch?v=qGLfhSvxJV8",
       "video_id": "qGLfhSvxJV8",
       "thumbnail": "https://i.ytimg.com/vi/qGLfhSvxJV8/mqdefault.jpg",
-      "view_count": 21775,
+      "view_count": 21784,
       "duration_sec": 443,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "캘리쌤 브이로그 영어",
       "produce_target": true,
       "category": "character",
@@ -3411,7 +3378,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 21,775) · 속도 3(일 363회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·이정후) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 21,784) · 속도 3(일 363회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·이정후) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3421,11 +3388,11 @@
       "url": "https://www.youtube.com/watch?v=clqJjyrxzCo",
       "video_id": "clqJjyrxzCo",
       "thumbnail": "https://i.ytimg.com/vi/clqJjyrxzCo/mqdefault.jpg",
-      "view_count": 5938,
+      "view_count": 6557,
       "duration_sec": 759,
       "published_at": "4일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "MLB Korea (MLB 코리아)",
       "produce_target": true,
       "category": "character",
@@ -3445,7 +3412,42 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 5,938) · 속도 6(일 1,484회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이·저지·오승환) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 6,557) · 속도 6(일 1,639회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이·저지·오승환) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "ohtani",
+      "topic_name": "오타니/다저스",
+      "suffix": "별명",
+      "title": "“제일 좋은 별명? 뽀삐가 만든 ‘오타니’“ 오너 인터뷰 | T1 vs DNS(05.08)",
+      "url": "https://www.youtube.com/watch?v=Je-6ia6SCvw",
+      "video_id": "Je-6ia6SCvw",
+      "thumbnail": "https://i.ytimg.com/vi/Je-6ia6SCvw/mqdefault.jpg",
+      "view_count": 5020,
+      "duration_sec": 277,
+      "published_at": "3개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:02:51+09:00",
+      "channel": "이지e스포츠",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 47,
+      "verdict": "제외",
+      "elapsed_days": 90.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 10,
+        "humor": 0,
+        "person": 15,
+        "situation": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 5,020) · 속도 3(일 56회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3455,11 +3457,11 @@
       "url": "https://www.youtube.com/watch?v=w59H_bw3k9o",
       "video_id": "w59H_bw3k9o",
       "thumbnail": "https://i.ytimg.com/vi/w59H_bw3k9o/mqdefault.jpg",
-      "view_count": 1054,
+      "view_count": 1067,
       "duration_sec": 705,
       "published_at": "2주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "로컬디스크C",
       "produce_target": true,
       "category": "character",
@@ -3479,7 +3481,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 1,054) · 속도 3(일 75회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 1,067) · 속도 3(일 76회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "ohtani",
@@ -3493,7 +3495,7 @@
       "duration_sec": 2438,
       "published_at": "3개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "오늘뭐다니 Today's Dania",
       "produce_target": true,
       "category": "character",
@@ -3528,7 +3530,7 @@
       "duration_sec": 561,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "스포츠디비 SportsDB",
       "produce_target": true,
       "category": "character",
@@ -3553,40 +3555,6 @@
     {
       "topic": "ohtani",
       "topic_name": "오타니/다저스",
-      "suffix": "별명",
-      "title": "스포츠 규칙과 기술에 자기 이름을 새긴 대단한 선수들",
-      "url": "https://www.youtube.com/watch?v=SO5DuTk0ubA",
-      "video_id": "SO5DuTk0ubA",
-      "thumbnail": "https://i.ytimg.com/vi/SO5DuTk0ubA/mqdefault.jpg",
-      "view_count": 304,
-      "duration_sec": 574,
-      "published_at": "2주 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
-      "channel": "SCOOP TV",
-      "produce_target": true,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 40,
-      "verdict": "제외",
-      "elapsed_days": 14.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 4,
-        "velocity": 3,
-        "suffix": 10,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 4(조회수 304) · 속도 3(일 22회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 선수들) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "ohtani",
-      "topic_name": "오타니/다저스",
       "suffix": "썰",
       "title": "우리가 몰랐던 오타니 쇼헤이 Shohei Ohtani 大谷翔平 이야기! MLB 수입 1위! 투수도 1등, 타자도 1등… 이게 사람이 가능한 거야? 오타니 쇼헤이 완전 정복!",
       "url": "https://www.youtube.com/watch?v=Z2ZC17_XARY",
@@ -3596,7 +3564,7 @@
       "duration_sec": 748,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:28:29+09:00",
+      "collected_at": "2026-08-29T05:02:51+09:00",
       "channel": "기원썰",
       "produce_target": true,
       "category": "character",
@@ -3619,6 +3587,41 @@
       "why": "조회수 4(조회수 261) · 속도 3(일 2회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이·이야기) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
+      "topic": "ohtani",
+      "topic_name": "오타니/다저스",
+      "suffix": "별명",
+      "title": "야알못'에서 '여자 오타니'까지, 박민서가 야구여왕2를 씹어먹은 소름 돋는 이유 ㄷㄷ",
+      "url": "https://www.youtube.com/watch?v=sr_WF8o3yao",
+      "video_id": "sr_WF8o3yao",
+      "thumbnail": "https://i.ytimg.com/vi/sr_WF8o3yao/mqdefault.jpg",
+      "view_count": 141,
+      "duration_sec": 976,
+      "published_at": "1일 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:02:51+09:00",
+      "channel": "불꽃야구시즌2",
+      "produce_target": true,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 47,
+      "verdict": "제외",
+      "elapsed_days": 1.0,
+      "tags": [
+        "데이터형",
+        "서사형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 10,
+        "humor": 0,
+        "person": 15,
+        "situation": 15,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 141) · 속도 3(일 141회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·박민서) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+    },
+    {
       "topic": "leekangin",
       "topic_name": "이강인",
       "suffix": "썰",
@@ -3626,11 +3629,11 @@
       "url": "https://www.youtube.com/watch?v=CZW8Euoh68o",
       "video_id": "CZW8Euoh68o",
       "thumbnail": "https://i.ytimg.com/vi/CZW8Euoh68o/mqdefault.jpg",
-      "view_count": 994394,
+      "view_count": 994587,
       "duration_sec": 665,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "슛포러브",
       "produce_target": false,
       "category": "character",
@@ -3650,7 +3653,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 994,394) · 속도 9(일 3,013회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 우승한·이강인) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 994,587) · 속도 9(일 3,014회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 우승한·이강인) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3660,11 +3663,11 @@
       "url": "https://www.youtube.com/watch?v=1FVlXjKNnWg",
       "video_id": "1FVlXjKNnWg",
       "thumbnail": "https://i.ytimg.com/vi/1FVlXjKNnWg/mqdefault.jpg",
-      "view_count": 684727,
+      "view_count": 684772,
       "duration_sec": 746,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "리춘수 [이천수]",
       "produce_target": false,
       "category": "character",
@@ -3685,7 +3688,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 14(조회수 684,727) · 속도 12(일 11,412회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 684,772) · 속도 12(일 11,413회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3695,11 +3698,11 @@
       "url": "https://www.youtube.com/watch?v=AtwZEBW388c",
       "video_id": "AtwZEBW388c",
       "thumbnail": "https://i.ytimg.com/vi/AtwZEBW388c/mqdefault.jpg",
-      "view_count": 471748,
+      "view_count": 471817,
       "duration_sec": 876,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "리춘수 [이천수]",
       "produce_target": false,
       "category": "character",
@@ -3720,7 +3723,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 9(조회수 471,748) · 속도 6(일 2,246회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 이천수) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 471,817) · 속도 6(일 2,247회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 이천수) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3730,11 +3733,11 @@
       "url": "https://www.youtube.com/watch?v=kDgaUVOQ0D0",
       "video_id": "kDgaUVOQ0D0",
       "thumbnail": "https://i.ytimg.com/vi/kDgaUVOQ0D0/mqdefault.jpg",
-      "view_count": 467319,
+      "view_count": 467326,
       "duration_sec": 891,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "김진짜 Real KIM",
       "produce_target": false,
       "category": "character",
@@ -3754,7 +3757,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 467,319) · 속도 6(일 1,947회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 467,326) · 속도 6(일 1,947회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3764,11 +3767,11 @@
       "url": "https://www.youtube.com/watch?v=ydKxYnZtC_Y",
       "video_id": "ydKxYnZtC_Y",
       "thumbnail": "https://i.ytimg.com/vi/ydKxYnZtC_Y/mqdefault.jpg",
-      "view_count": 375157,
+      "view_count": 375189,
       "duration_sec": 799,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "슛포러브",
       "produce_target": false,
       "category": "character",
@@ -3788,7 +3791,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 9(조회수 375,157) · 속도 9(일 6,253회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 기성용) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 375,189) · 속도 9(일 6,253회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 기성용) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3802,7 +3805,7 @@
       "duration_sec": 8002,
       "published_at": "스트리밍 시간: 6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "달수네라이브",
       "produce_target": false,
       "category": "character",
@@ -3833,11 +3836,11 @@
       "url": "https://www.youtube.com/watch?v=J8OeMyDjA2U",
       "video_id": "J8OeMyDjA2U",
       "thumbnail": "https://i.ytimg.com/vi/J8OeMyDjA2U/mqdefault.jpg",
-      "view_count": 65432,
+      "view_count": 65447,
       "duration_sec": 639,
       "published_at": "2주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "말년 호빙요",
       "produce_target": false,
       "category": "character",
@@ -3857,7 +3860,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 65,432) · 속도 9(일 4,674회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 65,447) · 속도 9(일 4,675회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3867,11 +3870,11 @@
       "url": "https://www.youtube.com/watch?v=86q1M2Va3J8",
       "video_id": "86q1M2Va3J8",
       "thumbnail": "https://i.ytimg.com/vi/86q1M2Va3J8/mqdefault.jpg",
-      "view_count": 38756,
+      "view_count": 38766,
       "duration_sec": 503,
       "published_at": "2주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "믹스트존 K",
       "produce_target": false,
       "category": "character",
@@ -3891,7 +3894,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 38,756) · 속도 6(일 2,768회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 신입생·이강인·오블락) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 38,766) · 속도 6(일 2,769회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 신입생·이강인·오블락) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3901,18 +3904,18 @@
       "url": "https://www.youtube.com/watch?v=4WTXy3Xs2Hc",
       "video_id": "4WTXy3Xs2Hc",
       "thumbnail": "https://i.ytimg.com/vi/4WTXy3Xs2Hc/mqdefault.jpg",
-      "view_count": 27719,
+      "view_count": 27751,
       "duration_sec": 467,
-      "published_at": "13일 전",
+      "published_at": "2주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "베라노 및 인터티비(InterTV)",
       "produce_target": false,
       "category": "character",
       "criteria_version": "v3",
       "score": 53,
       "verdict": "제외",
-      "elapsed_days": 13.0,
+      "elapsed_days": 14.0,
       "tags": [
         "서사형"
       ],
@@ -3925,7 +3928,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 27,719) · 속도 6(일 2,132회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 27,751) · 속도 6(일 1,982회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3935,11 +3938,11 @@
       "url": "https://www.youtube.com/watch?v=lHUm7o17JR4",
       "video_id": "lHUm7o17JR4",
       "thumbnail": "https://i.ytimg.com/vi/lHUm7o17JR4/mqdefault.jpg",
-      "view_count": 11638,
+      "view_count": 11639,
       "duration_sec": 1194,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "디글 클래식 :Diggle Classic",
       "produce_target": false,
       "category": "character",
@@ -3959,7 +3962,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 11,638) · 속도 3(일 194회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 허락해·엄원상·송민규·유퀴즈) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 11,639) · 속도 3(일 194회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 허락해·엄원상·송민규·유퀴즈) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -3973,7 +3976,7 @@
       "duration_sec": 72,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "연합뉴스TV",
       "produce_target": false,
       "category": "character",
@@ -4007,7 +4010,7 @@
       "duration_sec": 5602,
       "published_at": "스트리밍 시간: 2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "문도그",
       "produce_target": false,
       "category": "character",
@@ -4037,11 +4040,11 @@
       "url": "https://www.youtube.com/watch?v=mVme-wusV8I",
       "video_id": "mVme-wusV8I",
       "thumbnail": "https://i.ytimg.com/vi/mVme-wusV8I/mqdefault.jpg",
-      "view_count": 3906,
+      "view_count": 3910,
       "duration_sec": 4447,
       "published_at": "9개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "김현경 작가",
       "produce_target": false,
       "category": "character",
@@ -4061,41 +4064,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 3,906) · 속도 3(일 14회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인·손흥민·기성용) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "leekangin",
-      "topic_name": "이강인",
-      "suffix": "썰",
-      "title": "오늘자 이강인 훈련 사진 #네이트판 #네이트판썰 #네이트판액괴 #대규모시리즈액괴 #에스크액괴 #소규모액괴시리즈 #픽션시리즈액괴 #알고리즘떠라 #축구 #몽글님",
-      "url": "https://www.youtube.com/watch?v=PlMyd-a3bQQ",
-      "video_id": "PlMyd-a3bQQ",
-      "thumbnail": "https://i.ytimg.com/vi/PlMyd-a3bQQ/mqdefault.jpg",
-      "view_count": 1852,
-      "duration_sec": 129,
-      "published_at": "2개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
-      "channel": "뇽이",
-      "produce_target": false,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 43,
-      "verdict": "제외",
-      "elapsed_days": 60.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 4,
-        "velocity": 3,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 4(조회수 1,852) · 속도 3(일 31회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 오늘자·이강인) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 3,910) · 속도 3(일 14회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인·손흥민·기성용) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -4109,7 +4078,7 @@
       "duration_sec": 257,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "썰링포인트",
       "produce_target": false,
       "category": "character",
@@ -4143,7 +4112,7 @@
       "duration_sec": 432,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "모두의 스포츠",
       "produce_target": false,
       "category": "character",
@@ -4169,24 +4138,23 @@
       "topic": "leekangin",
       "topic_name": "이강인",
       "suffix": "썰",
-      "title": "이강인 부활 vs 손흥민 거절 #손흥민 #이강인 #토트넘 #PSG #LAFC #손흥민유럽복귀 #이강인부활 #축구썰 #프리미어리그 #리그앙 #월드컵 #한국축구 #축구뉴스 #스포츠썰",
-      "url": "https://www.youtube.com/watch?v=gC6LmCNLMxI",
-      "video_id": "gC6LmCNLMxI",
-      "thumbnail": "https://i.ytimg.com/vi/gC6LmCNLMxI/mqdefault.jpg",
-      "view_count": 375,
-      "duration_sec": 333,
-      "published_at": "9개월 전",
+      "title": "[포착] 홈페이지에서 이강인 삭제! 🚨 PSG의 전격 결별 선언... 몇 시간 뒤 옷피셜 뜬다! #이강인 #아틀레티코마드리드 #PSG #이강인이적 #문도데포르티보 #시메오네",
+      "url": "https://www.youtube.com/watch?v=84NYfvyOVK0",
+      "video_id": "84NYfvyOVK0",
+      "thumbnail": "https://i.ytimg.com/vi/84NYfvyOVK0/mqdefault.jpg",
+      "view_count": 465,
+      "duration_sec": 346,
+      "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "모두의 스포츠",
       "produce_target": false,
       "category": "character",
       "criteria_version": "v3",
       "score": 43,
       "verdict": "제외",
-      "elapsed_days": 270.0,
+      "elapsed_days": 30.0,
       "tags": [
-        "데이터형",
         "서사형"
       ],
       "breakdown": {
@@ -4198,7 +4166,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 375) · 속도 3(일 1회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인·손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 465) · 속도 3(일 16회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -4208,11 +4176,11 @@
       "url": "https://www.youtube.com/watch?v=IBOlKI5VH9U",
       "video_id": "IBOlKI5VH9U",
       "thumbnail": "https://i.ytimg.com/vi/IBOlKI5VH9U/mqdefault.jpg",
-      "view_count": 190,
+      "view_count": 191,
       "duration_sec": 82,
       "published_at": "3개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "제갈건 전성시대 Jegal Gunn",
       "produce_target": false,
       "category": "character",
@@ -4233,7 +4201,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 190) · 속도 3(일 2회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인·이야기·조회수) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 191) · 속도 3(일 2회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 이강인·이야기·조회수) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -4245,16 +4213,16 @@
       "thumbnail": "https://i.ytimg.com/vi/tBk1aaZpNNY/mqdefault.jpg",
       "view_count": 121,
       "duration_sec": 399,
-      "published_at": "10일 전",
+      "published_at": "11일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "모두의 스포츠",
       "produce_target": false,
       "category": "character",
       "criteria_version": "v3",
       "score": 59,
       "verdict": "보류",
-      "elapsed_days": 10.0,
+      "elapsed_days": 11.0,
       "tags": [
         "데이터형",
         "서사형"
@@ -4268,7 +4236,41 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 121) · 속도 3(일 12회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 이강인·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 121) · 속도 3(일 11회) · 접미 13(접미 '썰') · 유머 9(유머신호 진짜) · 인물 15(실명 이강인·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "leekangin",
+      "topic_name": "이강인",
+      "suffix": "썰",
+      "title": "맨시티전 마치고 이강인이 취재진 앞에서 숙인 고개, 대체 왜 사과했을까? 🚨 #이강인 #아틀레티코마드리드 #이강인데뷔전",
+      "url": "https://www.youtube.com/watch?v=CYRlIgpaEZg",
+      "video_id": "CYRlIgpaEZg",
+      "thumbnail": "https://i.ytimg.com/vi/CYRlIgpaEZg/mqdefault.jpg",
+      "view_count": 24,
+      "duration_sec": 425,
+      "published_at": "2주 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:03:26+09:00",
+      "channel": "모두의 스포츠",
+      "produce_target": false,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 52,
+      "verdict": "제외",
+      "elapsed_days": 14.0,
+      "tags": [
+        "서사형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 13,
+        "humor": 9,
+        "person": 15,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 24) · 속도 3(일 2회) · 접미 13(접미 '썰') · 유머 9(유머신호 왜) · 인물 15(실명 마치고·이강인) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "leekangin",
@@ -4282,7 +4284,7 @@
       "duration_sec": 378,
       "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:05+09:00",
+      "collected_at": "2026-08-29T05:03:26+09:00",
       "channel": "모두의 스포츠",
       "produce_target": false,
       "category": "character",
@@ -4313,11 +4315,11 @@
       "url": "https://www.youtube.com/watch?v=md9WbPiTZwE",
       "video_id": "md9WbPiTZwE",
       "thumbnail": "https://i.ytimg.com/vi/md9WbPiTZwE/mqdefault.jpg",
-      "view_count": 6502504,
+      "view_count": 6502665,
       "duration_sec": 2050,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "하나TV [하나은행]",
       "produce_target": false,
       "category": "character",
@@ -4337,7 +4339,41 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 22(조회수 6,502,504) · 속도 12(일 19,705회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 우승컵) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 22(조회수 6,502,665) · 속도 12(일 19,705회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 우승컵) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "son",
+      "topic_name": "손흥민(LAFC)",
+      "suffix": "썰",
+      "title": "맨유 후배 하파엘이 기억하는 과거 박지성의 위엄 ㄷㄷㄷ 퍼거슨이 이렇게까지 말했다고???",
+      "url": "https://www.youtube.com/watch?v=7YCU9wm8_N8",
+      "video_id": "7YCU9wm8_N8",
+      "thumbnail": "https://i.ytimg.com/vi/7YCU9wm8_N8/mqdefault.jpg",
+      "view_count": 1363221,
+      "duration_sec": 1587,
+      "published_at": "5개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:04:01+09:00",
+      "channel": "슛포러브",
+      "produce_target": false,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 63,
+      "verdict": "보류",
+      "elapsed_days": 150.0,
+      "tags": [
+        "데이터형"
+      ],
+      "breakdown": {
+        "views": 18,
+        "velocity": 9,
+        "suffix": 13,
+        "humor": 0,
+        "person": 15,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 18(조회수 1,363,221) · 속도 9(일 9,088회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 하파엘·기억하·박지성·이렇게) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4347,11 +4383,11 @@
       "url": "https://www.youtube.com/watch?v=gmd66wN92Pw",
       "video_id": "gmd66wN92Pw",
       "thumbnail": "https://i.ytimg.com/vi/gmd66wN92Pw/mqdefault.jpg",
-      "view_count": 1362547,
+      "view_count": 1362594,
       "duration_sec": 372,
       "published_at": "4주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "KNN NEWS",
       "produce_target": false,
       "category": "character",
@@ -4371,7 +4407,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 18(조회수 1,362,547) · 속도 12(일 48,662회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 18(조회수 1,362,594) · 속도 12(일 48,664회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4381,11 +4417,11 @@
       "url": "https://www.youtube.com/watch?v=uKlaAW-SMFU",
       "video_id": "uKlaAW-SMFU",
       "thumbnail": "https://i.ytimg.com/vi/uKlaAW-SMFU/mqdefault.jpg",
-      "view_count": 852992,
+      "view_count": 853050,
       "duration_sec": 1253,
       "published_at": "10개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "김종국 GYM JONG KOOK",
       "produce_target": false,
       "category": "character",
@@ -4405,7 +4441,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 852,992) · 속도 6(일 2,843회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 853,050) · 속도 6(일 2,844회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4415,11 +4451,11 @@
       "url": "https://www.youtube.com/watch?v=lfGjZjALmyU",
       "video_id": "lfGjZjALmyU",
       "thumbnail": "https://i.ytimg.com/vi/lfGjZjALmyU/mqdefault.jpg",
-      "view_count": 759101,
+      "view_count": 759154,
       "duration_sec": 799,
       "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "슛포러브",
       "produce_target": false,
       "category": "character",
@@ -4439,7 +4475,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 14(조회수 759,101) · 속도 12(일 25,303회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 14(조회수 759,154) · 속도 12(일 25,305회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4449,11 +4485,11 @@
       "url": "https://www.youtube.com/watch?v=X1aiNOyB5s8",
       "video_id": "X1aiNOyB5s8",
       "thumbnail": "https://i.ytimg.com/vi/X1aiNOyB5s8/mqdefault.jpg",
-      "view_count": 432960,
+      "view_count": 433006,
       "duration_sec": 630,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "슛포러브",
       "produce_target": false,
       "category": "character",
@@ -4473,7 +4509,41 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 432,960) · 속도 6(일 1,804회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 433,006) · 속도 6(일 1,804회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "son",
+      "topic_name": "손흥민(LAFC)",
+      "suffix": "썰",
+      "title": "[집중취재] \"손흥민 홍명보 충돌? 재성이 형이 아니라...\" 월드컵 대표팀 루머, 오해와 진실 (뽈리X썰호정)",
+      "url": "https://www.youtube.com/watch?v=ZND1grDYUiY",
+      "video_id": "ZND1grDYUiY",
+      "thumbnail": "https://i.ytimg.com/vi/ZND1grDYUiY/mqdefault.jpg",
+      "view_count": 68368,
+      "duration_sec": 1345,
+      "published_at": "1개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:04:01+09:00",
+      "channel": "서형욱의 뽈리TV",
+      "produce_target": false,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 46,
+      "verdict": "제외",
+      "elapsed_days": 30.0,
+      "tags": [
+        "서사형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 6,
+        "suffix": 13,
+        "humor": 0,
+        "person": 15,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 68,368) · 속도 6(일 2,279회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·홍명보) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4483,11 +4553,11 @@
       "url": "https://www.youtube.com/watch?v=q6xQKU8_zQk",
       "video_id": "q6xQKU8_zQk",
       "thumbnail": "https://i.ytimg.com/vi/q6xQKU8_zQk/mqdefault.jpg",
-      "view_count": 27699,
+      "view_count": 27700,
       "duration_sec": 401,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "서형욱의 뽈리TV",
       "produce_target": false,
       "category": "character",
@@ -4507,7 +4577,7 @@
         "situation": 15,
         "risk": 0
       },
-      "why": "조회수 4(조회수 27,699) · 속도 3(일 115회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·이라크) · 상황 15(특정 사건·장면(만난)) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 27,700) · 속도 3(일 115회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·이라크) · 상황 15(특정 사건·장면(만난)) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4517,11 +4587,11 @@
       "url": "https://www.youtube.com/watch?v=XK-7manOpt4",
       "video_id": "XK-7manOpt4",
       "thumbnail": "https://i.ytimg.com/vi/XK-7manOpt4/mqdefault.jpg",
-      "view_count": 27573,
+      "view_count": 27575,
       "duration_sec": 594,
       "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "풋볼픽",
       "produce_target": false,
       "category": "character",
@@ -4541,7 +4611,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 27,573) · 속도 3(일 919회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·한마디) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 27,575) · 속도 3(일 919회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·한마디) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4551,11 +4621,11 @@
       "url": "https://www.youtube.com/watch?v=cTx5-_rVKzo",
       "video_id": "cTx5-_rVKzo",
       "thumbnail": "https://i.ytimg.com/vi/cTx5-_rVKzo/mqdefault.jpg",
-      "view_count": 26929,
+      "view_count": 26948,
       "duration_sec": 803,
       "published_at": "2주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "범중 BUMJOONG",
       "produce_target": false,
       "category": "character",
@@ -4575,7 +4645,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 26,929) · 속도 6(일 1,924회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·선수님) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 26,948) · 속도 6(일 1,925회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·선수님) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4587,16 +4657,16 @@
       "thumbnail": "https://i.ytimg.com/vi/MKGo7flzS_Y/mqdefault.jpg",
       "view_count": 9338,
       "duration_sec": 604,
-      "published_at": "5개월 전",
+      "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "옆집 우형제 | Woo Brothers Next Door",
       "produce_target": false,
       "category": "character",
       "criteria_version": "v3",
       "score": 28,
       "verdict": "제외",
-      "elapsed_days": 150.0,
+      "elapsed_days": 180.0,
       "tags": [
         "서사형"
       ],
@@ -4609,75 +4679,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 9,338) · 속도 3(일 62회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "son",
-      "topic_name": "손흥민(LAFC)",
-      "suffix": "썰",
-      "title": "토트넘 리턴썰? \"구단에 실례\" 직접 밝힌 손흥민 인터뷰",
-      "url": "https://www.youtube.com/watch?v=rCtPjMBdzpg",
-      "video_id": "rCtPjMBdzpg",
-      "thumbnail": "https://i.ytimg.com/vi/rCtPjMBdzpg/mqdefault.jpg",
-      "view_count": 2351,
-      "duration_sec": 1310,
-      "published_at": "9개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
-      "channel": "브버지VAR",
-      "produce_target": false,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 50,
-      "verdict": "제외",
-      "elapsed_days": 270.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 4,
-        "velocity": 3,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 15,
-        "risk": 0
-      },
-      "why": "조회수 4(조회수 2,351) · 속도 3(일 9회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·인터뷰) · 상황 15(특정 사건·장면(인터뷰)) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "son",
-      "topic_name": "손흥민(LAFC)",
-      "suffix": "썰",
-      "title": "[글로벌성공스토리] 인종차별을 ‘골’로 되갚은 손흥민, 웸블리를 침묵시키다",
-      "url": "https://www.youtube.com/watch?v=f602uRWsybQ",
-      "video_id": "f602uRWsybQ",
-      "thumbnail": "https://i.ytimg.com/vi/f602uRWsybQ/mqdefault.jpg",
-      "view_count": 2053,
-      "duration_sec": 1208,
-      "published_at": "10개월 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
-      "channel": "썰좋앙",
-      "produce_target": false,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 43,
-      "verdict": "제외",
-      "elapsed_days": 300.0,
-      "tags": [
-        "서사형"
-      ],
-      "breakdown": {
-        "views": 4,
-        "velocity": 3,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 4(조회수 2,053) · 속도 3(일 7회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 9,338) · 속도 3(일 52회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4691,7 +4693,7 @@
       "duration_sec": 382,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "앗 영상이 땡긴다",
       "produce_target": false,
       "category": "character",
@@ -4721,11 +4723,11 @@
       "url": "https://www.youtube.com/watch?v=mbS7cvuovmU",
       "video_id": "mbS7cvuovmU",
       "thumbnail": "https://i.ytimg.com/vi/mbS7cvuovmU/mqdefault.jpg",
-      "view_count": 1657,
+      "view_count": 1659,
       "duration_sec": 396,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "쏘니쇼츠원밀리언",
       "produce_target": false,
       "category": "character",
@@ -4745,7 +4747,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 1,657) · 속도 3(일 8회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·마지막) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 1,659) · 속도 3(일 8회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·마지막) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "son",
@@ -4759,7 +4761,7 @@
       "duration_sec": 443,
       "published_at": "10개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "앗 영상이 땡긴다",
       "produce_target": false,
       "category": "character",
@@ -4793,7 +4795,7 @@
       "duration_sec": 356,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "앗 영상이 땡긴다",
       "produce_target": false,
       "category": "character",
@@ -4827,7 +4829,7 @@
       "duration_sec": 309,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "이무양",
       "produce_target": false,
       "category": "character",
@@ -4861,7 +4863,7 @@
       "duration_sec": 304,
       "published_at": "11개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "같이보자",
       "produce_target": false,
       "category": "character",
@@ -4895,7 +4897,7 @@
       "duration_sec": 333,
       "published_at": "8개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "썰가라사대",
       "produce_target": false,
       "category": "character",
@@ -4929,7 +4931,7 @@
       "duration_sec": 21,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "김기환장하네",
       "produce_target": false,
       "category": "character",
@@ -4964,7 +4966,7 @@
       "duration_sec": 191,
       "published_at": "2개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:29:41+09:00",
+      "collected_at": "2026-08-29T05:04:01+09:00",
       "channel": "Aocado Radio",
       "produce_target": false,
       "category": "character",
@@ -4994,11 +4996,11 @@
       "url": "https://www.youtube.com/watch?v=1Tbr_lQmMUI",
       "video_id": "1Tbr_lQmMUI",
       "thumbnail": "https://i.ytimg.com/vi/1Tbr_lQmMUI/mqdefault.jpg",
-      "view_count": 145671,
+      "view_count": 147809,
       "duration_sec": 4191,
       "published_at": "4일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "박종윤(축구)",
       "produce_target": false,
       "category": "character",
@@ -5018,7 +5020,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 145,671) · 속도 12(일 36,418회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 147,809) · 속도 12(일 36,952회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5028,11 +5030,11 @@
       "url": "https://www.youtube.com/watch?v=O2LV8YqnYms",
       "video_id": "O2LV8YqnYms",
       "thumbnail": "https://i.ytimg.com/vi/O2LV8YqnYms/mqdefault.jpg",
-      "view_count": 110928,
+      "view_count": 111260,
       "duration_sec": 2554,
       "published_at": "7일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "박종윤(축구)",
       "produce_target": false,
       "category": "character",
@@ -5052,7 +5054,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 9(조회수 110,928) · 속도 12(일 15,847회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 박종윤) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 9(조회수 111,260) · 속도 12(일 15,894회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 박종윤) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5062,11 +5064,11 @@
       "url": "https://www.youtube.com/watch?v=zaIofq4_iU4",
       "video_id": "zaIofq4_iU4",
       "thumbnail": "https://i.ytimg.com/vi/zaIofq4_iU4/mqdefault.jpg",
-      "view_count": 54630,
+      "view_count": 54640,
       "duration_sec": 482,
       "published_at": "7개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "축구 읽어주는 여자 쵱내",
       "produce_target": false,
       "category": "character",
@@ -5086,41 +5088,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 54,630) · 속도 3(일 260회) · 접미 10(접미 '별명') · 유머 9(유머신호 왜) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "epl",
-      "topic_name": "프리미어리그 개막",
-      "suffix": "썰",
-      "title": "6000억쓴 토트넘, PL 개막전 대참사! 브렌트포드에게 0-3 떡실신 당했다. 19위로 시즌 시작. 역대 최악의 노답 경기력 나온 토트넘 심각한 개막전 참패",
-      "url": "https://www.youtube.com/watch?v=k32V-xuhcLY",
-      "video_id": "k32V-xuhcLY",
-      "thumbnail": "https://i.ytimg.com/vi/k32V-xuhcLY/mqdefault.jpg",
-      "view_count": 42202,
-      "duration_sec": 484,
-      "published_at": "5일 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
-      "channel": "풋볼 포레스트 - Forrest Football",
-      "produce_target": false,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 49,
-      "verdict": "제외",
-      "elapsed_days": 5.0,
-      "tags": [
-        "데이터형"
-      ],
-      "breakdown": {
-        "views": 4,
-        "velocity": 9,
-        "suffix": 13,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 4(조회수 42,202) · 속도 9(일 8,440회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 심각한) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 54,640) · 속도 3(일 260회) · 접미 10(접미 '별명') · 유머 9(유머신호 왜) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5130,18 +5098,18 @@
       "url": "https://www.youtube.com/watch?v=e-5v3996nVU",
       "video_id": "e-5v3996nVU",
       "thumbnail": "https://i.ytimg.com/vi/e-5v3996nVU/mqdefault.jpg",
-      "view_count": 10750,
+      "view_count": 10751,
       "duration_sec": 9189,
-      "published_at": "스트리밍 시간: 11일 전",
+      "published_at": "스트리밍 시간: 12일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "새벽의 축구 전문가",
       "produce_target": false,
       "category": "character",
       "criteria_version": "v3",
       "score": 28,
       "verdict": "제외",
-      "elapsed_days": 11.0,
+      "elapsed_days": 12.0,
       "tags": [
         "데이터형"
       ],
@@ -5154,7 +5122,41 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 10,750) · 속도 3(일 977회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 10,751) · 속도 3(일 896회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "epl",
+      "topic_name": "프리미어리그 개막",
+      "suffix": "별명",
+      "title": "미국 무대에서 다시 만나는 두 전설, 손흥민 vs 뮐러 | 홍명보 감독, 손흥민 활용법 배워야 [스포츠톡톡]",
+      "url": "https://www.youtube.com/watch?v=Or_tY7gCGaA",
+      "video_id": "Or_tY7gCGaA",
+      "thumbnail": "https://i.ytimg.com/vi/Or_tY7gCGaA/mqdefault.jpg",
+      "view_count": 10089,
+      "duration_sec": 1675,
+      "published_at": "9개월 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:04:35+09:00",
+      "channel": "미국 소식은 DK NET | 텍사스·미주 한인 뉴스",
+      "produce_target": false,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 40,
+      "verdict": "제외",
+      "elapsed_days": 270.0,
+      "tags": [
+        "데이터형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 10,
+        "humor": 0,
+        "person": 15,
+        "situation": 8,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 10,089) · 속도 3(일 37회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 손흥민·홍명보·배워야) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5168,7 +5170,7 @@
       "duration_sec": 1277,
       "published_at": "3주 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "스포츠토토 공식 채널",
       "produce_target": false,
       "category": "character",
@@ -5199,11 +5201,11 @@
       "url": "https://www.youtube.com/watch?v=DxbV1LMrrx8",
       "video_id": "DxbV1LMrrx8",
       "thumbnail": "https://i.ytimg.com/vi/DxbV1LMrrx8/mqdefault.jpg",
-      "view_count": 1974,
+      "view_count": 2026,
       "duration_sec": 933,
       "published_at": "7일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "브버지VAR",
       "produce_target": false,
       "category": "character",
@@ -5223,7 +5225,7 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 4(조회수 1,974) · 속도 3(일 282회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 2,026) · 속도 3(일 289회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5237,7 +5239,7 @@
       "duration_sec": 133,
       "published_at": "5개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "스포츠 버라이어티",
       "produce_target": false,
       "category": "character",
@@ -5267,18 +5269,18 @@
       "url": "https://www.youtube.com/watch?v=dIXQsrP9w38",
       "video_id": "dIXQsrP9w38",
       "thumbnail": "https://i.ytimg.com/vi/dIXQsrP9w38/mqdefault.jpg",
-      "view_count": 491,
+      "view_count": 609,
       "duration_sec": 2941,
-      "published_at": "5일 전",
+      "published_at": "6일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "개와닭",
       "produce_target": false,
       "category": "character",
       "criteria_version": "v3",
       "score": 28,
       "verdict": "제외",
-      "elapsed_days": 5.0,
+      "elapsed_days": 6.0,
       "tags": [
         "데이터형"
       ],
@@ -5291,7 +5293,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 491) · 속도 3(일 98회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 609) · 속도 3(일 102회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5301,18 +5303,18 @@
       "url": "https://www.youtube.com/watch?v=nGSbhdfs40Q",
       "video_id": "nGSbhdfs40Q",
       "thumbnail": "https://i.ytimg.com/vi/nGSbhdfs40Q/mqdefault.jpg",
-      "view_count": 359,
+      "view_count": 360,
       "duration_sec": 1514,
-      "published_at": "12일 전",
+      "published_at": "13일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "개와닭",
       "produce_target": false,
       "category": "character",
       "criteria_version": "v3",
       "score": 28,
       "verdict": "제외",
-      "elapsed_days": 12.0,
+      "elapsed_days": 13.0,
       "tags": [
         "데이터형"
       ],
@@ -5325,7 +5327,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 359) · 속도 3(일 30회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 360) · 속도 3(일 28회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5339,7 +5341,7 @@
       "duration_sec": 700,
       "published_at": "10일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "럭키록기-하위10%남자의 다양한 소통",
       "produce_target": false,
       "category": "character",
@@ -5373,7 +5375,7 @@
       "duration_sec": 397,
       "published_at": "1개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "프로토러너",
       "produce_target": false,
       "category": "character",
@@ -5399,6 +5401,40 @@
       "topic": "epl",
       "topic_name": "프리미어리그 개막",
       "suffix": "썰",
+      "title": "해외축구 EPL 2026 2027 시즌 개막! 맨유의 충격패와 첫 라운드 주요 경기 총정리",
+      "url": "https://www.youtube.com/watch?v=gPK3-_Mu4ic",
+      "video_id": "gPK3-_Mu4ic",
+      "thumbnail": "https://i.ytimg.com/vi/gPK3-_Mu4ic/mqdefault.jpg",
+      "view_count": 229,
+      "duration_sec": 113,
+      "published_at": "5일 전",
+      "published_at_kind": "relative",
+      "collected_at": "2026-08-29T05:04:35+09:00",
+      "channel": "돈생통TV-돈이되는 생생정보통",
+      "produce_target": false,
+      "category": "character",
+      "criteria_version": "v3",
+      "score": 35,
+      "verdict": "제외",
+      "elapsed_days": 5.0,
+      "tags": [
+        "데이터형"
+      ],
+      "breakdown": {
+        "views": 4,
+        "velocity": 3,
+        "suffix": 13,
+        "humor": 0,
+        "person": 15,
+        "situation": 0,
+        "risk": 0
+      },
+      "why": "조회수 4(조회수 229) · 속도 3(일 46회) · 접미 13(접미 '썰') · 유머 0(유머신호 없음) · 인물 15(실명 라운드) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+    },
+    {
+      "topic": "epl",
+      "topic_name": "프리미어리그 개막",
+      "suffix": "썰",
       "title": "2026 북중미월드컵 한국VS남아공 프리뷰 | 16년만에 다시 보는 부부젤라! 한국 조별리그 최대 복병? | 월드컵 예선전 승부 가를 핵심 변수 5가지",
       "url": "https://www.youtube.com/watch?v=zhu2-YTs0b4",
       "video_id": "zhu2-YTs0b4",
@@ -5407,7 +5443,7 @@
       "duration_sec": 778,
       "published_at": "4개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "기원썰",
       "produce_target": false,
       "category": "character",
@@ -5433,49 +5469,15 @@
       "topic": "epl",
       "topic_name": "프리미어리그 개막",
       "suffix": "별명",
-      "title": "토트넘 맨유 우짜누... PL 1라운드 리뷰 근데 이제 이적시장을 곁들인 | 26-27 PL 1R | 개와닭 ep.24",
-      "url": "https://www.youtube.com/watch?v=hyT2qA90CK0",
-      "video_id": "hyT2qA90CK0",
-      "thumbnail": "https://i.ytimg.com/vi/hyT2qA90CK0/mqdefault.jpg",
-      "view_count": 157,
-      "duration_sec": 1719,
-      "published_at": "1일 전",
-      "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
-      "channel": "개와닭",
-      "produce_target": false,
-      "category": "character",
-      "criteria_version": "v3",
-      "score": 40,
-      "verdict": "제외",
-      "elapsed_days": 1.0,
-      "tags": [
-        "데이터형"
-      ],
-      "breakdown": {
-        "views": 4,
-        "velocity": 3,
-        "suffix": 10,
-        "humor": 0,
-        "person": 15,
-        "situation": 8,
-        "risk": 0
-      },
-      "why": "조회수 4(조회수 157) · 속도 3(일 157회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 우짜누·라운드) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "topic": "epl",
-      "topic_name": "프리미어리그 개막",
-      "suffix": "별명",
       "title": "맨유가 여기까지 올라온다고?! I 맨유커플이 예상한 26-27 EPL 순위 예측",
       "url": "https://www.youtube.com/watch?v=-Oea5Z75mWA",
       "video_id": "-Oea5Z75mWA",
       "thumbnail": "https://i.ytimg.com/vi/-Oea5Z75mWA/mqdefault.jpg",
-      "view_count": 157,
+      "view_count": 176,
       "duration_sec": 469,
       "published_at": "7일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "임박한데이",
       "produce_target": false,
       "category": "character",
@@ -5495,28 +5497,28 @@
         "situation": 0,
         "risk": 0
       },
-      "why": "조회수 4(조회수 157) · 속도 3(일 22회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 176) · 속도 3(일 25회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
       "topic_name": "프리미어리그 개막",
       "suffix": "별명",
-      "title": "해외축구 EPL 2026 2027 시즌 개막! 맨유의 충격패와 첫 라운드 주요 경기 총정리",
-      "url": "https://www.youtube.com/watch?v=gPK3-_Mu4ic",
-      "video_id": "gPK3-_Mu4ic",
-      "thumbnail": "https://i.ytimg.com/vi/gPK3-_Mu4ic/mqdefault.jpg",
-      "view_count": 137,
-      "duration_sec": 113,
-      "published_at": "5일 전",
+      "title": "이변 속출!!!  PL 1라운드 리뷰 !!!  근데 이제 이적시장을 곁들인 | 26-27 PL 1R | 개와닭 ep.24",
+      "url": "https://www.youtube.com/watch?v=hyT2qA90CK0",
+      "video_id": "hyT2qA90CK0",
+      "thumbnail": "https://i.ytimg.com/vi/hyT2qA90CK0/mqdefault.jpg",
+      "view_count": 159,
+      "duration_sec": 1719,
+      "published_at": "2일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
-      "channel": "돈생통TV-돈이되는 생생정보통",
+      "collected_at": "2026-08-29T05:04:35+09:00",
+      "channel": "개와닭",
       "produce_target": false,
       "category": "character",
       "criteria_version": "v3",
-      "score": 32,
+      "score": 40,
       "verdict": "제외",
-      "elapsed_days": 5.0,
+      "elapsed_days": 2.0,
       "tags": [
         "데이터형"
       ],
@@ -5526,10 +5528,10 @@
         "suffix": 10,
         "humor": 0,
         "person": 15,
-        "situation": 0,
+        "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 137) · 속도 3(일 27회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 라운드) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 159) · 속도 3(일 80회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 라운드) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5543,7 +5545,7 @@
       "duration_sec": 105,
       "published_at": "6개월 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "스포츠 버라이어티",
       "produce_target": false,
       "category": "character",
@@ -5573,11 +5575,11 @@
       "url": "https://www.youtube.com/watch?v=cQ9iTuoqUb8",
       "video_id": "cQ9iTuoqUb8",
       "thumbnail": "https://i.ytimg.com/vi/cQ9iTuoqUb8/mqdefault.jpg",
-      "view_count": 96,
+      "view_count": 97,
       "duration_sec": 891,
       "published_at": "6일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "분석24시",
       "produce_target": false,
       "category": "character",
@@ -5597,7 +5599,7 @@
         "situation": 8,
         "risk": 0
       },
-      "why": "조회수 4(조회수 96) · 속도 3(일 16회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 97) · 속도 3(일 16회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
       "topic": "epl",
@@ -5611,7 +5613,7 @@
       "duration_sec": 1098,
       "published_at": "6일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "분석24시",
       "produce_target": false,
       "category": "character",
@@ -5645,7 +5647,7 @@
       "duration_sec": 95,
       "published_at": "5일 전",
       "published_at_kind": "relative",
-      "collected_at": "2026-08-28T21:30:16+09:00",
+      "collected_at": "2026-08-29T05:04:35+09:00",
       "channel": "90PITCH",
       "produce_target": false,
       "category": "character",
