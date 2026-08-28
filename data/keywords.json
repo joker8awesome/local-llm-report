@@ -1,6 +1,6 @@
 {
   "count": 141,
-  "generated_at": 1787949108,
+  "generated_at": 1787949997,
   "by_topic": {
     "kbo_rank": 16,
     "hanwha": 18,
@@ -25,154 +25,152 @@
       "보류": 27,
       "후보": 6
     },
-    "recommend_rule": "produce_target=true · 70점 이상 후보 · 상위 10 · 토픽당 최대 3"
+    "recommend_rule": "produce_target=true · 12시간 이내 우선 → elapsed_days 오름차순 · 접미당 최대 3"
   },
   "recommended": [
     {
-      "video_id": "SEdq3d1GEN0",
-      "score": 84,
-      "verdict": "후보",
-      "topic": "ohtani",
-      "topic_name": "오타니/다저스",
-      "title": "'야구의 신'을 잘못 건드린 최후...| 오타니 쇼헤이의 모든 것",
-      "view_count": 1081945,
-      "url": "https://www.youtube.com/watch?v=SEdq3d1GEN0",
-      "thumbnail": "https://i.ytimg.com/vi/SEdq3d1GEN0/mqdefault.jpg",
-      "channel": "라이프시크릿",
-      "tags": [
-        "서사형"
-      ],
-      "why": "조회수 18(조회수 1,081,945) · 속도 12(일 12,022회) · 접미 15(접미 '레전드') · 유머 9(유머신호 최후) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(최후·건드린)) · 리스크 0(리스크 없음)"
-    },
-    {
-      "video_id": "ukw7Gfj_f_8",
-      "score": 71,
-      "verdict": "후보",
-      "topic": "hanwha",
-      "topic_name": "한화 이글스",
-      "title": "[한화그룹 광고] 이글스를 사랑하는 이들에게편",
-      "view_count": 14034269,
-      "url": "https://www.youtube.com/watch?v=ukw7Gfj_f_8",
-      "thumbnail": "https://i.ytimg.com/vi/ukw7Gfj_f_8/mqdefault.jpg",
-      "channel": "한화TV (Hanwha TV)",
-      "tags": [
-        "서사형"
-      ],
-      "why": "조회수 25(조회수 14,034,269) · 속도 15(일 51,979회) · 접미 15(접미 '레전드') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "video_id": "jLA6M0iwWb4",
-      "score": 68,
-      "verdict": "보류",
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "그저 그런 선수로 남을 수가 없는 .. 미친 재능의 김도영의 또 한번의 발전",
-      "view_count": 146430,
-      "url": "https://www.youtube.com/watch?v=jLA6M0iwWb4",
-      "thumbnail": "https://i.ytimg.com/vi/jLA6M0iwWb4/mqdefault.jpg",
-      "channel": "스포츠한입",
-      "tags": [
-        "서사형"
-      ],
-      "why": "조회수 9(조회수 146,430) · 속도 12(일 20,919회) · 접미 15(접미 '레전드') · 유머 9(유머신호 미친) · 인물 15(실명 김도영) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "video_id": "QWYmM1Qi9H0",
-      "score": 65,
-      "verdict": "보류",
-      "topic": "kimdoyoung",
-      "topic_name": "김도영",
-      "title": "[전참시] 집에서는 막내미 뿜뿜. 아기호랑이 김도영의 Sweet Home 최초 공개 MBC241228방송",
-      "view_count": 1441520,
-      "url": "https://www.youtube.com/watch?v=QWYmM1Qi9H0",
-      "thumbnail": "https://i.ytimg.com/vi/QWYmM1Qi9H0/mqdefault.jpg",
-      "channel": "픽잇 :Pick it",
-      "tags": [
-        "데이터형"
-      ],
-      "why": "조회수 18(조회수 1,441,520) · 속도 9(일 3,949회) · 접미 15(접미 '레전드') · 유머 0(유머신호 없음) · 인물 15(실명 전참시·김도영) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "video_id": "czAPzB-Xr10",
-      "score": 65,
-      "verdict": "보류",
-      "topic": "ohtani",
-      "topic_name": "오타니/다저스",
-      "title": "아니..이게 말이 되냐구요?? 네??.. 진짜 사람이 아닌 것 같은 오타니의 미친 퍼포먼스",
-      "view_count": 251894,
-      "url": "https://www.youtube.com/watch?v=czAPzB-Xr10",
-      "thumbnail": "https://i.ytimg.com/vi/czAPzB-Xr10/mqdefault.jpg",
-      "channel": "스포츠한입",
-      "tags": [
-        "서사형"
-      ],
-      "why": "조회수 9(조회수 251,894) · 속도 3(일 840회) · 접미 15(접미 '레전드') · 유머 15(유머신호 미친·진짜) · 인물 15(실명 오타니) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
-    },
-    {
-      "video_id": "tTq2dkX_RlE",
-      "score": 65,
-      "verdict": "보류",
-      "topic": "ohtani",
-      "topic_name": "오타니/다저스",
-      "title": "오타니 쇼헤이 명언 l '1조원' 벌고 느낀, 돈이 크게 중요하지 이유... l 야구 LA 다저스",
-      "view_count": 882818,
-      "url": "https://www.youtube.com/watch?v=tTq2dkX_RlE",
-      "thumbnail": "https://i.ytimg.com/vi/tTq2dkX_RlE/mqdefault.jpg",
-      "channel": "멘탈케어::힐링 심리학 채널::",
-      "tags": [
-        "데이터형",
-        "서사형"
-      ],
-      "why": "조회수 14(조회수 882,818) · 속도 6(일 2,675회) · 접미 15(접미 '레전드') · 유머 0(유머신호 없음) · 인물 15(실명 오타니·쇼헤이) · 상황 15(특정 사건·장면(이유)) · 리스크 0(리스크 없음)"
-    },
-    {
-      "video_id": "qaavQrzjx20",
-      "score": 62,
-      "verdict": "보류",
-      "topic": "hanwha",
-      "topic_name": "한화 이글스",
-      "title": "그때 우린 보살이었죠...눈물 없이 볼 수 없었던 13시즌 한화의 13연패 탈출기 / [추억스환 #23] / 스포츠머그",
-      "view_count": 3504228,
-      "url": "https://www.youtube.com/watch?v=qaavQrzjx20",
-      "thumbnail": "https://i.ytimg.com/vi/qaavQrzjx20/mqdefault.jpg",
-      "channel": "비디오머그 - VIDEOMUG",
-      "tags": [
-        "데이터형",
-        "서사형"
-      ],
-      "why": "조회수 18(조회수 3,504,228) · 속도 6(일 1,600회) · 접미 15(접미 '레전드') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 15(특정 사건·장면(그때)) · 리스크 0(리스크 없음)"
-    },
-    {
-      "video_id": "6gxp9ZQVH1Y",
-      "score": 62,
-      "verdict": "보류",
+      "video_id": "bzmA402fnO0",
+      "score": 52,
+      "verdict": "제외",
       "topic": "kbo_rank",
       "topic_name": "KBO 순위/5강",
-      "title": "] 극악의 KBO 밸런스 게임.. 이대호가 뽑은 최고의 기록은?",
-      "view_count": 1462142,
-      "url": "https://www.youtube.com/watch?v=6gxp9ZQVH1Y",
-      "thumbnail": "https://i.ytimg.com/vi/6gxp9ZQVH1Y/mqdefault.jpg",
-      "channel": "이대호 [RE:DAEHO]",
+      "title": "우천시 취소 특집!! 비오면 이러고 놉니다. ㅋㅋㅋ [불타는 야구팬 불팬]",
+      "view_count": 32855,
+      "url": "https://www.youtube.com/watch?v=bzmA402fnO0",
+      "thumbnail": "https://i.ytimg.com/vi/bzmA402fnO0/mqdefault.jpg",
+      "channel": "불팬 _ 불타는야구팬",
+      "suffix": "별명",
+      "elapsed_days": 0.5,
       "tags": [
-        "데이터형"
+        "서사형"
       ],
-      "why": "조회수 18(조회수 1,462,142) · 속도 6(일 2,003회) · 접미 15(접미 '레전드') · 유머 0(유머신호 없음) · 인물 15(실명 이대호) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 32,855) · 속도 15(일 65,710회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 15(실명 우천시·이러고) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
     },
     {
-      "video_id": "SMym8ALQFik",
-      "score": 59,
-      "verdict": "보류",
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "KBO || 레전드 명승부 #6 - 2017 한국시리즈 2차전 (두산 vs KIA)",
-      "view_count": 213539,
-      "url": "https://www.youtube.com/watch?v=SMym8ALQFik",
-      "thumbnail": "https://i.ytimg.com/vi/SMym8ALQFik/mqdefault.jpg",
-      "channel": "KABY BASEBALL",
+      "video_id": "LOHYbB6QXA8",
+      "score": 50,
+      "verdict": "제외",
+      "topic": "hanwha",
+      "topic_name": "한화 이글스",
+      "title": "한화는 무너지고 KIA는 158km 마무리를 찾았다…같은 위기인데 왜 이렇게 달랐나? #한화이글스 #KIA타이거즈 #김경문 #KBO #프로야구",
+      "view_count": 1952,
+      "url": "https://www.youtube.com/watch?v=LOHYbB6QXA8",
+      "thumbnail": "https://i.ytimg.com/vi/LOHYbB6QXA8/mqdefault.jpg",
+      "channel": "KBO Talk 박현서",
+      "suffix": "기록",
+      "elapsed_days": 0.5,
       "tags": [
         "데이터형"
       ],
-      "why": "조회수 9(조회수 213,539) · 속도 3(일 195회) · 접미 15(접미 '레전드') · 유머 9(유머신호 레전드) · 인물 15(실명 명승부) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+      "why": "조회수 4(조회수 1,952) · 속도 9(일 3,904회) · 접미 5(접미 '기록') · 유머 9(유머신호 왜) · 인물 15(실명 마무리·이렇게·김경문) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "cDjXx6kdKg0",
+      "score": 44,
+      "verdict": "제외",
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "하늘은 어서 야있날을 제공하라 제공하라 제공하라... 🥕 [더그아웃비하인드]",
+      "view_count": 110053,
+      "url": "https://www.youtube.com/watch?v=cDjXx6kdKg0",
+      "thumbnail": "https://i.ytimg.com/vi/cDjXx6kdKg0/mqdefault.jpg",
+      "channel": "기아타이거즈 KIA TIGERS",
+      "suffix": "기록",
+      "elapsed_days": 0.5,
+      "tags": [
+        "서사형"
+      ],
+      "why": "조회수 9(조회수 110,053) · 속도 15(일 220,106회) · 접미 5(접미 '기록') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 15(특정 사건·장면(비하인드)) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "nlF2TxlBXJo",
+      "score": 34,
+      "verdict": "제외",
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "【新番上线】《尘市谋宸》第1~4季：纨绔穿古开店谋朝堂！全集 MULTI SUB",
+      "view_count": 22036,
+      "url": "https://www.youtube.com/watch?v=nlF2TxlBXJo",
+      "thumbnail": "https://i.ytimg.com/vi/nlF2TxlBXJo/mqdefault.jpg",
+      "channel": "薄荷小屋",
+      "suffix": "별명",
+      "elapsed_days": 0.5,
+      "tags": [
+        "데이터형"
+      ],
+      "why": "조회수 4(조회수 22,036) · 속도 12(일 44,072회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "m3GeI1uG0_Q",
+      "score": 34,
+      "verdict": "제외",
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "MULTISUB【🔥最新熱漫 第1~4季 New anime 】败子经商搅动朝堂！",
+      "view_count": 15204,
+      "url": "https://www.youtube.com/watch?v=m3GeI1uG0_Q",
+      "thumbnail": "https://i.ytimg.com/vi/m3GeI1uG0_Q/mqdefault.jpg",
+      "channel": "云霄来了 및 秋水不染尘",
+      "suffix": "별명",
+      "elapsed_days": 0.5,
+      "tags": [
+        "데이터형"
+      ],
+      "why": "조회수 4(조회수 15,204) · 속도 12(일 30,408회) · 접미 10(접미 '별명') · 유머 0(유머신호 없음) · 인물 0(인물 없음) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "84JR9JvkGyo",
+      "score": 42,
+      "verdict": "제외",
+      "topic": "hanwha",
+      "topic_name": "한화 이글스",
+      "title": "[한화이글스 vs SSG랜더스] 8.27(목) 야구 하이라이트｜2026 KBO 리그｜KBO X TVING",
+      "view_count": 99487,
+      "url": "https://www.youtube.com/watch?v=84JR9JvkGyo",
+      "thumbnail": "https://i.ytimg.com/vi/84JR9JvkGyo/mqdefault.jpg",
+      "channel": "KBO",
+      "suffix": "레전드",
+      "elapsed_days": 1.0,
+      "tags": [
+        "데이터형"
+      ],
+      "why": "조회수 4(조회수 99,487) · 속도 15(일 99,487회) · 접미 15(접미 '레전드') · 유머 0(유머신호 없음) · 인물 8(팀·집단 지칭) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "IM2Vl-nA48c",
+      "score": 47,
+      "verdict": "제외",
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "언제 돌아오니?? 기아의 부상 선수들 근황 체크",
+      "view_count": 69724,
+      "url": "https://www.youtube.com/watch?v=IM2Vl-nA48c",
+      "thumbnail": "https://i.ytimg.com/vi/IM2Vl-nA48c/mqdefault.jpg",
+      "channel": "패션야구",
+      "suffix": "기록",
+      "elapsed_days": 1.0,
+      "tags": [
+        "서사형"
+      ],
+      "why": "조회수 4(조회수 69,724) · 속도 15(일 69,724회) · 접미 5(접미 '기록') · 유머 0(유머신호 없음) · 인물 15(실명 선수들) · 상황 8(일반 상황) · 리스크 0(리스크 없음)"
+    },
+    {
+      "video_id": "OFVmzyMQVD0",
+      "score": 54,
+      "verdict": "제외",
+      "topic": "kimdoyoung",
+      "topic_name": "김도영",
+      "title": "[롯데 vs KIA] 자신의 역사를 새롭게 쓰는 KIA 김도영의 39호 홈런! | 8.26 | 크보모먼트 | KBO 야구 하이라이트",
+      "view_count": 221115,
+      "url": "https://www.youtube.com/watch?v=OFVmzyMQVD0",
+      "thumbnail": "https://i.ytimg.com/vi/OFVmzyMQVD0/mqdefault.jpg",
+      "channel": "KBO",
+      "suffix": "레전드",
+      "elapsed_days": 2.0,
+      "tags": [
+        "데이터형"
+      ],
+      "why": "조회수 9(조회수 221,115) · 속도 15(일 110,558회) · 접미 15(접미 '레전드') · 유머 0(유머신호 없음) · 인물 15(실명 김도영) · 상황 0(나열·요약형) · 리스크 0(리스크 없음)"
     },
     {
       "video_id": "YHNVmzyjNx8",
@@ -185,6 +183,8 @@
       "url": "https://www.youtube.com/watch?v=YHNVmzyjNx8",
       "thumbnail": "https://i.ytimg.com/vi/YHNVmzyjNx8/mqdefault.jpg",
       "channel": "기아타이거즈 KIA TIGERS",
+      "suffix": "레전드",
+      "elapsed_days": 6.0,
       "tags": [
         "데이터형"
       ],

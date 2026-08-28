@@ -235,6 +235,13 @@ function vErrors(){
 let kwTopic='all';
 let kwSort='topic';                 // topic(기본) | views | recent
 const nfmt = n => (typeof n==='number') ? n.toLocaleString('ko-KR') : '-';
+// 경과일 배지(2026-08-29, 추천 재설계 지시) — "330일 전"이 보여야 CEO가 직접 거를 수 있다.
+// 서버(keyword_score.elapsed_days)가 이미 계산한 값이라 상대표기 재파싱보다 정확하다.
+function elapsedBadge(days){
+  if(typeof days!=='number') return '';
+  const label = days<1 ? Math.round(days*24)+'시간 전' : Math.round(days)+'일 전';
+  return `<span class="kwtag" title="elapsed_days=${days}">${label}</span>`;
+}
 
 // ---- 승인 체크(단계B, 2026-08-29) — video_id 기준.
 // ★자동 삭제 없음(2026-08-29 지시 정정) — 날짜는 항목별로 동봉하되 지우지 않는다.
@@ -343,7 +350,8 @@ function vKeywords(){
           <span class="mono">조회수 ${nfmt(k.view_count)}</span></div>
         <div class="kwmeta"><span class="kwtag">${esc(k.topic_name||k.topic)}</span>
           <span class="kwtag">${esc(k.suffix||'')}</span>
-          ${k.produce_target?'':'<span class="kwtag">관측</span>'}</div>
+          ${k.produce_target?'':'<span class="kwtag">관측</span>'}
+          ${elapsedBadge(k.elapsed_days)}</div>
       </div></div>`;
   }).join('');
   return `<div class="card">${bar}<div class="kwgrid">${cards}</div></div>`;
