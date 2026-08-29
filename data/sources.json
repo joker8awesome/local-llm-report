@@ -1,11 +1,11 @@
 {
-  "generated_at": 1787950235,
+  "generated_at": 1787966284,
   "summary": {
     "topics": 8,
     "suffixes": 5,
     "queries": 40,
     "collect_topics": 8,
-    "produce_topics": 5,
+    "produce_topics": 8,
     "baseball_queries": 25,
     "football_queries": 15
   },
@@ -82,7 +82,7 @@
       "name": "이강인",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12,
       "prefix": "kw_leekangin_"
     },
@@ -91,7 +91,7 @@
       "name": "손흥민(LAFC)",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12,
       "prefix": "kw_son_"
     },
@@ -100,7 +100,7 @@
       "name": "프리미어리그 개막",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12,
       "prefix": "kw_epl_"
     }
@@ -389,7 +389,7 @@
       "category": "character",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -400,7 +400,7 @@
       "category": "character",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -411,7 +411,7 @@
       "category": "highlight",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -422,7 +422,7 @@
       "category": "highlight",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -433,7 +433,7 @@
       "category": "article",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -444,7 +444,7 @@
       "category": "character",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -455,7 +455,7 @@
       "category": "character",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -466,7 +466,7 @@
       "category": "highlight",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -477,7 +477,7 @@
       "category": "highlight",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -488,7 +488,7 @@
       "category": "article",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -499,7 +499,7 @@
       "category": "character",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -510,7 +510,7 @@
       "category": "character",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -521,7 +521,7 @@
       "category": "highlight",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -532,7 +532,7 @@
       "category": "highlight",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     },
     {
@@ -543,7 +543,7 @@
       "category": "article",
       "league": "football",
       "collect": true,
-      "produce": false,
+      "produce": true,
       "cycle_h": 12
     }
   ]
