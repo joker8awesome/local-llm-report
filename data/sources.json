@@ -1,13 +1,14 @@
 {
-  "generated_at": 1788009497,
+  "generated_at": 1788031188,
   "summary": {
-    "topics": 8,
+    "topics": 11,
     "suffixes": 5,
-    "queries": 40,
-    "collect_topics": 8,
-    "produce_topics": 8,
+    "queries": 55,
+    "collect_topics": 11,
+    "produce_topics": 11,
     "baseball_queries": 25,
-    "football_queries": 15
+    "football_queries": 15,
+    "basketball_queries": 15
   },
   "suffixes": [
     {
@@ -103,6 +104,33 @@
       "produce": true,
       "cycle_h": 12,
       "prefix": "kw_epl_"
+    },
+    {
+      "id": "kbl",
+      "name": "KBL",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_kbl_"
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_nba_"
+    },
+    {
+      "id": "leehyunjung",
+      "name": "이현중",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_leehyunjung_"
     }
   ],
   "queries": [
@@ -542,6 +570,171 @@
       "query": "프리미어리그 개막 기록",
       "category": "article",
       "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "kbl",
+      "topic": "KBL",
+      "suffix": "썰",
+      "query": "KBL 썰",
+      "category": "character",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "kbl",
+      "topic": "KBL",
+      "suffix": "별명",
+      "query": "KBL 별명",
+      "category": "character",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "kbl",
+      "topic": "KBL",
+      "suffix": "웃긴장면",
+      "query": "KBL 웃긴장면",
+      "category": "highlight",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "kbl",
+      "topic": "KBL",
+      "suffix": "레전드",
+      "query": "KBL 레전드",
+      "category": "highlight",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "kbl",
+      "topic": "KBL",
+      "suffix": "기록",
+      "query": "KBL 기록",
+      "category": "article",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "nba",
+      "topic": "NBA",
+      "suffix": "썰",
+      "query": "NBA 썰",
+      "category": "character",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "nba",
+      "topic": "NBA",
+      "suffix": "별명",
+      "query": "NBA 별명",
+      "category": "character",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "nba",
+      "topic": "NBA",
+      "suffix": "웃긴장면",
+      "query": "NBA 웃긴장면",
+      "category": "highlight",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "nba",
+      "topic": "NBA",
+      "suffix": "레전드",
+      "query": "NBA 레전드",
+      "category": "highlight",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "nba",
+      "topic": "NBA",
+      "suffix": "기록",
+      "query": "NBA 기록",
+      "category": "article",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leehyunjung",
+      "topic": "이현중",
+      "suffix": "썰",
+      "query": "이현중 썰",
+      "category": "character",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leehyunjung",
+      "topic": "이현중",
+      "suffix": "별명",
+      "query": "이현중 별명",
+      "category": "character",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leehyunjung",
+      "topic": "이현중",
+      "suffix": "웃긴장면",
+      "query": "이현중 웃긴장면",
+      "category": "highlight",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leehyunjung",
+      "topic": "이현중",
+      "suffix": "레전드",
+      "query": "이현중 레전드",
+      "category": "highlight",
+      "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "leehyunjung",
+      "topic": "이현중",
+      "suffix": "기록",
+      "query": "이현중 기록",
+      "category": "article",
+      "league": "basketball",
       "collect": true,
       "produce": true,
       "cycle_h": 12
