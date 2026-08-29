@@ -471,10 +471,10 @@ function vNews(){
     return `<div class="newsrow">
       <input type="checkbox" class="newspick" data-url="${esc(n.url)}" title="승인 체크" ${pickedOn?'checked':''}>
       <div class="newsbody">
-        <a class="newstitle" href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+        <a class="newstitle" href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title_display||n.title)}</a>
         <div class="kwmeta"><span class="rolebadge news">사실 근거</span>
           <span class="kwtag">${esc(n.topic_name||n.topic)}</span>
-          <span>${esc(n.source||'')}</span><span>·</span>
+          <span>${esc(n.media_name||n.source||'출처 미상')}</span><span>·</span>
           <span class="mono">${esc(ageLabel)}</span>
           <button class="newsbtn" data-yt-topic="${esc(n.topic)}" title="이 주제로 유튜브 탭을 필터한다(우리는 클립을 안 쓴다 — 장면 참고용)">▶ 이 주제로 유튜브 검색</button>
         </div>
@@ -512,7 +512,7 @@ function wireNews(){
   if(copyBtn) copyBtn.onclick=()=>{
     const news=(DATA.news||{}).items||[];
     const rows=news.filter(n=>n.url in newsPicked);
-    const text=rows.map(n=>`[${n.source||n.topic_name||n.topic}] ${n.title} | ${n.published_at||''} | ${n.url||''}`).join('\n');
+    const text=rows.map(n=>`[${n.media_name||n.source||'출처 미상'}] ${n.title_display||n.title} | ${n.published_at||''} | ${n.url||''}`).join('\n');
     if(!rows.length){ copyBtn.textContent='선택된 항목 없음'; setTimeout(()=>copyBtn.textContent='✅ 승인분 복사',1500); return; }
     const done=()=>{ const o=copyBtn.textContent; copyBtn.textContent=`복사됨! (${rows.length}건)`;
       setTimeout(()=>copyBtn.textContent=o,1500); };
