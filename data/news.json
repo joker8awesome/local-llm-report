@@ -1,6 +1,6 @@
 {
-  "count": 328,
-  "generated_at": 1788031675,
+  "count": 325,
+  "generated_at": 1788031993,
   "topics_ok": 11,
   "topics_fail": 0,
   "fail_detail": [],
@@ -10,11 +10,11 @@
     "kia": 99,
     "kimdoyoung": 63,
     "ohtani": 5,
-    "leekangin": 48,
-    "son": 44,
-    "epl": 6,
+    "leekangin": 49,
+    "son": 43,
+    "epl": 5,
     "kbl": 6,
-    "nba": 3
+    "nba": 1
   },
   "items": [
     {
@@ -29,7 +29,8 @@
       "published_at": "2026-08-30T02:25:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_0",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -43,7 +44,8 @@
       "published_at": "2026-08-30T03:04:15+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_1",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -57,7 +59,8 @@
       "published_at": "2026-08-29T17:24:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_2",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -71,7 +74,8 @@
       "published_at": "2026-08-30T00:04:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_3",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -85,7 +89,8 @@
       "published_at": "2026-08-29T19:58:30+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_4",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -99,7 +104,8 @@
       "published_at": "2026-08-29T17:50:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_5",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -113,7 +119,8 @@
       "published_at": "2026-08-29T19:01:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_6",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -127,7 +134,8 @@
       "published_at": "2026-08-29T16:34:07+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_7",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -141,7 +149,8 @@
       "published_at": "2026-08-29T18:00:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_8",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -155,7 +164,8 @@
       "published_at": "2026-08-29T23:33:11+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_9",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -169,7 +179,8 @@
       "published_at": "2026-08-29T20:34:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_10",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -183,7 +194,8 @@
       "published_at": "2026-08-30T00:52:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_11",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -197,7 +209,8 @@
       "published_at": "2026-08-29T23:57:20+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_12",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbo_rank",
@@ -211,7 +224,8 @@
       "published_at": "2026-08-29T23:25:02+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbo_rank_13",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -225,7 +239,8 @@
       "published_at": "2026-08-30T00:05:48+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_0",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -239,7 +254,8 @@
       "published_at": "2026-08-30T02:40:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_1",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -253,7 +269,8 @@
       "published_at": "2026-08-29T22:38:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_2",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -267,21 +284,8 @@
       "published_at": "2026-08-30T01:12:03+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_3",
-      "cluster_size": 1
-    },
-    {
-      "topic": "hanwha",
-      "topic_name": "한화 이글스",
-      "title": "'韓 최초 역사' 한화 육성신화 ERA 14.21→1.80 대반전, 과연 1군 등판 기회 올까…9위팀 위기의 亞쿼도 무실점, 이숭용 움직이나 - 마이데일리",
-      "title_display": "'韓 최초 역사' 한화 육성신화 ERA 14.21→1.80 대반전, 과연 1군 등판 기회 올까…9위팀 위기의 亞쿼도 무실점, 이숭용 움직이나",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NUC1nM0tBZmh4MnZUWGk1cVR1S05WZEl4aDd3WlBucXhoOS0yT0dqMkJibzc4eU1rMDJoZWdxaDFJVzJOa2U0U3lOZTMxbUcxbkZZS2VYQmZwajdMMUh0WQ?oc=5",
-      "source": "마이데일리",
-      "media_name": "마이데일리",
-      "media_name_display": "마이데일리",
-      "published_at": "2026-08-30T01:41:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "hanwha_4",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -294,8 +298,24 @@
       "media_name_display": "대전일보",
       "published_at": "2026-08-29T21:44:23+09:00",
       "published_at_kind": "absolute",
+      "cluster_id": "hanwha_4",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "hanwha",
+      "topic_name": "한화 이글스",
+      "title": "'韓 최초 역사' 한화 육성신화 ERA 14.21→1.80 대반전, 과연 1군 등판 기회 올까…9위팀 위기의 亞쿼도 무실점, 이숭용 움직이나 - 마이데일리",
+      "title_display": "'韓 최초 역사' 한화 육성신화 ERA 14.21→1.80 대반전, 과연 1군 등판 기회 올까…9위팀 위기의 亞쿼도 무실점, 이숭용 움직이나",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NUC1nM0tBZmh4MnZUWGk1cVR1S05WZEl4aDd3WlBucXhoOS0yT0dqMkJibzc4eU1rMDJoZWdxaDFJVzJOa2U0U3lOZTMxbUcxbkZZS2VYQmZwajdMMUh0WQ?oc=5",
+      "source": "마이데일리",
+      "media_name": "마이데일리",
+      "media_name_display": "마이데일리",
+      "published_at": "2026-08-30T01:41:00+09:00",
+      "published_at_kind": "absolute",
       "cluster_id": "hanwha_5",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -309,7 +329,8 @@
       "published_at": "2026-08-29T21:24:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_6",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -323,7 +344,8 @@
       "published_at": "2026-08-29T22:18:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_7",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -337,7 +359,8 @@
       "published_at": "2026-08-29T22:17:32+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_8",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -351,7 +374,8 @@
       "published_at": "2026-08-29T22:10:07+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_9",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -365,7 +389,8 @@
       "published_at": "2026-08-29T20:43:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_10",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -379,7 +404,8 @@
       "published_at": "2026-08-29T21:25:07+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_11",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -393,7 +419,8 @@
       "published_at": "2026-08-30T01:10:23+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_12",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -407,7 +434,8 @@
       "published_at": "2026-08-29T16:50:36+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_13",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -421,7 +449,8 @@
       "published_at": "2026-08-29T19:02:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_36",
-      "cluster_size": 4
+      "cluster_size": 2,
+      "cluster_item_count": 4
     },
     {
       "topic": "hanwha",
@@ -435,7 +464,8 @@
       "published_at": "2026-08-29T20:36:27+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_31",
-      "cluster_size": 3
+      "cluster_size": 1,
+      "cluster_item_count": 3
     },
     {
       "topic": "hanwha",
@@ -449,7 +479,8 @@
       "published_at": "2026-08-29T23:57:25+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_16",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -463,7 +494,8 @@
       "published_at": "2026-08-29T21:30:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_17",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -477,7 +509,8 @@
       "published_at": "2026-08-29T17:16:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_29",
-      "cluster_size": 4
+      "cluster_size": 3,
+      "cluster_item_count": 4
     },
     {
       "topic": "hanwha",
@@ -491,7 +524,8 @@
       "published_at": "2026-08-29T23:21:34+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_19",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -505,7 +539,8 @@
       "published_at": "2026-08-29T21:22:52+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_20",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -519,7 +554,8 @@
       "published_at": "2026-08-30T01:58:47+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_21",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -533,7 +569,8 @@
       "published_at": "2026-08-29T17:17:08+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_29",
-      "cluster_size": 4
+      "cluster_size": 3,
+      "cluster_item_count": 4
     },
     {
       "topic": "hanwha",
@@ -547,7 +584,8 @@
       "published_at": "2026-08-29T17:16:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_29",
-      "cluster_size": 4
+      "cluster_size": 3,
+      "cluster_item_count": 4
     },
     {
       "topic": "hanwha",
@@ -561,7 +599,8 @@
       "published_at": "2026-08-30T00:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_24",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -575,7 +614,8 @@
       "published_at": "2026-08-29T20:20:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_25",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -589,7 +629,8 @@
       "published_at": "2026-08-29T16:45:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_30",
-      "cluster_size": 2
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "hanwha",
@@ -603,7 +644,8 @@
       "published_at": "2026-08-29T20:37:52+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_31",
-      "cluster_size": 3
+      "cluster_size": 1,
+      "cluster_item_count": 3
     },
     {
       "topic": "hanwha",
@@ -617,7 +659,8 @@
       "published_at": "2026-08-29T22:45:39+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_28",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -631,7 +674,8 @@
       "published_at": "2026-08-29T17:16:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_29",
-      "cluster_size": 4
+      "cluster_size": 3,
+      "cluster_item_count": 4
     },
     {
       "topic": "hanwha",
@@ -645,7 +689,8 @@
       "published_at": "2026-08-29T16:45:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_30",
-      "cluster_size": 2
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "hanwha",
@@ -659,7 +704,8 @@
       "published_at": "2026-08-29T20:37:52+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_31",
-      "cluster_size": 3
+      "cluster_size": 1,
+      "cluster_item_count": 3
     },
     {
       "topic": "hanwha",
@@ -673,7 +719,8 @@
       "published_at": "2026-08-29T22:46:35+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_32",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -687,7 +734,8 @@
       "published_at": "2026-08-29T19:02:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_36",
-      "cluster_size": 4
+      "cluster_size": 2,
+      "cluster_item_count": 4
     },
     {
       "topic": "hanwha",
@@ -701,7 +749,8 @@
       "published_at": "2026-08-29T17:24:03+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_34",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -715,7 +764,8 @@
       "published_at": "2026-08-29T19:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_36",
-      "cluster_size": 4
+      "cluster_size": 2,
+      "cluster_item_count": 4
     },
     {
       "topic": "hanwha",
@@ -729,7 +779,8 @@
       "published_at": "2026-08-29T19:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_36",
-      "cluster_size": 4
+      "cluster_size": 2,
+      "cluster_item_count": 4
     },
     {
       "topic": "hanwha",
@@ -743,7 +794,8 @@
       "published_at": "2026-08-29T17:34:39+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_39",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "hanwha",
@@ -757,7 +809,8 @@
       "published_at": "2026-08-29T17:20:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_38",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "hanwha",
@@ -771,7 +824,8 @@
       "published_at": "2026-08-29T17:32:30+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "hanwha_39",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -785,7 +839,8 @@
       "published_at": "2026-08-29T23:09:55+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_0",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -799,7 +854,8 @@
       "published_at": "2026-08-29T22:08:01+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_1",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -813,7 +869,8 @@
       "published_at": "2026-08-30T01:20:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_2",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -827,7 +884,8 @@
       "published_at": "2026-08-29T21:41:09+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_3",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -840,8 +898,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-30T00:21:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_12",
-      "cluster_size": 2
+      "cluster_id": "kia_13",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -854,8 +913,24 @@
       "media_name_display": "뉴시스",
       "published_at": "2026-08-29T18:42:18+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_11",
-      "cluster_size": 2
+      "cluster_id": "kia_12",
+      "cluster_size": 1,
+      "cluster_item_count": 2
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[AI상보] '연장 10회 박정우 끝내기 안타' KIA, SSG 2-1 제압...김도영 최연소 40호 다음으로 - 뉴스핌",
+      "title_display": "[AI상보] '연장 10회 박정우 끝내기 안타' KIA, SSG 2-1 제압...김도영 최연소 40호 다음으로",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rZmRrTEJjaUZ5UWRQT0NPVFY5eU1aMmVKdTFTTmZkaGJZUDJieG1YZ2NES2x4WkdWbU84RUlSekJURVhzNzI5aXZlcWQyQXF6LXI3MGpaaHg4WGpi?oc=5",
+      "source": "뉴스핌",
+      "media_name": "뉴스핌",
+      "media_name_display": "뉴스핌",
+      "published_at": "2026-08-29T22:29:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_6",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -868,8 +943,9 @@
       "media_name_display": "SPOTV NEWS",
       "published_at": "2026-08-30T02:50:27+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_6",
-      "cluster_size": 1
+      "cluster_id": "kia_7",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -882,8 +958,9 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-30T01:23:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_7",
-      "cluster_size": 1
+      "cluster_id": "kia_8",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -896,8 +973,9 @@
       "media_name_display": "남도일보",
       "published_at": "2026-08-29T21:49:16+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_8",
-      "cluster_size": 1
+      "cluster_id": "kia_9",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -910,8 +988,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-30T00:08:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_9",
-      "cluster_size": 1
+      "cluster_id": "kia_10",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -924,8 +1003,9 @@
       "media_name_display": "조선일보",
       "published_at": "2026-08-29T22:49:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_10",
-      "cluster_size": 1
+      "cluster_id": "kia_11",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -938,8 +1018,9 @@
       "media_name_display": "뉴시스",
       "published_at": "2026-08-29T18:42:18+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_11",
-      "cluster_size": 2
+      "cluster_id": "kia_12",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -952,22 +1033,9 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-30T00:20:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_12",
-      "cluster_size": 2
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]KIA,'박정우 끝내기 안타 대단해' - 머니투데이 - 머니투데이",
-      "title_display": "[사진]KIA,'박정우 끝내기 안타 대단해'",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12SWYwOVJWVG9KVkFJZlRCMUd4TVJNREFPTUg0ZF9fUkZjQ1RVRzFWSFdRcHJ4blBsTlNZVzV1QlV5Vi1TdzZTbGItYUc1a2FnV0NNTVZGc1N6N1k3Y19TakJYZzlpbHNGTzlGSmpkY9IBb0FVX3lxTE12SWYwOVJWVG9KVkFJZlRCMUd4TVJNREFPTUg0ZF9fUkZjQ1RVRzFWSFdRcHJ4blBsTlNZVzV1QlV5Vi1TdzZTbGItYUc1a2FnV0NNTVZGc1N6N1k3Y19TakJYZzlpbHNGTzlGSmpkYw?oc=5",
-      "source": "머니투데이",
-      "media_name": "머니투데이",
-      "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T21:52:00+09:00",
-      "published_at_kind": "absolute",
       "cluster_id": "kia_13",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -981,7 +1049,8 @@
       "published_at": "2026-08-29T19:49:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_14",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -995,7 +1064,23 @@
       "published_at": "2026-08-29T21:50:35+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_78",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]KIA,'박정우 끝내기 안타 대단해' - 머니투데이 - 머니투데이",
+      "title_display": "[사진]KIA,'박정우 끝내기 안타 대단해'",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12SWYwOVJWVG9KVkFJZlRCMUd4TVJNREFPTUg0ZF9fUkZjQ1RVRzFWSFdRcHJ4blBsTlNZVzV1QlV5Vi1TdzZTbGItYUc1a2FnV0NNTVZGc1N6N1k3Y19TakJYZzlpbHNGTzlGSmpkY9IBb0FVX3lxTE12SWYwOVJWVG9KVkFJZlRCMUd4TVJNREFPTUg0ZF9fUkZjQ1RVRzFWSFdRcHJ4blBsTlNZVzV1QlV5Vi1TdzZTbGItYUc1a2FnV0NNTVZGc1N6N1k3Y19TakJYZzlpbHNGTzlGSmpkYw?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T21:52:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_16",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1008,8 +1093,9 @@
       "media_name_display": "네이트뉴스",
       "published_at": "2026-08-30T04:01:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_16",
-      "cluster_size": 1
+      "cluster_id": "kia_17",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1023,7 +1109,8 @@
       "published_at": "2026-08-29T21:37:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_67",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1036,22 +1123,9 @@
       "media_name_display": "뉴시스",
       "published_at": "2026-08-29T22:01:38+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_71",
-      "cluster_size": 2
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[AI상보] '연장 10회 박정우 끝내기 안타' KIA, SSG 2-1 제압...김도영 최연소 40호 다음으로 - 뉴스핌",
-      "title_display": "[AI상보] '연장 10회 박정우 끝내기 안타' KIA, SSG 2-1 제압...김도영 최연소 40호 다음으로",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rZmRrTEJjaUZ5UWRQT0NPVFY5eU1aMmVKdTFTTmZkaGJZUDJieG1YZ2NES2x4WkdWbU84RUlSekJURVhzNzI5aXZlcWQyQXF6LXI3MGpaaHg4WGpi?oc=5",
-      "source": "뉴스핌",
-      "media_name": "뉴스핌",
-      "media_name_display": "뉴스핌",
-      "published_at": "2026-08-29T22:29:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_19",
-      "cluster_size": 1
+      "cluster_id": "kia_72",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1065,7 +1139,8 @@
       "published_at": "2026-08-29T21:38:37+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_20",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1078,8 +1153,9 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T21:37:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_90",
-      "cluster_size": 2
+      "cluster_id": "kia_91",
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1093,7 +1169,8 @@
       "published_at": "2026-08-29T22:01:38+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_22",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1107,7 +1184,8 @@
       "published_at": "2026-08-29T21:20:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_75",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1121,7 +1199,8 @@
       "published_at": "2026-08-29T22:01:38+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_24",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1135,7 +1214,8 @@
       "published_at": "2026-08-29T22:01:38+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_25",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1149,7 +1229,8 @@
       "published_at": "2026-08-29T21:36:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_26",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1163,35 +1244,8 @@
       "published_at": "2026-08-29T21:14:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_27",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]정해영,'역투' - 머니투데이 - 머니투데이",
-      "title_display": "[사진]정해영,'역투'",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfb3YtN2I3VjlFZkFlR1RxbEhzaWFNZlktUDViSlhZUXZSSnU5TGs2ZFd3RWZlRG55WkJrY0VSSEFPbDdrTTFac2RzckM2VWk0aW5JMWkxUjNnRWNfNndtRFRjVGpQWW9lWEVJVDJxb9IBb0FVX3lxTFBfb3YtN2I3VjlFZkFlR1RxbEhzaWFNZlktUDViSlhZUXZSSnU5TGs2ZFd3RWZlRG55WkJrY0VSSEFPbDdrTTFac2RzckM2VWk0aW5JMWkxUjNnRWNfNndtRFRjVGpQWW9lWEVJVDJxbw?oc=5",
-      "source": "머니투데이",
-      "media_name": "머니투데이",
-      "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T21:15:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_28",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]문승원,'연속 고의사구로 만루' - 머니투데이 - 머니투데이",
-      "title_display": "[사진]문승원,'연속 고의사구로 만루'",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfQ1VxTnZ2eUF5MkhFZHVPYm92Z09qNjNVbzB3R2lpX0tKVEJXSVVlaG1yVEdtM0tVLWJZckFzYW9JLTlDMzRnX0ZiYWZTWVJ3ZGZ1Mi1XcVo2YUNCWmN3eHZfdlY1Z01KY0RINEZzRdIBb0FVX3lxTFBfQ1VxTnZ2eUF5MkhFZHVPYm92Z09qNjNVbzB3R2lpX0tKVEJXSVVlaG1yVEdtM0tVLWJZckFzYW9JLTlDMzRnX0ZiYWZTWVJ3ZGZ1Mi1XcVo2YUNCWmN3eHZfdlY1Z01KY0RINEZzRQ?oc=5",
-      "source": "머니투데이",
-      "media_name": "머니투데이",
-      "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T21:58:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_29",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1204,8 +1258,39 @@
       "media_name_display": "조선일보",
       "published_at": "2026-08-29T18:48:00+09:00",
       "published_at_kind": "absolute",
+      "cluster_id": "kia_28",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]정해영,'역투' - 머니투데이 - 머니투데이",
+      "title_display": "[사진]정해영,'역투'",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfb3YtN2I3VjlFZkFlR1RxbEhzaWFNZlktUDViSlhZUXZSSnU5TGs2ZFd3RWZlRG55WkJrY0VSSEFPbDdrTTFac2RzckM2VWk0aW5JMWkxUjNnRWNfNndtRFRjVGpQWW9lWEVJVDJxb9IBb0FVX3lxTFBfb3YtN2I3VjlFZkFlR1RxbEhzaWFNZlktUDViSlhZUXZSSnU5TGs2ZFd3RWZlRG55WkJrY0VSSEFPbDdrTTFac2RzckM2VWk0aW5JMWkxUjNnRWNfNndtRFRjVGpQWW9lWEVJVDJxbw?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T21:15:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_29",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]문승원,'연속 고의사구로 만루' - 머니투데이 - 머니투데이",
+      "title_display": "[사진]문승원,'연속 고의사구로 만루'",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfQ1VxTnZ2eUF5MkhFZHVPYm92Z09qNjNVbzB3R2lpX0tKVEJXSVVlaG1yVEdtM0tVLWJZckFzYW9JLTlDMzRnX0ZiYWZTWVJ3ZGZ1Mi1XcVo2YUNCWmN3eHZfdlY1Z01KY0RINEZzRdIBb0FVX3lxTFBfQ1VxTnZ2eUF5MkhFZHVPYm92Z09qNjNVbzB3R2lpX0tKVEJXSVVlaG1yVEdtM0tVLWJZckFzYW9JLTlDMzRnX0ZiYWZTWVJ3ZGZ1Mi1XcVo2YUNCWmN3eHZfdlY1Z01KY0RINEZzRQ?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T21:58:00+09:00",
+      "published_at_kind": "absolute",
       "cluster_id": "kia_30",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1219,7 +1304,8 @@
       "published_at": "2026-08-29T21:14:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_31",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1233,7 +1319,8 @@
       "published_at": "2026-08-29T21:50:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_32",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1247,7 +1334,8 @@
       "published_at": "2026-08-29T22:01:38+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_33",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1261,7 +1349,8 @@
       "published_at": "2026-08-29T21:53:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_34",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1275,7 +1364,8 @@
       "published_at": "2026-08-29T20:58:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_35",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1288,8 +1378,9 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T21:20:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_98",
-      "cluster_size": 2
+      "cluster_id": "kia_36",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1303,7 +1394,8 @@
       "published_at": "2026-08-29T20:59:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_37",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1317,7 +1409,8 @@
       "published_at": "2026-08-29T21:15:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_38",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1331,7 +1424,8 @@
       "published_at": "2026-08-29T20:59:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_39",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1345,7 +1439,8 @@
       "published_at": "2026-08-29T21:20:37+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_40",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1359,7 +1454,8 @@
       "published_at": "2026-08-29T20:58:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_41",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1373,7 +1469,8 @@
       "published_at": "2026-08-29T20:58:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_42",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1387,7 +1484,8 @@
       "published_at": "2026-08-29T20:58:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_43",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1401,7 +1499,8 @@
       "published_at": "2026-08-29T20:32:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_44",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1415,7 +1514,8 @@
       "published_at": "2026-08-29T21:15:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_45",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1429,7 +1529,8 @@
       "published_at": "2026-08-29T20:27:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_46",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1443,7 +1544,8 @@
       "published_at": "2026-08-29T21:43:55+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_47",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1457,7 +1559,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_48",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1471,7 +1574,8 @@
       "published_at": "2026-08-29T21:19:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_49",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1485,7 +1589,8 @@
       "published_at": "2026-08-29T20:41:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_50",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1499,21 +1604,8 @@
       "published_at": "2026-08-29T20:28:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_51",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "미워할 수 없는 박재현…동점타 치고 김도영 앞에서 횡사하더니 끝내 KIA 역전극 주인공, 못 말려 정말 - 마이데일리",
-      "title_display": "미워할 수 없는 박재현…동점타 치고 김도영 앞에서 횡사하더니 끝내 KIA 역전극 주인공, 못 말려 정말",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oeXJJbzlES1hWMFpHNy1fWDZNSWJWSjB0ZUhEdUs4WHlHQV9QZjlaajBGTnloQWVTY1pVSDYtTTZDQmg1Y01id1hjeUJfd1V5Y3ZxcGxwWUdnTVdNdW1WMA?oc=5",
-      "source": "마이데일리",
-      "media_name": "마이데일리",
-      "media_name_display": "마이데일리",
-      "published_at": "2026-08-30T01:09:45+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_52",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1526,8 +1618,24 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T20:31:00+09:00",
       "published_at_kind": "absolute",
+      "cluster_id": "kia_52",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "미워할 수 없는 박재현…동점타 치고 김도영 앞에서 횡사하더니 끝내 KIA 역전극 주인공, 못 말려 정말 - 마이데일리",
+      "title_display": "미워할 수 없는 박재현…동점타 치고 김도영 앞에서 횡사하더니 끝내 KIA 역전극 주인공, 못 말려 정말",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oeXJJbzlES1hWMFpHNy1fWDZNSWJWSjB0ZUhEdUs4WHlHQV9QZjlaajBGTnloQWVTY1pVSDYtTTZDQmg1Y01id1hjeUJfd1V5Y3ZxcGxwWUdnTVdNdW1WMA?oc=5",
+      "source": "마이데일리",
+      "media_name": "마이데일리",
+      "media_name_display": "마이데일리",
+      "published_at": "2026-08-30T01:09:45+09:00",
+      "published_at_kind": "absolute",
       "cluster_id": "kia_53",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1541,7 +1649,8 @@
       "published_at": "2026-08-29T20:17:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_54",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1555,7 +1664,8 @@
       "published_at": "2026-08-29T20:43:44+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_55",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1569,7 +1679,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_56",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1583,7 +1694,8 @@
       "published_at": "2026-08-29T19:44:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_57",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1597,7 +1709,8 @@
       "published_at": "2026-08-29T20:18:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_58",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1611,7 +1724,8 @@
       "published_at": "2026-08-29T20:17:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_59",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1625,7 +1739,8 @@
       "published_at": "2026-08-29T20:04:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_60",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1639,7 +1754,8 @@
       "published_at": "2026-08-29T20:58:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_61",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1653,7 +1769,8 @@
       "published_at": "2026-08-29T20:17:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_62",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1667,7 +1784,8 @@
       "published_at": "2026-08-29T19:44:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_63",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1681,7 +1799,8 @@
       "published_at": "2026-08-29T20:17:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_64",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1695,7 +1814,8 @@
       "published_at": "2026-08-29T20:13:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_65",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1709,7 +1829,8 @@
       "published_at": "2026-08-29T21:19:55+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_66",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1723,7 +1844,8 @@
       "published_at": "2026-08-29T21:38:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_67",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1737,7 +1859,8 @@
       "published_at": "2026-08-29T20:43:44+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_68",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1751,35 +1874,8 @@
       "published_at": "2026-08-29T19:40:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_69",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]아빌라,'위기 탈출 환호' - 머니투데이 - 머니투데이",
-      "title_display": "[사진]아빌라,'위기 탈출 환호'",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55c25pQ0g3cGMzZ08wMXdmWkt1Y2s3bE9uUy1uWWpRNFV2S003ZU4wdjdJbVd1clpRMWxBbEM3X3NoZWpTUHBGdjVETVBKMHMtSVZYYkdNWTdqcktDSmZDXzFEQk9hazZ1NFVtZVkya9IBb0FVX3lxTE55c25pQ0g3cGMzZ08wMXdmWkt1Y2s3bE9uUy1uWWpRNFV2S003ZU4wdjdJbVd1clpRMWxBbEM3X3NoZWpTUHBGdjVETVBKMHMtSVZYYkdNWTdqcktDSmZDXzFEQk9hazZ1NFVtZVkyaw?oc=5",
-      "source": "머니투데이",
-      "media_name": "머니투데이",
-      "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T20:03:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_70",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "KIA, SSG 상대 2-1 승리 - 뉴시스",
-      "title_display": "KIA, SSG 상대 2-1 승리",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dXlveFFYZ21uN3A0TC1SbGZYdUJ5Q3ZZYUVJeS10dG4ydy13RXpsaEpmV2MtVGt1dlU2V1Z3eUxhMGpDQVZqWHJmLUxaOG9mcDItTThVak9pYVpyWHFvSXZn?oc=5",
-      "source": "뉴시스",
-      "media_name": "뉴시스",
-      "media_name_display": "뉴시스",
-      "published_at": "2026-08-29T22:01:38+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_71",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1793,7 +1889,38 @@
       "published_at": "2026-08-29T18:52:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_76",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]아빌라,'위기 탈출 환호' - 머니투데이 - 머니투데이",
+      "title_display": "[사진]아빌라,'위기 탈출 환호'",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55c25pQ0g3cGMzZ08wMXdmWkt1Y2s3bE9uUy1uWWpRNFV2S003ZU4wdjdJbVd1clpRMWxBbEM3X3NoZWpTUHBGdjVETVBKMHMtSVZYYkdNWTdqcktDSmZDXzFEQk9hazZ1NFVtZVkya9IBb0FVX3lxTE55c25pQ0g3cGMzZ08wMXdmWkt1Y2s3bE9uUy1uWWpRNFV2S003ZU4wdjdJbVd1clpRMWxBbEM3X3NoZWpTUHBGdjVETVBKMHMtSVZYYkdNWTdqcktDSmZDXzFEQk9hazZ1NFVtZVkyaw?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T20:03:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_71",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "KIA, SSG 상대 2-1 승리 - 뉴시스",
+      "title_display": "KIA, SSG 상대 2-1 승리",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dXlveFFYZ21uN3A0TC1SbGZYdUJ5Q3ZZYUVJeS10dG4ydy13RXpsaEpmV2MtVGt1dlU2V1Z3eUxhMGpDQVZqWHJmLUxaOG9mcDItTThVak9pYVpyWHFvSXZn?oc=5",
+      "source": "뉴시스",
+      "media_name": "뉴시스",
+      "media_name_display": "뉴시스",
+      "published_at": "2026-08-29T22:01:38+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_72",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1807,7 +1934,8 @@
       "published_at": "2026-08-30T00:02:22+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_73",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1821,7 +1949,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_74",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1835,7 +1964,8 @@
       "published_at": "2026-08-29T21:23:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_75",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1849,7 +1979,8 @@
       "published_at": "2026-08-29T18:52:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_76",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1863,7 +1994,8 @@
       "published_at": "2026-08-29T19:32:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_77",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1877,7 +2009,8 @@
       "published_at": "2026-08-29T23:02:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_78",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -1891,35 +2024,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_79",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]조상우,'위기에서 구했다' - 조선일보",
-      "title_display": "[사진]조상우,'위기에서 구했다'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFl0Qm4tR3NmS3F3OWpvTDlPVVNrdVhkNnBhRExwQXJrS3hIanVHbjBHVUg1UU5yYUZkcnE1NHhnaVZHakJ2Wl80QTc1ZGhYaVRfUGd4WmNxekY1S3NDUmNiTlJlclNLYTdDS2ltNm9GMTFBVElzeHU3U3BNVDNybXlUNnZLanRZ?oc=5",
-      "source": "조선일보",
-      "media_name": "조선일보",
-      "media_name_display": "조선일보",
-      "published_at": "2026-08-29T21:32:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_80",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]정준재,'타격감 좋다' - 머니투데이 - 머니투데이",
-      "title_display": "[사진]정준재,'타격감 좋다'",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiSGstQmFUVGJtWVo4OWVzYkFmME5qcEk2ankwQkhscjgtNXhlLS00Zm40RlFHUkNYbWNCLUVBeGNiXzhPYlUxdmg1ZWctaHF0Ri1RYUNBSW5OVUNLQzV5SjJ4Z1lybThYZ3VTVVlFSdIBb0FVX3lxTFBiSGstQmFUVGJtWVo4OWVzYkFmME5qcEk2ankwQkhscjgtNXhlLS00Zm40RlFHUkNYbWNCLUVBeGNiXzhPYlUxdmg1ZWctaHF0Ri1RYUNBSW5OVUNLQzV5SjJ4Z1lybThYZ3VTVVlFSQ?oc=5",
-      "source": "머니투데이",
-      "media_name": "머니투데이",
-      "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T19:32:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_81",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1932,8 +2038,39 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T19:10:00+09:00",
       "published_at_kind": "absolute",
+      "cluster_id": "kia_80",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]조상우,'위기에서 구했다' - 조선일보",
+      "title_display": "[사진]조상우,'위기에서 구했다'",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFl0Qm4tR3NmS3F3OWpvTDlPVVNrdVhkNnBhRExwQXJrS3hIanVHbjBHVUg1UU5yYUZkcnE1NHhnaVZHakJ2Wl80QTc1ZGhYaVRfUGd4WmNxekY1S3NDUmNiTlJlclNLYTdDS2ltNm9GMTFBVElzeHU3U3BNVDNybXlUNnZLanRZ?oc=5",
+      "source": "조선일보",
+      "media_name": "조선일보",
+      "media_name_display": "조선일보",
+      "published_at": "2026-08-29T21:32:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_81",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]정준재,'타격감 좋다' - 머니투데이 - 머니투데이",
+      "title_display": "[사진]정준재,'타격감 좋다'",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiSGstQmFUVGJtWVo4OWVzYkFmME5qcEk2ankwQkhscjgtNXhlLS00Zm40RlFHUkNYbWNCLUVBeGNiXzhPYlUxdmg1ZWctaHF0Ri1RYUNBSW5OVUNLQzV5SjJ4Z1lybThYZ3VTVVlFSdIBb0FVX3lxTFBiSGstQmFUVGJtWVo4OWVzYkFmME5qcEk2ankwQkhscjgtNXhlLS00Zm40RlFHUkNYbWNCLUVBeGNiXzhPYlUxdmg1ZWctaHF0Ri1RYUNBSW5OVUNLQzV5SjJ4Z1lybThYZ3VTVVlFSQ?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T19:32:00+09:00",
+      "published_at_kind": "absolute",
       "cluster_id": "kia_82",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1947,35 +2084,8 @@
       "published_at": "2026-08-29T20:43:20+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_83",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]박성한,'선제 적시타' - 머니투데이 - 머니투데이",
-      "title_display": "[사진]박성한,'선제 적시타'",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4WkxWUGFXRGJvQTV1eUF0aVdYUzFkN09jdHlLeEpESGxPSmpGczYtLW1sQzNlQnhvS2Z5SVUya01mb3hHRnhZSUo1RTBEYkF2WWxJZEFMVzVvVGlLME9aa2pjdEVJN1BWT2hXZEx0a9IBb0FVX3lxTFA4WkxWUGFXRGJvQTV1eUF0aVdYUzFkN09jdHlLeEpESGxPSmpGczYtLW1sQzNlQnhvS2Z5SVUya01mb3hHRnhZSUo1RTBEYkF2WWxJZEFMVzVvVGlLME9aa2pjdEVJN1BWT2hXZEx0aw?oc=5",
-      "source": "머니투데이",
-      "media_name": "머니투데이",
-      "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T19:43:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_84",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]조상우,'무조건 막는다' - 조선일보",
-      "title_display": "[사진]조상우,'무조건 막는다'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3ZYTkVkR216bHFtLUtNRldkVnZya0ZMQ093Ti1fWTBWamRIb0VHdi1sYktzLVF0OTBFM290ZTBFOEdTQ2JqTzJSYjM5VDdUcEIyRkZfNFJGaFVMc201eDdtWklJcG5KWkpaOXBVWkYzT3J2ekpYNEd0T1F6c29uYW5tUmYwYjY5?oc=5",
-      "source": "조선일보",
-      "media_name": "조선일보",
-      "media_name_display": "조선일보",
-      "published_at": "2026-08-29T21:24:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_85",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -1988,8 +2098,39 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T18:55:00+09:00",
       "published_at_kind": "absolute",
+      "cluster_id": "kia_84",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]박성한,'선제 적시타' - 머니투데이 - 머니투데이",
+      "title_display": "[사진]박성한,'선제 적시타'",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4WkxWUGFXRGJvQTV1eUF0aVdYUzFkN09jdHlLeEpESGxPSmpGczYtLW1sQzNlQnhvS2Z5SVUya01mb3hHRnhZSUo1RTBEYkF2WWxJZEFMVzVvVGlLME9aa2pjdEVJN1BWT2hXZEx0a9IBb0FVX3lxTFA4WkxWUGFXRGJvQTV1eUF0aVdYUzFkN09jdHlLeEpESGxPSmpGczYtLW1sQzNlQnhvS2Z5SVUya01mb3hHRnhZSUo1RTBEYkF2WWxJZEFMVzVvVGlLME9aa2pjdEVJN1BWT2hXZEx0aw?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T19:43:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_85",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]조상우,'무조건 막는다' - 조선일보",
+      "title_display": "[사진]조상우,'무조건 막는다'",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3ZYTkVkR216bHFtLUtNRldkVnZya0ZMQ093Ti1fWTBWamRIb0VHdi1sYktzLVF0OTBFM290ZTBFOEdTQ2JqTzJSYjM5VDdUcEIyRkZfNFJGaFVMc201eDdtWklJcG5KWkpaOXBVWkYzT3J2ekpYNEd0T1F6c29uYW5tUmYwYjY5?oc=5",
+      "source": "조선일보",
+      "media_name": "조선일보",
+      "media_name_display": "조선일보",
+      "published_at": "2026-08-29T21:24:00+09:00",
+      "published_at_kind": "absolute",
       "cluster_id": "kia_86",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -2003,21 +2144,8 @@
       "published_at": "2026-08-29T19:24:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_87",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "7회 초 역투하는 KIA 곽도규 - 뉴시스",
-      "title_display": "7회 초 역투하는 KIA 곽도규",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9haTB3b0lkQk1zOHlWUHo5S0hiQjFnSk9YT0FyQmxNRndNbGZTMWJtSzY0cWxBRGVXOWlYa3phOEQwTF9rMElTR3hpWXhUd25SN2YtWEN0b2kxc0hUYm5mLWNOUVNKWkV2REhQdEJlTnJ2ZVVKVEFVUtIBeEFVX3lxTE9haTB3b0lkQk1zOHlWUHo5S0hiQjFnSk9YT0FyQmxNRndNbGZTMWJtSzY0cWxBRGVXOWlYa3phOEQwTF9rMElTR3hpWXhUd25SN2YtWEN0b2kxc0hUYm5mLWNOUVNKWkV2REhQdEJlTnJ2ZVVKVEFVUg?oc=5",
-      "source": "뉴시스",
-      "media_name": "뉴시스",
-      "media_name_display": "뉴시스",
-      "published_at": "2026-08-29T20:43:20+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_88",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -2030,22 +2158,24 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T18:35:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_89",
-      "cluster_size": 1
+      "cluster_id": "kia_88",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
       "topic_name": "KIA 타이거즈",
-      "title": "[사진]박재현,'끝내기 찬스 만들었다' - 조선일보",
-      "title_display": "[사진]박재현,'끝내기 찬스 만들었다'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFBWMk9MU1l4TS1vckJJTUlTMzE1U1oxVE8zNXFWd0NzVXZ4U1hrLVFrOW1jXzQ4eVNRQUhGS0lhZl9XQ3JRMkxXRk5mYkhBLWRtVkZSOS15Vzc4NXpLcXJVZ0lNTzk0MV9XMWZWWHFrdUZWTkdKOFlDRE1Hb2tkaHVfLWJ0NmVw?oc=5",
-      "source": "조선일보",
-      "media_name": "조선일보",
-      "media_name_display": "조선일보",
-      "published_at": "2026-08-29T21:39:00+09:00",
+      "title": "7회 초 역투하는 KIA 곽도규 - 뉴시스",
+      "title_display": "7회 초 역투하는 KIA 곽도규",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9haTB3b0lkQk1zOHlWUHo5S0hiQjFnSk9YT0FyQmxNRndNbGZTMWJtSzY0cWxBRGVXOWlYa3phOEQwTF9rMElTR3hpWXhUd25SN2YtWEN0b2kxc0hUYm5mLWNOUVNKWkV2REhQdEJlTnJ2ZVVKVEFVUtIBeEFVX3lxTE9haTB3b0lkQk1zOHlWUHo5S0hiQjFnSk9YT0FyQmxNRndNbGZTMWJtSzY0cWxBRGVXOWlYa3phOEQwTF9rMElTR3hpWXhUd25SN2YtWEN0b2kxc0hUYm5mLWNOUVNKWkV2REhQdEJlTnJ2ZVVKVEFVUg?oc=5",
+      "source": "뉴시스",
+      "media_name": "뉴시스",
+      "media_name_display": "뉴시스",
+      "published_at": "2026-08-29T20:43:20+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_90",
-      "cluster_size": 2
+      "cluster_id": "kia_89",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -2058,36 +2188,24 @@
       "media_name_display": "Chosunbiz",
       "published_at": "2026-08-29T18:27:00+09:00",
       "published_at_kind": "absolute",
+      "cluster_id": "kia_90",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]박재현,'끝내기 찬스 만들었다' - 조선일보",
+      "title_display": "[사진]박재현,'끝내기 찬스 만들었다'",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFBWMk9MU1l4TS1vckJJTUlTMzE1U1oxVE8zNXFWd0NzVXZ4U1hrLVFrOW1jXzQ4eVNRQUhGS0lhZl9XQ3JRMkxXRk5mYkhBLWRtVkZSOS15Vzc4NXpLcXJVZ0lNTzk0MV9XMWZWWHFrdUZWTkdKOFlDRE1Hb2tkaHVfLWJ0NmVw?oc=5",
+      "source": "조선일보",
+      "media_name": "조선일보",
+      "media_name_display": "조선일보",
+      "published_at": "2026-08-29T21:39:00+09:00",
+      "published_at_kind": "absolute",
       "cluster_id": "kia_91",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]올러 견제 받는 정준재 - 머니투데이 - 머니투데이",
-      "title_display": "[사진]올러 견제 받는 정준재",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jT3F1VTNiZ0JMeTZlRHNVX2ZLc3AxaTREaHZkTHRDNy0xSFVfU0s3NWc2V04zOGFSYVV0VWxzQW5oZDNMM2NKN0I2OWtCNTB1M1cyUTdZTnl4eGtPZUV2M3VXME1GakJCWXVLOFNYTdIBb0FVX3lxTE9jT3F1VTNiZ0JMeTZlRHNVX2ZLc3AxaTREaHZkTHRDNy0xSFVfU0s3NWc2V04zOGFSYVV0VWxzQW5oZDNMM2NKN0I2OWtCNTB1M1cyUTdZTnl4eGtPZUV2M3VXME1GakJCWXVLOFNYTQ?oc=5",
-      "source": "머니투데이",
-      "media_name": "머니투데이",
-      "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T19:43:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_92",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kia",
-      "topic_name": "KIA 타이거즈",
-      "title": "[사진]2루 훔치는 정준재 - 머니투데이 - 머니투데이",
-      "title_display": "[사진]2루 훔치는 정준재",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hSTA4TFhjaUw4bE9PX1RvckdVN1NMTFBPM1l3c2otRG5XVWdJSVc5YXZEWGhxMTVaVzRLZGN0SEVQdzdzaF8wTUJickZieFU1a1VoRzdhX3VPR1VONEllbDNEc3NjODVaVmJMVU5jNNIBb0FVX3lxTE9hSTA4TFhjaUw4bE9PX1RvckdVN1NMTFBPM1l3c2otRG5XVWdJSVc5YXZEWGhxMTVaVzRLZGN0SEVQdzdzaF8wTUJickZieFU1a1VoRzdhX3VPR1VONEllbDNEc3NjODVaVmJMVU5jNA?oc=5",
-      "source": "머니투데이",
-      "media_name": "머니투데이",
-      "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T19:43:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kia_93",
-      "cluster_size": 1
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kia",
@@ -2100,8 +2218,24 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T18:55:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_94",
-      "cluster_size": 1
+      "cluster_id": "kia_92",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]올러 견제 받는 정준재 - 머니투데이 - 머니투데이",
+      "title_display": "[사진]올러 견제 받는 정준재",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jT3F1VTNiZ0JMeTZlRHNVX2ZLc3AxaTREaHZkTHRDNy0xSFVfU0s3NWc2V04zOGFSYVV0VWxzQW5oZDNMM2NKN0I2OWtCNTB1M1cyUTdZTnl4eGtPZUV2M3VXME1GakJCWXVLOFNYTdIBb0FVX3lxTE9jT3F1VTNiZ0JMeTZlRHNVX2ZLc3AxaTREaHZkTHRDNy0xSFVfU0s3NWc2V04zOGFSYVV0VWxzQW5oZDNMM2NKN0I2OWtCNTB1M1cyUTdZTnl4eGtPZUV2M3VXME1GakJCWXVLOFNYTQ?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T19:43:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_93",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -2114,22 +2248,24 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T19:05:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_95",
-      "cluster_size": 1
+      "cluster_id": "kia_94",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
       "topic_name": "KIA 타이거즈",
-      "title": "[사진]올러,'김호령 멋진 수비 고마워' - 머니투데이 - 머니투데이",
-      "title_display": "[사진]올러,'김호령 멋진 수비 고마워'",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2aTNlWGc0UmozcldObFNMRjlwbnF6R3djNEF4U290dFF3MGt6T1h2N2VDbldWSUpaeUlfZVVQMmZQTHZWSXhELU1qUkxXQVZ3NU5kLWFyZWtwMjhDT3dwQ0VvOEpUZ2tJMVZJZk1yZ9IBb0FVX3lxTFB2aTNlWGc0UmozcldObFNMRjlwbnF6R3djNEF4U290dFF3MGt6T1h2N2VDbldWSUpaeUlfZVVQMmZQTHZWSXhELU1qUkxXQVZ3NU5kLWFyZWtwMjhDT3dwQ0VvOEpUZ2tJMVZJZk1yZw?oc=5",
+      "title": "[사진]2루 훔치는 정준재 - 머니투데이 - 머니투데이",
+      "title_display": "[사진]2루 훔치는 정준재",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hSTA4TFhjaUw4bE9PX1RvckdVN1NMTFBPM1l3c2otRG5XVWdJSVc5YXZEWGhxMTVaVzRLZGN0SEVQdzdzaF8wTUJickZieFU1a1VoRzdhX3VPR1VONEllbDNEc3NjODVaVmJMVU5jNNIBb0FVX3lxTE9hSTA4TFhjaUw4bE9PX1RvckdVN1NMTFBPM1l3c2otRG5XVWdJSVc5YXZEWGhxMTVaVzRLZGN0SEVQdzdzaF8wTUJickZieFU1a1VoRzdhX3VPR1VONEllbDNEc3NjODVaVmJMVU5jNA?oc=5",
       "source": "머니투데이",
       "media_name": "머니투데이",
       "media_name_display": "머니투데이",
-      "published_at": "2026-08-29T19:44:00+09:00",
+      "published_at": "2026-08-29T19:43:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_96",
-      "cluster_size": 1
+      "cluster_id": "kia_95",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
@@ -2142,22 +2278,39 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T19:16:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kia_97",
-      "cluster_size": 1
+      "cluster_id": "kia_96",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kia",
       "topic_name": "KIA 타이거즈",
-      "title": "[사진]김정민,'이렇게 아웃되다니...' - 조선일보",
-      "title_display": "[사진]김정민,'이렇게 아웃되다니...'",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWtGbWxxRmdtcTgwMVBIUU1fNWlLdWhySk1EN0laREZTMlRDU0J5R0t2SlpBdlJteDVIYlNabGdudjVxRDg2d0RiUXNpbzlhdWdIVGkwZFEtYklJSXVIQXJrWWlONERGeUxIdzJDNjVydzJLYWxFLUFncGNiU2ZyZUxmZ0V1OGRT?oc=5",
-      "source": "조선일보",
-      "media_name": "조선일보",
-      "media_name_display": "조선일보",
-      "published_at": "2026-08-29T21:24:00+09:00",
+      "title": "[사진]올러,'김호령 멋진 수비 고마워' - 머니투데이 - 머니투데이",
+      "title_display": "[사진]올러,'김호령 멋진 수비 고마워'",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2aTNlWGc0UmozcldObFNMRjlwbnF6R3djNEF4U290dFF3MGt6T1h2N2VDbldWSUpaeUlfZVVQMmZQTHZWSXhELU1qUkxXQVZ3NU5kLWFyZWtwMjhDT3dwQ0VvOEpUZ2tJMVZJZk1yZ9IBb0FVX3lxTFB2aTNlWGc0UmozcldObFNMRjlwbnF6R3djNEF4U290dFF3MGt6T1h2N2VDbldWSUpaeUlfZVVQMmZQTHZWSXhELU1qUkxXQVZ3NU5kLWFyZWtwMjhDT3dwQ0VvOEpUZ2tJMVZJZk1yZw?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T19:44:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kia_97",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "kia",
+      "topic_name": "KIA 타이거즈",
+      "title": "[사진]정준재,'행운의 안타' - 머니투데이 - 머니투데이",
+      "title_display": "[사진]정준재,'행운의 안타'",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPSEQ1bVJ1ODU4NXVQNG5HRVNHOF9wTjFuRklKUG81MDM1WWppVEZ5UGprRFI3YU43c3FMY1pLamFteUdmd3JfdXpqZDIxU1B0dDU2bTVGczBkNzZZSnlFbzJxdElBOFROR2E2MjAta9IBb0FVX3lxTFBPSEQ1bVJ1ODU4NXVQNG5HRVNHOF9wTjFuRklKUG81MDM1WWppVEZ5UGprRFI3YU43c3FMY1pLamFteUdmd3JfdXpqZDIxU1B0dDU2bTVGczBkNzZZSnlFbzJxdElBOFROR2E2MjAtaw?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-29T18:55:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kia_98",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -2171,7 +2324,8 @@
       "published_at": "2026-08-29T23:17:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_0",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -2185,7 +2339,8 @@
       "published_at": "2026-08-29T21:52:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_57",
-      "cluster_size": 4
+      "cluster_size": 3,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2199,7 +2354,8 @@
       "published_at": "2026-08-29T20:13:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_47",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2213,7 +2369,8 @@
       "published_at": "2026-08-29T21:37:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_55",
-      "cluster_size": 3
+      "cluster_size": 2,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2227,7 +2384,8 @@
       "published_at": "2026-08-29T20:59:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_35",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2241,7 +2399,8 @@
       "published_at": "2026-08-29T21:52:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_38",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2255,7 +2414,8 @@
       "published_at": "2026-08-29T20:59:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_37",
-      "cluster_size": 4
+      "cluster_size": 4,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2269,7 +2429,8 @@
       "published_at": "2026-08-29T20:59:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_37",
-      "cluster_size": 4
+      "cluster_size": 4,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2283,7 +2444,8 @@
       "published_at": "2026-08-29T20:41:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_40",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2297,7 +2459,8 @@
       "published_at": "2026-08-29T20:04:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_58",
-      "cluster_size": 5
+      "cluster_size": 4,
+      "cluster_item_count": 5
     },
     {
       "topic": "kimdoyoung",
@@ -2311,7 +2474,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_41",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2325,7 +2489,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_46",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2339,7 +2504,8 @@
       "published_at": "2026-08-29T21:06:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_45",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2353,7 +2519,8 @@
       "published_at": "2026-08-29T20:05:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_58",
-      "cluster_size": 5
+      "cluster_size": 4,
+      "cluster_item_count": 5
     },
     {
       "topic": "kimdoyoung",
@@ -2367,7 +2534,8 @@
       "published_at": "2026-08-29T20:22:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_48",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2381,7 +2549,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_51",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2395,7 +2564,8 @@
       "published_at": "2026-08-29T19:12:42+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_56",
-      "cluster_size": 2
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2409,7 +2579,8 @@
       "published_at": "2026-08-29T19:05:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_52",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2423,7 +2594,8 @@
       "published_at": "2026-08-29T20:41:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_40",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2437,7 +2609,8 @@
       "published_at": "2026-08-29T18:26:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_54",
-      "cluster_size": 4
+      "cluster_size": 4,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2451,7 +2624,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_41",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2465,7 +2639,8 @@
       "published_at": "2026-08-29T18:27:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_54",
-      "cluster_size": 4
+      "cluster_size": 4,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2479,7 +2654,8 @@
       "published_at": "2026-08-29T21:52:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_57",
-      "cluster_size": 4
+      "cluster_size": 3,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2493,7 +2669,8 @@
       "published_at": "2026-08-29T20:59:56+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_35",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2506,8 +2683,9 @@
       "media_name_display": "OSEN",
       "published_at": "2026-08-29T20:58:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kimdoyoung_32",
-      "cluster_size": 2
+      "cluster_id": "kimdoyoung_33",
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2521,7 +2699,8 @@
       "published_at": "2026-08-29T20:59:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_37",
-      "cluster_size": 4
+      "cluster_size": 4,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2535,7 +2714,8 @@
       "published_at": "2026-08-29T21:52:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_57",
-      "cluster_size": 4
+      "cluster_size": 3,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2549,7 +2729,8 @@
       "published_at": "2026-08-29T21:39:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_55",
-      "cluster_size": 3
+      "cluster_size": 2,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2563,7 +2744,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_51",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2577,21 +2759,8 @@
       "published_at": "2026-08-29T20:41:43+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_29",
-      "cluster_size": 1
-    },
-    {
-      "topic": "kimdoyoung",
-      "topic_name": "김도영",
-      "title": "[포토] 김도영, 과감한 선택 - 스포츠조선",
-      "title_display": "[포토] 김도영, 과감한 선택",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SYXJ4cXg2T3VXbzVyY2lTWld0dUNzZDNia3FPNGRqT0lmN1FVTDVfSEJQZDh0cXRUbUt4M3VNdS1mSVcyRzdfcEFYMnk1dmhyY3puWmF0Sjd0SVJyZjhVWHJtdjQwQmtpaENKcm5aUVVncGdlTnRnN193V0pBUQ?oc=5",
-      "source": "스포츠조선",
-      "media_name": "스포츠조선",
-      "media_name_display": "스포츠조선",
-      "published_at": "2026-08-29T19:59:44+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kimdoyoung_30",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -2605,35 +2774,23 @@
       "published_at": "2026-08-29T18:52:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_61",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
       "topic_name": "김도영",
-      "title": "[사진]김도영,'역전 찬스서 아쉬운 삼진' - 조선비즈 - Chosunbiz",
-      "title_display": "[사진]김도영,'역전 찬스서 아쉬운 삼진' - 조선비즈",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGxGQVh4LVRxdGV3cVM1MzRDVWswd01LZ3FxM0JJaHdxekFOdWNQNnoxbFA0dU0wQ1hOMC1jX1JHV1E3V1lTYzJYYTVqd2djSU1iemVhVFg3RjFBRTJnUHNiampaa3prY1lIOWdnZ0Mzc2RqOEhaTVVNOENGYUlfX2NiVzZyenRO0gGcAUFVX3lxTFBJRVA0WkNnSl9leU5uQ1ItVTRXbkhtRjVJWmtMcjY1eHVJWDE1RjNoRGdUaHYtS3dLSmdNaEJFWXp5dG5iTjF6YTkxaWZ5VV9OOUgyeDRuRzJ3YTBXYTRiUkU1bDEyZWE1dy1TeHFwWkVDRkw4a3FvdllhN2hoOWc0cmhpLWJjQU91WW5RbG9iOXR5SXprN3duZjlFZw?oc=5",
-      "source": "Chosunbiz",
-      "media_name": "Chosunbiz",
-      "media_name_display": "Chosunbiz",
-      "published_at": "2026-08-29T21:01:00+09:00",
+      "title": "[포토] 김도영, 과감한 선택 - 스포츠조선",
+      "title_display": "[포토] 김도영, 과감한 선택",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SYXJ4cXg2T3VXbzVyY2lTWld0dUNzZDNia3FPNGRqT0lmN1FVTDVfSEJQZDh0cXRUbUt4M3VNdS1mSVcyRzdfcEFYMnk1dmhyY3puWmF0Sjd0SVJyZjhVWHJtdjQwQmtpaENKcm5aUVVncGdlTnRnN193V0pBUQ?oc=5",
+      "source": "스포츠조선",
+      "media_name": "스포츠조선",
+      "media_name_display": "스포츠조선",
+      "published_at": "2026-08-29T19:59:44+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "kimdoyoung_32",
-      "cluster_size": 2
-    },
-    {
-      "topic": "kimdoyoung",
-      "topic_name": "김도영",
-      "title": "김도영 ‘고의사구 출루’[포토] - xportsnews.com",
-      "title_display": "김도영 ‘고의사구 출루’[포토]",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oNHA2MC00ckppMmxJLVZiVDJ4WGZEREhIRm5zNExwSzF0YzJJb2s2VHRkdENOU1A4RVk3NGplTEhQcld2RjdRNl9rRGt1SE00bFIzbA?oc=5",
-      "source": "xportsnews.com",
-      "media_name": "xportsnews.com",
-      "media_name_display": "엑스포츠뉴스",
-      "published_at": "2026-08-29T21:56:45+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "kimdoyoung_43",
-      "cluster_size": 2
+      "cluster_id": "kimdoyoung_31",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -2647,7 +2804,38 @@
       "published_at": "2026-08-29T19:05:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_50",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
+    },
+    {
+      "topic": "kimdoyoung",
+      "topic_name": "김도영",
+      "title": "[사진]김도영,'역전 찬스서 아쉬운 삼진' - 조선비즈 - Chosunbiz",
+      "title_display": "[사진]김도영,'역전 찬스서 아쉬운 삼진' - 조선비즈",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGxGQVh4LVRxdGV3cVM1MzRDVWswd01LZ3FxM0JJaHdxekFOdWNQNnoxbFA0dU0wQ1hOMC1jX1JHV1E3V1lTYzJYYTVqd2djSU1iemVhVFg3RjFBRTJnUHNiampaa3prY1lIOWdnZ0Mzc2RqOEhaTVVNOENGYUlfX2NiVzZyenRO0gGcAUFVX3lxTFBJRVA0WkNnSl9leU5uQ1ItVTRXbkhtRjVJWmtMcjY1eHVJWDE1RjNoRGdUaHYtS3dLSmdNaEJFWXp5dG5iTjF6YTkxaWZ5VV9OOUgyeDRuRzJ3YTBXYTRiUkU1bDEyZWE1dy1TeHFwWkVDRkw4a3FvdllhN2hoOWc0cmhpLWJjQU91WW5RbG9iOXR5SXprN3duZjlFZw?oc=5",
+      "source": "Chosunbiz",
+      "media_name": "Chosunbiz",
+      "media_name_display": "Chosunbiz",
+      "published_at": "2026-08-29T21:01:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kimdoyoung_33",
+      "cluster_size": 2,
+      "cluster_item_count": 2
+    },
+    {
+      "topic": "kimdoyoung",
+      "topic_name": "김도영",
+      "title": "김도영 ‘고의사구 출루’[포토] - xportsnews.com",
+      "title_display": "김도영 ‘고의사구 출루’[포토]",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oNHA2MC00ckppMmxJLVZiVDJ4WGZEREhIRm5zNExwSzF0YzJJb2s2VHRkdENOU1A4RVk3NGplTEhQcld2RjdRNl9rRGt1SE00bFIzbA?oc=5",
+      "source": "xportsnews.com",
+      "media_name": "xportsnews.com",
+      "media_name_display": "엑스포츠뉴스",
+      "published_at": "2026-08-29T21:56:45+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "kimdoyoung_43",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2661,7 +2849,8 @@
       "published_at": "2026-08-29T20:59:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_35",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2675,7 +2864,8 @@
       "published_at": "2026-08-29T20:04:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_58",
-      "cluster_size": 5
+      "cluster_size": 4,
+      "cluster_item_count": 5
     },
     {
       "topic": "kimdoyoung",
@@ -2689,7 +2879,8 @@
       "published_at": "2026-08-29T20:59:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_37",
-      "cluster_size": 4
+      "cluster_size": 4,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2703,7 +2894,8 @@
       "published_at": "2026-08-29T20:41:35+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_38",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2717,7 +2909,8 @@
       "published_at": "2026-08-29T19:59:40+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_39",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -2731,7 +2924,8 @@
       "published_at": "2026-08-29T20:41:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_40",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2745,7 +2939,8 @@
       "published_at": "2026-08-29T20:06:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_41",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2759,7 +2954,8 @@
       "published_at": "2026-08-29T21:56:42+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_42",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -2773,7 +2969,8 @@
       "published_at": "2026-08-29T21:57:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_43",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2787,7 +2984,8 @@
       "published_at": "2026-08-29T20:04:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_58",
-      "cluster_size": 5
+      "cluster_size": 4,
+      "cluster_item_count": 5
     },
     {
       "topic": "kimdoyoung",
@@ -2801,7 +2999,8 @@
       "published_at": "2026-08-29T19:55:39+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_45",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2815,7 +3014,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_46",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2829,7 +3029,8 @@
       "published_at": "2026-08-29T20:14:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_47",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2843,7 +3044,8 @@
       "published_at": "2026-08-29T19:12:46+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_48",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2857,7 +3059,8 @@
       "published_at": "2026-08-29T18:26:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_54",
-      "cluster_size": 4
+      "cluster_size": 4,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2871,7 +3074,8 @@
       "published_at": "2026-08-29T19:05:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_50",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2885,7 +3089,8 @@
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_51",
-      "cluster_size": 3
+      "cluster_size": 3,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2899,7 +3104,8 @@
       "published_at": "2026-08-29T19:11:26+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_52",
-      "cluster_size": 2
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2913,7 +3119,8 @@
       "published_at": "2026-08-29T19:05:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_53",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -2927,7 +3134,8 @@
       "published_at": "2026-08-29T18:26:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_54",
-      "cluster_size": 4
+      "cluster_size": 4,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2941,7 +3149,8 @@
       "published_at": "2026-08-29T21:38:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_55",
-      "cluster_size": 3
+      "cluster_size": 2,
+      "cluster_item_count": 3
     },
     {
       "topic": "kimdoyoung",
@@ -2955,7 +3164,8 @@
       "published_at": "2026-08-29T19:11:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_56",
-      "cluster_size": 2
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -2969,7 +3179,8 @@
       "published_at": "2026-08-29T21:53:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_57",
-      "cluster_size": 4
+      "cluster_size": 3,
+      "cluster_item_count": 4
     },
     {
       "topic": "kimdoyoung",
@@ -2983,7 +3194,8 @@
       "published_at": "2026-08-29T20:05:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_58",
-      "cluster_size": 5
+      "cluster_size": 4,
+      "cluster_item_count": 5
     },
     {
       "topic": "kimdoyoung",
@@ -2997,7 +3209,8 @@
       "published_at": "2026-08-29T19:57:15+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_59",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -3011,7 +3224,8 @@
       "published_at": "2026-08-29T18:29:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_60",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kimdoyoung",
@@ -3025,7 +3239,8 @@
       "published_at": "2026-08-29T18:53:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_61",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "kimdoyoung",
@@ -3039,7 +3254,8 @@
       "published_at": "2026-08-29T22:31:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kimdoyoung_62",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "ohtani",
@@ -3053,7 +3269,8 @@
       "published_at": "2026-08-29T21:15:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "ohtani_0",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "ohtani",
@@ -3067,7 +3284,8 @@
       "published_at": "2026-08-30T00:29:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "ohtani_1",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "ohtani",
@@ -3081,7 +3299,8 @@
       "published_at": "2026-08-29T18:51:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "ohtani_2",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "ohtani",
@@ -3095,7 +3314,8 @@
       "published_at": "2026-08-29T16:55:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "ohtani_3",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "ohtani",
@@ -3109,7 +3329,8 @@
       "published_at": "2026-08-29T17:18:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "ohtani_4",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3123,7 +3344,8 @@
       "published_at": "2026-08-30T03:43:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_0",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3137,7 +3359,8 @@
       "published_at": "2026-08-30T03:51:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_1",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3151,7 +3374,8 @@
       "published_at": "2026-08-30T02:26:17+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_2",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3165,21 +3389,8 @@
       "published_at": "2026-08-30T01:11:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_3",
-      "cluster_size": 1
-    },
-    {
-      "topic": "leekangin",
-      "topic_name": "이강인",
-      "title": "또 선발이다! 이강인, 세비야 원정 전격 출격... '1무 4패' 세비야전 징크스? 2호골로 깬다 - starnewskorea.com",
-      "title_display": "또 선발이다! 이강인, 세비야 원정 전격 출격... '1무 4패' 세비야전 징크스? 2호골로 깬다",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UWZUTlpNZi1qVjVsZEEzOXdNbHY1c3pGaDhnTzRjVGJpdUxLdW9UcFdOYWJHQTJwcWVWMGRWWEplN2Rob2RqYUlWRDMxdFhQdk9NN0Vpd2NrTEhWa2s2eFRoZ1FqUDBieHdrdHFpVVYwYW0tdkE?oc=5",
-      "source": "starnewskorea.com",
-      "media_name": "starnewskorea.com",
-      "media_name_display": "starnewskorea.com",
-      "published_at": "2026-08-30T04:22:21+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "leekangin_4",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3192,8 +3403,9 @@
       "media_name_display": "네이트뉴스",
       "published_at": "2026-08-30T03:44:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_5",
-      "cluster_size": 1
+      "cluster_id": "leekangin_4",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3206,8 +3418,9 @@
       "media_name_display": "인터풋볼",
       "published_at": "2026-08-30T04:00:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_6",
-      "cluster_size": 1
+      "cluster_id": "leekangin_5",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3220,8 +3433,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T22:52:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_7",
-      "cluster_size": 1
+      "cluster_id": "leekangin_6",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3234,8 +3448,24 @@
       "media_name_display": "m.mksports.co.kr",
       "published_at": "2026-08-29T19:49:34+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_8",
-      "cluster_size": 1
+      "cluster_id": "leekangin_7",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "leekangin",
+      "topic_name": "이강인",
+      "title": "또 선발이다! 이강인, 세비야 원정 전격 출격... '1무 4패' 세비야전 징크스? 2호골로 깬다 - 머니투데이 - 머니투데이",
+      "title_display": "또 선발이다! 이강인, 세비야 원정 전격 출격... '1무 4패' 세비야전 징크스? 2호골로 깬다",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vRHRWVkh2LUVWT2tqbmUwWnlTbm5CY1lMbkFKUEFHTmlfT1NhVkhZZURWU0tZUzZqT3puSU01Mkt3WHJHTW45dmZCTnpkWUFWUDhjbU1pTDAxb1E3VUh6d0Rid1U2Q2thNFHSAW9BVV95cUxPV1BhV0FLZVlPcWwzVW43N2d1X0NpcVpLRElQdEYyMklMWDctSXVKU0lvODNHbXF5V1pmV1JOSmxZRTJsOVFEQkpZeWdBZE91SGljVTVpalB3WEc4WktQakNsT2NnRi1tVi1nQWtuRzg?oc=5",
+      "source": "머니투데이",
+      "media_name": "머니투데이",
+      "media_name_display": "머니투데이",
+      "published_at": "2026-08-30T04:22:21+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "leekangin_14",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "leekangin",
@@ -3249,7 +3479,8 @@
       "published_at": "2026-08-30T02:04:26+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_9",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3263,7 +3494,8 @@
       "published_at": "2026-08-30T04:12:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_10",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3277,7 +3509,8 @@
       "published_at": "2026-08-30T00:20:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_11",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3291,7 +3524,8 @@
       "published_at": "2026-08-30T04:00:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_12",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3305,7 +3539,23 @@
       "published_at": "2026-08-29T22:51:35+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_13",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "leekangin",
+      "topic_name": "이강인",
+      "title": "또 선발이다! 이강인, 세비야 원정 전격 출격…'1무 4패' 세비야전 징크스? 2호골로 깬다 - 네이트",
+      "title_display": "또 선발이다! 이강인, 세비야 원정 전격 출격…'1무 4패' 세비야전 징크스? 2호골로 깬다",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhWW5RSnNkYlVsVEYzdGs4ZHpiMlB6d2NWRFc2ZFlpUnczWldaRzJZcHZkdktRSGxsNWU3ZXFOYVMwc1lwRXRXUzZEVHJLQ3NZRGVyWlpDWmNWUFRZcGdhTg?oc=5",
+      "source": "네이트",
+      "media_name": "네이트",
+      "media_name_display": "네이트뉴스",
+      "published_at": "2026-08-30T04:23:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "leekangin_14",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "leekangin",
@@ -3318,8 +3568,9 @@
       "media_name_display": "스포츠조선",
       "published_at": "2026-08-30T00:05:15+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_14",
-      "cluster_size": 1
+      "cluster_id": "leekangin_15",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3332,8 +3583,9 @@
       "media_name_display": "스포츠조선",
       "published_at": "2026-08-29T21:35:32+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_15",
-      "cluster_size": 1
+      "cluster_id": "leekangin_16",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3346,22 +3598,9 @@
       "media_name_display": "스포츠조선",
       "published_at": "2026-08-29T19:33:57+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_16",
-      "cluster_size": 1
-    },
-    {
-      "topic": "leekangin",
-      "topic_name": "이강인",
-      "title": "데뷔전 골 넣고 곧바로 첫 선발까지...이강인, '무승 악연' 세비야 상대로 시즌 2호골 정조준 - 조선비즈 - Chosunbiz",
-      "title_display": "데뷔전 골 넣고 곧바로 첫 선발까지...이강인, '무승 악연' 세비야 상대로 시즌 2호골 정조준 - 조선비즈",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTAtZjZLdlN2WllmOFNfRm1hUmRnc2VmRjRNUTBONG9Zc2FoTm9qOF92Zm4yV3JXM1BGTHdWRXhhV3lCN0R6YkZGakFiVGRaMUZGMFZVaE16Zkl6eVF1U2dHRVJjX0xGZGtWM2FGQkZlRGJ1WklDcW9wRmd5Y1RJNjRKMEQ2b3ZsRGNyX1hsdXhXQzBRbHFR0gGXAUFVX3lxTE85MC1mNkt2U3ZaWWY4U19GbWFSZGdzZWZGNE1RME40b1lzYWhOb2o4X3ZmbjJXclczUEZMd1ZFeGFXeUI3RHpiRkZqQWJUZFoxRkYwVlVoTXpmSXp5UXVTZ0dFUmNfTEZka1YzYUZCRmVEYnVaSUNxb3BGZ3ljVEk2NEowRDZvdmxEY3JfWGx1eFdDMFFscVE?oc=5",
-      "source": "Chosunbiz",
-      "media_name": "Chosunbiz",
-      "media_name_display": "Chosunbiz",
-      "published_at": "2026-08-29T16:32:00+09:00",
-      "published_at_kind": "absolute",
       "cluster_id": "leekangin_17",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3375,7 +3614,8 @@
       "published_at": "2026-08-30T01:31:46+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_18",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3389,7 +3629,8 @@
       "published_at": "2026-08-29T18:56:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_19",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3403,7 +3644,8 @@
       "published_at": "2026-08-29T22:20:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_20",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3417,7 +3659,8 @@
       "published_at": "2026-08-29T22:31:50+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_21",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3431,7 +3674,8 @@
       "published_at": "2026-08-29T21:10:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_22",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3445,7 +3689,8 @@
       "published_at": "2026-08-29T18:51:28+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_23",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3459,7 +3704,8 @@
       "published_at": "2026-08-29T18:51:21+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_24",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3473,7 +3719,8 @@
       "published_at": "2026-08-29T19:03:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_25",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3487,7 +3734,23 @@
       "published_at": "2026-08-29T18:38:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "leekangin_26",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "leekangin",
+      "topic_name": "이강인",
+      "title": "데뷔전 골 넣고 곧바로 첫 선발까지…이강인, '무승 악연' 세비야 상대로 시즌 2호골 정조준 - 네이트",
+      "title_display": "데뷔전 골 넣고 곧바로 첫 선발까지…이강인, '무승 악연' 세비야 상대로 시즌 2호골 정조준",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YREpfczN1bXdjQ1UwZTFCNGk3WGZkSjB0QjdpM2RhRVJnUWNVWlFEZTRzbHdScFl4MGk2cjRndlNuRWR3S1dLbm11U1ZidzRSRmZQSHRybTMwcUlEcjRscDNvUTcyb3hCZ2lkdHBXbWFHM2tlX3c?oc=5",
+      "source": "네이트",
+      "media_name": "네이트",
+      "media_name_display": "네이트뉴스",
+      "published_at": "2026-08-29T16:33:00+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "leekangin_27",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3500,8 +3763,9 @@
       "media_name_display": "인터풋볼",
       "published_at": "2026-08-29T18:00:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_27",
-      "cluster_size": 1
+      "cluster_id": "leekangin_28",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3514,8 +3778,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-30T01:27:38+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_28",
-      "cluster_size": 1
+      "cluster_id": "leekangin_29",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3528,8 +3793,9 @@
       "media_name_display": "머니투데이",
       "published_at": "2026-08-29T18:21:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_37",
-      "cluster_size": 2
+      "cluster_id": "leekangin_38",
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "leekangin",
@@ -3542,8 +3808,9 @@
       "media_name_display": "한국연예스포츠신문",
       "published_at": "2026-08-29T23:58:46+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_30",
-      "cluster_size": 1
+      "cluster_id": "leekangin_31",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3556,8 +3823,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T21:37:07+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_31",
-      "cluster_size": 1
+      "cluster_id": "leekangin_32",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3570,8 +3838,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T22:11:25+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_32",
-      "cluster_size": 1
+      "cluster_id": "leekangin_33",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3584,8 +3853,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T17:07:48+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_33",
-      "cluster_size": 1
+      "cluster_id": "leekangin_34",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3598,8 +3868,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T23:25:36+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_34",
-      "cluster_size": 1
+      "cluster_id": "leekangin_35",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3612,8 +3883,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-30T01:34:46+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_35",
-      "cluster_size": 1
+      "cluster_id": "leekangin_36",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3626,8 +3898,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T21:24:16+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_36",
-      "cluster_size": 1
+      "cluster_id": "leekangin_37",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3640,8 +3913,9 @@
       "media_name_display": "OSEN",
       "published_at": "2026-08-29T18:21:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_37",
-      "cluster_size": 2
+      "cluster_id": "leekangin_38",
+      "cluster_size": 2,
+      "cluster_item_count": 2
     },
     {
       "topic": "leekangin",
@@ -3654,8 +3928,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T17:57:02+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_38",
-      "cluster_size": 1
+      "cluster_id": "leekangin_39",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3668,8 +3943,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T17:00:06+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_39",
-      "cluster_size": 1
+      "cluster_id": "leekangin_40",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3682,8 +3958,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T17:27:51+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_40",
-      "cluster_size": 1
+      "cluster_id": "leekangin_41",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3696,8 +3973,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T23:21:13+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_41",
-      "cluster_size": 1
+      "cluster_id": "leekangin_42",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3710,8 +3988,9 @@
       "media_name_display": "Mshale",
       "published_at": "2026-08-29T17:31:25+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_42",
-      "cluster_size": 1
+      "cluster_id": "leekangin_43",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3724,8 +4003,9 @@
       "media_name_display": "fourfourtwo.co.kr",
       "published_at": "2026-08-29T23:35:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_43",
-      "cluster_size": 1
+      "cluster_id": "leekangin_44",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3738,8 +4018,9 @@
       "media_name_display": "fourfourtwo.co.kr",
       "published_at": "2026-08-29T19:55:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_44",
-      "cluster_size": 1
+      "cluster_id": "leekangin_45",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3752,8 +4033,9 @@
       "media_name_display": "fourfourtwo.co.kr",
       "published_at": "2026-08-29T20:38:36+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_45",
-      "cluster_size": 1
+      "cluster_id": "leekangin_46",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3766,8 +4048,9 @@
       "media_name_display": "fourfourtwo.co.kr",
       "published_at": "2026-08-30T01:35:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_46",
-      "cluster_size": 1
+      "cluster_id": "leekangin_47",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "leekangin",
@@ -3780,8 +4063,9 @@
       "media_name_display": "fourfourtwo.co.kr",
       "published_at": "2026-08-29T17:20:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "leekangin_47",
-      "cluster_size": 1
+      "cluster_id": "leekangin_48",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3795,7 +4079,8 @@
       "published_at": "2026-08-29T23:03:50+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_0",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3809,7 +4094,8 @@
       "published_at": "2026-08-30T02:31:49+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_1",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3823,7 +4109,8 @@
       "published_at": "2026-08-30T01:03:49+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_2",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3837,7 +4124,8 @@
       "published_at": "2026-08-29T22:52:37+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_3",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3851,7 +4139,8 @@
       "published_at": "2026-08-29T22:27:07+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_4",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3865,7 +4154,8 @@
       "published_at": "2026-08-29T22:41:49+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_5",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3879,7 +4169,8 @@
       "published_at": "2026-08-29T22:33:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_6",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3893,7 +4184,8 @@
       "published_at": "2026-08-30T01:11:29+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_7",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3907,7 +4199,8 @@
       "published_at": "2026-08-30T00:11:28+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_8",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3921,7 +4214,8 @@
       "published_at": "2026-08-29T22:22:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_9",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3935,7 +4229,8 @@
       "published_at": "2026-08-29T22:31:50+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_10",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3949,7 +4244,8 @@
       "published_at": "2026-08-29T22:42:51+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_11",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3963,7 +4259,8 @@
       "published_at": "2026-08-29T23:47:50+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_12",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -3977,21 +4274,8 @@
       "published_at": "2026-08-29T22:06:41+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "son_13",
-      "cluster_size": 1
-    },
-    {
-      "topic": "son",
-      "topic_name": "손흥민(LAFC)",
-      "title": "'韓 축구' 대박이다! 김민수 '스코틀랜드 명문' 레인저스서 'NO.10' 배정, \"팀이 나를 원했다니 놀라워...우승하기 위해 왔다\" - v.daum.net",
-      "title_display": "'韓 축구' 대박이다! 김민수 '스코틀랜드 명문' 레인저스서 'NO.10' 배정, \"팀이 나를 원했다니 놀라워...우승하기 위해 왔다\"",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QakppZEt6Z3FFS1l0X21XeE1zM1owVUl0akM0S215TXM1Z2ZCWDVrTGs0b3dIdzNKM0ZpRWN2VjN1bHZPQkJHMy1UOVlEd28?oc=5",
-      "source": "v.daum.net",
-      "media_name": "v.daum.net",
-      "media_name_display": "다음뉴스",
-      "published_at": "2026-08-29T20:03:49+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "son_14",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4004,8 +4288,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T20:35:49+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_19",
-      "cluster_size": 2
+      "cluster_id": "son_18",
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "son",
@@ -4018,8 +4303,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T20:14:51+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_16",
-      "cluster_size": 1
+      "cluster_id": "son_15",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4032,8 +4318,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T18:57:07+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_17",
-      "cluster_size": 1
+      "cluster_id": "son_16",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4046,8 +4333,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T17:28:37+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_18",
-      "cluster_size": 1
+      "cluster_id": "son_17",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4060,8 +4348,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T20:35:49+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_19",
-      "cluster_size": 2
+      "cluster_id": "son_18",
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "son",
@@ -4074,8 +4363,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T20:59:27+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_20",
-      "cluster_size": 1
+      "cluster_id": "son_19",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4088,8 +4378,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T20:03:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_21",
-      "cluster_size": 1
+      "cluster_id": "son_20",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4102,8 +4393,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T21:16:43+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_22",
-      "cluster_size": 1
+      "cluster_id": "son_21",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4116,8 +4408,9 @@
       "media_name_display": "sportalkorea.com",
       "published_at": "2026-08-30T00:39:25+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_23",
-      "cluster_size": 1
+      "cluster_id": "son_22",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4130,8 +4423,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T17:36:09+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_24",
-      "cluster_size": 1
+      "cluster_id": "son_23",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4144,8 +4438,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T19:02:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_25",
-      "cluster_size": 1
+      "cluster_id": "son_24",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4158,8 +4453,9 @@
       "media_name_display": "네이트뉴스",
       "published_at": "2026-08-29T20:00:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_31",
-      "cluster_size": 2
+      "cluster_id": "son_30",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "son",
@@ -4172,8 +4468,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T20:03:27+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_29",
-      "cluster_size": 2
+      "cluster_id": "son_28",
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "son",
@@ -4186,8 +4483,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T16:42:37+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_28",
-      "cluster_size": 1
+      "cluster_id": "son_27",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4200,8 +4498,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T20:03:27+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_29",
-      "cluster_size": 2
+      "cluster_id": "son_28",
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "son",
@@ -4214,8 +4513,9 @@
       "media_name_display": "스포츠조선",
       "published_at": "2026-08-29T17:22:36+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_30",
-      "cluster_size": 1
+      "cluster_id": "son_29",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4228,8 +4528,9 @@
       "media_name_display": "인터풋볼",
       "published_at": "2026-08-29T20:00:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_31",
-      "cluster_size": 2
+      "cluster_id": "son_30",
+      "cluster_size": 1,
+      "cluster_item_count": 2
     },
     {
       "topic": "son",
@@ -4242,8 +4543,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T18:04:50+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_34",
-      "cluster_size": 2
+      "cluster_id": "son_33",
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "son",
@@ -4256,8 +4558,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T18:21:49+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_33",
-      "cluster_size": 1
+      "cluster_id": "son_32",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4270,8 +4573,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T18:04:50+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_34",
-      "cluster_size": 2
+      "cluster_id": "son_33",
+      "cluster_size": 0,
+      "cluster_item_count": 2
     },
     {
       "topic": "son",
@@ -4284,8 +4588,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T17:34:39+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_35",
-      "cluster_size": 1
+      "cluster_id": "son_34",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4298,8 +4603,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T17:01:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_36",
-      "cluster_size": 1
+      "cluster_id": "son_35",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4312,8 +4618,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T17:21:49+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_37",
-      "cluster_size": 1
+      "cluster_id": "son_36",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4326,8 +4633,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T17:45:27+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_38",
-      "cluster_size": 1
+      "cluster_id": "son_37",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4340,8 +4648,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T17:11:27+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_39",
-      "cluster_size": 1
+      "cluster_id": "son_38",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4354,8 +4663,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T19:52:51+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_40",
-      "cluster_size": 1
+      "cluster_id": "son_39",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4368,8 +4678,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T18:06:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_41",
-      "cluster_size": 1
+      "cluster_id": "son_40",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4382,8 +4693,9 @@
       "media_name_display": "다음뉴스",
       "published_at": "2026-08-29T17:26:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_42",
-      "cluster_size": 1
+      "cluster_id": "son_41",
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "son",
@@ -4396,8 +4708,9 @@
       "media_name_display": "OSEN",
       "published_at": "2026-08-29T22:51:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "son_43",
-      "cluster_size": 1
+      "cluster_id": "son_42",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "epl",
@@ -4411,7 +4724,8 @@
       "published_at": "2026-08-30T03:21:18+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "epl_0",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "epl",
@@ -4425,35 +4739,8 @@
       "published_at": "2026-08-29T18:54:28+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "epl_1",
-      "cluster_size": 1
-    },
-    {
-      "topic": "epl",
-      "topic_name": "프리미어리그 개막",
-      "title": "프리미어 리그 토트넘 대 뉴캐슬 점수 예측 - Laodong.vn",
-      "title_display": "프리미어 리그 토트넘 대 뉴캐슬 점수 예측",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUZxSGxEcmVQMHcyM1hpN3JOVTV4dGxxWE91aXVuMjBZZkpVcjlXT2hLU0I5VG4xSFExOUd6SElqRG91dHY3c2hyLUlocEdMQzRCOG9qMTMwOUliRzFoQlNXeXNza2w1VkdrUDExTGpuay1ENWZQOGh6YUItZlNnUXU3bGtYeFZuSklWWWUwSmNxRDJ0c3o2aUlFd05jVk1lT2RLTGZReUg?oc=5",
-      "source": "Laodong.vn",
-      "media_name": "Laodong.vn",
-      "media_name_display": "Laodong.vn",
-      "published_at": "2026-08-29T17:57:27+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "epl_2",
-      "cluster_size": 1
-    },
-    {
-      "topic": "epl",
-      "topic_name": "프리미어리그 개막",
-      "title": "'세상에' EPL 역대급 '배신자' 돌아온다...리버풀 이미 레알 마드리드와 협상, 이적료 단 '240억'→아놀드도 '리턴' 의지 있다 - v.daum.net",
-      "title_display": "'세상에' EPL 역대급 '배신자' 돌아온다...리버풀 이미 레알 마드리드와 협상, 이적료 단 '240억'→아놀드도 '리턴' 의지 있다",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqX0lfYWduVThzZ0xLcnVjZk5uU01waUNydm0wVTF5MnR5QWFhZHRpWGwwbml2TXI3dm1GWTQ2aklOem5qWjBKcmZlWnBGOEJId05NcA?oc=5",
-      "source": "v.daum.net",
-      "media_name": "v.daum.net",
-      "media_name_display": "다음뉴스",
-      "published_at": "2026-08-29T23:03:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "epl_4",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "epl",
@@ -4466,8 +4753,24 @@
       "media_name_display": "마이데일리",
       "published_at": "2026-08-29T23:02:00+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "epl_4",
-      "cluster_size": 2
+      "cluster_id": "epl_2",
+      "cluster_size": 1,
+      "cluster_item_count": 1
+    },
+    {
+      "topic": "epl",
+      "topic_name": "프리미어리그 개막",
+      "title": "프리미어 리그 토트넘 대 뉴캐슬 점수 예측 - Laodong.vn",
+      "title_display": "프리미어 리그 토트넘 대 뉴캐슬 점수 예측",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUZxSGxEcmVQMHcyM1hpN3JOVTV4dGxxWE91aXVuMjBZZkpVcjlXT2hLU0I5VG4xSFExOUd6SElqRG91dHY3c2hyLUlocEdMQzRCOG9qMTMwOUliRzFoQlNXeXNza2w1VkdrUDExTGpuay1ENWZQOGh6YUItZlNnUXU3bGtYeFZuSklWWWUwSmNxRDJ0c3o2aUlFd05jVk1lT2RLTGZReUg?oc=5",
+      "source": "Laodong.vn",
+      "media_name": "Laodong.vn",
+      "media_name_display": "Laodong.vn",
+      "published_at": "2026-08-29T17:57:27+09:00",
+      "published_at_kind": "absolute",
+      "cluster_id": "epl_3",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "epl",
@@ -4480,8 +4783,9 @@
       "media_name_display": "fourfourtwo.co.kr",
       "published_at": "2026-08-29T22:54:04+09:00",
       "published_at_kind": "absolute",
-      "cluster_id": "epl_5",
-      "cluster_size": 1
+      "cluster_id": "epl_4",
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbl",
@@ -4495,7 +4799,8 @@
       "published_at": "2026-08-30T01:01:03+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbl_0",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbl",
@@ -4509,7 +4814,8 @@
       "published_at": "2026-08-29T20:01:46+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbl_1",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbl",
@@ -4523,7 +4829,8 @@
       "published_at": "2026-08-30T01:18:03+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbl_2",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbl",
@@ -4537,7 +4844,8 @@
       "published_at": "2026-08-29T21:35:27+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbl_3",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbl",
@@ -4551,7 +4859,8 @@
       "published_at": "2026-08-29T16:53:09+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbl_4",
-      "cluster_size": 1
+      "cluster_size": 1,
+      "cluster_item_count": 1
     },
     {
       "topic": "kbl",
@@ -4565,7 +4874,8 @@
       "published_at": "2026-08-29T17:47:00+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "kbl_5",
-      "cluster_size": 1
+      "cluster_size": 0,
+      "cluster_item_count": 1
     },
     {
       "topic": "nba",
@@ -4579,35 +4889,8 @@
       "published_at": "2026-08-29T18:58:55+09:00",
       "published_at_kind": "absolute",
       "cluster_id": "nba_0",
-      "cluster_size": 1
-    },
-    {
-      "topic": "nba",
-      "topic_name": "NBA",
-      "title": "미쳤다! GSW, 예상대로 구단 최고 프랜차이즈 스타에 '연평균 950억' 메가톤 계약 제안 전망... 커리 페이컷 가능성은? - rookie.co.kr",
-      "title_display": "미쳤다! GSW, 예상대로 구단 최고 프랜차이즈 스타에 '연평균 950억' 메가톤 계약 제안 전망... 커리 페이컷 가능성은?",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CUzhXYVVuWHlnX3FFWEsweXJPV2c3Ql9OT2UtN3dkWGV2eWtkZmMyZTU3NGE2RE1zSHlNcW9ULWVrajg3MnFuMkFFZGtiaUpONzZMcDdobHlWYmtkOVNvbWFqV2lBc0E?oc=5",
-      "source": "rookie.co.kr",
-      "media_name": "rookie.co.kr",
-      "media_name_display": "rookie.co.kr",
-      "published_at": "2026-08-29T16:30:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "nba_2",
-      "cluster_size": 2
-    },
-    {
-      "topic": "nba",
-      "topic_name": "NBA",
-      "title": "미쳤다! GSW, 예상대로 구단 최고 프랜차이즈 스타에 '연평균 950억' 메가톤 계약 제안 전망... 커리 페이컷 가능성은? - rookie.co.kr",
-      "title_display": "미쳤다! GSW, 예상대로 구단 최고 프랜차이즈 스타에 '연평균 950억' 메가톤 계약 제안 전망... 커리 페이컷 가능성은?",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VNXNoa1FGQ3NjempYS1Nmb01CMG9TNWdWRVZVZmJxc0dKNmgwM2VIbE4ycFl1OXBwb1ZBSWJ1VWsyaTlKbEJyN2tTb3ktZlE3X2JyWkhKS2VOVTg0Q3hmcXp4VWhCZWlKcHc?oc=5",
-      "source": "rookie.co.kr",
-      "media_name": "rookie.co.kr",
-      "media_name_display": "rookie.co.kr",
-      "published_at": "2026-08-29T16:30:00+09:00",
-      "published_at_kind": "absolute",
-      "cluster_id": "nba_2",
-      "cluster_size": 2
+      "cluster_size": 1,
+      "cluster_item_count": 1
     }
   ]
 }
