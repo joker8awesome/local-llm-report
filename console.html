@@ -86,6 +86,18 @@
   .kwpick{position:absolute;top:6px;right:6px;width:18px;height:18px;z-index:2;cursor:pointer;accent-color:var(--accent)}
   .kwtoolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0 0 10px}
   .kwtoolbar .kwcount{font-size:12px;color:var(--muted)}
+  /* 뉴스탭(2026-08-29) — 카드형이 아니라 리스트형. 썸네일 없음 */
+  .newsrow{display:flex;gap:10px;align-items:flex-start;padding:10px 4px;border-bottom:1px solid var(--line);position:relative}
+  .newsrow:last-child{border:none}
+  .newspick{flex:none;width:18px;height:18px;margin-top:3px;cursor:pointer;accent-color:var(--accent)}
+  .newsbody{flex:1;min-width:0;display:flex;flex-direction:column;gap:3px}
+  .newstitle{font-size:13.5px;font-weight:600;color:inherit;text-decoration:none;line-height:1.4}
+  .newstitle:hover{text-decoration:underline}
+  .newsbtn{font-size:11px;padding:2px 8px;border-radius:6px}
+  /* 역할 배지 — 뉴스=사실근거 / 유튜브=장면참고. 우리는 클립을 안 쓴다(전부 생성형) — 혼동 방지 */
+  .rolebadge{font-size:10px;padding:1px 6px;border-radius:4px;font-weight:600}
+  .rolebadge.news{background:rgba(37,99,235,.12);color:var(--accent)}
+  .rolebadge.yt{background:rgba(217,119,6,.12);color:var(--warn)}
 </style>
 
 <div class="wrap">
@@ -134,7 +146,7 @@
 
 <script>
 const $ = s => document.querySelector(s);
-const LS = { repo:'con_repo', branch:'con_branch', pat:'con_pat', theme:'con_theme', kwPicked:'con_kwpicked' };
+const LS = { repo:'con_repo', branch:'con_branch', pat:'con_pat', theme:'con_theme', kwPicked:'con_kwpicked', newsPicked:'con_newspicked' };
 const cfg = {
   repo: localStorage.getItem(LS.repo) || 'joker8awesome/local-llm-report',
   branch: localStorage.getItem(LS.branch) || 'main',
@@ -148,7 +160,7 @@ const dt = ts => ts? new Date(ts*1000).toLocaleString('ko-KR',{month:'2-digit',d
 
 // ---- 데이터 로드 ----
 async function loadAll(){
-  const files=['status','runs','errors','items','health','commands_log','sources','media','issues','yt_analysis','keywords'];
+  const files=['status','runs','errors','items','health','commands_log','sources','media','issues','yt_analysis','keywords','news'];
   let okAny=false;
   await Promise.all(files.map(async f=>{
     try{ const r=await fetch('./data/'+f+'.json?_='+Date.now()); if(r.ok){DATA[f]=await r.json();okAny=true;} }
@@ -184,16 +196,18 @@ function paintStatus(okAny){
 }
 
 // ---- 탭 ----
-const TABS=[['overview','개요'],['runs','실행이력'],['errors','오류'],['items','수집물'],['health','건강'],['commands','명령']];
-let active='overview';
+// ★2026-08-29 16:28 지시 — 뉴스=사실근거 / 유튜브=장면참고(우리는 클립을 안 쓴다, 전부 생성형).
+//   뉴스가 CEO 요구(최신 12시간)를 실제로 채우는 쪽이라 기본 탭으로 둔다(유튜브 12h는 3~4건뿐이었다).
+const TABS=[['news','🗞 뉴스'],['overview','개요'],['runs','실행이력'],['errors','오류'],['items','🎬 유튜브'],['health','건강'],['commands','명령']];
+let active='news';
 function buildTabs(){
   $('#tabs').innerHTML='';
   TABS.forEach(([k,l])=>{ const b=document.createElement('button'); b.className='tab'+(k===active?' active':'');
     b.textContent=l; b.onclick=()=>{active=k;buildTabs();render();}; $('#tabs').appendChild(b); });
 }
 function render(){ const v=$('#view'); v.innerHTML = ({
-  overview:vOverview, runs:vRuns, errors:vErrors, items:vItems, health:vHealth, commands:vCommands
-}[active]||(()=>''))(); if(active==='commands') wireCommands(); if(active==='items') wireKeywords(); }
+  overview:vOverview, runs:vRuns, errors:vErrors, items:vItems, health:vHealth, commands:vCommands, news:vNews
+}[active]||(()=>''))(); if(active==='commands') wireCommands(); if(active==='items') wireKeywords(); if(active==='news') wireNews(); }
 
 function vOverview(){
   const s=DATA.status||{}, h=(DATA.health||{}).stats||{}, e=DATA.errors||{}, it=DATA.items||{};
@@ -254,6 +268,19 @@ function loadPicked(){
 }
 let kwPicked = loadPicked();               // {videoId: dateStr} — Set 아님, 날짜 보존 위해 객체
 function savePicked(){ localStorage.setItem(LS.kwPicked, JSON.stringify(kwPicked)); }
+
+// ---- 뉴스탭 승인 체크(2026-08-29) — 유튜브 탭과 동일 규격(ID기준·localStorage·자동삭제없음). 별도버킷 ----
+let news12hOnly=false, newsUncheckedOnly=false, newsTopic='all';
+function loadNewsPicked(){
+  try{ return JSON.parse(localStorage.getItem(LS.newsPicked)||'{}') || {}; }catch(e){ return {}; }
+}
+let newsPicked = loadNewsPicked();          // {url: dateStr}
+function saveNewsPicked(){ localStorage.setItem(LS.newsPicked, JSON.stringify(newsPicked)); }
+function newsElapsedDays(publishedAt){       // 절대시각(RFC822→ISO) 기준 — 유튜브 상대표기보다 정확
+  if(!publishedAt) return null;
+  const t = Date.parse(publishedAt); if(isNaN(t)) return null;
+  return (Date.now()-t)/86400000;
+}
 
 // 게시일 상대표기("2년 전"·"3개월 전"·"5일 전") → '몇 초 전' 근사값.
 // ★근사다. 절대시각을 얻으려면 영상별 상세 호출이 필요한데 차단 위험 대비 이득이 작아 하지 않는다.
@@ -348,7 +375,8 @@ function vKeywords(){
              :`<span class="kwtitle">${esc(k.title)}</span>`}
         <div class="kwmeta"><span>${esc(k.channel||'')}</span><span>·</span>
           <span class="mono">조회수 ${nfmt(k.view_count)}</span></div>
-        <div class="kwmeta"><span class="kwtag">${esc(k.topic_name||k.topic)}</span>
+        <div class="kwmeta"><span class="rolebadge yt">장면 참고</span>
+          <span class="kwtag">${esc(k.topic_name||k.topic)}</span>
           <span class="kwtag">${esc(k.suffix||'')}</span>
           ${k.produce_target?'':'<span class="kwtag">관측</span>'}
           ${elapsedBadge(k.elapsed_days)}</div>
@@ -388,6 +416,103 @@ function wireKeywords(){
     const kw=(DATA.keywords||{}).items||[];
     const rows=kw.filter(k=>k.video_id in kwPicked);
     const text=rows.map(k=>`[${k.topic_name||k.topic}] ${k.title} | ${k.published_at||''} | ${k.url||''} | ${k.video_id||''}`).join('\n');
+    if(!rows.length){ copyBtn.textContent='선택된 항목 없음'; setTimeout(()=>copyBtn.textContent='✅ 승인분 복사',1500); return; }
+    const done=()=>{ const o=copyBtn.textContent; copyBtn.textContent=`복사됨! (${rows.length}건)`;
+      setTimeout(()=>copyBtn.textContent=o,1500); };
+    const fallback=()=>{
+      const ta=document.createElement('textarea');
+      ta.value=text; ta.style.position='fixed'; ta.style.opacity='0';
+      document.body.appendChild(ta); ta.focus(); ta.select();
+      try{ document.execCommand('copy'); done(); }
+      catch(e){ copyBtn.textContent='복사 실패 — 수동 선택 필요'; setTimeout(()=>copyBtn.textContent='✅ 승인분 복사',2000); }
+      document.body.removeChild(ta);
+    };
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(text).then(done).catch(fallback);
+    } else fallback();
+  };
+}
+
+// ---- 뉴스탭(2026-08-29) — 구글뉴스RSS(when:12h). 최신순 고정, score/verdict 없음(체계가 다르다) ----
+function vNews(){
+  const news=(DATA.news||{}).items||[];
+  if(!news.length) return '<div class="card muted">뉴스 수집물이 없습니다.</div>';
+  const counts={}; news.forEach(n=>{counts[n.topic]=(counts[n.topic]||0)+1;});
+  const names={}; news.forEach(n=>{names[n.topic]=n.topic_name||n.topic;});
+  const topics=Object.keys(counts);
+  let filtered = newsTopic==='all' ? news : news.filter(n=>n.topic===newsTopic);
+  if(news12hOnly) filtered = filtered.filter(n=>{ const d=newsElapsedDays(n.published_at); return d!=null && d<=0.5; });
+  if(newsUncheckedOnly) filtered = filtered.filter(n=>!(n.url in newsPicked));
+  const shown = filtered.slice().sort((a,b)=>{
+    const da=newsElapsedDays(a.published_at), db=newsElapsedDays(b.published_at);
+    const an=(da==null)?1:0, bn=(db==null)?1:0;
+    return an-bn || (da||0)-(db||0) || 0;   // null은 맨 뒤, 그 외엔 신선한(작은) 값이 앞
+  });
+  const chip=(id,label,n)=>`<button class="kwchip${newsTopic===id?' on':''}" data-newstopic="${esc(id)}">${esc(label)} ${n}</button>`;
+  const bar=`<div class="kwbar"><b style="font-size:13px">🗞 뉴스 수집물</b>`
+    + chip('all','전체',news.length)
+    + topics.map(t=>chip(t,names[t],counts[t])).join('')
+    + `</div>`
+    + `<div class="kwbar" style="margin-top:-4px"><span class="kwnote">정렬: 최신순(고정) — 실시간 뉴스라 유튜브의 score/verdict 체계를 쓰지 않습니다</span>
+       <span class="kwnote" style="margin-left:auto">발행 ${dt((DATA.news||{}).generated_at)}</span></div>`
+    + `<div class="kwtoolbar">
+         <button class="primary" id="newsCopyBtn">✅ 승인분 복사</button>
+         <button id="newsClearBtn">전체 해제</button>
+         <span class="kwcount">체크 <b id="newsPickCount">${Object.keys(newsPicked).length}</b>건</span>
+         <span class="kwsort">
+           <button class="kwchip${news12hOnly?' on':''}" data-newsflag="12h" title="발행시각(절대시각) 기준 12시간 이내만 본다">12시간 이내만</button>
+           <button class="kwchip${newsUncheckedOnly?' on':''}" data-newsflag="unchecked" title="아직 체크하지 않은 항목만 본다">미체크만</button>
+         </span>
+       </div>`;
+  const rows = shown.map(n=>{
+    const days = newsElapsedDays(n.published_at);
+    const ageLabel = days==null ? '시각미상' : (days<1 ? Math.round(days*24)+'시간 전' : Math.round(days)+'일 전');
+    const pickedOn = newsPicked[n.url];
+    return `<div class="newsrow">
+      <input type="checkbox" class="newspick" data-url="${esc(n.url)}" title="승인 체크" ${pickedOn?'checked':''}>
+      <div class="newsbody">
+        <a class="newstitle" href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+        <div class="kwmeta"><span class="rolebadge news">사실 근거</span>
+          <span class="kwtag">${esc(n.topic_name||n.topic)}</span>
+          <span>${esc(n.source||'')}</span><span>·</span>
+          <span class="mono">${esc(ageLabel)}</span>
+          <button class="newsbtn" data-yt-topic="${esc(n.topic)}" title="이 주제로 유튜브 탭을 필터한다(우리는 클립을 안 쓴다 — 장면 참고용)">▶ 이 주제로 유튜브 검색</button>
+        </div>
+      </div></div>`;
+  }).join('');
+  return `<div class="card">${bar}<div>${rows}</div></div>`;
+}
+
+function wireNews(){
+  document.querySelectorAll('[data-newstopic]').forEach(b=>{
+    b.onclick=()=>{ newsTopic=b.dataset.newstopic; render(); };
+  });
+  document.querySelectorAll('[data-newsflag]').forEach(b=>{
+    b.onclick=()=>{
+      if(b.dataset.newsflag==='12h') news12hOnly=!news12hOnly; else newsUncheckedOnly=!newsUncheckedOnly;
+      render();
+    };
+  });
+  document.querySelectorAll('.newspick').forEach(cb=>{
+    cb.onclick=e=>e.stopPropagation();
+    cb.onchange=()=>{
+      const url=cb.dataset.url; if(!url) return;
+      if(cb.checked) newsPicked[url]=todayStr(); else delete newsPicked[url];
+      saveNewsPicked();
+      const c=$('#newsPickCount'); if(c) c.textContent=Object.keys(newsPicked).length;
+      if(newsUncheckedOnly) render();
+    };
+  });
+  document.querySelectorAll('[data-yt-topic]').forEach(b=>{
+    b.onclick=()=>{ active='items'; kwTopic=b.dataset.ytTopic; buildTabs(); render(); };
+  });
+  const clearBtn=$('#newsClearBtn');
+  if(clearBtn) clearBtn.onclick=()=>{ newsPicked={}; saveNewsPicked(); render(); };
+  const copyBtn=$('#newsCopyBtn');
+  if(copyBtn) copyBtn.onclick=()=>{
+    const news=(DATA.news||{}).items||[];
+    const rows=news.filter(n=>n.url in newsPicked);
+    const text=rows.map(n=>`[${n.source||n.topic_name||n.topic}] ${n.title} | ${n.published_at||''} | ${n.url||''}`).join('\n');
     if(!rows.length){ copyBtn.textContent='선택된 항목 없음'; setTimeout(()=>copyBtn.textContent='✅ 승인분 복사',1500); return; }
     const done=()=>{ const o=copyBtn.textContent; copyBtn.textContent=`복사됨! (${rows.length}건)`;
       setTimeout(()=>copyBtn.textContent=o,1500); };
