@@ -99,6 +99,7 @@
   .rolebadge.news{background:rgba(37,99,235,.12);color:var(--accent)}
   .rolebadge.yt{background:rgba(217,119,6,.12);color:var(--warn)}
   .clusterbadge{font-size:10px;padding:1px 6px;border-radius:4px;font-weight:600;background:rgba(22,163,74,.12);color:#16a34a}
+  .clusterbadge.dup{background:rgba(107,114,128,.12);color:var(--muted)}
 </style>
 
 <div class="wrap">
@@ -474,7 +475,8 @@ function vNews(){
       <div class="newsbody">
         <a class="newstitle" href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title_display||n.title)}</a>
         <div class="kwmeta"><span class="rolebadge news">사실 근거</span>
-          ${(n.cluster_size||1)>=2?`<span class="clusterbadge" title="제목 유사도 기반 — 참고용, 완벽하지 않음">✓ ${n.cluster_size}개 매체</span>`:''}
+          ${(n.cluster_size||0)>=2?`<span class="clusterbadge" title="제목 유사도 기반, 포털 제외 후 고유매체 수 — 참고용, 완벽하지 않음">✓ ${n.cluster_size}개 매체</span>`
+            :(n.cluster_item_count||1)>=2?`<span class="clusterbadge dup" title="같은 기사가 여러 건 들어옴(포털 경유 등) — 매체 수 아님">같은 기사 ${n.cluster_item_count}건</span>`:''}
           <span class="kwtag">${esc(n.topic_name||n.topic)}</span>
           <span>${esc(n.media_name_display||n.media_name||n.source||'출처 미상')}</span><span>·</span>
           <span class="mono">${esc(ageLabel)}</span>
