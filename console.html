@@ -436,6 +436,17 @@ function wireKeywords(){
 }
 
 // ---- 뉴스탭(2026-08-29) — 구글뉴스RSS(when:12h). 최신순 고정, score/verdict 없음(체계가 다르다) ----
+// ★2026-09-01 — 매 수집마다 rss_collect.py가 토픽별 소스편중을 기계적으로 재는데(관련성은
+// 안 잰다 — leekangin x 인터풋볼 오탐 경험 때문), 그 신호를 여기서 보여준다. "의심"이지
+// "확정"이 아니다 — 실제로 정상 기사였던 경우(leekangin)와 실제 쓰레기였던 경우(son) 둘 다 있었다.
+function vSourceConcentration(){
+  const alerts=(DATA.news||{}).source_concentration_alerts||[];
+  if(!alerts.length) return '';
+  const names={}; ((DATA.news||{}).items||[]).forEach(n=>{names[n.topic]=n.topic_name||n.topic;});
+  const rows=alerts.map(a=>`${esc(names[a.topic]||a.topic)} × ${esc(a.source)} ${a.count}/${a.total}건(${Math.round(a.share*100)}%)`).join(' · ');
+  return `<div class="kwbar" style="margin-top:-4px"><span class="kwnote" style="color:var(--warn)">⚠ 소스편중 의심(관련성은 미확인, 직접 확인 필요): ${rows}</span></div>`;
+}
+
 function vNews(){
   const news=(DATA.news||{}).items||[];
   if(!news.length) return '<div class="card muted">뉴스 수집물이 없습니다.</div>';
@@ -460,6 +471,7 @@ function vNews(){
     + `<div class="kwbar" style="margin-top:-4px"><span class="kwnote">정렬: 최신순(고정) — 실시간 뉴스라 유튜브의 score/verdict 체계를 쓰지 않습니다</span>
        <span class="kwnote" style="margin-left:auto">발행 ${dt((DATA.news||{}).generated_at)}</span></div>`
     + `<div class="kwbar" style="margin-top:-4px"><span class="kwnote">농구(KBL·NBA·이현중)는 기사 수가 적어 48시간 창을 씁니다 — 다른 종목은 12시간</span></div>`
+    + vSourceConcentration()
     + `<div class="kwtoolbar">
          <button class="primary" id="newsCopyBtn">✅ 승인분 복사</button>
          <button id="newsClearBtn">전체 해제</button>
