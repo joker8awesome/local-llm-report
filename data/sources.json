@@ -1,13 +1,13 @@
 {
-  "generated_at": 1788225591,
+  "generated_at": 1788247916,
   "summary": {
-    "topics": 11,
+    "topics": 20,
     "suffixes": 5,
-    "queries": 55,
-    "collect_topics": 11,
-    "produce_topics": 11,
+    "queries": 100,
+    "collect_topics": 18,
+    "produce_topics": 18,
     "baseball_queries": 25,
-    "football_queries": 15,
+    "football_queries": 60,
     "basketball_queries": 15
   },
   "suffixes": [
@@ -37,8 +37,8 @@
       "id": "kbo_rank",
       "name": "KBO 순위/5강",
       "league": "baseball",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 6,
       "prefix": "kw_kbo_rank_"
     },
@@ -100,8 +100,8 @@
       "id": "epl",
       "name": "프리미어리그 개막",
       "league": "football",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 12,
       "prefix": "kw_epl_"
     },
@@ -131,6 +131,87 @@
       "produce": true,
       "cycle_h": 12,
       "prefix": "kw_leehyunjung_"
+    },
+    {
+      "id": "mancity",
+      "name": "맨체스터 시티",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_mancity_"
+    },
+    {
+      "id": "arsenal",
+      "name": "아스날",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_arsenal_"
+    },
+    {
+      "id": "liverpool",
+      "name": "리버풀",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_liverpool_"
+    },
+    {
+      "id": "tottenham",
+      "name": "토트넘 홋스퍼",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_tottenham_"
+    },
+    {
+      "id": "chelsea",
+      "name": "첼시",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_chelsea_"
+    },
+    {
+      "id": "manutd",
+      "name": "맨체스터 유나이티드",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_manutd_"
+    },
+    {
+      "id": "realmadrid",
+      "name": "레알 마드리드",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_realmadrid_"
+    },
+    {
+      "id": "barcelona",
+      "name": "FC 바르셀로나",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_barcelona_"
+    },
+    {
+      "id": "atletico",
+      "name": "아틀레티코 마드리드",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12,
+      "prefix": "kw_atletico_"
     }
   ],
   "queries": [
@@ -141,8 +222,8 @@
       "query": "KBO 순위 썰",
       "category": "character",
       "league": "baseball",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 6
     },
     {
@@ -152,8 +233,8 @@
       "query": "KBO 순위 별명",
       "category": "character",
       "league": "baseball",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 6
     },
     {
@@ -163,8 +244,8 @@
       "query": "KBO 순위 웃긴장면",
       "category": "highlight",
       "league": "baseball",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 6
     },
     {
@@ -174,8 +255,8 @@
       "query": "KBO 순위 레전드",
       "category": "highlight",
       "league": "baseball",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 6
     },
     {
@@ -185,8 +266,8 @@
       "query": "KBO 순위 기록",
       "category": "article",
       "league": "baseball",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 6
     },
     {
@@ -526,8 +607,8 @@
       "query": "프리미어리그 개막 썰",
       "category": "character",
       "league": "football",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 12
     },
     {
@@ -537,8 +618,8 @@
       "query": "프리미어리그 개막 별명",
       "category": "character",
       "league": "football",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 12
     },
     {
@@ -548,8 +629,8 @@
       "query": "프리미어리그 개막 웃긴장면",
       "category": "highlight",
       "league": "football",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 12
     },
     {
@@ -559,8 +640,8 @@
       "query": "프리미어리그 개막 레전드",
       "category": "highlight",
       "league": "football",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 12
     },
     {
@@ -570,8 +651,8 @@
       "query": "프리미어리그 개막 기록",
       "category": "article",
       "league": "football",
-      "collect": true,
-      "produce": true,
+      "collect": false,
+      "produce": false,
       "cycle_h": 12
     },
     {
@@ -735,6 +816,501 @@
       "query": "이현중 기록",
       "category": "article",
       "league": "basketball",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "mancity",
+      "topic": "맨체스터 시티",
+      "suffix": "썰",
+      "query": "맨체스터 시티 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "mancity",
+      "topic": "맨체스터 시티",
+      "suffix": "별명",
+      "query": "맨체스터 시티 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "mancity",
+      "topic": "맨체스터 시티",
+      "suffix": "웃긴장면",
+      "query": "맨체스터 시티 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "mancity",
+      "topic": "맨체스터 시티",
+      "suffix": "레전드",
+      "query": "맨체스터 시티 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "mancity",
+      "topic": "맨체스터 시티",
+      "suffix": "기록",
+      "query": "맨체스터 시티 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "arsenal",
+      "topic": "아스날",
+      "suffix": "썰",
+      "query": "아스날 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "arsenal",
+      "topic": "아스날",
+      "suffix": "별명",
+      "query": "아스날 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "arsenal",
+      "topic": "아스날",
+      "suffix": "웃긴장면",
+      "query": "아스날 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "arsenal",
+      "topic": "아스날",
+      "suffix": "레전드",
+      "query": "아스날 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "arsenal",
+      "topic": "아스날",
+      "suffix": "기록",
+      "query": "아스날 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "liverpool",
+      "topic": "리버풀",
+      "suffix": "썰",
+      "query": "리버풀 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "liverpool",
+      "topic": "리버풀",
+      "suffix": "별명",
+      "query": "리버풀 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "liverpool",
+      "topic": "리버풀",
+      "suffix": "웃긴장면",
+      "query": "리버풀 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "liverpool",
+      "topic": "리버풀",
+      "suffix": "레전드",
+      "query": "리버풀 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "liverpool",
+      "topic": "리버풀",
+      "suffix": "기록",
+      "query": "리버풀 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "tottenham",
+      "topic": "토트넘 홋스퍼",
+      "suffix": "썰",
+      "query": "토트넘 홋스퍼 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "tottenham",
+      "topic": "토트넘 홋스퍼",
+      "suffix": "별명",
+      "query": "토트넘 홋스퍼 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "tottenham",
+      "topic": "토트넘 홋스퍼",
+      "suffix": "웃긴장면",
+      "query": "토트넘 홋스퍼 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "tottenham",
+      "topic": "토트넘 홋스퍼",
+      "suffix": "레전드",
+      "query": "토트넘 홋스퍼 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "tottenham",
+      "topic": "토트넘 홋스퍼",
+      "suffix": "기록",
+      "query": "토트넘 홋스퍼 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "chelsea",
+      "topic": "첼시",
+      "suffix": "썰",
+      "query": "첼시 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "chelsea",
+      "topic": "첼시",
+      "suffix": "별명",
+      "query": "첼시 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "chelsea",
+      "topic": "첼시",
+      "suffix": "웃긴장면",
+      "query": "첼시 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "chelsea",
+      "topic": "첼시",
+      "suffix": "레전드",
+      "query": "첼시 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "chelsea",
+      "topic": "첼시",
+      "suffix": "기록",
+      "query": "첼시 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "manutd",
+      "topic": "맨체스터 유나이티드",
+      "suffix": "썰",
+      "query": "맨체스터 유나이티드 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "manutd",
+      "topic": "맨체스터 유나이티드",
+      "suffix": "별명",
+      "query": "맨체스터 유나이티드 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "manutd",
+      "topic": "맨체스터 유나이티드",
+      "suffix": "웃긴장면",
+      "query": "맨체스터 유나이티드 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "manutd",
+      "topic": "맨체스터 유나이티드",
+      "suffix": "레전드",
+      "query": "맨체스터 유나이티드 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "manutd",
+      "topic": "맨체스터 유나이티드",
+      "suffix": "기록",
+      "query": "맨체스터 유나이티드 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "realmadrid",
+      "topic": "레알 마드리드",
+      "suffix": "썰",
+      "query": "레알 마드리드 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "realmadrid",
+      "topic": "레알 마드리드",
+      "suffix": "별명",
+      "query": "레알 마드리드 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "realmadrid",
+      "topic": "레알 마드리드",
+      "suffix": "웃긴장면",
+      "query": "레알 마드리드 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "realmadrid",
+      "topic": "레알 마드리드",
+      "suffix": "레전드",
+      "query": "레알 마드리드 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "realmadrid",
+      "topic": "레알 마드리드",
+      "suffix": "기록",
+      "query": "레알 마드리드 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "barcelona",
+      "topic": "FC 바르셀로나",
+      "suffix": "썰",
+      "query": "FC 바르셀로나 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "barcelona",
+      "topic": "FC 바르셀로나",
+      "suffix": "별명",
+      "query": "FC 바르셀로나 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "barcelona",
+      "topic": "FC 바르셀로나",
+      "suffix": "웃긴장면",
+      "query": "FC 바르셀로나 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "barcelona",
+      "topic": "FC 바르셀로나",
+      "suffix": "레전드",
+      "query": "FC 바르셀로나 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "barcelona",
+      "topic": "FC 바르셀로나",
+      "suffix": "기록",
+      "query": "FC 바르셀로나 기록",
+      "category": "article",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "atletico",
+      "topic": "아틀레티코 마드리드",
+      "suffix": "썰",
+      "query": "아틀레티코 마드리드 썰",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "atletico",
+      "topic": "아틀레티코 마드리드",
+      "suffix": "별명",
+      "query": "아틀레티코 마드리드 별명",
+      "category": "character",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "atletico",
+      "topic": "아틀레티코 마드리드",
+      "suffix": "웃긴장면",
+      "query": "아틀레티코 마드리드 웃긴장면",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "atletico",
+      "topic": "아틀레티코 마드리드",
+      "suffix": "레전드",
+      "query": "아틀레티코 마드리드 레전드",
+      "category": "highlight",
+      "league": "football",
+      "collect": true,
+      "produce": true,
+      "cycle_h": 12
+    },
+    {
+      "topic_id": "atletico",
+      "topic": "아틀레티코 마드리드",
+      "suffix": "기록",
+      "query": "아틀레티코 마드리드 기록",
+      "category": "article",
+      "league": "football",
       "collect": true,
       "produce": true,
       "cycle_h": 12
