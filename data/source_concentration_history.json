@@ -1,0 +1,241 @@
+{
+  "total_lines": 27,
+  "truncated_to": 27,
+  "generated_at": 1788301292,
+  "items": [
+    {
+      "at": "2026-09-01T19:43:15.786684+09:00",
+      "topic": "ohtani",
+      "source": "마이데일리",
+      "count": 3,
+      "total": 9,
+      "share": 0.333
+    },
+    {
+      "at": "2026-09-01T19:43:15.786715+09:00",
+      "topic": "leekangin",
+      "source": "인터풋볼",
+      "count": 12,
+      "total": 34,
+      "share": 0.353
+    },
+    {
+      "at": "2026-09-01T19:43:15.786726+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 91,
+      "total": 98,
+      "share": 0.929
+    },
+    {
+      "at": "2026-09-01T19:43:15.786731+09:00",
+      "topic": "kbl",
+      "source": "점프볼",
+      "count": 13,
+      "total": 39,
+      "share": 0.333
+    },
+    {
+      "at": "2026-09-01T19:43:15.786736+09:00",
+      "topic": "arsenal",
+      "source": "Laodong.vn",
+      "count": 3,
+      "total": 7,
+      "share": 0.429
+    },
+    {
+      "at": "2026-09-01T19:43:15.786740+09:00",
+      "topic": "manutd",
+      "source": "fourfourtwo.co.kr",
+      "count": 7,
+      "total": 17,
+      "share": 0.412
+    },
+    {
+      "at": "2026-09-01T21:56:53.166778+09:00",
+      "topic": "hanwha",
+      "source": "머니투데이",
+      "count": 33,
+      "total": 99,
+      "share": 0.333
+    },
+    {
+      "at": "2026-09-01T21:56:53.166810+09:00",
+      "topic": "kia",
+      "source": "OSEN",
+      "count": 35,
+      "total": 96,
+      "share": 0.365
+    },
+    {
+      "at": "2026-09-01T21:56:53.166819+09:00",
+      "topic": "ohtani",
+      "source": "mlbkor.com",
+      "count": 2,
+      "total": 6,
+      "share": 0.333
+    },
+    {
+      "at": "2026-09-01T21:56:53.166825+09:00",
+      "topic": "ohtani",
+      "source": "마이데일리",
+      "count": 2,
+      "total": 6,
+      "share": 0.333
+    },
+    {
+      "at": "2026-09-01T21:56:53.166830+09:00",
+      "topic": "leekangin",
+      "source": "인터풋볼",
+      "count": 13,
+      "total": 32,
+      "share": 0.406
+    },
+    {
+      "at": "2026-09-01T21:56:53.166839+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 92,
+      "total": 99,
+      "share": 0.929
+    },
+    {
+      "at": "2026-09-01T21:56:53.166843+09:00",
+      "topic": "arsenal",
+      "source": "Laodong.vn",
+      "count": 2,
+      "total": 6,
+      "share": 0.333
+    },
+    {
+      "at": "2026-09-01T21:56:53.166846+09:00",
+      "topic": "arsenal",
+      "source": "footboom1.com",
+      "count": 2,
+      "total": 6,
+      "share": 0.333
+    },
+    {
+      "at": "2026-09-01T21:56:53.166850+09:00",
+      "topic": "manutd",
+      "source": "fourfourtwo.co.kr",
+      "count": 7,
+      "total": 18,
+      "share": 0.389
+    },
+    {
+      "at": "2026-09-02T00:56:52.458212+09:00",
+      "topic": "hanwha",
+      "source": "머니투데이",
+      "count": 35,
+      "total": 99,
+      "share": 0.354
+    },
+    {
+      "at": "2026-09-02T00:56:52.458246+09:00",
+      "topic": "kia",
+      "source": "머니투데이",
+      "count": 34,
+      "total": 99,
+      "share": 0.343
+    },
+    {
+      "at": "2026-09-02T00:56:52.458375+09:00",
+      "topic": "ohtani",
+      "source": "sportschosun.com",
+      "count": 2,
+      "total": 5,
+      "share": 0.4
+    },
+    {
+      "at": "2026-09-02T00:56:52.458384+09:00",
+      "topic": "ohtani",
+      "source": "마이데일리",
+      "count": 2,
+      "total": 5,
+      "share": 0.4
+    },
+    {
+      "at": "2026-09-02T00:56:52.458389+09:00",
+      "topic": "leekangin",
+      "source": "인터풋볼",
+      "count": 10,
+      "total": 24,
+      "share": 0.417
+    },
+    {
+      "at": "2026-09-02T00:56:52.458393+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 87,
+      "total": 99,
+      "share": 0.879
+    },
+    {
+      "at": "2026-09-02T03:56:52.151305+09:00",
+      "topic": "hanwha",
+      "source": "머니투데이",
+      "count": 33,
+      "total": 100,
+      "share": 0.33,
+      "delta": -0.024,
+      "level": "watch",
+      "rule_active": false
+    },
+    {
+      "at": "2026-09-02T03:56:52.151342+09:00",
+      "topic": "kia",
+      "source": "머니투데이",
+      "count": 31,
+      "total": 99,
+      "share": 0.313,
+      "delta": -0.03,
+      "level": "watch",
+      "rule_active": false
+    },
+    {
+      "at": "2026-09-02T03:56:52.151356+09:00",
+      "topic": "leekangin",
+      "source": "인터풋볼",
+      "count": 9,
+      "total": 24,
+      "share": 0.375,
+      "delta": -0.042,
+      "level": "watch",
+      "rule_active": false
+    },
+    {
+      "at": "2026-09-02T03:56:52.151363+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 82,
+      "total": 97,
+      "share": 0.845,
+      "delta": -0.034,
+      "level": "alert",
+      "rule_active": true
+    },
+    {
+      "at": "2026-09-02T06:56:52.027620+09:00",
+      "topic": "kia",
+      "source": "mt.co.kr",
+      "count": 30,
+      "total": 99,
+      "share": 0.303,
+      "delta": null,
+      "level": "watch",
+      "rule_active": false
+    },
+    {
+      "at": "2026-09-02T06:56:52.027647+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 58,
+      "total": 77,
+      "share": 0.753,
+      "delta": -0.092,
+      "level": "alert",
+      "rule_active": true
+    }
+  ]
+}
