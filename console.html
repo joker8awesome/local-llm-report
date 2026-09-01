@@ -443,8 +443,15 @@ function vSourceConcentration(){
   const alerts=(DATA.news||{}).source_concentration_alerts||[];
   if(!alerts.length) return '';
   const names={}; ((DATA.news||{}).items||[]).forEach(n=>{names[n.topic]=n.topic_name||n.topic;});
-  const rows=alerts.map(a=>`${esc(names[a.topic]||a.topic)} × ${esc(a.source)} ${a.count}/${a.total}건(${Math.round(a.share*100)}%)`).join(' · ');
-  return `<div class="kwbar" style="margin-top:-4px"><span class="kwnote" style="color:var(--warn)">⚠ 소스편중 의심(관련성은 미확인, 직접 확인 필요): ${rows}</span></div>`;
+  const fmt=a=>`${esc(names[a.topic]||a.topic)} × ${esc(a.source)} ${a.count}/${a.total}건(${Math.round(a.share*100)}%)`;
+  // ★2026-09-01 — watch(관측, 정상일 수 있음)와 alert(정상군과 분리된 이상 구간) 임계를 나눈다.
+  // 같은 숫자로 두면 kbl x 점프볼(전문매체라 자연히 높음, 0.33) 같은 정상이 경보로 읽힌다.
+  const alertRows=alerts.filter(a=>a.level==='alert').map(fmt).join(' · ');
+  const watchRows=alerts.filter(a=>a.level!=='alert').map(fmt).join(' · ');
+  let out='';
+  if(alertRows) out+=`<div class="kwbar" style="margin-top:-4px"><span class="kwnote" style="color:var(--bad);font-weight:600">🔴 소스편중 경보(정상군과 분리됨, 확인 필요): ${alertRows}</span></div>`;
+  if(watchRows) out+=`<div class="kwbar" style="margin-top:-4px"><span class="kwnote" style="color:var(--warn)">🟡 소스편중 관측(정상일 수 있음): ${watchRows}</span></div>`;
+  return out;
 }
 
 function vNews(){
