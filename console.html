@@ -443,7 +443,12 @@ function vSourceConcentration(){
   const alerts=(DATA.news||{}).source_concentration_alerts||[];
   if(!alerts.length) return '';
   const names={}; ((DATA.news||{}).items||[]).forEach(n=>{names[n.topic]=n.topic_name||n.topic;});
-  const fmt=a=>`${esc(names[a.topic]||a.topic)} × ${esc(a.source)} ${a.count}/${a.total}건(${Math.round(a.share*100)}%)`;
+  // ★2026-09-01(delta) — delta는 직전 주기 대비 변화량. null이면 "이전 값 없음"(처음 봄) —
+  // 0%로 표시하지 않는다. "모름"과 "변화 없음"은 다른 값이다.
+  const fmt=a=>{
+    const d=(a.delta==null)?'첫관측':`${a.delta>=0?'+':''}${Math.round(a.delta*100)}%p`;
+    return `${esc(names[a.topic]||a.topic)} × ${esc(a.source)} ${a.count}/${a.total}건(${Math.round(a.share*100)}%, Δ${d})`;
+  };
   // ★2026-09-01 — watch(관측, 정상일 수 있음)와 alert(정상군과 분리된 이상 구간) 임계를 나눈다.
   // 같은 숫자로 두면 kbl x 점프볼(전문매체라 자연히 높음, 0.33) 같은 정상이 경보로 읽힌다.
   const alertRows=alerts.filter(a=>a.level==='alert').map(fmt).join(' · ');
