@@ -448,7 +448,9 @@ function vSourceConcentration(){
 }
 
 function vNews(){
-  const news=(DATA.news||{}).items||[];
+  // ★2026-09-01(층 이동) — 배제된 항목(topics=[])은 저장은 유지하되 화면에서는 안 보인다.
+  // 원문(excluded_by 포함)은 news.json에 그대로 있다 — 여기서 안 보이는 게 사라진 게 아니다.
+  const news=((DATA.news||{}).items||[]).filter(n=>(n.topics||[n.topic]).length>0);
   if(!news.length) return '<div class="card muted">뉴스 수집물이 없습니다.</div>';
   const counts={}; news.forEach(n=>{(n.topics||[n.topic]).forEach(tp=>{counts[tp]=(counts[tp]||0)+1;});});
   const names={}; news.forEach(n=>{names[n.topic]=n.topic_name||n.topic;});
