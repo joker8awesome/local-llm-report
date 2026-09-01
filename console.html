@@ -439,10 +439,12 @@ function wireKeywords(){
 function vNews(){
   const news=(DATA.news||{}).items||[];
   if(!news.length) return '<div class="card muted">뉴스 수집물이 없습니다.</div>';
-  const counts={}; news.forEach(n=>{counts[n.topic]=(counts[n.topic]||0)+1;});
+  const counts={}; news.forEach(n=>{(n.topics||[n.topic]).forEach(tp=>{counts[tp]=(counts[tp]||0)+1;});});
   const names={}; news.forEach(n=>{names[n.topic]=n.topic_name||n.topic;});
   const topics=Object.keys(counts);
-  let filtered = newsTopic==='all' ? news : news.filter(n=>n.topic===newsTopic);
+  // ★2026-09-01 — 한 기사가 여러 토픽에 동시에 속할 수 있다(topics 배열). 필터는 그 배열 기준,
+  // 전체보기(all)는 URL당 한 번만(news 배열 자체가 이미 그렇다) — 지금과 같다.
+  let filtered = newsTopic==='all' ? news : news.filter(n=>(n.topics||[n.topic]).includes(newsTopic));
   if(news12hOnly) filtered = filtered.filter(n=>{ const d=newsElapsedDays(n.published_at); return d!=null && d<=0.5; });
   if(newsUncheckedOnly) filtered = filtered.filter(n=>!(n.url in newsPicked));
   const shown = filtered.slice().sort((a,b)=>{
