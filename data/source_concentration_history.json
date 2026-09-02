@@ -1,7 +1,7 @@
 {
-  "total_lines": 27,
-  "truncated_to": 27,
-  "generated_at": 1788301292,
+  "total_lines": 29,
+  "truncated_to": 29,
+  "generated_at": 1788310611,
   "items": [
     {
       "at": "2026-09-01T19:43:15.786684+09:00",
@@ -236,6 +236,30 @@
       "delta": -0.092,
       "level": "alert",
       "rule_active": true
+    },
+    {
+      "at": "2026-09-02T09:56:51.676560+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 65,
+      "total": 89,
+      "share": 0.73,
+      "delta": -0.023,
+      "level": "alert",
+      "rule_active": true,
+      "source_absent": false
+    },
+    {
+      "at": "2026-09-02T09:56:51.676588+09:00",
+      "topic": "manutd",
+      "source": "fourfourtwo.co.kr",
+      "count": 4,
+      "total": 11,
+      "share": 0.364,
+      "delta": -0.025,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false
     }
   ]
 }
