@@ -1,7 +1,7 @@
 {
-  "total_lines": 71,
-  "truncated_to": 71,
-  "generated_at": 1788344752,
+  "total_lines": 74,
+  "truncated_to": 74,
+  "generated_at": 1788353812,
   "items": [
     {
       "at": "2026-09-01T19:43:15.786684+09:00",
@@ -890,6 +890,51 @@
       "source_absent": false,
       "run_type": "manual",
       "purpose": "variance_sampling"
+    },
+    {
+      "at": "2026-09-02T21:56:52.405266+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 65,
+      "total": 99,
+      "share": 0.657,
+      "delta": -0.04,
+      "delta_hours": 2.5,
+      "level": "watch",
+      "rule_active": true,
+      "source_absent": false,
+      "run_type": "scheduled",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T21:56:52.405266+09:00",
+      "topic": "mancity",
+      "source": "네이트",
+      "count": 18,
+      "total": 44,
+      "share": 0.409,
+      "delta": 0.041,
+      "delta_hours": 3.0,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "scheduled",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T21:56:52.405266+09:00",
+      "topic": "tottenham",
+      "source": "네이트",
+      "count": 8,
+      "total": 19,
+      "share": 0.421,
+      "delta": 0.03,
+      "delta_hours": 3.0,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "scheduled",
+      "purpose": null
     }
   ]
 }
