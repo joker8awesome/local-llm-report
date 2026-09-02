@@ -1,7 +1,7 @@
 {
-  "total_lines": 69,
-  "truncated_to": 69,
-  "generated_at": 1788343010,
+  "total_lines": 71,
+  "truncated_to": 71,
+  "generated_at": 1788344752,
   "items": [
     {
       "at": "2026-09-01T19:43:15.786684+09:00",
@@ -860,6 +860,36 @@
       "source_absent": false,
       "run_type": "scheduled",
       "purpose": null
+    },
+    {
+      "at": "2026-09-02T19:25:52.805852+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 69,
+      "total": 99,
+      "share": 0.697,
+      "delta": 0.146,
+      "delta_hours": 0.5,
+      "level": "watch",
+      "rule_active": true,
+      "source_absent": false,
+      "run_type": "manual",
+      "purpose": "variance_sampling"
+    },
+    {
+      "at": "2026-09-02T19:25:52.805852+09:00",
+      "topic": "manutd",
+      "source": "sports.news.nate.com",
+      "count": 5,
+      "total": 16,
+      "share": 0.312,
+      "delta": null,
+      "delta_hours": null,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "manual",
+      "purpose": "variance_sampling"
     }
   ]
 }
