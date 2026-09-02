@@ -1,7 +1,7 @@
 {
-  "total_lines": 35,
-  "truncated_to": 35,
-  "generated_at": 1788312762,
+  "total_lines": 40,
+  "truncated_to": 40,
+  "generated_at": 1788321410,
   "items": [
     {
       "at": "2026-09-01T19:43:15.786684+09:00",
@@ -349,6 +349,81 @@
       "rule_active": false,
       "source_absent": false,
       "run_type": "manual",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T12:56:50.975891+09:00",
+      "topic": "kia",
+      "source": "네이트",
+      "count": 11,
+      "total": 33,
+      "share": 0.333,
+      "delta": -0.007,
+      "delta_hours": 2.5,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "scheduled",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T12:56:50.975891+09:00",
+      "topic": "leekangin",
+      "source": "네이트",
+      "count": 14,
+      "total": 39,
+      "share": 0.359,
+      "delta": -0.02,
+      "delta_hours": 2.5,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "scheduled",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T12:56:50.975891+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 85,
+      "total": 96,
+      "share": 0.885,
+      "delta": 0.138,
+      "delta_hours": 2.5,
+      "level": "alert",
+      "rule_active": true,
+      "source_absent": false,
+      "run_type": "scheduled",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T12:56:50.975891+09:00",
+      "topic": "tottenham",
+      "source": "네이트",
+      "count": 8,
+      "total": 18,
+      "share": 0.444,
+      "delta": null,
+      "delta_hours": null,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "scheduled",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T12:56:50.975891+09:00",
+      "topic": "atletico",
+      "source": "네이트",
+      "count": 10,
+      "total": 30,
+      "share": 0.333,
+      "delta": null,
+      "delta_hours": null,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "scheduled",
       "purpose": null
     }
   ]
