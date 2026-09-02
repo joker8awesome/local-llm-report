@@ -1,7 +1,7 @@
 {
   "total_lines": 35,
   "truncated_to": 35,
-  "generated_at": 1788312253,
+  "generated_at": 1788312762,
   "items": [
     {
       "at": "2026-09-01T19:43:15.786684+09:00",
@@ -273,7 +273,8 @@
       "level": "alert",
       "rule_active": true,
       "source_absent": false,
-      "run_type": "manual"
+      "run_type": "manual",
+      "backfilled": true
     },
     {
       "at": "2026-09-02T10:15:36.540121+09:00",
@@ -287,7 +288,8 @@
       "level": "watch",
       "rule_active": false,
       "source_absent": false,
-      "run_type": "manual"
+      "run_type": "manual",
+      "backfilled": true
     },
     {
       "at": "2026-09-02T10:24:13.756610+09:00",
