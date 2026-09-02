@@ -1,7 +1,7 @@
 {
-  "total_lines": 31,
-  "truncated_to": 31,
-  "generated_at": 1788311736,
+  "total_lines": 35,
+  "truncated_to": 35,
+  "generated_at": 1788312253,
   "items": [
     {
       "at": "2026-09-01T19:43:15.786684+09:00",
@@ -272,7 +272,8 @@
       "delta_hours": 0.3,
       "level": "alert",
       "rule_active": true,
-      "source_absent": false
+      "source_absent": false,
+      "run_type": "manual"
     },
     {
       "at": "2026-09-02T10:15:36.540121+09:00",
@@ -285,7 +286,68 @@
       "delta_hours": 0.3,
       "level": "watch",
       "rule_active": false,
-      "source_absent": false
+      "source_absent": false,
+      "run_type": "manual"
+    },
+    {
+      "at": "2026-09-02T10:24:13.756610+09:00",
+      "topic": "kia",
+      "source": "네이트",
+      "count": 16,
+      "total": 47,
+      "share": 0.34,
+      "delta": null,
+      "delta_hours": null,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "manual",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T10:24:13.756610+09:00",
+      "topic": "leekangin",
+      "source": "네이트",
+      "count": 11,
+      "total": 29,
+      "share": 0.379,
+      "delta": null,
+      "delta_hours": null,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "manual",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T10:24:13.756610+09:00",
+      "topic": "son",
+      "source": "v.daum.net",
+      "count": 65,
+      "total": 87,
+      "share": 0.747,
+      "delta": -0.003,
+      "delta_hours": 0.1,
+      "level": "alert",
+      "rule_active": true,
+      "source_absent": false,
+      "run_type": "manual",
+      "purpose": null
+    },
+    {
+      "at": "2026-09-02T10:24:13.756610+09:00",
+      "topic": "manutd",
+      "source": "네이트",
+      "count": 6,
+      "total": 12,
+      "share": 0.5,
+      "delta": null,
+      "delta_hours": null,
+      "level": "watch",
+      "rule_active": false,
+      "source_absent": false,
+      "run_type": "manual",
+      "purpose": null
     }
   ]
 }
