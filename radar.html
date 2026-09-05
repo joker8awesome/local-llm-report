@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>YouTube Radar (프리뷰)</title>
+<style>
+  /* ---- console.html에서 그대로 복사한 공용 토큰/스타일(원본 무변경, 이 파일에만 붙임) ---- */
+  :root{
+    --bg:#f6f7f9; --panel:#ffffff; --ink:#1a1d21; --muted:#6b7280; --line:#e5e7eb;
+    --accent:#2563eb; --ok:#16a34a; --warn:#d97706; --bad:#dc2626; --chip:#eef2ff; --shadow:0 1px 2px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+    --bg:#0f1115; --panel:#171a21; --ink:#e6e8eb; --muted:#9aa1ac; --line:#262b34;
+    --accent:#60a5fa; --chip:#1e2636; --shadow:none;
+  }}
+  :root[data-theme=dark]{
+    --bg:#0f1115; --panel:#171a21; --ink:#e6e8eb; --muted:#9aa1ac; --line:#262b34;
+    --accent:#60a5fa; --chip:#1e2636; --shadow:none;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-size:14px;line-height:1.55;
+       font-family:-apple-system,"Segoe UI",Pretendard,sans-serif}
+  .wrap{max-width:1100px;margin:0 auto;padding:16px}
+  header{display:flex;align-items:center;gap:10px;margin-bottom:12px;flex-wrap:wrap}
+  h1{font-size:18px;margin:0}
+  .spacer{flex:1}
+  .pill{font-size:12px;padding:3px 10px;border-radius:999px;background:var(--chip);color:var(--accent);font-weight:600}
+  .pill.ok{background:rgba(22,163,74,.12);color:var(--ok)} .pill.bad{background:rgba(220,38,38,.12);color:var(--bad)}
+  button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--ink);
+         border-radius:8px;padding:6px 12px}
+  button:hover{border-color:var(--accent)}
+  button.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+  button.danger{border-color:var(--bad);color:var(--bad)}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;box-shadow:var(--shadow);margin-bottom:14px}
+  .hide{display:none}
+  .row{display:flex;gap:10px;flex-wrap:wrap}
+  .row>div{flex:1;min-width:160px}
+  label{font-size:12px;color:var(--muted);display:block;margin-bottom:4px}
+  input,select{font:inherit;padding:7px 9px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);width:100%}
+  .note{font-size:12px;color:var(--muted)}
+  a{color:var(--accent)}
+  .previewBanner{background:rgba(217,119,6,.15);border:1px solid var(--warn);color:var(--warn);
+                  border-radius:10px;padding:8px 14px;font-weight:600;margin-bottom:12px;font-size:13px}
+
+  /* ---- kwcard류(console.html의 유튜브 카드 CSS) 그대로 복사, 클래스명 유지 ---- */
+  .kwgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+  .kwcard{position:relative;border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column;background:var(--panel)}
+  .kwcard img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:#0002}
+  .kwbody{padding:8px 10px;display:flex;flex-direction:column;gap:5px}
+  .kwtitle{font-size:13px;line-height:1.35;font-weight:600;color:inherit;text-decoration:none;
+           display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .kwtitle:hover{text-decoration:underline}
+  .kwmeta{font-size:11px;color:var(--muted);display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+  .kwtag{border:1px solid var(--line);border-radius:4px;padding:1px 5px;font-size:10px}
+  .kwscore{position:absolute;top:6px;left:6px;font-size:11px;font-weight:700;padding:2px 7px;
+           border-radius:6px;color:#fff;background:rgba(37,99,235,.92);z-index:2}
+
+  /* ---- 이번 파일 전용 신규 스타일(상태 배지·CONTACT/SKIP) ---- */
+  .statusbadge{font-size:10px;padding:1px 6px;border-radius:4px;background:#6b728022;color:var(--muted);border:1px solid var(--line)}
+  .statusbadge.discovered{background:rgba(37,99,235,.15);color:var(--accent);border-color:var(--accent)}
+  .sourcetag{font-size:9px;padding:0 4px;border-radius:3px;font-weight:700}
+  .sourcetag.live{background:rgba(22,163,74,.15);color:var(--ok)}
+  .sourcetag.dummy{background:rgba(107,114,128,.15);color:var(--muted)}
+  .cardbtns{display:flex;gap:6px;margin-top:4px}
+  .cardbtns button{flex:1;padding:4px 6px;font-size:12px}
+  .modal{position:fixed;inset:0;background:rgba(0,0,0,.5);display:none;align-items:center;justify-content:center;padding:16px;z-index:9}
+  .modal.on{display:flex}
+  .modal .card{max-width:420px;width:100%;margin:0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🛰️ YouTube Radar</h1>
+    <span id="statusPill" class="pill">로딩…</span>
+    <span class="spacer"></span>
+    <button id="refreshBtn" title="새로고침">↻</button>
+    <button id="themeBtn" title="테마">◐</button>
+    <button id="setBtn">⚙ 설정</button>
+  </header>
+
+  <div id="liveBanner" class="previewBanner">🧪 프리뷰 모드(LIVE=false) — CONTACT를 눌러도 GitHub에 실제로 전송되지 않습니다.</div>
+
+  <!-- 설정: console.html과 동일한 localStorage 키를 공유한다(con_repo/con_branch/con_pat) -->
+  <div id="settings" class="card hide">
+    <b>설정</b> <span class="note">console.html과 같은 저장소 설정(PAT 포함)을 공유합니다. 이 브라우저의 localStorage에만 저장됩니다.</span>
+    <div class="row">
+      <div><label>저장소 (owner/repo)</label><input id="repo" placeholder="joker8awesome/local-llm-report"></div>
+      <div><label>브랜치</label><input id="branch" placeholder="main"></div>
+    </div>
+    <label>GitHub PAT (Contents: write · CONTACT 전송용, 선택)</label>
+    <input id="pat" type="password" placeholder="github_pat_… (비워두면 조회 전용)">
+    <div class="row" style="margin-top:12px">
+      <button class="primary" id="saveSet">저장</button>
+      <button id="clearPat">PAT 삭제</button>
+    </div>
+  </div>
+
+  <div id="view"><div class="card muted">불러오는 중…</div></div>
+</div>
+
+<!-- 확인 모달(console.html과 동일 구조) -->
+<div class="modal" id="modal">
+  <div class="card">
+    <b id="mTitle">확인</b>
+    <p id="mBody" class="note"></p>
+    <div class="row" style="margin-top:8px">
+      <button class="primary" id="mYes">확인 전송</button>
+      <button id="mNo">취소</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ★★★ 프리뷰 스위치 — 이번 지시문(§12-F)은 반드시 false로 커밋한다.
+// true로 바꾸면 CONTACT 버튼이 실제로 commands/pending/에 커밋한다(사용자 승인 후에만 전환).
+const LIVE = false;
+
+// ---- console.html에서 그대로 복사한 공용 유틸(원본 무변경) ----
+const $ = s => document.querySelector(s);
+const esc = s => (s==null?'':String(s)).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const ago = ts => { if(!ts) return ''; const d=Math.floor((Date.now()/1000)-ts);
+  if(d<60)return d+'초 전'; if(d<3600)return Math.floor(d/60)+'분 전'; if(d<86400)return Math.floor(d/3600)+'시간 전'; return Math.floor(d/86400)+'일 전'; };
+const dt = ts => ts? new Date(ts*1000).toLocaleString('ko-KR',{month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'}) : '-';
+const nfmt = n => (typeof n==='number') ? n.toLocaleString('ko-KR') : '-';
+
+// 이번 파일 전용: ISO8601(우리 스키마) → epoch초(ago/dt가 기대하는 형식)로 변환
+function isoToEpoch(iso){ if(!iso) return null; const t=Date.parse(iso); return isNaN(t)?null:Math.floor(t/1000); }
+
+const LS = { repo:'con_repo', branch:'con_branch', pat:'con_pat', theme:'con_theme' };  // console.html과 동일 키 공유
+const cfg = {
+  repo: localStorage.getItem(LS.repo) || 'joker8awesome/local-llm-report',
+  branch: localStorage.getItem(LS.branch) || 'main',
+  pat: localStorage.getItem(LS.pat) || '',
+};
+
+function toast(msg,bad){ const p=$('#statusPill'); p.textContent=msg; p.className='pill '+(bad?'bad':'ok');
+  setTimeout(()=>{ p.textContent=`${videos.length}건`; p.className='pill ok'; },2000); }
+
+function applyTheme(t){ if(t) document.documentElement.setAttribute('data-theme',t); else document.documentElement.removeAttribute('data-theme'); }
+applyTheme(localStorage.getItem(LS.theme));
+$('#themeBtn').onclick=()=>{
+  const cur=document.documentElement.getAttribute('data-theme');
+  const next = cur==='dark' ? 'light' : (cur==='light' ? '' : 'dark');
+  applyTheme(next); if(next) localStorage.setItem(LS.theme,next); else localStorage.removeItem(LS.theme);
+};
+$('#setBtn').onclick=()=>{ $('#settings').classList.toggle('hide'); $('#repo').value=cfg.repo; $('#branch').value=cfg.branch; $('#pat').value=cfg.pat; };
+$('#saveSet').onclick=()=>{
+  cfg.repo=$('#repo').value.trim()||cfg.repo; cfg.branch=$('#branch').value.trim()||cfg.branch; cfg.pat=$('#pat').value;
+  localStorage.setItem(LS.repo,cfg.repo); localStorage.setItem(LS.branch,cfg.branch); localStorage.setItem(LS.pat,cfg.pat);
+  toast('설정 저장됨'); $('#settings').classList.add('hide');
+};
+$('#clearPat').onclick=()=>{ cfg.pat=''; localStorage.removeItem(LS.pat); $('#pat').value=''; toast('PAT 삭제됨'); };
+$('#refreshBtn').onclick=()=>loadAll();
+
+// ---- GitHub Contents API 명령 전송(console.html의 ghPut/sendCommand 그대로 복사) ----
+function newId(){ return Date.now().toString(36)+'-'+Math.random().toString(36).slice(2,7); }
+async function ghPut(path,obj,msg){
+  if(!cfg.pat) throw new Error('PAT 미설정');
+  const url=`https://api.github.com/repos/${cfg.repo}/contents/${path}`;
+  const body={ message:msg, branch:cfg.branch,
+    content: btoa(unescape(encodeURIComponent(JSON.stringify(obj,null,2)))) };
+  const r=await fetch(url,{method:'PUT',headers:{
+    'Authorization':'Bearer '+cfg.pat,'Accept':'application/vnd.github+json'},body:JSON.stringify(body)});
+  if(!r.ok){ const t=await r.text(); throw new Error('GitHub '+r.status+': '+t.slice(0,120)); }
+  return r.json();
+}
+async function sendCommand(cmd,args,isWrite){
+  const id=newId();
+  const payload={ id, command:cmd, args:args||{}, write:!!isWrite, requested_at:Math.floor(Date.now()/1000), requested_by:'radar' };
+  await ghPut(`commands/pending/${id}.json`, payload, `cmd: ${cmd} 요청(radar)`);
+  return id;
+}
+
+// ---- CONTACT 확인 모달(console.html의 confirmWrite 패턴 그대로) ----
+let pendingContact=null;
+function confirmContact(video_id, title){
+  pendingContact={video_id};
+  $('#mTitle').textContent='⚠ CONTACT 확인';
+  $('#mBody').innerHTML=`<b>${esc(title)}</b><br>video_id=${esc(video_id)}<br>이 영상을 CONTACT 상태로 전이합니다. `
+    + (LIVE ? '실제로 commands/pending/에 명령이 전송됩니다.' : '<b style="color:var(--warn)">지금은 프리뷰 모드라 실제 전송되지 않습니다.</b>');
+  $('#modal').classList.add('on');
+}
+$('#mNo').onclick=()=>{ $('#modal').classList.remove('on'); pendingContact=null; };
+$('#mYes').onclick=async ()=>{
+  const p=pendingContact; $('#modal').classList.remove('on'); pendingContact=null; if(!p) return;
+  if(!LIVE){
+    console.log('[PREVIEW] contact_video 명령(실제 전송 안 됨):', {video_id:p.video_id});
+    toast('프리뷰: 실제 전송 안 됨 (video_id='+p.video_id+')');
+    return;
+  }
+  try{
+    if(!cfg.pat){ toast('PAT를 먼저 설정하세요.', true); return; }
+    const id=await sendCommand('contact_video', {video_id:p.video_id}, true);
+    toast('CONTACT 전송됨 ('+id.slice(0,8)+')');
+  }catch(e){ toast('전송 실패: '+e.message, true); }
+};
+
+// ---- SKIP: 로컬 숨김만(GitHub 반영 없음) ----
+const SKIP_KEY='radar_skipped';
+function loadSkipped(){ try{ return new Set(JSON.parse(localStorage.getItem(SKIP_KEY)||'[]')); }catch{ return new Set(); } }
+function saveSkipped(set){ localStorage.setItem(SKIP_KEY, JSON.stringify([...set])); }
+let skipped = loadSkipped();
+
+// ---- 데이터 로드: videos.json만(keywords.json 참조 안 함) ----
+let videos = [];
+async function loadAll(){
+  try{
+    const r = await fetch('./data/videos.json?_='+Date.now());
+    videos = r.ok ? await r.json() : [];
+    $('#statusPill').textContent = `${videos.length}건`;
+    $('#statusPill').className='pill ok';
+  }catch(e){
+    $('#statusPill').textContent='로드 실패'; $('#statusPill').className='pill bad';
+  }
+  render();
+}
+
+const STATUS_LABEL = {DISCOVERED:'DISCOVERED', CONTACTED:'CONTACTED', VERIFYING:'VERIFYING',
+  TRANSCRIBING:'TRANSCRIBING', VISUAL_ANALYSIS:'VISUAL_ANALYSIS', EVIDENCE_READY:'EVIDENCE_READY',
+  ANALYZING:'ANALYZING', FACT_CHECK:'FACT_CHECK', REPORT_READY:'REPORT_READY', SKIP:'SKIP',
+  ERROR:'ERROR', NEEDS_REVIEW:'NEEDS_REVIEW'};
+
+function statusBadge(s){
+  const cls = s==='DISCOVERED' ? 'statusbadge discovered' : 'statusbadge';
+  return `<span class="${cls}">${esc(STATUS_LABEL[s]||s||'-')}</span>`;
+}
+
+function card(v){
+  const thumb = `https://i.ytimg.com/vi/${encodeURIComponent(v.video_id)}/mqdefault.jpg`;
+  const url = `https://www.youtube.com/watch?v=${encodeURIComponent(v.video_id)}`;
+  const epoch = isoToEpoch(v.published_at);
+  const src = v.source || 'dummy';
+  return `<div class="kwcard" data-vid="${esc(v.video_id)}">
+    <span class="kwscore" title="trend_score_breakdown: ${esc(JSON.stringify(v.trend_score_breakdown||{}))}">${v.trend_score}</span>
+    <a href="${url}" target="_blank" rel="noopener"><img src="${thumb}" alt="" loading="lazy" onerror="this.style.opacity=0.15"></a>
+    <div class="kwbody">
+      <a class="kwtitle" href="${url}" target="_blank" rel="noopener">${esc(v.title)}</a>
+      <div class="kwmeta">
+        <span>${esc(v.channel_title||'')}</span><span>·</span>
+        <span class="mono">조회 ${nfmt(v.view_count)}</span>
+      </div>
+      <div class="kwmeta">
+        <span>👍 ${v.like_count==null?'—':nfmt(v.like_count)}</span>
+        <span>💬 ${v.comment_count==null?'—':nfmt(v.comment_count)}</span>
+        <span>${epoch?ago(epoch):'-'}</span>
+      </div>
+      <div class="kwmeta">
+        ${v.sport?`<span class="kwtag">${esc(v.sport)}</span>`:'<span class="kwtag">미분류</span>'}
+        ${v.league?`<span class="kwtag">${esc(v.league)}</span>`:''}
+        ${v.region?`<span class="kwtag">${esc(v.region)}</span>`:''}
+        ${statusBadge(v.status)}
+        <span class="sourcetag ${src}">${src.toUpperCase()}</span>
+      </div>
+      <div class="cardbtns">
+        <button class="primary" data-contact="${esc(v.video_id)}">CONTACT</button>
+        <button data-skip="${esc(v.video_id)}">SKIP</button>
+      </div>
+    </div>
+  </div>`;
+}
+
+function render(){
+  const shown = videos.filter(v => !skipped.has(v.video_id));
+  const view = $('#view');
+  if(!shown.length){ view.innerHTML = '<div class="card muted">표시할 후보가 없습니다.</div>'; return; }
+  view.innerHTML = `<div class="card"><div class="note" style="margin-bottom:8px">
+      총 ${videos.length}건 중 ${shown.length}건 표시(SKIP ${skipped.size}건 숨김)</div>
+    <div class="kwgrid">${shown.map(card).join('')}</div></div>`;
+
+  view.querySelectorAll('[data-contact]').forEach(b=>{
+    b.onclick=()=>{
+      const vid=b.dataset.contact; const v=videos.find(x=>x.video_id===vid);
+      confirmContact(vid, v?v.title:'');
+    };
+  });
+  view.querySelectorAll('[data-skip]').forEach(b=>{
+    b.onclick=()=>{
+      skipped.add(b.dataset.skip); saveSkipped(skipped); render();
+    };
+  });
+}
+
+loadAll();
+</script>
+</body>
+</html>
