@@ -1,0 +1,1254 @@
+[
+  {
+    "video_id": "DUMMY_sport_0001",
+    "title": "손흥민 멀티골! 토트넘 프리미어리그 하이라이트",
+    "channel_id": "DUMMY_CH_sports1",
+    "channel_title": "가짜스포츠채널1",
+    "published_at": "2026-09-06T04:00:00Z",
+    "view_count": 82000,
+    "like_count": 5400,
+    "comment_count": 610,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 17.987,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "views": {
+        "raw": 4.9138,
+        "weight": 1.0,
+        "weighted": 4.9138
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 8.0732,
+        "weight": 1.0,
+        "weighted": 8.0732
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "CONTACTED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0001_0740ad0a3738"
+  },
+  {
+    "video_id": "DUMMY_sport_0002",
+    "title": "KBO 프로야구 오늘 경기 끝내기 홈런 모음",
+    "channel_id": "DUMMY_CH_sports2",
+    "channel_title": "가짜스포츠채널2",
+    "published_at": "2026-09-05T20:00:00Z",
+    "view_count": 45000,
+    "like_count": 2100,
+    "comment_count": 300,
+    "sport": "baseball",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 15.6532,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "views": {
+        "raw": 4.6532,
+        "weight": 1.0,
+        "weighted": 4.6532
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 6.0,
+        "weight": 1.0,
+        "weighted": 6.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0002_f8c4525b3e91"
+  },
+  {
+    "video_id": "DUMMY_sport_0003",
+    "title": "NBA 플레이오프 명장면 TOP10",
+    "channel_id": "DUMMY_CH_sports3",
+    "channel_title": "가짜스포츠채널3",
+    "published_at": "2026-08-28T12:00:00Z",
+    "view_count": 310000,
+    "like_count": 18000,
+    "comment_count": 1200,
+    "sport": "basketball",
+    "league": "NBA",
+    "region": "US",
+    "trend_score": 17.072,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "views": {
+        "raw": 5.4914,
+        "weight": 1.0,
+        "weighted": 5.4914
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 6.5806,
+        "weight": 1.0,
+        "weighted": 6.5806
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0003_4baaa2f617f7"
+  },
+  {
+    "video_id": "DUMMY_sport_0004",
+    "title": "V리그 여자배구 결승전 풀경기",
+    "channel_id": "DUMMY_CH_sports4",
+    "channel_title": "가짜스포츠채널4",
+    "published_at": "2026-09-04T09:00:00Z",
+    "view_count": 15000,
+    "like_count": 900,
+    "comment_count": 80,
+    "sport": "volleyball",
+    "league": "VLeague",
+    "region": "KR",
+    "trend_score": 17.0463,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8035,
+        "weight": 1.0,
+        "weighted": 0.8035
+      },
+      "views": {
+        "raw": 4.1761,
+        "weight": 1.0,
+        "weighted": 4.1761
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 7.0667,
+        "weight": 1.0,
+        "weighted": 7.0667
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0004_53f645a7b679"
+  },
+  {
+    "video_id": "DUMMY_sport_0005",
+    "title": "PGA 투어 우승자 인터뷰 및 라운드 요약",
+    "channel_id": "DUMMY_CH_sports5",
+    "channel_title": "가짜스포츠채널5",
+    "published_at": "2026-09-01T15:00:00Z",
+    "view_count": 9000,
+    "like_count": 400,
+    "comment_count": 55,
+    "sport": "golf",
+    "league": null,
+    "region": null,
+    "trend_score": 13.0316,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.4107,
+        "weight": 1.0,
+        "weighted": 0.4107
+      },
+      "views": {
+        "raw": 3.9543,
+        "weight": 1.0,
+        "weighted": 3.9543
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 5.6667,
+        "weight": 1.0,
+        "weighted": 5.6667
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0005_a8d9755abf86"
+  },
+  {
+    "video_id": "DUMMY_sport_0006",
+    "title": "라리가 엘클라시코 하이라이트 풀버전",
+    "channel_id": "DUMMY_CH_sports6",
+    "channel_title": "가짜스포츠채널6",
+    "published_at": "2026-09-05T22:30:00Z",
+    "view_count": 520000,
+    "like_count": 41000,
+    "comment_count": 3800,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": "EU",
+    "trend_score": 20.0622,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "views": {
+        "raw": 5.716,
+        "weight": 1.0,
+        "weighted": 5.716
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 9.3462,
+        "weight": 1.0,
+        "weighted": 9.3462
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0006_9cbb5ac641bd"
+  },
+  {
+    "video_id": "DUMMY_sport_0007",
+    "title": "LCK 롤드컵 예선 하이라이트",
+    "channel_id": "DUMMY_CH_sports7",
+    "channel_title": "가짜스포츠채널7",
+    "published_at": "2026-09-03T11:00:00Z",
+    "view_count": 68000,
+    "like_count": 5200,
+    "comment_count": 700,
+    "sport": "esports",
+    "league": null,
+    "region": null,
+    "trend_score": 18.211,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.6726,
+        "weight": 1.0,
+        "weighted": 0.6726
+      },
+      "views": {
+        "raw": 4.8325,
+        "weight": 1.0,
+        "weighted": 4.8325
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 9.7059,
+        "weight": 1.0,
+        "weighted": 9.7059
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0007_6455c20911c7"
+  },
+  {
+    "video_id": "DUMMY_sport_0008",
+    "title": "분데스리가 이번주 골 모음",
+    "channel_id": "DUMMY_CH_sports8",
+    "channel_title": "가짜스포츠채널8",
+    "published_at": "2026-08-20T08:00:00Z",
+    "view_count": 27000,
+    "like_count": 1300,
+    "comment_count": 150,
+    "sport": "soccer",
+    "league": "Bundesliga",
+    "region": "EU",
+    "trend_score": 15.3573,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "views": {
+        "raw": 4.4314,
+        "weight": 1.0,
+        "weighted": 4.4314
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 5.9259,
+        "weight": 1.0,
+        "weighted": 5.9259
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0008_ab9f28900a0c"
+  },
+  {
+    "video_id": "DUMMY_sport_0009",
+    "title": "KBL 농구 국내 리그 4쿼터 역전극",
+    "channel_id": "DUMMY_CH_sports9",
+    "channel_title": "가짜스포츠채널9",
+    "published_at": "2026-09-06T01:00:00Z",
+    "view_count": 6200,
+    "like_count": 300,
+    "comment_count": 40,
+    "sport": "basketball",
+    "league": "KBL",
+    "region": "KR",
+    "trend_score": 14.9215,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "views": {
+        "raw": 3.7925,
+        "weight": 1.0,
+        "weighted": 3.7925
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 6.129,
+        "weight": 1.0,
+        "weighted": 6.129
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0009_2475a7915e92"
+  },
+  {
+    "video_id": "DUMMY_sport_0010",
+    "title": "세리에A 이탈리아 축구 리그 라운드 요약",
+    "channel_id": "DUMMY_CH_sports10",
+    "channel_title": "가짜스포츠채널10",
+    "published_at": "2026-09-02T18:00:00Z",
+    "view_count": 39000,
+    "like_count": 1900,
+    "comment_count": 210,
+    "sport": "soccer",
+    "league": "SerieA",
+    "region": "EU",
+    "trend_score": 16.1112,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.5714,
+        "weight": 1.0,
+        "weighted": 0.5714
+      },
+      "views": {
+        "raw": 4.5911,
+        "weight": 1.0,
+        "weighted": 4.5911
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 5.9487,
+        "weight": 1.0,
+        "weighted": 5.9487
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_sport_0010_62a7db83b7d2"
+  },
+  {
+    "video_id": "DUMMY_nonsport_0001",
+    "title": "집에서 만드는 초간단 파스타 레시피",
+    "channel_id": "DUMMY_CH_life1",
+    "channel_title": "가짜라이프채널1",
+    "published_at": "2026-09-05T10:00:00Z",
+    "view_count": 22000,
+    "like_count": 1100,
+    "comment_count": 90,
+    "sport": null,
+    "league": null,
+    "region": null,
+    "trend_score": 11.113,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9523,
+        "weight": 1.0,
+        "weighted": 0.9523
+      },
+      "views": {
+        "raw": 4.3424,
+        "weight": 1.0,
+        "weighted": 4.3424
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 5.8182,
+        "weight": 1.0,
+        "weighted": 5.8182
+      },
+      "sport": {
+        "raw": 0.0,
+        "weight": 3.0,
+        "weighted": 0.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_nonsport_0001_a10c657e207f"
+  },
+  {
+    "video_id": "DUMMY_nonsport_0002",
+    "title": "이번주 신곡 리액션 모음",
+    "channel_id": "DUMMY_CH_music1",
+    "channel_title": "가짜뮤직채널1",
+    "published_at": "2026-09-04T14:00:00Z",
+    "view_count": 150000,
+    "like_count": 9500,
+    "comment_count": 800,
+    "sport": null,
+    "league": null,
+    "region": null,
+    "trend_score": 13.4094,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8333,
+        "weight": 1.0,
+        "weighted": 0.8333
+      },
+      "views": {
+        "raw": 5.1761,
+        "weight": 1.0,
+        "weighted": 5.1761
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 7.4,
+        "weight": 1.0,
+        "weighted": 7.4
+      },
+      "sport": {
+        "raw": 0.0,
+        "weight": 3.0,
+        "weighted": 0.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_nonsport_0002_b39dd669f85e"
+  },
+  {
+    "video_id": "DUMMY_nonsport_0003",
+    "title": "최신 노트북 리뷰 및 벤치마크",
+    "channel_id": "DUMMY_CH_tech1",
+    "channel_title": "가짜테크채널1",
+    "published_at": "2026-08-30T06:00:00Z",
+    "view_count": 34000,
+    "like_count": 1600,
+    "comment_count": 220,
+    "sport": null,
+    "league": null,
+    "region": null,
+    "trend_score": 10.6029,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.0714,
+        "weight": 1.0,
+        "weighted": 0.0714
+      },
+      "views": {
+        "raw": 4.5315,
+        "weight": 1.0,
+        "weighted": 4.5315
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 6.0,
+        "weight": 1.0,
+        "weighted": 6.0
+      },
+      "sport": {
+        "raw": 0.0,
+        "weight": 3.0,
+        "weighted": 0.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:00:30+00:00",
+    "snapshot_id": "DUMMY_nonsport_0003_5eaf9c811690"
+  },
+  {
+    "video_id": "39oRUiXFl3s",
+    "title": "[삼성 vs LG] 9/5 | 2026 KBO 프로야구 경기 하이라이트",
+    "channel_id": "UCquuVfBUFNvHxmkapJQm6vA",
+    "channel_title": "스포츠 3D 하이라이트",
+    "published_at": "2026-09-05T17:41:31Z",
+    "view_count": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "sport": "baseball",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 5.9954,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9954,
+        "weight": 1.0,
+        "weighted": 0.9954
+      },
+      "views": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "39oRUiXFl3s_5a24a6cd1b51",
+    "source": "live"
+  },
+  {
+    "video_id": "WvqZymmaB7Y",
+    "title": "고승민 롯데 자이언츠 kbo 중계 하이라이트 #고승민 #롯데자이언츠 #kbo 중계 하이라이트 영상 실시간 방송 뉴스 분석 다시보기 무료 스포츠 #크보모먼트 #kbo리그 #야구중계",
+    "channel_id": "UC7Q2L9byf8if6BGX4CwfHVA",
+    "channel_title": "베스트티비 스포츠 0e2",
+    "published_at": "2026-09-05T17:30:19Z",
+    "view_count": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "sport": "baseball",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 5.9943,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9943,
+        "weight": 1.0,
+        "weighted": 0.9943
+      },
+      "views": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "WvqZymmaB7Y_07714c4aa1f1",
+    "source": "live"
+  },
+  {
+    "video_id": "THdRieWX0WA",
+    "title": "처음보는 오승환의 모습 #스포츠 #야구 #스포츠하이라이트 #축구 #농구 #배구",
+    "channel_id": "UCWIahWW7wQylTLvFFW0XZvg",
+    "channel_title": "덤보스포츠",
+    "published_at": "2026-09-05T12:22:08Z",
+    "view_count": 0,
+    "like_count": 0,
+    "comment_count": 0,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 3.9637,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9637,
+        "weight": 1.0,
+        "weighted": 0.9637
+      },
+      "views": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "THdRieWX0WA_610002883d85",
+    "source": "live"
+  },
+  {
+    "video_id": "LxXmR96AKes",
+    "title": "Impossible Moments In Sports 🔥| Sports Highlights #32",
+    "channel_id": "UCHTp5b5u6zm5g7Bw1iz_dDA",
+    "channel_title": "Vexta Sports",
+    "published_at": "2026-09-05T12:00:39Z",
+    "view_count": 85,
+    "like_count": 1,
+    "comment_count": 0,
+    "sport": null,
+    "league": null,
+    "region": null,
+    "trend_score": 4.0726,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9616,
+        "weight": 1.0,
+        "weighted": 0.9616
+      },
+      "views": {
+        "raw": 1.9345,
+        "weight": 1.0,
+        "weighted": 1.9345
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 1.1765,
+        "weight": 1.0,
+        "weighted": 1.1765
+      },
+      "sport": {
+        "raw": 0.0,
+        "weight": 3.0,
+        "weighted": 0.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "LxXmR96AKes_2ae392e6bebd",
+    "source": "live"
+  },
+  {
+    "video_id": "gay-QBcspcQ",
+    "title": "[두산 vs SSG] 9/5 | 2026 KBO 프로야구 경기 하이라이트",
+    "channel_id": "UCquuVfBUFNvHxmkapJQm6vA",
+    "channel_title": "스포츠 3D 하이라이트",
+    "published_at": "2026-09-05T11:45:07Z",
+    "view_count": 8,
+    "like_count": 0,
+    "comment_count": 0,
+    "sport": "baseball",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 6.9143,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.96,
+        "weight": 1.0,
+        "weighted": 0.96
+      },
+      "views": {
+        "raw": 0.9542,
+        "weight": 1.0,
+        "weighted": 0.9542
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "gay-QBcspcQ_966a04ff458a",
+    "source": "live"
+  },
+  {
+    "video_id": "PXuVvb78sx4",
+    "title": "이강인이 공 잡으면 생기는 일 ㄷㄷ #이강인 ##축구 #라리가 #드리블 #스포츠 #하이라이트 #레전드 #축덕 #세상이야기 #뉴스 #속보 #정치 #경제 #사회 #윤리 #도덕",
+    "channel_id": "UCe1Ef83DI2KjhheajHXbkKg",
+    "channel_title": "세상이야기",
+    "published_at": "2026-09-05T10:00:31Z",
+    "view_count": 17,
+    "like_count": 1,
+    "comment_count": 0,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": "EU",
+    "trend_score": 13.0873,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9497,
+        "weight": 1.0,
+        "weighted": 0.9497
+      },
+      "views": {
+        "raw": 1.2553,
+        "weight": 1.0,
+        "weighted": 1.2553
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 5.8824,
+        "weight": 1.0,
+        "weighted": 5.8824
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "PXuVvb78sx4_74510ee4491c",
+    "source": "live"
+  },
+  {
+    "video_id": "KdznlC8dYGM",
+    "title": "뻔뻔한 할리우드 액션 #dumbo #덤보 #스포츠 #스포츠하이라이트 #해외축구 #분석 #승률",
+    "channel_id": "UCAV9dfzMc-nCL3hWTHvwXsg",
+    "channel_title": "DumboSports",
+    "published_at": "2026-09-05T00:48:05Z",
+    "view_count": 2,
+    "like_count": 0,
+    "comment_count": null,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 4.372,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8949,
+        "weight": 1.0,
+        "weighted": 0.8949
+      },
+      "views": {
+        "raw": 0.4771,
+        "weight": 1.0,
+        "weighted": 0.4771
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "KdznlC8dYGM_480cf7adbbb9",
+    "source": "live"
+  },
+  {
+    "video_id": "35MMZeGYWmI",
+    "title": "[삼성 vs LG] 9/4 | 2026 KBO 프로야구 경기 하이라이트",
+    "channel_id": "UCquuVfBUFNvHxmkapJQm6vA",
+    "channel_title": "스포츠 3D 하이라이트",
+    "published_at": "2026-09-04T21:53:28Z",
+    "view_count": 18,
+    "like_count": 0,
+    "comment_count": 0,
+    "sport": "baseball",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 7.1563,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8775,
+        "weight": 1.0,
+        "weighted": 0.8775
+      },
+      "views": {
+        "raw": 1.2788,
+        "weight": 1.0,
+        "weighted": 1.2788
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "35MMZeGYWmI_ab035c7861a6",
+    "source": "live"
+  },
+  {
+    "video_id": "9A9VyEG5Zzk",
+    "title": "[KT vs KIA] 9/4 | 2026 KBO 프로야구 경기 하이라이트",
+    "channel_id": "UCquuVfBUFNvHxmkapJQm6vA",
+    "channel_title": "스포츠 3D 하이라이트",
+    "published_at": "2026-09-04T21:28:46Z",
+    "view_count": 23,
+    "like_count": 0,
+    "comment_count": 0,
+    "sport": "baseball",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 7.2553,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8751,
+        "weight": 1.0,
+        "weighted": 0.8751
+      },
+      "views": {
+        "raw": 1.3802,
+        "weight": 1.0,
+        "weighted": 1.3802
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "9A9VyEG5Zzk_5428190c73c3",
+    "source": "live"
+  },
+  {
+    "video_id": "LLBwBmFF9Ik",
+    "title": "[한화 vs 롯데] 9/4 | 2026 KBO 프로야구 경기 하이라이트",
+    "channel_id": "UCquuVfBUFNvHxmkapJQm6vA",
+    "channel_title": "스포츠 3D 하이라이트",
+    "published_at": "2026-09-04T20:32:21Z",
+    "view_count": 24,
+    "like_count": 0,
+    "comment_count": 0,
+    "sport": "baseball",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 7.2674,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8695,
+        "weight": 1.0,
+        "weighted": 0.8695
+      },
+      "views": {
+        "raw": 1.3979,
+        "weight": 1.0,
+        "weighted": 1.3979
+      },
+      "velocity": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "engagement": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "status": "DISCOVERED",
+    "collected_at": "2026-09-05T18:27:54+00:00",
+    "snapshot_id": "LLBwBmFF9Ik_6cf7c86a74bf",
+    "source": "live"
+  }
+]
