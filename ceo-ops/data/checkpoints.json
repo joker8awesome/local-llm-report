@@ -177,5 +177,6 @@
       "ENVIRONMENT": "UNKNOWN",
       "SOURCE": "직접 로컬 확인"
     }
-  ]
+  ],
+  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
 }

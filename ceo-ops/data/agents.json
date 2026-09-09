@@ -78,5 +78,6 @@
       "ENVIRONMENT": "Mac / 수동 분리 세션",
       "SOURCE": "직접 로컬 확인"
     }
-  ]
+  ],
+  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
 }
