@@ -1,0 +1,49 @@
+{
+  "mobile": {
+    "viewport": [
+      390,
+      900
+    ],
+    "scrollWidth": 390,
+    "coreBottom": 818.40625,
+    "projectCount": 7,
+    "resourceCount": 0
+  },
+  "desktop": {
+    "viewport": [
+      1440,
+      1000
+    ],
+    "scrollWidth": 1440,
+    "coreBottom": 544.265625,
+    "projectCount": 7,
+    "resourceCount": 0,
+    "upcomingCount": 1,
+    "bodyFont": "17px"
+  },
+  "disclosures": {
+    "opened": true,
+    "closed": true,
+    "historyInitiallyCollapsed": true
+  },
+  "emptyMobile": {
+    "viewport": [
+      390,
+      900
+    ],
+    "scrollWidth": 390,
+    "empty": true,
+    "projectCount": 0,
+    "resourceCount": 0
+  },
+  "emptyDesktop": {
+    "viewport": [
+      1440,
+      1000
+    ],
+    "scrollWidth": 1440,
+    "empty": true,
+    "projectCount": 0,
+    "resourceCount": 0
+  }
+}

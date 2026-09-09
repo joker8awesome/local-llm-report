@@ -11,8 +11,17 @@
       ],
       "CEO_ACTION": "채택 또는 수정 방향 결정",
       "APPROVAL_BOUNDARY": "이 카드는 결정 대기 기록이며 실행 승인이 아닙니다. 제작 실행은 별도 승인 전까지 금지합니다.",
-      "SOURCE_TYPE": "MANAGER_REPORTED"
+      "SOURCE_TYPE": "MANAGER_REPORTED",
+      "PROJECT_ID": "STORY_ENGINE",
+      "CEO_ACTION_STATE": "ACTION_AFTER_PREREQUISITE",
+      "PREREQUISITE": "Telegram TEST_ONLY 운영 E2E 결과 확인",
+      "CEO_ACTION_REQUIRED": false,
+      "PROJECT_IDS": [
+        "SHORTS_PIPELINE",
+        "STORY_ENGINE"
+      ]
     }
   ],
-  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
+  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2",
+  "UI_REVISION": "CEO-OPS-UI-r3"
 }

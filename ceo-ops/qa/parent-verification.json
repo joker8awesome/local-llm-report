@@ -1,0 +1,38 @@
+{
+  "PHASE": "GPT-SECRETARY-DASHBOARD-UI-REVISION-03",
+  "SCOPE": "Parent local candidate verification before branch-only commit; not Pages publication",
+  "HTML_SHA256": "412e179ba57f4ac55b98b3bbbe8164c203ef2a80034193a0f4483a3634968ef4",
+  "TEST_COUNT": 9,
+  "TEST_EXIT_CODE": 0,
+  "CEO_ACTION_NOW": "NONE",
+  "UPCOMING_DECISION_COUNT": 1,
+  "MOBILE": {
+    "viewport": [
+      390,
+      900
+    ],
+    "scroll_width": 390,
+    "next_bottom": 376.875,
+    "core_bottom": 818.40625
+  },
+  "DESKTOP": {
+    "viewport": [
+      1440,
+      1000
+    ],
+    "scroll_width": 1440,
+    "core_bottom": 544.265625
+  },
+  "EMPTY_FIXTURE": {
+    "projects": 0,
+    "message_visible": true,
+    "scripts": 0,
+    "registry_deleted": false
+  },
+  "PUBLIC_SAFE_FILTER": "PASS_BOUNDED_SCAN",
+  "MAIN_BASELINE": "cc145a99f0ec2d521cd727ee43c55a9c83cd5013",
+  "PUBLIC_R2_SHA256": "96ce971fd7886a8ef4f854e0d45b0a209b8bc8d8e5f0b6690e10c9e25c930f77",
+  "QA_SERVER_STOPPED": true,
+  "SCHEDULE_AUTO_EXECUTION": false,
+  "PROACTIVE_NOTIFICATION": false
+}

@@ -1,0 +1,13 @@
+{
+  "TEST_ONLY": true,
+  "DATA": {
+    "projects": [],
+    "ceo_tasks": [],
+    "systems": [],
+    "agents": [],
+    "checkpoints": [],
+    "decisions": [],
+    "environments": [],
+    "schedules": []
+  }
+}
