@@ -1,0 +1,83 @@
+{
+  "CLASSIFICATION": "PUBLIC_SAFE_DATA",
+  "RECORDS": [
+    {
+      "ID": "GPTMAX",
+      "NAME": "GPTMAX",
+      "TYPE": "OPERATING_ENTITY",
+      "OWNER": "GPTMAX",
+      "ROLE": "Shorts 분석·스토리·제작 파이프라인 관리자",
+      "MODEL": "gpt-6-astra",
+      "DEFAULT_REASONING": "medium",
+      "STATUS": "WAITING",
+      "LAST_CONFIRMED_STATE": "r3C 동결 · 대본 승인 PENDING · 제작 CLOSED; 승인 시스템 준비 완료, 운영 E2E 결과 대기",
+      "LAST_CONFIRMED_AT": "UNKNOWN",
+      "CURRENT_ACTIVITY": "UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "UNKNOWN",
+      "BLOCKERS": [],
+      "NEXT_ACTION": "운영 E2E 결과 보고 수신 후 checkpoint 대조",
+      "WAITING_FOR": [
+        "TELEGRAM_OPERATIONAL_E2E_REPORT"
+      ],
+      "CEO_ACTION_REQUIRED": false,
+      "SOURCE_TYPE": "MANAGER_REPORTED",
+      "VERIFIED_AT": "UNKNOWN",
+      "FRESHNESS": "UNKNOWN",
+      "STATUS_STALE": "UNKNOWN",
+      "ENVIRONMENT": "Mac / 기존 Gateway",
+      "SOURCE": "CEO·매니저 전달 checkpoint"
+    },
+    {
+      "ID": "WINDOWS_BRAIN",
+      "NAME": "Windows 로컬LLM 두뇌",
+      "TYPE": "OPERATING_ENTITY",
+      "OWNER": "Windows 로컬LLM 두뇌",
+      "ROLE": "검증·anti-hallucination·preflight·운영 안전·후보 코드/검증 도구 개발",
+      "MODEL": "UNKNOWN",
+      "DEFAULT_REASONING": "UNKNOWN",
+      "STATUS": "WAITING",
+      "LAST_CONFIRMED_STATE": "Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED",
+      "LAST_CONFIRMED_AT": "UNKNOWN",
+      "CURRENT_ACTIVITY": "UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "UNKNOWN",
+      "BLOCKERS": [],
+      "NEXT_ACTION": "독립 실효성 재검수 결과 수신",
+      "WAITING_FOR": [
+        "INDEPENDENT_REVIEW_REPORT"
+      ],
+      "CEO_ACTION_REQUIRED": false,
+      "SOURCE_TYPE": "MANAGER_REPORTED",
+      "VERIFIED_AT": "UNKNOWN",
+      "FRESHNESS": "UNKNOWN",
+      "STATUS_STALE": "UNKNOWN",
+      "LOCAL_SOURCE_STATUS": "LOCAL_SOURCE_UNAVAILABLE",
+      "ENVIRONMENT": "Windows / 상세 미확인",
+      "SOURCE": "CEO·매니저 전달 checkpoint"
+    },
+    {
+      "ID": "PERSONAL_ASSISTANT_01",
+      "NAME": "지피티비서",
+      "TYPE": "OPERATING_ENTITY",
+      "OWNER": "지피티비서",
+      "ROLE": "CEO_DIRECT_PERSONAL_ASSISTANT + CEO_OPERATIONS_HUB",
+      "MODEL": "gpt-6-astra",
+      "DEFAULT_REASONING": "low",
+      "STATUS": "READY",
+      "LAST_CONFIRMED_STATE": "capability upgrade PASS_LIMITED; 헌장 회귀 10/0; Telegram disabled; AutoStart no",
+      "LAST_CONFIRMED_AT": "2026-09-09T15:23:32.330534+00:00",
+      "CURRENT_ACTIVITY": "수동 요청 대기 · 상주 비서 세션 없음",
+      "CURRENT_ACTIVITY_CONFIDENCE": "FACT",
+      "BLOCKERS": [],
+      "NEXT_ACTION": "CEO 요청 또는 새 보고에 따라 수동 브리프 갱신",
+      "WAITING_FOR": [],
+      "CEO_ACTION_REQUIRED": false,
+      "SOURCE_TYPE": "FACT",
+      "VERIFIED_AT": "2026-09-09T15:23:32.330534+00:00",
+      "FRESHNESS": "FRESH",
+      "STATUS_STALE": "NO",
+      "ENVIRONMENT": "Mac / 수동 분리 세션",
+      "SOURCE": "직접 로컬 확인"
+    }
+  ],
+  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
+}

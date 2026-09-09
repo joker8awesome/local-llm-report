@@ -1,0 +1,34 @@
+{
+  "CLASSIFICATION": "PUBLIC_SAFE_DATA",
+  "RECORDS": [
+    {
+      "ID": "MAC_GPTMAX",
+      "NAME": "Mac · GPTMAX 환경",
+      "ROLE": "Shorts·스토리·제작 관리",
+      "STATUS": "OBSERVED",
+      "LAST_CONFIRMED_STATE": "macOS 환경 관측; 현재 작업 여부는 별도 확인 필요",
+      "SOURCE_TYPE": "FACT",
+      "LAST_CONFIRMED_AT": "2026-09-09T14:56:03.066833+00:00"
+    },
+    {
+      "ID": "WINDOWS_ENV",
+      "NAME": "Windows · 로컬LLM",
+      "ROLE": "검증·안티할루시네이션·안전",
+      "STATUS": "UNKNOWN",
+      "LAST_CONFIRMED_STATE": "Windows 운영 주체 확인 보고; 세부 환경 직접 검증 불가",
+      "SOURCE_TYPE": "MANAGER_REPORTED",
+      "LAST_CONFIRMED_AT": "UNKNOWN",
+      "LOCAL_SOURCE_STATUS": "LOCAL_SOURCE_UNAVAILABLE"
+    },
+    {
+      "ID": "MAC_SECRETARY",
+      "NAME": "Mac · 비서 분리 환경",
+      "ROLE": "CEO 운영 현황·브리핑",
+      "STATUS": "READY",
+      "LAST_CONFIRMED_STATE": "독립 수동 비서 환경 준비; 자동 시작 없음",
+      "SOURCE_TYPE": "FACT",
+      "LAST_CONFIRMED_AT": "2026-09-09T14:56:03.066833+00:00"
+    }
+  ],
+  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
+}
