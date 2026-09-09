@@ -1,0 +1,32 @@
+{
+  "CLASSIFICATION": "PUBLIC_SAFE_DATA",
+  "RECORDS": [
+    {
+      "ID": "CEO_R3C",
+      "NAME": "N5 r3C 최終 채택 또는 수정 방향",
+      "TYPE": "CEO_TASK",
+      "OWNER": "CEO",
+      "ROLE": "UNKNOWN",
+      "MODEL": "UNKNOWN",
+      "DEFAULT_REASONING": "UNKNOWN",
+      "STATUS": "PENDING",
+      "LAST_CONFIRMED_STATE": "대본 동결·최종 승인 대기",
+      "LAST_CONFIRMED_AT": "UNKNOWN",
+      "CURRENT_ACTIVITY": "UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "UNKNOWN",
+      "BLOCKERS": [],
+      "NEXT_ACTION": "원문 검토 후 채택/수정 방향 선택",
+      "WAITING_FOR": [],
+      "CEO_ACTION_REQUIRED": true,
+      "SOURCE_TYPE": "MANAGER_REPORTED",
+      "VERIFIED_AT": "UNKNOWN",
+      "FRESHNESS": "UNKNOWN",
+      "STATUS_STALE": "UNKNOWN",
+      "PRIORITY": "WHEN_READY",
+      "TITLE": "N5 r3C 최종 채택 또는 수정 방향",
+      "CEO_ACTION": "채택 또는 수정 방향 결정",
+      "ENVIRONMENT": "UNKNOWN",
+      "SOURCE": "CEO·매니저 전달 checkpoint"
+    }
+  ]
+}
