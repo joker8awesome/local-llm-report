@@ -1,5 +1,7 @@
 {
   "CLASSIFICATION": "PUBLIC_SAFE_DATA",
+  "SNAPSHOT_REVISION": "CEO-OPS-DATA-r4-stage2-20260910T152545146249Z-final1",
+  "UI_REVISION": "CEO-OPS-UI-r3C",
   "RECORDS": [
     {
       "ID": "MIDDAY_BRIEF",
@@ -10,18 +12,20 @@
       "MODEL": "UNKNOWN",
       "DEFAULT_REASONING": "UNKNOWN",
       "STATUS": "PLANNED",
-      "LAST_CONFIRMED_STATE": "CEO 일정 정책 확정; 자동 실행 비활성",
-      "LAST_CONFIRMED_AT": "UNKNOWN",
-      "CURRENT_ACTIVITY": "UNKNOWN",
-      "CURRENT_ACTIVITY_CONFIDENCE": "UNKNOWN",
-      "BLOCKERS": [],
-      "NEXT_ACTION": "요청 시 수동 작성; 자동 설치는 별도 승인",
+      "LAST_CONFIRMED_STATE": "비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개",
+      "LAST_CONFIRMED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "CURRENT_ACTIVITY": "비활성 scheduler; 실제 다음 실행 UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "FACT",
+      "BLOCKERS": [
+        "scheduler activation BLOCKED; safety boundary; no bypass"
+      ],
+      "NEXT_ACTION": "비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음",
       "WAITING_FOR": [],
       "CEO_ACTION_REQUIRED": false,
-      "SOURCE_TYPE": "MANAGER_REPORTED",
-      "VERIFIED_AT": "2026-09-09T15:44:08.670988+00:00",
-      "FRESHNESS": "UNKNOWN",
-      "STATUS_STALE": "UNKNOWN",
+      "SOURCE_TYPE": "FACT",
+      "VERIFIED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "FRESHNESS": "CURRENT",
+      "STATUS_STALE": "NO",
       "LOCAL_TIME": "14:00",
       "TIMEZONE": "Asia/Seoul",
       "ENABLED": false,
@@ -29,7 +33,11 @@
       "PROACTIVE_NOTIFICATION": false,
       "NEXT_RUN_AT": "UNKNOWN",
       "ENVIRONMENT": "UNKNOWN",
-      "SOURCE": "CEO·매니저 전달 checkpoint"
+      "SOURCE": "Current schedule registration absence + schedule state",
+      "SCOPE": "비서 briefing scheduler만; 일반 채팅 receiver는 실행 중",
+      "OBSERVED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "CONFIDENCE": "DIRECT_EVIDENCE",
+      "VALUE": "비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개"
     },
     {
       "ID": "EVENING_CHECK",
@@ -40,18 +48,20 @@
       "MODEL": "UNKNOWN",
       "DEFAULT_REASONING": "UNKNOWN",
       "STATUS": "PLANNED",
-      "LAST_CONFIRMED_STATE": "CEO 일정 정책 확정; 자동 실행 비활성",
-      "LAST_CONFIRMED_AT": "UNKNOWN",
-      "CURRENT_ACTIVITY": "UNKNOWN",
-      "CURRENT_ACTIVITY_CONFIDENCE": "UNKNOWN",
-      "BLOCKERS": [],
-      "NEXT_ACTION": "요청 시 수동 작성; 자동 설치는 별도 승인",
+      "LAST_CONFIRMED_STATE": "비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개",
+      "LAST_CONFIRMED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "CURRENT_ACTIVITY": "비활성 scheduler; 실제 다음 실행 UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "FACT",
+      "BLOCKERS": [
+        "scheduler activation BLOCKED; safety boundary; no bypass"
+      ],
+      "NEXT_ACTION": "비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음",
       "WAITING_FOR": [],
       "CEO_ACTION_REQUIRED": false,
-      "SOURCE_TYPE": "MANAGER_REPORTED",
-      "VERIFIED_AT": "2026-09-09T15:44:08.670988+00:00",
-      "FRESHNESS": "UNKNOWN",
-      "STATUS_STALE": "UNKNOWN",
+      "SOURCE_TYPE": "FACT",
+      "VERIFIED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "FRESHNESS": "CURRENT",
+      "STATUS_STALE": "NO",
       "LOCAL_TIME": "19:00",
       "TIMEZONE": "Asia/Seoul",
       "ENABLED": false,
@@ -59,7 +69,11 @@
       "PROACTIVE_NOTIFICATION": false,
       "NEXT_RUN_AT": "UNKNOWN",
       "ENVIRONMENT": "UNKNOWN",
-      "SOURCE": "CEO·매니저 전달 checkpoint"
+      "SOURCE": "Current schedule registration absence + schedule state",
+      "SCOPE": "비서 briefing scheduler만; 일반 채팅 receiver는 실행 중",
+      "OBSERVED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "CONFIDENCE": "DIRECT_EVIDENCE",
+      "VALUE": "비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개"
     },
     {
       "ID": "MIDNIGHT_WRAP",
@@ -70,18 +84,20 @@
       "MODEL": "UNKNOWN",
       "DEFAULT_REASONING": "UNKNOWN",
       "STATUS": "PLANNED",
-      "LAST_CONFIRMED_STATE": "CEO 일정 정책 확정; 자동 실행 비활성",
-      "LAST_CONFIRMED_AT": "UNKNOWN",
-      "CURRENT_ACTIVITY": "UNKNOWN",
-      "CURRENT_ACTIVITY_CONFIDENCE": "UNKNOWN",
-      "BLOCKERS": [],
-      "NEXT_ACTION": "요청 시 수동 작성; 자동 설치는 별도 승인",
+      "LAST_CONFIRMED_STATE": "비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개",
+      "LAST_CONFIRMED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "CURRENT_ACTIVITY": "비활성 scheduler; 실제 다음 실행 UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "FACT",
+      "BLOCKERS": [
+        "scheduler activation BLOCKED; safety boundary; no bypass"
+      ],
+      "NEXT_ACTION": "비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음",
       "WAITING_FOR": [],
       "CEO_ACTION_REQUIRED": false,
-      "SOURCE_TYPE": "MANAGER_REPORTED",
-      "VERIFIED_AT": "2026-09-09T15:44:08.670988+00:00",
-      "FRESHNESS": "UNKNOWN",
-      "STATUS_STALE": "UNKNOWN",
+      "SOURCE_TYPE": "FACT",
+      "VERIFIED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "FRESHNESS": "CURRENT",
+      "STATUS_STALE": "NO",
       "LOCAL_TIME": "00:00",
       "TIMEZONE": "Asia/Seoul",
       "ENABLED": false,
@@ -89,8 +105,11 @@
       "PROACTIVE_NOTIFICATION": false,
       "NEXT_RUN_AT": "UNKNOWN",
       "ENVIRONMENT": "UNKNOWN",
-      "SOURCE": "CEO·매니저 전달 checkpoint"
+      "SOURCE": "Current schedule registration absence + schedule state",
+      "SCOPE": "비서 briefing scheduler만; 일반 채팅 receiver는 실행 중",
+      "OBSERVED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "CONFIDENCE": "DIRECT_EVIDENCE",
+      "VALUE": "비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개"
     }
-  ],
-  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
+  ]
 }

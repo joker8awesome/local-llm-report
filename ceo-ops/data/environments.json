@@ -1,5 +1,7 @@
 {
   "CLASSIFICATION": "PUBLIC_SAFE_DATA",
+  "SNAPSHOT_REVISION": "CEO-OPS-DATA-r4-stage2-20260910T152545146249Z-final1",
+  "UI_REVISION": "CEO-OPS-UI-r3C",
   "RECORDS": [
     {
       "ID": "MAC_GPTMAX",
@@ -8,7 +10,12 @@
       "STATUS": "OBSERVED",
       "LAST_CONFIRMED_STATE": "macOS 환경 관측; 현재 작업 여부는 별도 확인 필요",
       "SOURCE_TYPE": "FACT",
-      "LAST_CONFIRMED_AT": "2026-09-09T14:56:03.066833+00:00"
+      "LAST_CONFIRMED_AT": "2026-09-09T14:56:03.066833+00:00",
+      "OBSERVED_AT": "2026-09-09T14:56:03.066833+00:00",
+      "VALUE": "macOS 환경 관측; 현재 작업 여부는 별도 확인 필요",
+      "CONFIDENCE": "DIRECT_EVIDENCE",
+      "FRESHNESS": "STALE",
+      "STATUS_STALE": "YES"
     },
     {
       "ID": "WINDOWS_ENV",
@@ -18,17 +25,34 @@
       "LAST_CONFIRMED_STATE": "Windows 운영 주체 확인 보고; 세부 환경 직접 검증 불가",
       "SOURCE_TYPE": "MANAGER_REPORTED",
       "LAST_CONFIRMED_AT": "UNKNOWN",
-      "LOCAL_SOURCE_STATUS": "LOCAL_SOURCE_UNAVAILABLE"
+      "LOCAL_SOURCE_STATUS": "LOCAL_SOURCE_UNAVAILABLE",
+      "OBSERVED_AT": "UNKNOWN",
+      "VALUE": "Windows 운영 주체 확인 보고; 세부 환경 직접 검증 불가",
+      "CONFIDENCE": "REPORTED_UNVERIFIED",
+      "FRESHNESS": "UNKNOWN",
+      "STATUS_STALE": "UNKNOWN"
     },
     {
       "ID": "MAC_SECRETARY",
       "NAME": "Mac · 비서 분리 환경",
       "ROLE": "CEO 운영 현황·브리핑",
-      "STATUS": "READY",
-      "LAST_CONFIRMED_STATE": "독립 수동 비서 환경 준비; 자동 시작 없음",
+      "STATUS": "OBSERVED",
+      "LAST_CONFIRMED_STATE": "Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00",
       "SOURCE_TYPE": "FACT",
-      "LAST_CONFIRMED_AT": "2026-09-09T14:56:03.066833+00:00"
+      "LAST_CONFIRMED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "VALUE": "Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00",
+      "CURRENT_ACTIVITY": "일반 채팅 receiver 실행 관측; 그 외 프로젝트 활동 UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "FACT",
+      "NEXT_ACTION": "기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리",
+      "WAITING_FOR": [],
+      "ENVIRONMENT": "Mac / 분리된 비서 receiver 서비스",
+      "SCOPE": "일반 채팅 receiver만; 모델 호출·API 접수 직접 확인, 사람 수신은 CEO 보고",
+      "OBSERVED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "VERIFIED_AT": "2026-09-10T15:18:26.721162+00:00",
+      "SOURCE": "Current receiver registration + process + health; human receipt is CEO_REPORTED",
+      "CONFIDENCE": "DIRECT_RUNTIME_AND_CEO_REPORTED_RECEIPT",
+      "FRESHNESS": "CURRENT",
+      "STATUS_STALE": "NO"
     }
-  ],
-  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
+  ]
 }

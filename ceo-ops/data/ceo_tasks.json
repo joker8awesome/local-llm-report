@@ -1,18 +1,81 @@
 {
   "CLASSIFICATION": "PUBLIC_SAFE_DATA",
+  "SNAPSHOT_REVISION": "CEO-OPS-DATA-r4-stage2-20260910T152545146249Z-final1",
+  "UI_REVISION": "CEO-OPS-UI-r3C",
   "RECORDS": [
     {
       "ID": "CEO_R3C",
-      "TITLE": "N5 r3C 최종 채택 또는 수정 방향",
+      "NAME": "N5 r3C 최終 채택 또는 수정 방향",
+      "TYPE": "CEO_TASK",
+      "OWNER": "CEO",
+      "ROLE": "UNKNOWN",
+      "MODEL": "UNKNOWN",
+      "DEFAULT_REASONING": "UNKNOWN",
       "STATUS": "PENDING",
-      "OPTIONS": [
-        "채택",
-        "수정 요청"
-      ],
+      "LAST_CONFIRMED_STATE": "대본 동결·최종 승인 대기",
+      "LAST_CONFIRMED_AT": "UNKNOWN",
+      "CURRENT_ACTIVITY": "UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "UNKNOWN",
+      "BLOCKERS": [],
+      "NEXT_ACTION": "Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님",
+      "WAITING_FOR": [],
+      "CEO_ACTION_REQUIRED": false,
+      "SOURCE_TYPE": "MANAGER_REPORTED",
+      "VERIFIED_AT": "UNKNOWN",
+      "FRESHNESS": "UNKNOWN",
+      "STATUS_STALE": "UNKNOWN",
+      "TITLE": "N5 r3C 최종 채택 또는 수정 방향",
       "CEO_ACTION": "채택 또는 수정 방향 결정",
-      "APPROVAL_BOUNDARY": "이 카드는 결정 대기 기록이며 실행 승인이 아닙니다. 제작 실행은 별도 승인 전까지 금지합니다.",
-      "SOURCE_TYPE": "MANAGER_REPORTED"
+      "CEO_ACTION_STATE": "ACTION_AFTER_PREREQUISITE",
+      "PREREQUISITE": "Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님",
+      "PROJECT_IDS": [
+        "SHORTS_PIPELINE",
+        "STORY_ENGINE"
+      ],
+      "ADOPTED_AT": "2026-09-09T18:50:30.729725+00:00",
+      "SOURCE": "CEO / MANAGER LIMITED APPROVAL — r3C CANONICAL ADOPTION 01",
+      "APPROVAL_BOUNDARY": "결정 기록은 실행 승인이 아닙니다.",
+      "CEO_DECISION_REQUIRED": false,
+      "SCOPE": "N5 선행조건 후 결정; Story r5 로컬 내용 완료는 최종 승인이나 workflow E2E PASS 아님",
+      "OBSERVED_AT": "UNKNOWN",
+      "VALUE": "대본 동결·최종 승인 대기",
+      "CONFIDENCE": "REPORTED_UNVERIFIED"
+    },
+    {
+      "SOURCE_TYPE": "MANAGER_REPORTED",
+      "LAST_CONFIRMED_AT": "UNKNOWN",
+      "VERIFIED_AT": "UNKNOWN",
+      "CEO_FINAL_SELECTION": "PENDING",
+      "IMAGE_EXECUTION_APPROVAL": "NOT_APPROVED",
+      "SELECTED_INTERNAL_VERSION": "V1",
+      "ID": "CEO_G057_FINAL",
+      "TYPE": "CEO_TASK",
+      "NAME": "g057 S02-FINAL 채택 또는 수정 방향 결정",
+      "TITLE": "g057 S02-FINAL 채택 또는 수정 방향 결정",
+      "OWNER": "CEO",
+      "PROJECT_IDS": [
+        "g057"
+      ],
+      "STATUS": "PENDING",
+      "CEO_ACTION_STATE": "UNKNOWN",
+      "CEO_ACTION_REQUIRED": "UNKNOWN",
+      "CEO_ACTION": "현재 결정 요청 유효성 UNKNOWN; 재요청하지 않음",
+      "PREREQUISITE": "최신 최종 선택·결정 요청 유효성 근거",
+      "APPROVAL_BOUNDARY": "대본 채택은 실제 이미지 시험 실행 승인이 아닙니다.",
+      "ADOPTED_AT": "2026-09-09T18:50:30.729725+00:00",
+      "CEO_DECISION_REQUIRED": "UNKNOWN",
+      "SOURCE": "CEO / MANAGER LIMITED APPROVAL — r3C CANONICAL ADOPTION 01",
+      "NEXT_ACTION": "최신 CEO 최종 선택 근거 및 요청 유효성 확인 후 갱신",
+      "WAITING_FOR": "UNKNOWN",
+      "LAST_CONFIRMED_STATE": "UNKNOWN",
+      "OBSERVED_AT": "UNKNOWN",
+      "CONFIDENCE": "UNKNOWN",
+      "CURRENT_ACTIVITY": "UNKNOWN",
+      "CURRENT_ACTIVITY_CONFIDENCE": "UNKNOWN",
+      "SCOPE": "과거 미시각 adoption의 PENDING/V1은 마지막 보고 기록; 현재 요청 근거가 아님",
+      "VALUE": "UNKNOWN",
+      "FRESHNESS": "UNKNOWN",
+      "STATUS_STALE": "UNKNOWN"
     }
-  ],
-  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
+  ]
 }

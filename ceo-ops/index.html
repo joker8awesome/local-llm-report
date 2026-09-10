@@ -1,16 +1,1048 @@
-<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; script-src 'unsafe-inline'; img-src data:; connect-src 'none'"><meta name="snapshot-revision" content="CEO-OPS-PUBLIC-MINIMIZATION-r2"><title>CEO 운영 허브 · 지피티비서</title><style>
-:root{color-scheme:dark;--bg:#101722;--panel:#192331;--border:#364457;--text:#f0f4f8;--muted:#b4c3d2;--accent:#85dec4;--amber:#ffce7c}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:17px/1.65 system-ui,-apple-system,'Apple SD Gothic Neo',sans-serif}main,header,nav{max-width:1280px;margin:auto;padding:24px}header{padding-top:40px}h1{font-size:36px;line-height:1.3;margin:8px 0}h2{font-size:25px;margin:0 0 20px}h3{font-size:20px;margin:0}p{margin:10px 0}a{color:var(--accent)}nav{display:flex;gap:12px;flex-wrap:wrap;padding-top:0}nav a,button{border:1px solid var(--border);padding:10px 16px;border-radius:10px;text-decoration:none;background:var(--panel);font:inherit;color:var(--text)}section{margin:0 0 36px;scroll-margin-top:18px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.two{grid-template-columns:repeat(2,minmax(0,1fr))}.card,.hero,.notice{border:1px solid var(--border);background:var(--panel);padding:22px;border-radius:16px;min-width:0;overflow-wrap:anywhere}.hero{border-left:5px solid var(--accent)}.cardhead{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}.tag{display:inline-block;font-size:12px;font-weight:650;border:1px solid var(--border);border-radius:6px;padding:3px 7px;color:var(--muted)}.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:16px}.amber,.waiting,.planned{color:var(--amber)}.ready{color:var(--accent)}.blocked{color:#ff9f9f}.muted,small,dt{color:var(--muted)}.model{color:var(--accent);font-weight:650}.model span{font-size:14px}dl{margin-bottom:0}dt{font-size:13px;margin-top:12px}dd{margin:2px 0;font-size:16px}summary{cursor:pointer;padding:14px 0;color:var(--accent);font-size:14px}details p{font-size:13px}.time{font-size:30px;color:var(--accent);font-weight:700}ul{margin:0;padding-left:24px}li{margin-bottom:16px}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px}button{cursor:pointer}button[aria-pressed=true]{border-color:var(--accent);color:var(--accent)}[hidden]{display:none!important}:focus-visible{outline:3px solid var(--accent);outline-offset:3px}footer{color:var(--muted);font-size:14px;border-top:1px solid var(--border);padding-top:18px}@media(max-width:800px){.grid,.two{grid-template-columns:1fr}h1{font-size:29px}header,main,nav{padding-left:18px;padding-right:18px}.card,.hero,.notice{padding:18px}.cardhead{flex-wrap:wrap}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
-</style></head><body><header><span class="tag ready">CEO OPERATIONS HUB · 로컬 검토본</span><h1>CEO가 알아야 할 것,<br>결정할 것, 다음 행동.</h1><p class="muted">지피티비서 · 수동 갱신 · 자동 보고 없음 · Pages 미게시</p></header><nav aria-label="주요 영역"><a href="#today">오늘</a><a href="#team">AI 팀</a><a href="#projects">프로젝트</a><a href="#schedule">목표 일정</a><a href="#decisions">채택 결정</a></nav><main>
-<section id="today"><div class="hero"><span class="tag ready">TODAY · 우선순위 권고</span><h2>새 지시보다, 확정 상태와 대기 보고를 먼저.</h2><p>Telegram 승인 시스템: 준비 완료. 실제 운영 E2E 결과는 대기 중입니다.<br>Windows: 수정 보고 완료. 독립 재검수 결과를 기다립니다.</p><p>GitHub ceo-ops 제한 쓰기 시험 통과. 이 화면은 public-safe 초기 snapshot이며 실시간 상태가 아닙니다. Pages는 게시하지 않습니다.</p></div></section>
-<section id="ceo-decisions"><h2>CEO가 직접 결정할 것</h2><div class="notice"><p>CEO task count: 1</p><ul><li><b>N5 r3C 최종 채택 또는 수정 방향</b><p>채택 또는 수정 방향 결정</p><p>PENDING · 선택 범위: 채택 / 수정 요청</p><p>이 카드는 결정 대기 기록이며 실행 승인이 아닙니다. 제작 실행은 별도 승인 전까지 금지합니다.</p></li></ul></div></section>
-<section class="grid two"><div class="card"><h2>현재 ACTIVE</h2><p>다른 프로젝트의 실시간 작업은 UNKNOWN입니다.</p><p class="muted">프로세스 생존이나 과거 ACTIVE를 현재 작업으로 표시하지 않습니다.</p></div><div class="card"><h2>BLOCKED / 선행조건</h2><p>대본 최종 승인 전 제작 착수 금지</p><p class="muted">보고 미수신을 시스템 실패로 판단하지 않습니다.</p></div></section>
-<section><h2>보고 대기</h2><div class="grid two"><div class="card"><h3>GPTMAX</h3><p>TELEGRAM_OPERATIONAL_E2E_REPORT</p><span class="tag waiting">WAITING_FOR_EXECUTION_REPORT</span></div><div class="card"><h3>Windows</h3><p>INDEPENDENT_REVIEW_REPORT</p><span class="tag waiting">PENDING</span><p class="muted">CANARY_03: NOT_APPROVED</p></div></div></section>
-<section id="schedule"><h2>오늘 / 다음 목표 일정</h2><p class="muted">Asia/Seoul · CEO 지정 목표 시간 · 예약·실행이 아닙니다.</p><div class="grid"><article class="card"><span class="time">14:00</span><h3>MIDDAY_BRIEF</h3><p>오늘 진행 상황·CEO 할 일·새 blocker·오전/낮 동안 들어온 보고</p><span class="tag planned">PLANNED · 실행 안 됨</span><p class="muted">다음 실제 실행: UNKNOWN</p></article><article class="card"><span class="time">19:00</span><h3>EVENING_CHECK</h3><p>지연된 작업·새 승인 필요 사항·저녁 이후 넘길 작업·아직 기다리는 보고</p><span class="tag planned">PLANNED · 실행 안 됨</span><p class="muted">다음 실제 실행: UNKNOWN</p></article><article class="card"><span class="time">00:00</span><h3>MIDNIGHT_WRAP</h3><p>오늘 완료·미완료·stale checkpoint·다음날 첫 행동·밤사이 자동 작업/대기 상태</p><span class="tag planned">PLANNED · 실행 안 됨</span><p class="muted">다음 실제 실행: UNKNOWN</p></article></div></section>
-<section><h2>최근 확인된 완료</h2><div class="notice">capability upgrade PASS_LIMITED; 헌장 회귀 10/0; Telegram disabled; AutoStart no<p class="muted">각각 제한 회귀 / 준비 검증 / 전달 보고입니다. 운영 성공 또는 독립 검수로 승격하지 않습니다.</p></div></section>
-<section id="team"><h2>AI 팀</h2><div class="grid"><article class="card" data-status="WAITING"><div class="cardhead"><h3>GPTMAX</h3><span class="tag waiting">WAITING</span></div><p class="model">gpt-6-astra <span> / reasoning medium</span></p><p>Shorts 분석·스토리·제작 파이프라인 관리자</p><p class="muted">Mac / 기존 Gateway</p><dl><dt>마지막 확정</dt><dd>r3C 동결 · 대본 승인 PENDING · 제작 CLOSED; 승인 시스템 준비 완료, 운영 E2E 결과 대기</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>NEXT</dt><dd>운영 E2E 결과 보고 수신 후 checkpoint 대조</dd></dl><div class="tags"><span class="tag">MANAGER_REPORTED</span><span class="tag amber">UNVERIFIED · 확정 시각 미제공</span></div><details><summary>근거·확인 시점</summary><p>출처: CEO·매니저 전달 checkpoint</p><p>마지막 확정: UNKNOWN</p><p>직접 검증: UNKNOWN</p><p>Freshness: UNKNOWN / 상태 노후화: UNKNOWN</p></details></article><article class="card" data-status="WAITING"><div class="cardhead"><h3>Windows 로컬LLM 두뇌</h3><span class="tag waiting">WAITING</span></div><p class="model">UNKNOWN <span> / reasoning UNKNOWN</span></p><p>검증·anti-hallucination·preflight·운영 안전·후보 코드/검증 도구 개발</p><p class="muted">Windows / 상세 미확인</p><dl><dt>마지막 확정</dt><dd>Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>NEXT</dt><dd>독립 실효성 재검수 결과 수신</dd></dl><div class="tags"><span class="tag">MANAGER_REPORTED</span><span class="tag amber">UNVERIFIED · 확정 시각 미제공</span></div><details><summary>근거·확인 시점</summary><p>출처: CEO·매니저 전달 checkpoint</p><p>마지막 확정: UNKNOWN</p><p>직접 검증: UNKNOWN</p><p>Freshness: UNKNOWN / 상태 노후화: UNKNOWN</p></details></article><article class="card" data-status="READY"><div class="cardhead"><h3>지피티비서</h3><span class="tag ready">READY</span></div><p class="model">gpt-6-astra <span> / reasoning low</span></p><p>CEO_DIRECT_PERSONAL_ASSISTANT + CEO_OPERATIONS_HUB</p><p class="muted">Mac / 수동 분리 세션</p><dl><dt>마지막 확정</dt><dd>capability upgrade PASS_LIMITED; 헌장 회귀 10/0; Telegram disabled; AutoStart no</dd><dt>현재 활동</dt><dd>수동 요청 대기 · 상주 비서 세션 없음 <small>(FACT)</small></dd><dt>NEXT</dt><dd>CEO 요청 또는 새 보고에 따라 수동 브리프 갱신</dd></dl><div class="tags"><span class="tag">FACT</span><span class="tag">확인 시각 기록됨</span></div><details><summary>근거·확인 시점</summary><p>출처: 직접 로컬 확인</p><p>마지막 확정: 2026-09-09T15:23:32.330534+00:00</p><p>직접 검증: 2026-09-09T15:23:32.330534+00:00</p><p>Freshness: FRESH / 상태 노후화: NO</p></details></article></div></section>
-<section id="projects"><h2>프로젝트 / 파이프라인</h2><div class="toolbar" aria-label="프로젝트 상태 필터"><button data-filter="ALL" aria-pressed="true">전체</button><button data-filter="WAITING" aria-pressed="false">대기</button><button data-filter="READY" aria-pressed="false">준비</button></div><p id="filter-status" class="muted" aria-live="polite"></p><div class="grid two" id="project-cards"><article class="card" data-status="WAITING"><div class="cardhead"><h3>Shorts 파이프라인</h3><span class="tag waiting">WAITING</span></div><dl><dt>마지막 확정</dt><dd>PRODUCTION_GATE=CLOSED</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>담당</dt><dd>GPTMAX</dd><dt>제약</dt><dd>대본 최종 승인 전 제작 착수 금지</dd><dt>보고 대기</dt><dd>CEO_SCRIPT_APPROVAL</dd><dt>CEO 행동</dt><dd>추가 결정 없음</dd><dt>NEXT</dt><dd>대본 최종 결정 후 승인 범위에 따라 후속 단계 판단</dd></dl><div class="tags"><span class="tag">MANAGER_REPORTED</span><span class="tag amber">UNVERIFIED · 확정 시각 미제공</span></div><details><summary>근거·확인 시점</summary><p>출처: CEO·매니저 전달 checkpoint</p><p>마지막 확정: UNKNOWN</p><p>직접 검증: UNKNOWN</p><p>Freshness: UNKNOWN / 상태 노후화: UNKNOWN</p></details></article><article class="card" data-status="WAITING"><div class="cardhead"><h3>Story Engine</h3><span class="tag waiting">WAITING</span></div><dl><dt>마지막 확정</dt><dd>N5-ES-001 r3C 동결 / CEO_SCRIPT_APPROVAL=PENDING</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>담당</dt><dd>GPTMAX</dd><dt>제약</dt><dd>없음</dd><dt>보고 대기</dt><dd>CEO_SCRIPT_APPROVAL</dd><dt>CEO 행동</dt><dd>결정 필요</dd><dt>NEXT</dt><dd>CEO가 r3C 채택 또는 수정 방향 결정</dd></dl><div class="tags"><span class="tag">MANAGER_REPORTED</span><span class="tag amber">UNVERIFIED · 확정 시각 미제공</span></div><details><summary>근거·확인 시점</summary><p>출처: CEO·매니저 전달 checkpoint</p><p>마지막 확정: UNKNOWN</p><p>직접 검증: UNKNOWN</p><p>Freshness: UNKNOWN / 상태 노후화: UNKNOWN</p></details></article><article class="card" data-status="READY"><div class="cardhead"><h3>Telegram 대본 승인</h3><span class="tag ready">READY</span></div><dl><dt>마지막 확정</dt><dd>blocker 3개 CLOSED; callback/idempotency/update/rollback PASS; 승인카드 READY=YES</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>담당</dt><dd>GPTMAX</dd><dt>제약</dt><dd>없음</dd><dt>보고 대기</dt><dd>TELEGRAM_OPERATIONAL_E2E_REPORT</dd><dt>CEO 행동</dt><dd>추가 결정 없음</dd><dt>NEXT</dt><dd>실제 운영 E2E 결과 수신·대조</dd></dl><div class="tags"><span class="tag">MANAGER_REPORTED</span><span class="tag amber">UNVERIFIED · 확정 시각 미제공</span></div><details><summary>근거·확인 시점</summary><p>출처: CEO·매니저 전달 checkpoint</p><p>마지막 확정: UNKNOWN</p><p>직접 검증: UNKNOWN</p><p>Freshness: UNKNOWN / 상태 노후화: UNKNOWN</p></details></article><article class="card" data-status="WAITING"><div class="cardhead"><h3>Windows 검증·안전 계층</h3><span class="tag waiting">WAITING</span></div><dl><dt>마지막 확정</dt><dd>Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>담당</dt><dd>Windows 로컬LLM 두뇌</dd><dt>제약</dt><dd>없음</dd><dt>보고 대기</dt><dd>INDEPENDENT_REVIEW_REPORT</dd><dt>CEO 행동</dt><dd>추가 결정 없음</dd><dt>NEXT</dt><dd>독립 재검수 결과 확인</dd></dl><div class="tags"><span class="tag">MANAGER_REPORTED</span><span class="tag amber">UNVERIFIED · 확정 시각 미제공</span></div><details><summary>근거·확인 시점</summary><p>출처: CEO·매니저 전달 checkpoint</p><p>마지막 확정: UNKNOWN</p><p>직접 검증: UNKNOWN</p><p>Freshness: UNKNOWN / 상태 노후화: UNKNOWN</p></details></article><article class="card" data-status="PLANNED"><div class="cardhead"><h3>Mac 무인 운영 계획</h3><span class="tag planned">PLANNED</span></div><dl><dt>마지막 확정</dt><dd>비서 scheduler 설계만 / AUTO_START=NO</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>담당</dt><dd>지피티비서</dd><dt>제약</dt><dd>없음</dd><dt>보고 대기</dt><dd>없음</dd><dt>CEO 행동</dt><dd>추가 결정 없음</dd><dt>NEXT</dt><dd>계획 검토 후 별도 승인 전까지 설치하지 않음</dd></dl><div class="tags"><span class="tag">MANAGER_REPORTED</span><span class="tag amber">UNVERIFIED · 확정 시각 미제공</span></div><details><summary>근거·확인 시점</summary><p>출처: CEO·매니저 전달 checkpoint</p><p>마지막 확정: UNKNOWN</p><p>직접 검증: UNKNOWN</p><p>Freshness: UNKNOWN / 상태 노후화: UNKNOWN</p></details></article><article class="card" data-status="PARTIAL"><div class="cardhead"><h3>CEO 운영 대시보드</h3><span class="tag partial">PARTIAL</span></div><dl><dt>마지막 확정</dt><dd>ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>담당</dt><dd>지피티비서</dd><dt>제약</dt><dd>없음</dd><dt>보고 대기</dt><dd>없음</dd><dt>CEO 행동</dt><dd>추가 결정 없음</dd><dt>NEXT</dt><dd>public-safe 초기 dashboard 업로드</dd></dl><div class="tags"><span class="tag">FACT</span><span class="tag">확인 시각 기록됨</span></div><details><summary>근거·확인 시점</summary><p>출처: 직접 로컬 확인</p><p>마지막 확정: 2026-09-09T16:47:48.473094+00:00</p><p>직접 검증: 2026-09-09T16:47:48.473094+00:00</p><p>Freshness: FRESH / 상태 노후화: NO</p></details></article><article class="card" data-status="READY"><div class="cardhead"><h3>지피티비서 역량·운영</h3><span class="tag ready">READY</span></div><dl><dt>마지막 확정</dt><dd>capability upgrade PASS_LIMITED / 10 tests PASS</dd><dt>현재 활동</dt><dd>UNKNOWN <small>(UNKNOWN)</small></dd><dt>담당</dt><dd>지피티비서</dd><dt>제약</dt><dd>없음</dd><dt>보고 대기</dt><dd>없음</dd><dt>CEO 행동</dt><dd>추가 결정 없음</dd><dt>NEXT</dt><dd>기존 권한 안에서 다음 수동 요청 처리</dd></dl><div class="tags"><span class="tag">FACT</span><span class="tag">확인 시각 기록됨</span></div><details><summary>근거·확인 시점</summary><p>출처: 직접 로컬 확인</p><p>마지막 확정: 2026-09-09T14:56:03.066833+00:00</p><p>직접 검증: 2026-09-09T14:56:03.066833+00:00</p><p>Freshness: FRESH / 상태 노후화: NO</p></details></article></div></section>
-<section id="gaps"><h2>부족사항 · 확인 필요</h2><ul><li>Windows 모델·OS 사용자·실행 경로 미제공 — 담당자의 다음 보고에서 보완.</li><li>Manager checkpoint의 정확한 확정 시각 미제공 — freshness UNKNOWN, 실패로 전환하지 않음.</li><li>계획 스케줄의 실제 다음 실행 없음 — scheduler/능동 알림 비활성.</li><li>장기 blocker 지속 시간·일정 초과는 기준 시각/기한 부족으로 UNKNOWN.</li></ul></section>
-<section id="decisions"><h2>채택된 결정</h2><div class="notice"><ul><li><b>수동 독립 세션 채택</b><p>A 채택 / 자동 시작·LaunchAgent 미승인</p></li><li><b>표시 이름 확정</b><p>지피티비서 / PERSONAL_ASSISTANT_01 유지</p></li><li><b>속도 우선 모델 정책</b><p>gpt-6-astra / low 기본 / SPEED_FIRST_DYNAMIC</p></li><li><b>GitHub 제한 쓰기 승인</b><p>ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비</p></li><li><b>전달 채널 경계</b><p>Telegram disabled / Pages publish 미승인</p></li></ul></div></section>
-<section id="public-environments"><h2>환경 요약</h2><article><h3>Mac · GPTMAX 환경</h3><p>Shorts·스토리·제작 관리</p><p>OBSERVED · macOS 환경 관측; 현재 작업 여부는 별도 확인 필요</p><p>FACT</p></article><article><h3>Windows · 로컬LLM</h3><p>검증·안티할루시네이션·안전</p><p>UNKNOWN · Windows 운영 주체 확인 보고; 세부 환경 직접 검증 불가</p><p>MANAGER_REPORTED</p></article><article><h3>Mac · 비서 분리 환경</h3><p>CEO 운영 현황·브리핑</p><p>READY · 독립 수동 비서 환경 준비; 자동 시작 없음</p><p>FACT</p></article></section><section id="system-snapshot"><details><summary>운영 주체 상태 snapshot</summary><p>GPTMAX · WAITING · r3C 동결 · 대본 승인 PENDING · 제작 CLOSED; 승인 시스템 준비 완료, 운영 E2E 결과 대기</p><p>Windows 로컬LLM 두뇌 · WAITING · Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED</p><p>지피티비서 · READY · capability upgrade PASS_LIMITED; 헌장 회귀 10/0; Telegram disabled; AutoStart no</p></details></section><footer><p>STATIC_HTML ≠ LIVE_DATA · Snapshot: CEO-OPS-PUBLIC-MINIMIZATION-r2</p>정본: structured JSON registry · 화면은 파생 view입니다. 정보 수정은 정본과 append-only history에 먼저 기록합니다. 상태 표시는 마지막 확인 기준이며 실시간 모니터가 아닙니다.</footer></main><script>
-const buttons=[...document.querySelectorAll('[data-filter]')];buttons.forEach(b=>b.addEventListener('click',()=>{buttons.forEach(x=>x.setAttribute('aria-pressed',String(x===b)));let count=0;document.querySelectorAll('#project-cards article').forEach(c=>{c.hidden=b.dataset.filter!=='ALL'&&c.dataset.status!==b.dataset.filter;if(!c.hidden)count++});document.getElementById('filter-status').textContent=`표시 중: ${count}개 프로젝트`;}));buttons[0].click();
-</script></body></html>
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; connect-src 'none'; form-action 'none'; base-uri 'none'"><meta name="snapshot-revision" content="CEO-OPS-DATA-r4-stage2-20260910T152545146249Z-final1"><title>지피티비서 운영 대시보드</title><style>
+:root{color-scheme:dark;--bg:#101720;--panel:#192432;--line:#34465b;--text:#edf3fa;--muted:#b4c5d8;--mint:#85e2c0;--amber:#ffcf88}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:17px/1.55 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo",sans-serif}main{max-width:1180px;margin:auto;padding:26px 24px 48px}h1{font-size:26px;line-height:1.25;margin:5px 0 12px;letter-spacing:-.7px}h2{font-size:18px;margin:0 0 12px}h3{font-size:17px;margin:0}p{margin:6px 0}.eyebrow,.muted,dt{color:var(--muted)}.eyebrow{font-size:12px;letter-spacing:1px}.meta{font-size:13px;margin-bottom:18px}.pill{display:inline-block;border:1px solid var(--line);border-radius:99px;padding:3px 10px;font-size:12px;color:var(--mint)}.hero{border:1px solid #4c806f;border-radius:14px;background:#172d2b;padding:20px;margin:16px 0}.hero-grid{display:grid;grid-template-columns:1fr 2fr;gap:24px}.hero h2{font-size:14px;color:var(--mint);margin-bottom:6px}.answer{font-size:25px;font-weight:700;line-height:1.3}.next{font-size:18px;font-weight:650}.condition{border-top:1px solid #3b5953;margin-top:14px;padding-top:12px;color:var(--amber)}.core{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:14px 0 24px}.core>article,.project,.small{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px}.core p{font-size:16px}.core h3{font-size:14px;color:var(--muted)}.section-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-top:22px}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.project header{display:flex;justify-content:space-between;align-items:start;gap:10px;margin-bottom:12px}.project header .pill{white-space:nowrap}.project dl{display:grid;grid-template-columns:62px 1fr;gap:7px 12px;margin:0}dt,dd{margin:0}dd{overflow-wrap:anywhere}.ceo-after{color:var(--amber)}details{border-top:1px solid var(--line);margin-top:12px;padding-top:10px}summary{cursor:pointer;color:var(--muted);font-size:13px;min-height:28px}summary:focus-visible,a:focus-visible{outline:2px solid var(--mint);outline-offset:4px}details dl{margin-top:12px!important}details p{overflow-wrap:anywhere}.history{margin-top:24px}nav{display:flex;gap:18px;margin-top:14px}a{color:var(--mint);text-decoration:underline;text-underline-offset:4px}.schedule{display:flex;flex-wrap:wrap;gap:10px}.schedule p{padding:10px 14px;border:1px solid var(--line);border-radius:8px}.empty{padding:28px;border:1px dashed var(--line);border-radius:12px;color:var(--muted)}footer{color:var(--muted);font-size:12px;margin-top:28px}.small{margin-top:10px}
+@media(max-width:600px){main{padding:18px 16px 32px}h1{font-size:23px}.hero{padding:16px}.hero-grid{grid-template-columns:1fr;gap:14px}.answer{font-size:23px}.next{font-size:17px}.core{grid-template-columns:1fr;gap:8px;margin-bottom:20px}.core>article{padding:10px 13px}.core p{margin:3px 0}.grid{grid-template-columns:1fr}.meta{line-height:1.6}.project{padding:14px}.section-head{margin-top:18px}nav{font-size:14px}.project dl{grid-template-columns:58px 1fr;gap:6px 10px}}
+</style></head><body><main><header><div class="eyebrow">CEO OPERATIONS · 수동 갱신</div><h1>지피티비서 운영 대시보드</h1><div class="meta"><span class="pill">snapshot CEO-OPS-DATA-r4-stage2-20260910T152545146249Z-final1</span><p>게시 버전: CEO-OPS-DATA-r4-stage2-20260910T152545146249Z-final1 · 게시 시각: 미확인</p><p class="muted">STATIC_HTML != LIVE_DATA · 실시간 상태 아님<br>정보 확인 시각: 항목별 출처 참조</p></div></header>
+<section class="hero" aria-label="CEO 우선순위"><div class="hero-grid"><div><h2>CEO 지금 할 일 · 등록 범위</h2><p class="answer">CEO_ACTION_NOW=NONE · 등록 범위 0건 · 전체 미확인</p></div><div><h2>다음 확인</h2><p class="next">Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님 대기</p></div></div>
+<p class="muted">등록 결정 2건 · 지금 0건 · 선행조건 후 1건<br>전체 CEO 범위 미확인 · 외부 미확인 · 미매핑 0건</p>
+<p class="condition" data-task="CEO_R3C" data-action="ACTION_AFTER_PREREQUISITE">N5 r3C 최종 채택 또는 수정 방향<br>선행조건 후 결정 · 지금 요청 아님</p>
+</section><section class="core" aria-label="핵심 상태">
+<article><h3>N5 대본 · 제작</h3><p>LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_미확인; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00</p><p>제작 CLOSED; HOLD: image/TTS/production subtitles/render; no new execution approval</p></article>
+<article><h3>Telegram 대본 승인</h3><p>Story 승인 시스템: blocker 해소·offline chain PASS·카드 READY 유지. Live Story workflow E2E NOT_RUN; 실제 운영 결과 미확인.</p></article>
+<article><h3>Windows 검증·안전 계층</h3><p>Windows: 수정 보고 완료. 독립 재검수 결과를 기다립니다.</p></article>
+</section><nav aria-label="페이지 이동"><a href="#projects">프로젝트</a><a href="#schedule">목표 일정</a><a href="#history">근거·이력</a></nav><section id="projects"><div class="section-head"><h2>프로젝트</h2><span class="muted">8개 · 마지막 확인 기준</span></div><div class="grid">
+<article class="project" data-project="SHORTS_PIPELINE" data-action="ACTION_AFTER_PREREQUISITE"><header><h3>Shorts 파이프라인</h3><span class="pill">대기</span></header><dl><dt>담당</dt><dd>GPTMAX</dd><dt>다음</dt><dd>승인 workflow E2E·CEO 대본 결정 확인 전 downstream HOLD</dd><dt>CEO 행동</dt><dd class="ceo-after">선행조건 후 결정 · 채택 또는 수정 방향 결정</dd><dt>대기</dt><dd>Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님</dd></dl><details><summary>확정 기록·출처·미확인 항목</summary><dl><dt>VALUE</dt><dd>PRODUCTION_GATE=CLOSED; HOLD: image/TTS/production subtitles/render; no new execution approval</dd><dt>OBSERVED_AT</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>CONFIDENCE</dt><dd>MEDIUM</dd></dl><dl><dt>마지막 확정 기록</dt><dd>PRODUCTION_GATE=CLOSED; HOLD: image/TTS/production subtitles/render; no new execution approval</dd><dt>기록 당시 다음 행동</dt><dd>승인 workflow E2E·CEO 대본 결정 확인 전 downstream HOLD</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>대본 최종 승인 전 제작 착수 금지</dd><dt>근거 종류</dt><dd>LOCAL_REGISTRY</dd><dt>출처</dt><dd>Story r5 state + delivery receipt + structured record status count</dd><dt>확정 시각</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>정보 확인 시각</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>최신성</dt><dd>STALE</dd></dl></details></article>
+<article class="project" data-project="STORY_ENGINE" data-action="ACTION_AFTER_PREREQUISITE"><header><h3>Story Engine</h3><span class="pill">LOCAL_CONTENT_COMPLETE</span></header><dl><dt>담당</dt><dd>GPTMAX</dd><dt>다음</dt><dd>Story 승인 workflow 운영 E2E 근거와 현재 결정 유효성 확인; 제작 단계 HOLD</dd><dt>CEO 행동</dt><dd class="ceo-after">선행조건 후 결정 · 채택 또는 수정 방향 결정</dd><dt>대기</dt><dd>Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님</dd></dl><details><summary>확정 기록·출처·미확인 항목</summary><dl><dt>VALUE</dt><dd>LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_UNKNOWN; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00</dd><dt>OBSERVED_AT</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>CONFIDENCE</dt><dd>MEDIUM</dd><dt>SCOPE</dt><dd>Story r5 로컬 내용·상태 메타데이터만; 대본 원문 공개 없음; 현재 활동 UNKNOWN</dd></dl><dl><dt>마지막 확정 기록</dt><dd>LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_미확인; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00</dd><dt>기록 당시 다음 행동</dt><dd>Story 승인 workflow 운영 E2E 근거와 현재 결정 유효성 확인; 제작 단계 HOLD</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>LOCAL_REGISTRY</dd><dt>출처</dt><dd>Story r5 state + delivery receipt + structured record status count</dd><dt>확정 시각</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>정보 확인 시각</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>최신성</dt><dd>STALE</dd></dl></details></article>
+<article class="project" data-project="TELEGRAM_SCRIPT_APPROVAL" data-action="NO_CEO_ACTION"><header><h3>Telegram 대본 승인</h3><span class="pill">준비 완료</span></header><dl><dt>담당</dt><dd>GPTMAX</dd><dt>다음</dt><dd>Story 대본 승인 workflow 운영 E2E 결과 수신·대조</dd><dt>CEO 행동</dt><dd class="">추가 결정 없음</dd><dt>대기</dt><dd>Telegram 운영 E2E 결과</dd></dl><details><summary>확정 기록·출처·미확인 항목</summary><dl><dt>VALUE</dt><dd>closure-06: blockers 1–3 CLOSED; adapters READY; offline callback chain PASS; operational card READY=YES; OPERATIONAL_CHANGES=0; Live Telegram E2E NOT_RUN</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>SOURCE_VERIFIED_TIME_UNKNOWN</dd><dt>SCOPE</dt><dd>GPTMAX Story 승인 workflow만; secretary receiver 결과와 별개</dd></dl><dl><dt>마지막 확정 기록</dt><dd>closure-06: blockers 1–3 CLOSED; adapters READY; offline callback chain PASS; operational card READY=YES; OPERATIONAL_CHANGES=0; Live Telegram E2E NOT_RUN</dd><dt>기록 당시 다음 행동</dt><dd>Story 대본 승인 workflow 운영 E2E 결과 수신·대조</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>closure-06 final verification metadata; live E2E explicitly NOT_RUN</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></details></article>
+<article class="project" data-project="WINDOWS_ANTI_HALLUCINATION" data-action="NO_CEO_ACTION"><header><h3>Windows 검증·안전 계층</h3><span class="pill">대기</span></header><dl><dt>담당</dt><dd>Windows 로컬LLM 두뇌</dd><dt>다음</dt><dd>독립 재검수 결과 확인</dd><dt>CEO 행동</dt><dd class="">추가 결정 없음</dd><dt>대기</dt><dd>독립 재검수 결과</dd></dl><details><summary>확정 기록·출처·미확인 항목</summary><dl><dt>VALUE</dt><dd>Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd></dl><dl><dt>마지막 확정 기록</dt><dd>Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료</dd><dt>기록 당시 다음 행동</dt><dd>독립 재검수 결과 확인</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO STATUS BRIEFING RULE UPDATE-01</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd><dt>직접 검증</dt><dd>원본 접근 불가</dd></dl></details></article>
+<article class="project" data-project="MAC_UNATTENDED_OPS" data-action="NO_CEO_ACTION"><header><h3>Mac 무인 운영 계획</h3><span class="pill">계획</span></header><dl><dt>담당</dt><dd>지피티비서</dd><dt>다음</dt><dd>비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음</dd><dt>CEO 행동</dt><dd class="">추가 결정 없음</dd><dt>대기</dt><dd>없음</dd></dl><details><summary>확정 기록·출처·미확인 항목</summary><dl><dt>VALUE</dt><dd>비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개</dd><dt>OBSERVED_AT</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_EVIDENCE</dd><dt>SCOPE</dt><dd>비서 briefing scheduler만; 일반 채팅 receiver는 실행 중</dd></dl><dl><dt>마지막 확정 기록</dt><dd>비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개</dd><dt>기록 당시 다음 행동</dt><dd>비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음</dd><dt>현재 활동</dt><dd>비활성 scheduler; 실제 다음 실행 미확인</dd><dt>제약</dt><dd>scheduler activation BLOCKED; safety boundary; no bypass</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>출처</dt><dd>Current schedule registration absence + schedule state</dd><dt>확정 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>정보 확인 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>최신성</dt><dd>CURRENT</dd></dl></details></article>
+<article class="project" data-project="CEO_OPERATIONS_DASHBOARD" data-action="NO_CEO_ACTION"><header><h3>CEO 운영 대시보드</h3><span class="pill">RELEASE_ARTIFACT</span></header><dl><dt>담당</dt><dd>지피티비서</dd><dt>다음</dt><dd>의미 있는 상태 변화 때 다음 후보 갱신; 자동 게시 권한 없음</dd><dt>CEO 행동</dt><dd class="">추가 결정 없음</dd><dt>대기</dt><dd>없음</dd></dl><details><summary>확정 기록·출처·미확인 항목</summary><dl><dt>VALUE</dt><dd>r4 successor release artifact; prior public r2 verified; r3 candidate retained; CEO limited publication approved</dd><dt>OBSERVED_AT</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_EVIDENCE</dd><dt>SCOPE</dt><dd>이번 r4 제한 게시 승인; 과거 r2 관측 시각 보존; 배포 완료를 사전 추정하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>r4 successor release artifact; prior public r2 verified; r3 candidate retained; CEO limited publication approved</dd><dt>기록 당시 다음 행동</dt><dd>의미 있는 상태 변화 때 다음 후보 갱신; 자동 게시 권한 없음</dd><dt>현재 활동</dt><dd>정적 snapshot; 배포 결과는 외부 게시 검증 기록과 분리</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>출처</dt><dd>Current public HTTP and Pages/main read-only verification</dd><dt>확정 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>정보 확인 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>최신성</dt><dd>CURRENT</dd></dl></details></article>
+<article class="project" data-project="GPT_SECRETARY" data-action="NO_CEO_ACTION"><header><h3>지피티비서 역량·운영</h3><span class="pill">관측됨</span></header><dl><dt>담당</dt><dd>지피티비서</dd><dt>다음</dt><dd>기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리</dd><dt>CEO 행동</dt><dd class="">추가 결정 없음</dd><dt>대기</dt><dd>없음</dd></dl><details><summary>확정 기록·출처·미확인 항목</summary><dl><dt>VALUE</dt><dd>Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00</dd><dt>OBSERVED_AT</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_RUNTIME_AND_CEO_REPORTED_RECEIPT</dd><dt>SCOPE</dt><dd>일반 채팅 receiver만; 모델 호출·API 접수 직접 확인, 사람 수신은 CEO 보고</dd></dl><dl><dt>마지막 확정 기록</dt><dd>Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00</dd><dt>기록 당시 다음 행동</dt><dd>기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리</dd><dt>현재 활동</dt><dd>일반 채팅 receiver 실행 관측; 그 외 프로젝트 활동 미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>출처</dt><dd>Current receiver registration + process + health; human receipt is CEO_REPORTED</dd><dt>확정 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>정보 확인 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>최신성</dt><dd>CURRENT</dd></dl></details></article>
+<article class="project" data-project="g057" data-action="UNKNOWN"><header><h3>g057</h3><span class="pill">대기</span></header><dl><dt>담당</dt><dd>GPTMAX</dd><dt>다음</dt><dd>최신 CEO 최종 선택 근거 및 요청 유효성 확인 후 갱신</dd><dt>CEO 행동</dt><dd class="">미확인 · 현재 결정 요청 유효성 미확인; 재요청하지 않음</dd><dt>대기</dt><dd>CEO_FINAL_SELECTION</dd></dl><details><summary>확정 기록·출처·미확인 항목</summary><dl><dt>VALUE</dt><dd>CEO_FINAL_SELECTION=PENDING / IMAGE_EXECUTION_APPROVAL=NOT_APPROVED / SELECTED_INTERNAL_VERSION=V1</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>UNKNOWN</dd><dt>SCOPE</dt><dd>과거 미시각 adoption의 PENDING/V1은 마지막 보고 기록; 현재 요청 근거가 아님</dd></dl><dl><dt>마지막 확정 기록</dt><dd>CEO_FINAL_SELECTION=PENDING / IMAGE_EXECUTION_APPROVAL=NOT_APPROVED / SELECTED_INTERNAL_VERSION=V1</dd><dt>기록 당시 다음 행동</dt><dd>최신 CEO 최종 선택 근거 및 요청 유효성 확인 후 갱신</dd><dt>현재 활동</dt><dd>미확인</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO / MANAGER LIMITED APPROVAL — r3C CANONICAL ADOPTION 01</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></details></article>
+</div></section><section id="schedule"><div class="section-head"><h2>목표 일정</h2><span class="muted">Asia/Seoul</span></div><p class="muted">계획만 · 자동 실행 비활성 · 다음 실제 실행 없음</p><div class="schedule">
+<p><strong>14:00</strong> 낮 브리프 · 계획 / 비활성</p>
+<p><strong>19:00</strong> 저녁 점검 · 계획 / 비활성</p>
+<p><strong>00:00</strong> 하루 마감 · 계획 / 비활성</p>
+</div></section><section id="history" class="history"><h2>근거·이력</h2><p class="muted">기록 당시 상태입니다. 과거 게시 준비·미승인 문구는 현재 게시 상태가 아닙니다.</p>
+<details><summary>AI 팀 · 운영 주체</summary>
+<article class="small"><h3>GPTMAX</h3><dl><dt>VALUE</dt><dd>LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_UNKNOWN; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00</dd><dt>OBSERVED_AT</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>CONFIDENCE</dt><dd>MEDIUM</dd><dt>SCOPE</dt><dd>Story r5 로컬 내용·상태 메타데이터만; 대본 원문 공개 없음; 현재 활동 UNKNOWN; GPTMAX active session override not directly verified; configuration alone is not runtime evidence</dd><dt>ACTUAL_DEFAULT_REASONING</dt><dd>UNKNOWN</dd><dt>REASONING_POLICY</dt><dd>LOW_DEFAULT_DYNAMIC_ESCALATION</dd></dl><dl><dt>마지막 확정 기록</dt><dd>LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_미확인; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00</dd><dt>기록 당시 다음 행동</dt><dd>Story 승인 workflow 운영 E2E 근거와 현재 결정 유효성 확인; 제작 단계 HOLD</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>LOCAL_REGISTRY</dd><dt>출처</dt><dd>Story r5 state + delivery receipt + structured record status count</dd><dt>확정 시각</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>정보 확인 시각</dt><dd>2026-09-09T16:52:25+09:00</dd><dt>최신성</dt><dd>STALE</dd></dl></article>
+<article class="small"><h3>Windows 로컬LLM 두뇌</h3><dl><dt>VALUE</dt><dd>Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd></dl><dl><dt>마지막 확정 기록</dt><dd>Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED</dd><dt>기록 당시 다음 행동</dt><dd>독립 실효성 재검수 결과 수신</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd><dt>직접 검증</dt><dd>원본 접근 불가</dd></dl></article>
+<article class="small"><h3>지피티비서</h3><dl><dt>VALUE</dt><dd>Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00</dd><dt>OBSERVED_AT</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_RUNTIME_AND_CEO_REPORTED_RECEIPT</dd><dt>SCOPE</dt><dd>일반 채팅 receiver만; 모델 호출·API 접수 직접 확인, 사람 수신은 CEO 보고</dd></dl><dl><dt>마지막 확정 기록</dt><dd>Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00</dd><dt>기록 당시 다음 행동</dt><dd>기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리</dd><dt>현재 활동</dt><dd>일반 채팅 receiver 실행 관측; 그 외 프로젝트 활동 미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>출처</dt><dd>Current receiver registration + process + health; human receipt is CEO_REPORTED</dd><dt>확정 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>정보 확인 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>최신성</dt><dd>CURRENT</dd></dl></article>
+</details>
+<details><summary>체크포인트 이력</summary>
+<article class="small"><h3>Shorts 파이프라인 checkpoint</h3><dl><dt>VALUE</dt><dd>PRODUCTION_GATE=CLOSED</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>PRODUCTION_GATE=CLOSED</dd><dt>기록 당시 다음 행동</dt><dd>대본 최종 결정 후 승인 범위에 따라 후속 단계 판단</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+<article class="small"><h3>Story Engine checkpoint</h3><dl><dt>VALUE</dt><dd>N5-ES-001 r3C 동결 / CEO_SCRIPT_APPROVAL=PENDING</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>N5-ES-001 r3C 동결 / CEO_SCRIPT_APPROVAL=PENDING</dd><dt>기록 당시 다음 행동</dt><dd>CEO가 r3C 채택 또는 수정 방향 결정</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+<article class="small"><h3>Telegram 대본 승인 checkpoint</h3><dl><dt>VALUE</dt><dd>blocker 3개 CLOSED; callback/idempotency/update/rollback PASS; 승인카드 READY=YES</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>blocker 3개 CLOSED; callback/idempotency/update/rollback PASS; 승인카드 READY=YES</dd><dt>기록 당시 다음 행동</dt><dd>실제 운영 E2E 결과 수신·대조</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+<article class="small"><h3>Windows 검증·안전 계층 checkpoint</h3><dl><dt>VALUE</dt><dd>Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료</dd><dt>기록 당시 다음 행동</dt><dd>독립 재검수 결과 확인</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+<article class="small"><h3>Mac 무인 운영 계획 checkpoint</h3><dl><dt>VALUE</dt><dd>비서 scheduler 설계만 / AUTO_START=NO</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>비서 scheduler 설계만 / AUTO_START=NO</dd><dt>기록 당시 다음 행동</dt><dd>계획 검토 후 별도 승인 전까지 설치하지 않음</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+<article class="small"><h3>CEO 운영 대시보드 checkpoint</h3><dl><dt>VALUE</dt><dd>ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비</dd><dt>OBSERVED_AT</dt><dd>2026-09-09T16:47:48.473094+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_EVIDENCE</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비</dd><dt>기록 당시 다음 행동</dt><dd>public-safe 초기 dashboard 업로드</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>출처</dt><dd>직접 로컬 확인</dd><dt>확정 시각</dt><dd>2026-09-09T16:47:48.473094+00:00</dd><dt>정보 확인 시각</dt><dd>2026-09-09T16:47:48.473094+00:00</dd><dt>최신성</dt><dd>CURRENT</dd></dl></article>
+<article class="small"><h3>지피티비서 역량·운영 checkpoint</h3><dl><dt>VALUE</dt><dd>capability upgrade PASS_LIMITED / 10 tests PASS</dd><dt>OBSERVED_AT</dt><dd>2026-09-09T14:56:03.066833+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_EVIDENCE</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>capability upgrade PASS_LIMITED / 10 tests PASS</dd><dt>기록 당시 다음 행동</dt><dd>기존 권한 안에서 다음 수동 요청 처리</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>출처</dt><dd>직접 로컬 확인</dd><dt>확정 시각</dt><dd>2026-09-09T14:56:03.066833+00:00</dd><dt>정보 확인 시각</dt><dd>2026-09-09T14:56:03.066833+00:00</dd><dt>최신성</dt><dd>STALE</dd></dl></article>
+</details>
+<details><summary>채택 결정 이력</summary>
+<article class="small"><h3>수동 독립 세션 채택</h3><dl><dt>VALUE</dt><dd>A 채택 / 자동 시작·LaunchAgent 미승인</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>A 채택 / 자동 시작·LaunchAgent 미승인</dd><dt>기록 당시 다음 행동</dt><dd>채택한 범위 유지</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+<article class="small"><h3>표시 이름 확정</h3><dl><dt>VALUE</dt><dd>지피티비서 / PERSONAL_ASSISTANT_01 유지</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>지피티비서 / PERSONAL_ASSISTANT_01 유지</dd><dt>기록 당시 다음 행동</dt><dd>채택한 범위 유지</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+<article class="small"><h3>속도 우선 모델 정책</h3><dl><dt>VALUE</dt><dd>gpt-6-astra / low 기본 / SPEED_FIRST_DYNAMIC</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd><dt>REASONING_POLICY</dt><dd>LOW_DEFAULT_DYNAMIC_ESCALATION</dd></dl><dl><dt>마지막 확정 기록</dt><dd>gpt-6-astra / low 기본 / SPEED_FIRST_DYNAMIC</dd><dt>기록 당시 다음 행동</dt><dd>채택한 범위 유지</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+<article class="small"><h3>GitHub 제한 쓰기 승인</h3><dl><dt>VALUE</dt><dd>ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비</dd><dt>OBSERVED_AT</dt><dd>2026-09-09T16:47:48.473094+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_EVIDENCE</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비</dd><dt>기록 당시 다음 행동</dt><dd>public-safe 초기 dashboard 업로드</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>출처</dt><dd>직접 로컬 확인</dd><dt>확정 시각</dt><dd>2026-09-09T16:47:48.473094+00:00</dd><dt>정보 확인 시각</dt><dd>2026-09-09T16:47:48.473094+00:00</dd><dt>최신성</dt><dd>CURRENT</dd></dl></article>
+<article class="small"><h3>전달 채널 경계</h3><dl><dt>VALUE</dt><dd>Telegram disabled / Pages publish 미승인</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd><dt>SCOPE</dt><dd>HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음</dd></dl><dl><dt>마지막 확정 기록</dt><dd>Telegram disabled / Pages publish 미승인</dd><dt>기록 당시 다음 행동</dt><dd>채택한 범위 유지</dd><dt>현재 활동</dt><dd>미확인</dd><dt>제약</dt><dd>없음</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>출처</dt><dd>CEO·매니저 전달 checkpoint</dd><dt>확정 시각</dt><dd>미확인</dd><dt>정보 확인 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd></dl></article>
+</details>
+<details><summary>환경 기록</summary>
+<article class="small"><h3>Mac · GPTMAX 환경</h3><dl><dt>VALUE</dt><dd>macOS 환경 관측; 현재 작업 여부는 별도 확인 필요</dd><dt>OBSERVED_AT</dt><dd>2026-09-09T14:56:03.066833+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_EVIDENCE</dd></dl><dl><dt>마지막 확정 기록</dt><dd>macOS 환경 관측; 현재 작업 여부는 별도 확인 필요</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>확정 시각</dt><dd>2026-09-09T14:56:03.066833+00:00</dd><dt>최신성</dt><dd>STALE</dd></dl></article>
+<article class="small"><h3>Windows · 로컬LLM</h3><dl><dt>VALUE</dt><dd>Windows 운영 주체 확인 보고; 세부 환경 직접 검증 불가</dd><dt>OBSERVED_AT</dt><dd>UNKNOWN</dd><dt>CONFIDENCE</dt><dd>REPORTED_UNVERIFIED</dd></dl><dl><dt>마지막 확정 기록</dt><dd>Windows 운영 주체 확인 보고; 세부 환경 직접 검증 불가</dd><dt>근거 종류</dt><dd>매니저 보고</dd><dt>확정 시각</dt><dd>미확인</dd><dt>최신성</dt><dd>미확인</dd><dt>직접 검증</dt><dd>원본 접근 불가</dd></dl></article>
+<article class="small"><h3>Mac · 비서 분리 환경</h3><dl><dt>VALUE</dt><dd>Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00</dd><dt>OBSERVED_AT</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>CONFIDENCE</dt><dd>DIRECT_RUNTIME_AND_CEO_REPORTED_RECEIPT</dd><dt>SCOPE</dt><dd>일반 채팅 receiver만; 모델 호출·API 접수 직접 확인, 사람 수신은 CEO 보고</dd></dl><dl><dt>마지막 확정 기록</dt><dd>Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00</dd><dt>기록 당시 다음 행동</dt><dd>기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리</dd><dt>현재 활동</dt><dd>일반 채팅 receiver 실행 관측; 그 외 프로젝트 활동 미확인</dd><dt>근거 종류</dt><dd>직접 확인 기록</dd><dt>출처</dt><dd>Current receiver registration + process + health; human receipt is CEO_REPORTED</dd><dt>확정 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>정보 확인 시각</dt><dd>2026-09-10T15:18:26.721162+00:00</dd><dt>최신성</dt><dd>CURRENT</dd></dl></article>
+</details>
+<details><summary>결정 경계 · 정보 최신성 · 게시 확인</summary><p>출처별 기록 시각은 각 항목에 표시합니다. 정본 채택 시각은 운영 관측 시각이 아닙니다. 보고 대기는 실패 판정이 아닙니다.</p><p>정본 채택: 미확인</p>
+<p>N5 r3C 최종 채택 또는 수정 방향 · 선행조건 후 결정</p><p>결정 기록은 실행 승인이 아닙니다.</p>
+<p>g057 S02-FINAL 채택 또는 수정 방향 결정 · 미확인</p><p>대본 채택은 실제 이미지 시험 실행 승인이 아닙니다.</p>
+</details><details><summary>전체 공개 레코드 · JSON 정합성 자료</summary><p class="muted">VALUE는 항목의 마지막 확정 상태입니다. 관측 시각 미제공은 UNKNOWN입니다. 과거 기록과 현재 활동은 별개입니다.</p>
+<article class="small" data-record="agents/GPTMAX"><h3>agents/GPTMAX</h3><dl>
+<dt>ACTUAL_DEFAULT_REASONING</dt><dd data-field="ACTUAL_DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;MEDIUM&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;Mac / 기존 Gateway&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;STALE&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;GPTMAX&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_UNKNOWN; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;gpt-6-astra&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;GPTMAX&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;Story 승인 workflow 운영 E2E 근거와 현재 결정 유효성 확인; 제작 단계 HOLD&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>REASONING_POLICY</dt><dd data-field="REASONING_POLICY">&quot;LOW_DEFAULT_DYNAMIC_ESCALATION&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;Shorts 분석·스토리·제작 파이프라인 관리자&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;Story r5 로컬 내용·상태 메타데이터만; 대본 원문 공개 없음; 현재 활동 UNKNOWN; GPTMAX active session override not directly verified; configuration alone is not runtime evidence&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Story r5 state + delivery receipt + structured record status count&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;LOCAL_REGISTRY&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;YES&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;OPERATING_ENTITY&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_UNKNOWN; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;STORY_APPROVAL_WORKFLOW_E2E&quot;,&quot;CEO_SCRIPT_APPROVAL&quot;]</dd>
+</dl></article>
+<article class="small" data-record="agents/WINDOWS_BRAIN"><h3>agents/WINDOWS_BRAIN</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;Windows / 상세 미확인&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;WINDOWS_BRAIN&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED&quot;</dd>
+<dt>LOCAL_SOURCE_STATUS</dt><dd data-field="LOCAL_SOURCE_STATUS">&quot;LOCAL_SOURCE_UNAVAILABLE&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Windows 로컬LLM 두뇌&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;독립 실효성 재검수 결과 수신&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;Windows 로컬LLM 두뇌&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;검증·anti-hallucination·preflight·운영 안전·후보 코드/검증 도구 개발&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;OPERATING_ENTITY&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;INDEPENDENT_REVIEW_REPORT&quot;]</dd>
+</dl></article>
+<article class="small" data-record="agents/PERSONAL_ASSISTANT_01"><h3>agents/PERSONAL_ASSISTANT_01</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_RUNTIME_AND_CEO_REPORTED_RECEIPT&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;일반 채팅 receiver 실행 관측; 그 외 프로젝트 활동 UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;low&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;Mac / 분리된 비서 receiver 서비스&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;PERSONAL_ASSISTANT_01&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;gpt-6-astra&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;지피티비서&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;CEO_DIRECT_PERSONAL_ASSISTANT + CEO_OPERATIONS_HUB&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;일반 채팅 receiver만; 모델 호출·API 접수 직접 확인, 사람 수신은 CEO 보고&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current receiver registration + process + health; human receipt is CEO_REPORTED&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;OBSERVED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;OPERATING_ENTITY&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="ceo_tasks/CEO_R3C"><h3>ceo_tasks/CEO_R3C</h3><dl>
+<dt>ADOPTED_AT</dt><dd data-field="ADOPTED_AT">&quot;2026-09-09T18:50:30.729725+00:00&quot;</dd>
+<dt>APPROVAL_BOUNDARY</dt><dd data-field="APPROVAL_BOUNDARY">&quot;결정 기록은 실행 승인이 아닙니다.&quot;</dd>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;채택 또는 수정 방향 결정&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;ACTION_AFTER_PREREQUISITE&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CEO_R3C&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;대본 동결·최종 승인 대기&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;N5 r3C 최終 채택 또는 수정 방향&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;CEO&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님&quot;</dd>
+<dt>PROJECT_IDS</dt><dd data-field="PROJECT_IDS">[&quot;SHORTS_PIPELINE&quot;,&quot;STORY_ENGINE&quot;]</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;N5 선행조건 후 결정; Story r5 로컬 내용 완료는 최종 승인이나 workflow E2E PASS 아님&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO / MANAGER LIMITED APPROVAL — r3C CANONICAL ADOPTION 01&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;PENDING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TITLE</dt><dd data-field="TITLE">&quot;N5 r3C 최종 채택 또는 수정 방향&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CEO_TASK&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;대본 동결·최종 승인 대기&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="ceo_tasks/CEO_G057_FINAL"><h3>ceo_tasks/CEO_G057_FINAL</h3><dl>
+<dt>ADOPTED_AT</dt><dd data-field="ADOPTED_AT">&quot;2026-09-09T18:50:30.729725+00:00&quot;</dd>
+<dt>APPROVAL_BOUNDARY</dt><dd data-field="APPROVAL_BOUNDARY">&quot;대본 채택은 실제 이미지 시험 실행 승인이 아닙니다.&quot;</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;현재 결정 요청 유효성 UNKNOWN; 재요청하지 않음&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_FINAL_SELECTION</dt><dd data-field="CEO_FINAL_SELECTION">&quot;PENDING&quot;</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CEO_G057_FINAL&quot;</dd>
+<dt>IMAGE_EXECUTION_APPROVAL</dt><dd data-field="IMAGE_EXECUTION_APPROVAL">&quot;NOT_APPROVED&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;g057 S02-FINAL 채택 또는 수정 방향 결정&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;최신 CEO 최종 선택 근거 및 요청 유효성 확인 후 갱신&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;CEO&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;최신 최종 선택·결정 요청 유효성 근거&quot;</dd>
+<dt>PROJECT_IDS</dt><dd data-field="PROJECT_IDS">[&quot;g057&quot;]</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;과거 미시각 adoption의 PENDING/V1은 마지막 보고 기록; 현재 요청 근거가 아님&quot;</dd>
+<dt>SELECTED_INTERNAL_VERSION</dt><dd data-field="SELECTED_INTERNAL_VERSION">&quot;V1&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO / MANAGER LIMITED APPROVAL — r3C CANONICAL ADOPTION 01&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;PENDING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TITLE</dt><dd data-field="TITLE">&quot;g057 S02-FINAL 채택 또는 수정 방향 결정&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CEO_TASK&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;UNKNOWN&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">&quot;UNKNOWN&quot;</dd>
+</dl></article>
+<article class="small" data-record="checkpoints/CP_SHORTS_PIPELINE"><h3>checkpoints/CP_SHORTS_PIPELINE</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CP_SHORTS_PIPELINE&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;PRODUCTION_GATE=CLOSED&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Shorts 파이프라인 checkpoint&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;대본 최종 결정 후 승인 범위에 따라 후속 단계 판단&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CHECKPOINT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;PRODUCTION_GATE=CLOSED&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;CEO_SCRIPT_APPROVAL&quot;]</dd>
+</dl></article>
+<article class="small" data-record="checkpoints/CP_STORY_ENGINE"><h3>checkpoints/CP_STORY_ENGINE</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CP_STORY_ENGINE&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;N5-ES-001 r3C 동결 / CEO_SCRIPT_APPROVAL=PENDING&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Story Engine checkpoint&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;CEO가 r3C 채택 또는 수정 방향 결정&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CHECKPOINT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;N5-ES-001 r3C 동결 / CEO_SCRIPT_APPROVAL=PENDING&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;CEO_SCRIPT_APPROVAL&quot;]</dd>
+</dl></article>
+<article class="small" data-record="checkpoints/CP_TELEGRAM_SCRIPT_APPROVAL"><h3>checkpoints/CP_TELEGRAM_SCRIPT_APPROVAL</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CP_TELEGRAM_SCRIPT_APPROVAL&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;blocker 3개 CLOSED; callback/idempotency/update/rollback PASS; 승인카드 READY=YES&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Telegram 대본 승인 checkpoint&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;실제 운영 E2E 결과 수신·대조&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;READY&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CHECKPOINT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;blocker 3개 CLOSED; callback/idempotency/update/rollback PASS; 승인카드 READY=YES&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;TELEGRAM_OPERATIONAL_E2E_REPORT&quot;]</dd>
+</dl></article>
+<article class="small" data-record="checkpoints/CP_WINDOWS_ANTI_HALLUCINATION"><h3>checkpoints/CP_WINDOWS_ANTI_HALLUCINATION</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CP_WINDOWS_ANTI_HALLUCINATION&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Windows 검증·안전 계층 checkpoint&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;독립 재검수 결과 확인&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;Windows 로컬LLM 두뇌&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CHECKPOINT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;INDEPENDENT_REVIEW_REPORT&quot;]</dd>
+</dl></article>
+<article class="small" data-record="checkpoints/CP_MAC_UNATTENDED_OPS"><h3>checkpoints/CP_MAC_UNATTENDED_OPS</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CP_MAC_UNATTENDED_OPS&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;비서 scheduler 설계만 / AUTO_START=NO&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Mac 무인 운영 계획 checkpoint&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;계획 검토 후 별도 승인 전까지 설치하지 않음&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;PLANNED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CHECKPOINT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;비서 scheduler 설계만 / AUTO_START=NO&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="checkpoints/CP_CEO_OPERATIONS_DASHBOARD"><h3>checkpoints/CP_CEO_OPERATIONS_DASHBOARD</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CP_CEO_OPERATIONS_DASHBOARD&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-09T16:47:48.473094+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;CEO 운영 대시보드 checkpoint&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;public-safe 초기 dashboard 업로드&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-09T16:47:48.473094+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;직접 로컬 확인&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;PARTIAL&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CHECKPOINT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-09T16:47:48.473094+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="checkpoints/CP_GPT_SECRETARY"><h3>checkpoints/CP_GPT_SECRETARY</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;STALE&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CP_GPT_SECRETARY&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-09T14:56:03.066833+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;capability upgrade PASS_LIMITED / 10 tests PASS&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;지피티비서 역량·운영 checkpoint&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;기존 권한 안에서 다음 수동 요청 처리&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-09T14:56:03.066833+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;직접 로컬 확인&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;READY&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;YES&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CHECKPOINT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;capability upgrade PASS_LIMITED / 10 tests PASS&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-09T14:56:03.066833+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="decisions/D_MANUAL"><h3>decisions/D_MANUAL</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;D_MANUAL&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;A 채택 / 자동 시작·LaunchAgent 미승인&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;수동 독립 세션 채택&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;채택한 범위 유지&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;CEO&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;ADOPTED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CEO_DECISION&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;A 채택 / 자동 시작·LaunchAgent 미승인&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="decisions/D_NAME"><h3>decisions/D_NAME</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;D_NAME&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;지피티비서 / PERSONAL_ASSISTANT_01 유지&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;표시 이름 확정&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;채택한 범위 유지&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;CEO&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;ADOPTED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CEO_DECISION&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;지피티비서 / PERSONAL_ASSISTANT_01 유지&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="decisions/D_MODEL"><h3>decisions/D_MODEL</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;D_MODEL&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;gpt-6-astra / low 기본 / SPEED_FIRST_DYNAMIC&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;속도 우선 모델 정책&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;채택한 범위 유지&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;CEO&quot;</dd>
+<dt>REASONING_POLICY</dt><dd data-field="REASONING_POLICY">&quot;LOW_DEFAULT_DYNAMIC_ESCALATION&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;ADOPTED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CEO_DECISION&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;gpt-6-astra / low 기본 / SPEED_FIRST_DYNAMIC&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="decisions/D_GITHUB_HOLD"><h3>decisions/D_GITHUB_HOLD</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;D_GITHUB_HOLD&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-09T16:47:48.473094+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;GitHub 제한 쓰기 승인&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;public-safe 초기 dashboard 업로드&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-09T16:47:48.473094+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;CEO&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;직접 로컬 확인&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;ADOPTED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CEO_DECISION&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-09T16:47:48.473094+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="decisions/D_CHANNEL"><h3>decisions/D_CHANNEL</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;D_CHANNEL&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Telegram disabled / Pages publish 미승인&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;전달 채널 경계&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;채택한 범위 유지&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;CEO&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;UNKNOWN&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;ADOPTED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;CEO_DECISION&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Telegram disabled / Pages publish 미승인&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="environments/MAC_GPTMAX"><h3>environments/MAC_GPTMAX</h3><dl>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;STALE&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;MAC_GPTMAX&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-09T14:56:03.066833+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;macOS 환경 관측; 현재 작업 여부는 별도 확인 필요&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Mac · GPTMAX 환경&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-09T14:56:03.066833+00:00&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;Shorts·스토리·제작 관리&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;OBSERVED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;YES&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;macOS 환경 관측; 현재 작업 여부는 별도 확인 필요&quot;</dd>
+</dl></article>
+<article class="small" data-record="environments/WINDOWS_ENV"><h3>environments/WINDOWS_ENV</h3><dl>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;WINDOWS_ENV&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Windows 운영 주체 확인 보고; 세부 환경 직접 검증 불가&quot;</dd>
+<dt>LOCAL_SOURCE_STATUS</dt><dd data-field="LOCAL_SOURCE_STATUS">&quot;LOCAL_SOURCE_UNAVAILABLE&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Windows · 로컬LLM&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;검증·안티할루시네이션·안전&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;UNKNOWN&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Windows 운영 주체 확인 보고; 세부 환경 직접 검증 불가&quot;</dd>
+</dl></article>
+<article class="small" data-record="environments/MAC_SECRETARY"><h3>environments/MAC_SECRETARY</h3><dl>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_RUNTIME_AND_CEO_REPORTED_RECEIPT&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;일반 채팅 receiver 실행 관측; 그 외 프로젝트 활동 UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;Mac / 분리된 비서 receiver 서비스&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;MAC_SECRETARY&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Mac · 비서 분리 환경&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;CEO 운영 현황·브리핑&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;일반 채팅 receiver만; 모델 호출·API 접수 직접 확인, 사람 수신은 CEO 보고&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current receiver registration + process + health; human receipt is CEO_REPORTED&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;OBSERVED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="projects/SHORTS_PIPELINE"><h3>projects/SHORTS_PIPELINE</h3><dl>
+<dt>ADOPTED_AT</dt><dd data-field="ADOPTED_AT">&quot;2026-09-09T18:50:30.729725+00:00&quot;</dd>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[&quot;대본 최종 승인 전 제작 착수 금지&quot;]</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;채택 또는 수정 방향 결정&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;ACTION_AFTER_PREREQUISITE&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;MEDIUM&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;STALE&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;SHORTS_PIPELINE&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;PRODUCTION_GATE=CLOSED; HOLD: image/TTS/production subtitles/render; no new execution approval&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Shorts 파이프라인&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;승인 workflow E2E·CEO 대본 결정 확인 전 downstream HOLD&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님&quot;</dd>
+<dt>PROJECT_ID</dt><dd data-field="PROJECT_ID">&quot;SHORTS_PIPELINE&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;분석·대본·제작 관리&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Story r5 state + delivery receipt + structured record status count&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;LOCAL_REGISTRY&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;YES&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROJECT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;PRODUCTION_GATE=CLOSED; HOLD: image/TTS/production subtitles/render; no new execution approval&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;CEO_SCRIPT_APPROVAL&quot;]</dd>
+</dl></article>
+<article class="small" data-record="projects/STORY_ENGINE"><h3>projects/STORY_ENGINE</h3><dl>
+<dt>ADOPTED_AT</dt><dd data-field="ADOPTED_AT">&quot;2026-09-09T18:50:30.729725+00:00&quot;</dd>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;채택 또는 수정 방향 결정&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;ACTION_AFTER_PREREQUISITE&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;MEDIUM&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;STALE&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;STORY_ENGINE&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_UNKNOWN; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Story Engine&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;Story 승인 workflow 운영 E2E 근거와 현재 결정 유효성 확인; 제작 단계 HOLD&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;Story 대본 승인 workflow TEST_ONLY 운영 E2E 결과 확인; 비서 일반 채팅 E2E는 이 gate의 근거가 아님&quot;</dd>
+<dt>PROJECT_ID</dt><dd data-field="PROJECT_ID">&quot;STORY_ENGINE&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;축구 Shorts 스토리와 대본 고도화&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;Story r5 로컬 내용·상태 메타데이터만; 대본 원문 공개 없음; 현재 활동 UNKNOWN&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Story r5 state + delivery receipt + structured record status count&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;LOCAL_REGISTRY&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;LOCAL_CONTENT_COMPLETE&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;YES&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROJECT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_UNKNOWN; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;STORY_APPROVAL_WORKFLOW_E2E&quot;,&quot;CEO_SCRIPT_APPROVAL&quot;]</dd>
+</dl></article>
+<article class="small" data-record="projects/TELEGRAM_SCRIPT_APPROVAL"><h3>projects/TELEGRAM_SCRIPT_APPROVAL</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;NO_CEO_ACTION&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">false</dd>
+<dt>CEO_SUMMARY</dt><dd data-field="CEO_SUMMARY">&quot;Story 승인 시스템: blocker 해소·offline chain PASS·카드 READY 유지. Live Story workflow E2E NOT_RUN; 실제 운영 결과 UNKNOWN.&quot;</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;SOURCE_VERIFIED_TIME_UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;TELEGRAM_SCRIPT_APPROVAL&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;closure-06: blockers 1–3 CLOSED; adapters READY; offline callback chain PASS; operational card READY=YES; OPERATIONAL_CHANGES=0; Live Telegram E2E NOT_RUN&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Telegram 대본 승인&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;Story 대본 승인 workflow 운영 E2E 결과 수신·대조&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OPERATIONAL_E2E_RESULT</dt><dd data-field="OPERATIONAL_E2E_RESULT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;UNKNOWN&quot;</dd>
+<dt>PROJECT_ID</dt><dd data-field="PROJECT_ID">&quot;TELEGRAM_SCRIPT_APPROVAL&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;승인 체인·중복 방지·메시지 갱신&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;GPTMAX Story 승인 workflow만; secretary receiver 결과와 별개&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;closure-06 final verification metadata; live E2E explicitly NOT_RUN&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;READY&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROJECT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;closure-06: blockers 1–3 CLOSED; adapters READY; offline callback chain PASS; operational card READY=YES; OPERATIONAL_CHANGES=0; Live Telegram E2E NOT_RUN&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;TELEGRAM_OPERATIONAL_E2E_REPORT&quot;]</dd>
+</dl></article>
+<article class="small" data-record="projects/WINDOWS_ANTI_HALLUCINATION"><h3>projects/WINDOWS_ANTI_HALLUCINATION</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CANARY_03</dt><dd data-field="CANARY_03">&quot;NOT_APPROVED&quot;</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;NO_CEO_ACTION&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">false</dd>
+<dt>CEO_SUMMARY</dt><dd data-field="CEO_SUMMARY">&quot;Windows: 수정 보고 완료. 독립 재검수 결과를 기다립니다.&quot;</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;WINDOWS_ANTI_HALLUCINATION&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료&quot;</dd>
+<dt>LOCAL_SOURCE_STATUS</dt><dd data-field="LOCAL_SOURCE_STATUS">&quot;LOCAL_SOURCE_UNAVAILABLE&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Windows 검증·안전 계층&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;독립 재검수 결과 확인&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;Windows 로컬LLM 두뇌&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;UNKNOWN&quot;</dd>
+<dt>PROJECT_ID</dt><dd data-field="PROJECT_ID">&quot;WINDOWS_ANTI_HALLUCINATION&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;Observer 검증·운영 안전&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO STATUS BRIEFING RULE UPDATE-01&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROJECT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Observer v3 r2 수정 전달 및 무결성 PASS; MGR-WOV3-01~05 수정 보고 완료&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;INDEPENDENT_REVIEW_REPORT&quot;]</dd>
+</dl></article>
+<article class="small" data-record="projects/MAC_UNATTENDED_OPS"><h3>projects/MAC_UNATTENDED_OPS</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[&quot;scheduler activation BLOCKED; safety boundary; no bypass&quot;]</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;NO_CEO_ACTION&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;비활성 scheduler; 실제 다음 실행 UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;MAC_UNATTENDED_OPS&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Mac 무인 운영 계획&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;UNKNOWN&quot;</dd>
+<dt>PROJECT_ID</dt><dd data-field="PROJECT_ID">&quot;MAC_UNATTENDED_OPS&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;비서 정기 브리프의 격리 실행 구조 검토&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;비서 briefing scheduler만; 일반 채팅 receiver는 실행 중&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current schedule registration absence + schedule state&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;PLANNED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROJECT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="projects/CEO_OPERATIONS_DASHBOARD"><h3>projects/CEO_OPERATIONS_DASHBOARD</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;NO_CEO_ACTION&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;정적 snapshot; 배포 결과는 외부 게시 검증 기록과 분리&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;CEO_OPERATIONS_DASHBOARD&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;r4 successor release artifact; prior public r2 verified; r3 candidate retained; CEO limited publication approved&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;CEO 운영 대시보드&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;의미 있는 상태 변화 때 다음 후보 갱신; 자동 게시 권한 없음&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;UNKNOWN&quot;</dd>
+<dt>PROJECT_ID</dt><dd data-field="PROJECT_ID">&quot;CEO_OPERATIONS_DASHBOARD&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;JSON 정본 기반 운영 현황 화면&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;이번 r4 제한 게시 승인; 과거 r2 관측 시각 보존; 배포 완료를 사전 추정하지 않음&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current public HTTP and Pages/main read-only verification&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;RELEASE_ARTIFACT&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROJECT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;r4 successor release artifact; prior public r2 verified; r3 candidate retained; CEO limited publication approved&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="projects/GPT_SECRETARY"><h3>projects/GPT_SECRETARY</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;NO_CEO_ACTION&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_RUNTIME_AND_CEO_REPORTED_RECEIPT&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;일반 채팅 receiver 실행 관측; 그 외 프로젝트 활동 UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;Mac / 분리된 비서 receiver 서비스&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;GPT_SECRETARY&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;지피티비서 역량·운영&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;UNKNOWN&quot;</dd>
+<dt>PROJECT_ID</dt><dd data-field="PROJECT_ID">&quot;GPT_SECRETARY&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;CEO 정보 정리·판단·후속 추적&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;일반 채팅 receiver만; 모델 호출·API 접수 직접 확인, 사람 수신은 CEO 보고&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current receiver registration + process + health; human receipt is CEO_REPORTED&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;OBSERVED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROJECT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="projects/g057"><h3>projects/g057</h3><dl>
+<dt>ADOPTED_AT</dt><dd data-field="ADOPTED_AT">&quot;2026-09-09T18:50:30.729725+00:00&quot;</dd>
+<dt>CEO_ACTION</dt><dd data-field="CEO_ACTION">&quot;현재 결정 요청 유효성 UNKNOWN; 재요청하지 않음&quot;</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_ACTION_STATE</dt><dd data-field="CEO_ACTION_STATE">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_DECISION_REQUIRED</dt><dd data-field="CEO_DECISION_REQUIRED">&quot;UNKNOWN&quot;</dd>
+<dt>CEO_FINAL_SELECTION</dt><dd data-field="CEO_FINAL_SELECTION">&quot;PENDING&quot;</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;g057&quot;</dd>
+<dt>IMAGE_EXECUTION_APPROVAL</dt><dd data-field="IMAGE_EXECUTION_APPROVAL">&quot;NOT_APPROVED&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;CEO_FINAL_SELECTION=PENDING / IMAGE_EXECUTION_APPROVAL=NOT_APPROVED / SELECTED_INTERNAL_VERSION=V1&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;g057&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;최신 CEO 최종 선택 근거 및 요청 유효성 확인 후 갱신&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>PREREQUISITE</dt><dd data-field="PREREQUISITE">&quot;최신 최종 선택·결정 요청 유효성 근거&quot;</dd>
+<dt>PROJECT_ID</dt><dd data-field="PROJECT_ID">&quot;g057&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;과거 미시각 adoption의 PENDING/V1은 마지막 보고 기록; 현재 요청 근거가 아님&quot;</dd>
+<dt>SELECTED_INTERNAL_VERSION</dt><dd data-field="SELECTED_INTERNAL_VERSION">&quot;V1&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO / MANAGER LIMITED APPROVAL — r3C CANONICAL ADOPTION 01&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROJECT&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;CEO_FINAL_SELECTION=PENDING / IMAGE_EXECUTION_APPROVAL=NOT_APPROVED / SELECTED_INTERNAL_VERSION=V1&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;CEO_FINAL_SELECTION&quot;]</dd>
+</dl></article>
+<article class="small" data-record="schedules/MIDDAY_BRIEF"><h3>schedules/MIDDAY_BRIEF</h3><dl>
+<dt>AUTO_EXECUTION</dt><dd data-field="AUTO_EXECUTION">false</dd>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[&quot;scheduler activation BLOCKED; safety boundary; no bypass&quot;]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;비활성 scheduler; 실제 다음 실행 UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENABLED</dt><dd data-field="ENABLED">false</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;MIDDAY_BRIEF&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개&quot;</dd>
+<dt>LOCAL_TIME</dt><dd data-field="LOCAL_TIME">&quot;14:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;MIDDAY_BRIEF&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음&quot;</dd>
+<dt>NEXT_RUN_AT</dt><dd data-field="NEXT_RUN_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>PROACTIVE_NOTIFICATION</dt><dd data-field="PROACTIVE_NOTIFICATION">false</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;오늘 진행 상황·CEO 할 일·새 blocker·오전/낮 동안 들어온 보고&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;비서 briefing scheduler만; 일반 채팅 receiver는 실행 중&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current schedule registration absence + schedule state&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;PLANNED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TIMEZONE</dt><dd data-field="TIMEZONE">&quot;Asia/Seoul&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROPOSED_SCHEDULE&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="schedules/EVENING_CHECK"><h3>schedules/EVENING_CHECK</h3><dl>
+<dt>AUTO_EXECUTION</dt><dd data-field="AUTO_EXECUTION">false</dd>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[&quot;scheduler activation BLOCKED; safety boundary; no bypass&quot;]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;비활성 scheduler; 실제 다음 실행 UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENABLED</dt><dd data-field="ENABLED">false</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;EVENING_CHECK&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개&quot;</dd>
+<dt>LOCAL_TIME</dt><dd data-field="LOCAL_TIME">&quot;19:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;EVENING_CHECK&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음&quot;</dd>
+<dt>NEXT_RUN_AT</dt><dd data-field="NEXT_RUN_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>PROACTIVE_NOTIFICATION</dt><dd data-field="PROACTIVE_NOTIFICATION">false</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;지연된 작업·새 승인 필요 사항·저녁 이후 넘길 작업·아직 기다리는 보고&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;비서 briefing scheduler만; 일반 채팅 receiver는 실행 중&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current schedule registration absence + schedule state&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;PLANNED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TIMEZONE</dt><dd data-field="TIMEZONE">&quot;Asia/Seoul&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROPOSED_SCHEDULE&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="schedules/MIDNIGHT_WRAP"><h3>schedules/MIDNIGHT_WRAP</h3><dl>
+<dt>AUTO_EXECUTION</dt><dd data-field="AUTO_EXECUTION">false</dd>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[&quot;scheduler activation BLOCKED; safety boundary; no bypass&quot;]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_EVIDENCE&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;비활성 scheduler; 실제 다음 실행 UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENABLED</dt><dd data-field="ENABLED">false</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;UNKNOWN&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;MIDNIGHT_WRAP&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개&quot;</dd>
+<dt>LOCAL_TIME</dt><dd data-field="LOCAL_TIME">&quot;00:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;MIDNIGHT_WRAP&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;비활성 유지; 승인·안전 gate 해소 전 설치 또는 우회 없음&quot;</dd>
+<dt>NEXT_RUN_AT</dt><dd data-field="NEXT_RUN_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>PROACTIVE_NOTIFICATION</dt><dd data-field="PROACTIVE_NOTIFICATION">false</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;오늘 완료·미완료·stale checkpoint·다음날 첫 행동·밤사이 자동 작업/대기 상태&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;비서 briefing scheduler만; 일반 채팅 receiver는 실행 중&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current schedule registration absence + schedule state&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;PLANNED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TIMEZONE</dt><dd data-field="TIMEZONE">&quot;Asia/Seoul&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;PROPOSED_SCHEDULE&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;비서 briefing schedule 정책 구성; scheduler service 미등록; AUTO_EXECUTION=FALSE; receiver service와 별개&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+<article class="small" data-record="systems/GPTMAX"><h3>systems/GPTMAX</h3><dl>
+<dt>ACTUAL_DEFAULT_REASONING</dt><dd data-field="ACTUAL_DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;MEDIUM&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;Mac / 기존 Gateway&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;STALE&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;GPTMAX&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_UNKNOWN; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;gpt-6-astra&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;GPTMAX&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;Story 승인 workflow 운영 E2E 근거와 현재 결정 유효성 확인; 제작 단계 HOLD&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;GPTMAX&quot;</dd>
+<dt>REASONING_POLICY</dt><dd data-field="REASONING_POLICY">&quot;LOW_DEFAULT_DYNAMIC_ESCALATION&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;Shorts 분석·스토리·제작 파이프라인 관리자&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;Story r5 로컬 내용·상태 메타데이터만; 대본 원문 공개 없음; 현재 활동 UNKNOWN; GPTMAX active session override not directly verified; configuration alone is not runtime evidence&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Story r5 state + delivery receipt + structured record status count&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;LOCAL_REGISTRY&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;YES&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;OPERATING_ENTITY&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;LOCAL_CONTENT_COMPLETE; CURRENT_ACTIVITY_UNKNOWN; PRIORITY=STORY_FIRST; FULL_SCRIPTS=61; RECOMMENDED_SCRIPTS=5; CEO_SCRIPT_DECISION=PENDING; PRODUCTION_GATE=CLOSED; LAST_STORY_BATCH_AT=2026-09-09T16:56:02.423893+09:00&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-09T16:52:25+09:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;STORY_APPROVAL_WORKFLOW_E2E&quot;,&quot;CEO_SCRIPT_APPROVAL&quot;]</dd>
+</dl></article>
+<article class="small" data-record="systems/WINDOWS_BRAIN"><h3>systems/WINDOWS_BRAIN</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;REPORTED_UNVERIFIED&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;UNKNOWN&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;UNKNOWN&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;Windows / 상세 미확인&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;UNKNOWN&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;WINDOWS_BRAIN&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED&quot;</dd>
+<dt>LOCAL_SOURCE_STATUS</dt><dd data-field="LOCAL_SOURCE_STATUS">&quot;LOCAL_SOURCE_UNAVAILABLE&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;UNKNOWN&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;Windows 로컬LLM 두뇌&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;독립 실효성 재검수 결과 수신&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;Windows 로컬LLM 두뇌&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;검증·anti-hallucination·preflight·운영 안전·후보 코드/검증 도구 개발&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;CEO·매니저 전달 checkpoint&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;MANAGER_REPORTED&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;WAITING&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;UNKNOWN&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;OPERATING_ENTITY&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Observer v3 r2 전달 · ZIP/manifest PASS · MGR-WOV3-01~05 수정 보고 완료 · 독립 재검수 PENDING · CANARY_03 NOT_APPROVED&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;UNKNOWN&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[&quot;INDEPENDENT_REVIEW_REPORT&quot;]</dd>
+</dl></article>
+<article class="small" data-record="systems/PERSONAL_ASSISTANT_01"><h3>systems/PERSONAL_ASSISTANT_01</h3><dl>
+<dt>BLOCKERS</dt><dd data-field="BLOCKERS">[]</dd>
+<dt>CEO_ACTION_REQUIRED</dt><dd data-field="CEO_ACTION_REQUIRED">false</dd>
+<dt>CONFIDENCE</dt><dd data-field="CONFIDENCE">&quot;DIRECT_RUNTIME_AND_CEO_REPORTED_RECEIPT&quot;</dd>
+<dt>CURRENT_ACTIVITY</dt><dd data-field="CURRENT_ACTIVITY">&quot;일반 채팅 receiver 실행 관측; 그 외 프로젝트 활동 UNKNOWN&quot;</dd>
+<dt>CURRENT_ACTIVITY_CONFIDENCE</dt><dd data-field="CURRENT_ACTIVITY_CONFIDENCE">&quot;FACT&quot;</dd>
+<dt>DEFAULT_REASONING</dt><dd data-field="DEFAULT_REASONING">&quot;low&quot;</dd>
+<dt>ENVIRONMENT</dt><dd data-field="ENVIRONMENT">&quot;Mac / 분리된 비서 receiver 서비스&quot;</dd>
+<dt>FRESHNESS</dt><dd data-field="FRESHNESS">&quot;CURRENT&quot;</dd>
+<dt>ID</dt><dd data-field="ID">&quot;PERSONAL_ASSISTANT_01&quot;</dd>
+<dt>LAST_CONFIRMED_AT</dt><dd data-field="LAST_CONFIRMED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>LAST_CONFIRMED_STATE</dt><dd data-field="LAST_CONFIRMED_STATE">&quot;Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00&quot;</dd>
+<dt>MODEL</dt><dd data-field="MODEL">&quot;gpt-6-astra&quot;</dd>
+<dt>NAME</dt><dd data-field="NAME">&quot;지피티비서&quot;</dd>
+<dt>NEXT_ACTION</dt><dd data-field="NEXT_ACTION">&quot;기존 승인 범위에서 수신 요청 처리; Story 승인 workflow E2E와 분리&quot;</dd>
+<dt>OBSERVED_AT</dt><dd data-field="OBSERVED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>OWNER</dt><dd data-field="OWNER">&quot;지피티비서&quot;</dd>
+<dt>ROLE</dt><dd data-field="ROLE">&quot;CEO_DIRECT_PERSONAL_ASSISTANT + CEO_OPERATIONS_HUB&quot;</dd>
+<dt>SCOPE</dt><dd data-field="SCOPE">&quot;일반 채팅 receiver만; 모델 호출·API 접수 직접 확인, 사람 수신은 CEO 보고&quot;</dd>
+<dt>SOURCE</dt><dd data-field="SOURCE">&quot;Current receiver registration + process + health; human receipt is CEO_REPORTED&quot;</dd>
+<dt>SOURCE_TYPE</dt><dd data-field="SOURCE_TYPE">&quot;FACT&quot;</dd>
+<dt>STATUS</dt><dd data-field="STATUS">&quot;OBSERVED&quot;</dd>
+<dt>STATUS_STALE</dt><dd data-field="STATUS_STALE">&quot;NO&quot;</dd>
+<dt>TYPE</dt><dd data-field="TYPE">&quot;OPERATING_ENTITY&quot;</dd>
+<dt>VALUE</dt><dd data-field="VALUE">&quot;Secretary receiver: SERVICE_REGISTERED=TRUE; RECEIVE_MODE=LONG_POLLING; PROCESS_RUNNING=TRUE; MODEL_CALL_STATUS=PASS; SEND_STATUS=API_ACCEPTED; completed=2; receiver_count=1; HUMAN_RECEIVED=CEO_REPORTED_CONFIRMED (CEO report; not inferred from API acceptance); GENERAL_CHAT_RECEIVER=VERIFIED; PROTECT_CONTENT=FALSE; BACKLOG_REPLAY=NO (policy preserved); DUPLICATE_RECEIVER=NO (dedicated local scope); LAST_MODEL_REPLY_AT=2026-09-10T14:54:05.796762+00:00&quot;</dd>
+<dt>VERIFIED_AT</dt><dd data-field="VERIFIED_AT">&quot;2026-09-10T15:18:26.721162+00:00&quot;</dd>
+<dt>WAITING_FOR</dt><dd data-field="WAITING_FOR">[]</dd>
+</dl></article>
+</details></section><footer>공개 JSON → 정적 HTML · JSON 변경 후 다시 빌드해야 반영됩니다.<br>자동 보고·실행·승인 기능 없음. 준비 검증과 운영 E2E 성공은 다릅니다.</footer></main></body></html>

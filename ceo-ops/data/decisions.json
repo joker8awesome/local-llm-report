@@ -1,5 +1,7 @@
 {
   "CLASSIFICATION": "PUBLIC_SAFE_DATA",
+  "SNAPSHOT_REVISION": "CEO-OPS-DATA-r4-stage2-20260910T152545146249Z-final1",
+  "UI_REVISION": "CEO-OPS-UI-r3C",
   "RECORDS": [
     {
       "ID": "D_MANUAL",
@@ -23,7 +25,11 @@
       "FRESHNESS": "UNKNOWN",
       "STATUS_STALE": "UNKNOWN",
       "ENVIRONMENT": "UNKNOWN",
-      "SOURCE": "CEO·매니저 전달 checkpoint"
+      "SOURCE": "CEO·매니저 전달 checkpoint",
+      "SCOPE": "HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음",
+      "OBSERVED_AT": "UNKNOWN",
+      "VALUE": "A 채택 / 자동 시작·LaunchAgent 미승인",
+      "CONFIDENCE": "REPORTED_UNVERIFIED"
     },
     {
       "ID": "D_NAME",
@@ -47,7 +53,11 @@
       "FRESHNESS": "UNKNOWN",
       "STATUS_STALE": "UNKNOWN",
       "ENVIRONMENT": "UNKNOWN",
-      "SOURCE": "CEO·매니저 전달 checkpoint"
+      "SOURCE": "CEO·매니저 전달 checkpoint",
+      "SCOPE": "HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음",
+      "OBSERVED_AT": "UNKNOWN",
+      "VALUE": "지피티비서 / PERSONAL_ASSISTANT_01 유지",
+      "CONFIDENCE": "REPORTED_UNVERIFIED"
     },
     {
       "ID": "D_MODEL",
@@ -71,7 +81,12 @@
       "FRESHNESS": "UNKNOWN",
       "STATUS_STALE": "UNKNOWN",
       "ENVIRONMENT": "UNKNOWN",
-      "SOURCE": "CEO·매니저 전달 checkpoint"
+      "SOURCE": "CEO·매니저 전달 checkpoint",
+      "SCOPE": "HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음",
+      "OBSERVED_AT": "UNKNOWN",
+      "VALUE": "gpt-6-astra / low 기본 / SPEED_FIRST_DYNAMIC",
+      "CONFIDENCE": "REPORTED_UNVERIFIED",
+      "REASONING_POLICY": "LOW_DEFAULT_DYNAMIC_ESCALATION"
     },
     {
       "ID": "D_GITHUB_HOLD",
@@ -92,10 +107,14 @@
       "CEO_ACTION_REQUIRED": false,
       "SOURCE_TYPE": "FACT",
       "VERIFIED_AT": "2026-09-09T16:47:48.473094+00:00",
-      "FRESHNESS": "UNKNOWN",
-      "STATUS_STALE": "UNKNOWN",
+      "FRESHNESS": "CURRENT",
+      "STATUS_STALE": "NO",
       "ENVIRONMENT": "UNKNOWN",
-      "SOURCE": "직접 로컬 확인"
+      "SOURCE": "직접 로컬 확인",
+      "SCOPE": "HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음",
+      "OBSERVED_AT": "2026-09-09T16:47:48.473094+00:00",
+      "VALUE": "ceo-ops 제한 쓰기 승인; TEST_ONLY push/read-back PASS; dashboard 초기 업로드 준비",
+      "CONFIDENCE": "DIRECT_EVIDENCE"
     },
     {
       "ID": "D_CHANNEL",
@@ -119,8 +138,11 @@
       "FRESHNESS": "UNKNOWN",
       "STATUS_STALE": "UNKNOWN",
       "ENVIRONMENT": "UNKNOWN",
-      "SOURCE": "CEO·매니저 전달 checkpoint"
+      "SOURCE": "CEO·매니저 전달 checkpoint",
+      "SCOPE": "HISTORICAL_RECORD_ONLY; 과거 시점 기록이며 현재 receiver·게시 상태를 뜻하지 않음",
+      "OBSERVED_AT": "UNKNOWN",
+      "VALUE": "Telegram disabled / Pages publish 미승인",
+      "CONFIDENCE": "REPORTED_UNVERIFIED"
     }
-  ],
-  "SNAPSHOT_REVISION": "CEO-OPS-PUBLIC-MINIMIZATION-r2"
+  ]
 }
