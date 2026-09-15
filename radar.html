@@ -27,6 +27,9 @@
   .spacer{flex:1}
   .pill{font-size:12px;padding:3px 10px;border-radius:999px;background:var(--chip);color:var(--accent);font-weight:600}
   .pill.ok{background:rgba(22,163,74,.12);color:var(--ok)} .pill.bad{background:rgba(220,38,38,.12);color:var(--bad)}
+  .pill.warn{background:rgba(217,119,6,.14);color:#b45309}
+  .previewBanner.stale{background:#7f1d1d;color:#fff}
+  .hide{display:none}
   button{font:inherit;cursor:pointer;border:1px solid var(--line);background:var(--panel);color:var(--ink);
          border-radius:8px;padding:6px 12px}
   button:hover{border-color:var(--accent)}
@@ -71,11 +74,13 @@
   <header>
     <h1>🛰️ YouTube Radar</h1>
     <span id="statusPill" class="pill">로딩…</span>
+    <span id="freshPill" class="pill" title="발행 시각">발행 시각 확인 중…</span>
     <span class="spacer"></span>
     <button id="refreshBtn" title="새로고침">↻</button>
     <button id="themeBtn" title="테마">◐</button>
   </header>
 
+  <div id="staleBanner" class="previewBanner stale hide"></div>
   <div id="liveBanner" class="previewBanner">조회 전용 — 제작 상태는 DB 기준입니다. SKIP 저장 연결은 아직 구현되지 않았습니다.</div>
 
   <div id="view"><div class="card muted">불러오는 중…</div></div>
@@ -105,6 +110,49 @@ $('#refreshBtn').onclick=()=>loadAll();
 
 // ---- 데이터 로드: videos.json만(keywords.json 참조 안 함) ----
 let videos = [];
+// 발행 신선도 임계값. 수집이 8시간 간격이므로 9h는 "한 회차 + 실행 지연 여유 1h",
+// 26h는 "하루 세 회차를 전부 놓침" 이다. 후자는 사고로 본다.
+const FRESH_WARN_H = 9, FRESH_BAD_H = 26;
+
+function fmtAge(h){
+  if(h < 1) return '방금';
+  if(h < 24) return `${Math.floor(h)}시간 전`;
+  return `${Math.floor(h/24)}일 전`;
+}
+
+async function loadMeta(){
+  // 요소가 없어도 죽지 않는다 — 발행 시각 표시가 실패해도 목록 렌더까지 막으면
+  // "오래됐는지 모른다"가 "아무것도 안 보인다"가 되어 더 나쁘다.
+  const pill = $('#freshPill'), banner = $('#staleBanner');
+  const setBanner = (text) => { if(!banner) return;
+    banner.textContent = text || '';
+    banner.className = text ? 'previewBanner stale' : 'previewBanner stale hide'; };
+  const setPill = (text, cls, title) => { if(!pill) return;
+    pill.textContent = text; pill.className = cls; if(title) pill.title = title; };
+  try{
+    const r = await fetch('./data/publish_meta.json?_='+Date.now());
+    if(!r.ok) throw new Error('no meta');
+    const m = await r.json();
+    const t = new Date(m.generated_at);
+    const h = (Date.now() - t.getTime())/36e5;
+    const hhmm = t.toLocaleString('ko-KR',{month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
+    const tip = `발행 ${m.generated_at} · 표시 ${m.record_count}건 · DB ${m.db_total}건`
+              + (m.db_skipped ? ` · 참고 안 함 ${m.db_skipped}건` : '');
+    if(h >= FRESH_BAD_H){
+      setPill(`★ ${fmtAge(h)} 발행`, 'pill bad', tip);
+      setBanner(`발행이 ${fmtAge(h)} 멈춰 있습니다 (${hhmm}). 화면의 목록은 그 시점 기준입니다.`);
+    }else if(h >= FRESH_WARN_H){
+      setPill(`${fmtAge(h)} 발행`, 'pill warn', tip); setBanner(null);
+    }else{
+      setPill(`${fmtAge(h)} 발행 · ${hhmm}`, 'pill ok', tip); setBanner(null);
+    }
+  }catch(e){
+    // 메타를 못 읽어도 목록은 그대로 보인다 — 표시만 모른다고 알린다.
+    setPill('발행 시각 알 수 없음', 'pill warn', 'publish_meta.json을 읽지 못했습니다');
+    setBanner(null);
+  }
+}
+
 async function loadAll(){
   try{
     const r = await fetch('./data/videos.json?_='+Date.now());
@@ -114,6 +162,7 @@ async function loadAll(){
   }catch(e){
     $('#statusPill').textContent='로드 실패'; $('#statusPill').className='pill bad';
   }
+  await loadMeta();
   render();
 }
 
