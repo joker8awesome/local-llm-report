@@ -1,123 +1,5 @@
 [
   {
-    "video_id": "qnvrRJJzD_k",
-    "title": "Guess The NBA Imposter: Giannis Edition",
-    "channel_id": "UCmgMQUgO5nJxM5ORoz59MXg",
-    "channel_title": "The Deep 3",
-    "published_at": "2026-09-16T00:49:55Z",
-    "view_count": 547064,
-    "like_count": 29822,
-    "comment_count": 179,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 25.4124,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.868,
-        "weight": 1.0,
-        "weighted": 0.868
-      },
-      "views": {
-        "raw": 5.738,
-        "weight": 1.0,
-        "weighted": 5.738
-      },
-      "velocity": {
-        "raw": 4.4032,
-        "weight": 2.0,
-        "weighted": 8.8064
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-16T14:30:02+00:00",
-    "last_seen_at": "2026-09-16T23:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "iYMGyjaR2No",
-    "title": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #JhoanDuran",
-    "channel_id": "UCoex4zkCipcZf6EVGs9cWnQ",
-    "channel_title": "dyeggsge",
-    "published_at": "2026-09-14T03:52:50Z",
-    "view_count": 9253339,
-    "like_count": 55941,
-    "comment_count": 69,
-    "sport": "baseball",
-    "league": "MLB",
-    "region": "US",
-    "trend_score": 25.3237,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8862,
-        "weight": 1.0,
-        "weighted": 0.8862
-      },
-      "views": {
-        "raw": 6.9663,
-        "weight": 1.0,
-        "weighted": 6.9663
-      },
-      "velocity": {
-        "raw": 5.9325,
-        "weight": 2.0,
-        "weighted": 11.865
-      },
-      "engagement": {
-        "raw": 0.6061,
-        "weight": 1.0,
-        "weighted": 0.6061
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T19:25:32+00:00",
-    "last_seen_at": "2026-09-14T23:00:00+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "0Fcoe9pKeKk",
     "title": "FC BARCELONA 7 vs 2 RACING SANTANDER | LALIGA 2026/27 MD06 🔵🔴",
     "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
@@ -169,71 +51,12 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-16T23:00:02+00:00",
     "last_seen_at": "2026-09-17T14:30:03+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "uF-9NgdwgEE",
-    "title": "la más diva 💅👄🔥 #miraculousladybug #tiktok #mlb",
-    "channel_id": "UCx2O2JMs3Qc_-xYKoLRzdPg",
-    "channel_title": "🎀𝙼𝚊𝚒𝚝𝚎🌷\n",
-    "published_at": "2026-09-17T16:08:33Z",
-    "view_count": 472363,
-    "like_count": 35182,
-    "comment_count": 121,
-    "sport": "baseball",
-    "league": "MLB",
-    "region": "US",
-    "trend_score": 25.0991,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8669,
-        "weight": 1.0,
-        "weighted": 0.8669
-      },
-      "views": {
-        "raw": 5.6743,
-        "weight": 1.0,
-        "weighted": 5.6743
-      },
-      "velocity": {
-        "raw": 4.2789,
-        "weight": 2.0,
-        "weighted": 8.5579
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-18T05:00:02+00:00",
-    "last_seen_at": "2026-09-18T14:30:02+00:00",
-    "observation_count": 2
   },
   {
     "video_id": "SaOydpY-EZE",
@@ -287,7 +110,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-17T23:00:02+00:00",
@@ -346,7 +169,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-21T05:00:03+00:00",
@@ -405,7 +228,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-19T23:00:03+00:00",
@@ -464,71 +287,12 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-16T05:00:02+00:00",
     "last_seen_at": "2026-09-16T14:30:02+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "JBnirWNu8bA",
-    "title": "2 Minutes To Guess Mo’s NBA Player",
-    "channel_id": "UCmgMQUgO5nJxM5ORoz59MXg",
-    "channel_title": "The Deep 3",
-    "published_at": "2026-09-20T00:36:08Z",
-    "view_count": 281819,
-    "like_count": 14579,
-    "comment_count": 123,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 24.508,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8667,
-        "weight": 1.0,
-        "weighted": 0.8667
-      },
-      "views": {
-        "raw": 5.45,
-        "weight": 1.0,
-        "weighted": 5.45
-      },
-      "velocity": {
-        "raw": 4.0957,
-        "weight": 2.0,
-        "weighted": 8.1914
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-20T05:00:02+00:00",
-    "last_seen_at": "2026-09-20T23:00:02+00:00",
-    "observation_count": 3
   },
   {
     "video_id": "3gtrg2YharI",
@@ -582,130 +346,12 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-17T05:00:02+00:00",
     "last_seen_at": "2026-09-17T14:30:03+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "WIiQIAVKQJE",
-    "title": "LOS JUGADORES MAS UNICOS DEL BASQUET #nba #baloncesto #basketball",
-    "channel_id": "UC1ala5DiuCKC5-CEzC1Ckdg",
-    "channel_title": "Frankie Basket",
-    "published_at": "2026-09-14T16:22:42Z",
-    "view_count": 379426,
-    "like_count": 20334,
-    "comment_count": 115,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 24.3959,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8683,
-        "weight": 1.0,
-        "weighted": 0.8683
-      },
-      "views": {
-        "raw": 5.5791,
-        "weight": 1.0,
-        "weighted": 5.5791
-      },
-      "velocity": {
-        "raw": 3.9742,
-        "weight": 2.0,
-        "weighted": 7.9484
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T19:25:32+00:00",
-    "last_seen_at": "2026-09-15T14:30:01+00:00",
-    "observation_count": 4
-  },
-  {
-    "video_id": "m8iyFEs0ijU",
-    "title": "That Was Such Sad News… 💔 #miraculous #miraculousladybug #ladybug #mlb #shorts #viral #fyp #rose",
-    "channel_id": "UCOXB1hd80jeGI8edcijb3TA",
-    "channel_title": "TahreemVerse",
-    "published_at": "2026-09-14T09:28:28Z",
-    "view_count": 1175885,
-    "like_count": 27170,
-    "comment_count": 614,
-    "sport": "baseball",
-    "league": "MLB",
-    "region": "US",
-    "trend_score": 24.3105,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8838,
-        "weight": 1.0,
-        "weighted": 0.8838
-      },
-      "views": {
-        "raw": 6.0704,
-        "weight": 1.0,
-        "weighted": 6.0704
-      },
-      "velocity": {
-        "raw": 4.971,
-        "weight": 2.0,
-        "weighted": 9.9421
-      },
-      "engagement": {
-        "raw": 2.4142,
-        "weight": 1.0,
-        "weighted": 2.4142
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T19:25:32+00:00",
-    "last_seen_at": "2026-09-15T05:00:01+00:00",
-    "observation_count": 3
   },
   {
     "video_id": "rq4PzwKmmM0",
@@ -759,130 +405,12 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-17T23:00:02+00:00",
     "last_seen_at": "2026-09-18T05:00:02+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "zlnBvk-lpBI",
-    "title": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #JhoanDuran",
-    "channel_id": "UC5Q_aM_y7qe0iLb6P_LyB3w",
-    "channel_title": "s'd'v",
-    "published_at": "2026-09-15T03:08:10Z",
-    "view_count": 48027790,
-    "like_count": 271081,
-    "comment_count": 1031,
-    "sport": "baseball",
-    "league": "MLB",
-    "region": "US",
-    "trend_score": 24.2504,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.0752,
-        "weight": 1.0,
-        "weighted": 0.0752
-      },
-      "views": {
-        "raw": 7.6815,
-        "weight": 1.0,
-        "weighted": 7.6815
-      },
-      "velocity": {
-        "raw": 5.4625,
-        "weight": 2.0,
-        "weighted": 10.925
-      },
-      "engagement": {
-        "raw": 0.5687,
-        "weight": 1.0,
-        "weighted": 0.5687
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "trending_US",
-    "first_seen_at": "2026-09-19T14:30:03+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
-    "observation_count": 7
-  },
-  {
-    "video_id": "88fZhnDS8VE",
-    "title": "How High NBA Legends Can Rank",
-    "channel_id": "UCmgMQUgO5nJxM5ORoz59MXg",
-    "channel_title": "The Deep 3",
-    "published_at": "2026-09-19T19:00:10Z",
-    "view_count": 223734,
-    "like_count": 12232,
-    "comment_count": 656,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 24.2226,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8839,
-        "weight": 1.0,
-        "weighted": 0.8839
-      },
-      "views": {
-        "raw": 5.3497,
-        "weight": 1.0,
-        "weighted": 5.3497
-      },
-      "velocity": {
-        "raw": 3.9945,
-        "weight": 2.0,
-        "weighted": 7.989
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-19T23:00:03+00:00",
-    "last_seen_at": "2026-09-20T14:30:02+00:00",
-    "observation_count": 3
   },
   {
     "video_id": "klcCO4pfcOA",
@@ -936,129 +464,11 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-17T23:00:02+00:00",
     "last_seen_at": "2026-09-18T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "yK2VU3QqJU4",
-    "title": "Phillies land All-Star closer Jhoan Duran ahead of MLB trade deadline 👀🔥 #JhoanDuran",
-    "channel_id": "UCF3PYT_OauO_GNtaidUOxkw",
-    "channel_title": "s'd",
-    "published_at": "2026-09-19T06:09:06Z",
-    "view_count": 7179884,
-    "like_count": 33055,
-    "comment_count": 633,
-    "sport": "baseball",
-    "league": "MLB",
-    "region": "US",
-    "trend_score": 24.1365,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.864,
-        "weight": 1.0,
-        "weighted": 0.864
-      },
-      "views": {
-        "raw": 6.8561,
-        "weight": 1.0,
-        "weighted": 6.8561
-      },
-      "velocity": {
-        "raw": 5.4691,
-        "weight": 2.0,
-        "weighted": 10.9383
-      },
-      "engagement": {
-        "raw": 0.4782,
-        "weight": 1.0,
-        "weighted": 0.4782
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-19T23:00:03+00:00",
-    "last_seen_at": "2026-09-20T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "htxuIzNbORk",
-    "title": "That Hurts So Bad..😭💔 #miraculous #miraculousladybug #rose  #ladybug #mlb #shorts #viral #fyp #fypシ",
-    "channel_id": "UCOXB1hd80jeGI8edcijb3TA",
-    "channel_title": "TahreemVerse",
-    "published_at": "2026-09-18T07:48:07Z",
-    "view_count": 472327,
-    "like_count": 13926,
-    "comment_count": 300,
-    "sport": "baseball",
-    "league": "MLB",
-    "region": "US",
-    "trend_score": 24.085,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8738,
-        "weight": 1.0,
-        "weighted": 0.8738
-      },
-      "views": {
-        "raw": 5.6742,
-        "weight": 1.0,
-        "weighted": 5.6742
-      },
-      "velocity": {
-        "raw": 4.7324,
-        "weight": 2.0,
-        "weighted": 9.4649
-      },
-      "engagement": {
-        "raw": 3.0721,
-        "weight": 1.0,
-        "weighted": 3.0721
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-18T23:00:03+00:00",
-    "last_seen_at": "2026-09-19T05:00:02+00:00",
     "observation_count": 2
   },
   {
@@ -1113,66 +523,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-16T05:00:02+00:00",
-    "last_seen_at": "2026-09-16T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "jAtViXLN3mM",
-    "title": "BASQUET EN SU ESTADO PURO🏀 #nba #baloncesto #basketball",
-    "channel_id": "UC1ala5DiuCKC5-CEzC1Ckdg",
-    "channel_title": "Frankie Basket",
-    "published_at": "2026-09-15T20:05:32Z",
-    "view_count": 161551,
-    "like_count": 7606,
-    "comment_count": 103,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 24.0024,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8904,
-        "weight": 1.0,
-        "weighted": 0.8904
-      },
-      "views": {
-        "raw": 5.2083,
-        "weight": 1.0,
-        "weighted": 5.2083
-      },
-      "velocity": {
-        "raw": 4.0443,
-        "weight": 2.0,
-        "weighted": 8.0887
-      },
-      "engagement": {
-        "raw": 4.815,
-        "weight": 1.0,
-        "weighted": 4.815
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-16T05:00:02+00:00",
@@ -1231,7 +582,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-16T05:00:02+00:00",
@@ -1290,483 +641,11 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-19T23:00:03+00:00",
     "last_seen_at": "2026-09-20T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "iQHppQENPVU",
-    "title": "Kobe & Gasol vs 2026 NBA Duos",
-    "channel_id": "UCmgMQUgO5nJxM5ORoz59MXg",
-    "channel_title": "The Deep 3",
-    "published_at": "2026-09-21T00:36:06Z",
-    "view_count": 121637,
-    "like_count": 7811,
-    "comment_count": 110,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.9494,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9173,
-        "weight": 1.0,
-        "weighted": 0.9173
-      },
-      "views": {
-        "raw": 5.0851,
-        "weight": 1.0,
-        "weighted": 5.0851
-      },
-      "velocity": {
-        "raw": 3.9735,
-        "weight": 2.0,
-        "weighted": 7.947
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-21T05:00:03+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "pvYN0luukM4",
-    "title": "ATLÉTICO DE MADRID 2 - 1 REAL MADRID | RESUMEN LALIGA EA SPORTS",
-    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
-    "channel_title": "LALIGA EA SPORTS",
-    "published_at": "2026-09-20T16:30:50Z",
-    "view_count": 4530624,
-    "like_count": 46023,
-    "comment_count": 2244,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.9187,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8691,
-        "weight": 1.0,
-        "weighted": 0.8691
-      },
-      "views": {
-        "raw": 6.6562,
-        "weight": 1.0,
-        "weighted": 6.6562
-      },
-      "velocity": {
-        "raw": 5.1392,
-        "weight": 2.0,
-        "weighted": 10.2785
-      },
-      "engagement": {
-        "raw": 1.115,
-        "weight": 1.0,
-        "weighted": 1.115
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-20T23:00:02+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "tWWktcaI8qY",
-    "title": "¿Zapatillas + Plantillas que te hacen SALTAR mas ALTO? #nba #baloncesto #basketball",
-    "channel_id": "UC1ala5DiuCKC5-CEzC1Ckdg",
-    "channel_title": "Frankie Basket",
-    "published_at": "2026-09-16T18:51:24Z",
-    "view_count": 178881,
-    "like_count": 8495,
-    "comment_count": 26,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.899,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8831,
-        "weight": 1.0,
-        "weighted": 0.8831
-      },
-      "views": {
-        "raw": 5.2526,
-        "weight": 1.0,
-        "weighted": 5.2526
-      },
-      "velocity": {
-        "raw": 4.0018,
-        "weight": 2.0,
-        "weighted": 8.0036
-      },
-      "engagement": {
-        "raw": 4.7598,
-        "weight": 1.0,
-        "weighted": 4.7598
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-17T05:00:02+00:00",
-    "last_seen_at": "2026-09-17T14:30:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "xe-mGRU0zwo",
-    "title": "Quote of the day #meme #nba #basketball #real #relatable #funny #shorts #fyp",
-    "channel_id": "UCi3bbVjvcXjJXQtoZ4hXf-g",
-    "channel_title": "Rbasketsksk",
-    "published_at": "2026-09-15T20:01:01Z",
-    "view_count": 122919,
-    "like_count": 6316,
-    "comment_count": 55,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.8848,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.89,
-        "weight": 1.0,
-        "weighted": 0.89
-      },
-      "views": {
-        "raw": 5.0896,
-        "weight": 1.0,
-        "weighted": 5.0896
-      },
-      "velocity": {
-        "raw": 3.9526,
-        "weight": 2.0,
-        "weighted": 7.9052
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-16T05:00:02+00:00",
-    "last_seen_at": "2026-09-16T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "hWNOdaiZjYw",
-    "title": "Bro really devoured him 🥵❤️‍🔥🫣 #bls #blseries #kbl #bledit #kiss #shorts #summertime #bl #blkiss",
-    "channel_id": "UCiLa_EiNsmWn2pdag18zJuw",
-    "channel_title": "qinqin🍀",
-    "published_at": "2026-09-20T03:30:22Z",
-    "view_count": 115291,
-    "like_count": 9458,
-    "comment_count": 66,
-    "sport": "basketball",
-    "league": "KBL",
-    "region": "KR",
-    "trend_score": 23.8839,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.884,
-        "weight": 1.0,
-        "weighted": 0.884
-      },
-      "views": {
-        "raw": 5.0618,
-        "weight": 1.0,
-        "weighted": 5.0618
-      },
-      "velocity": {
-        "raw": 3.9691,
-        "weight": 2.0,
-        "weighted": 7.9381
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-20T05:00:02+00:00",
-    "last_seen_at": "2026-09-20T23:00:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "xnVh8gi_itU",
-    "title": "Why Steph Curry Can't Do This Trick. #basketball",
-    "channel_id": "UC4UzBuPJA78KZoL4lziQpiw",
-    "channel_title": "mrfact",
-    "published_at": "2026-09-19T11:00:22Z",
-    "view_count": 2061965,
-    "like_count": 89005,
-    "comment_count": 141,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.8113,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.6935,
-        "weight": 1.0,
-        "weighted": 0.6935
-      },
-      "views": {
-        "raw": 6.3143,
-        "weight": 1.0,
-        "weighted": 6.3143
-      },
-      "velocity": {
-        "raw": 3.7374,
-        "weight": 2.0,
-        "weighted": 7.4747
-      },
-      "engagement": {
-        "raw": 4.3288,
-        "weight": 1.0,
-        "weighted": 4.3288
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "trending_US",
-    "first_seen_at": "2026-09-20T05:00:02+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
-    "observation_count": 5
-  },
-  {
-    "video_id": "bypFayKyTkY",
-    "title": "Grading NBA Specter Jerseys",
-    "channel_id": "UCmgMQUgO5nJxM5ORoz59MXg",
-    "channel_title": "The Deep 3",
-    "published_at": "2026-09-17T01:00:30Z",
-    "view_count": 151800,
-    "like_count": 10381,
-    "comment_count": 246,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.7393,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8691,
-        "weight": 1.0,
-        "weighted": 0.8691
-      },
-      "views": {
-        "raw": 5.1813,
-        "weight": 1.0,
-        "weighted": 5.1813
-      },
-      "velocity": {
-        "raw": 3.8445,
-        "weight": 2.0,
-        "weighted": 7.6889
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-17T14:30:03+00:00",
-    "last_seen_at": "2026-09-17T23:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "1DCqnON-uRM",
-    "title": "Which Finals performance had the most aura? 🤔 #nba #basketball",
-    "channel_id": "UCK4YpXSbyJ-O0CJESkmlZ2A",
-    "channel_title": "silencersportsshorts",
-    "published_at": "2026-09-20T16:45:43Z",
-    "view_count": 177764,
-    "like_count": 8134,
-    "comment_count": 192,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.6966,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8706,
-        "weight": 1.0,
-        "weighted": 0.8706
-      },
-      "views": {
-        "raw": 5.2498,
-        "weight": 1.0,
-        "weighted": 5.2498
-      },
-      "velocity": {
-        "raw": 3.9015,
-        "weight": 2.0,
-        "weighted": 7.8029
-      },
-      "engagement": {
-        "raw": 4.7733,
-        "weight": 1.0,
-        "weighted": 4.7733
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-20T23:00:02+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
     "observation_count": 3
   },
   {
@@ -1821,7 +700,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-14T19:25:32+00:00",
@@ -1880,70 +759,11 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-15T05:00:01+00:00",
     "last_seen_at": "2026-09-15T14:30:01+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "DuJbHx55eTE",
-    "title": "Announcer ROASTS the Mets 😳",
-    "channel_id": "UCAgLUO68gPXGgg5cpqfV-tA",
-    "channel_title": "Pitching Ninja",
-    "published_at": "2026-09-17T14:19:49Z",
-    "view_count": 117948,
-    "like_count": 4593,
-    "comment_count": 372,
-    "sport": "baseball",
-    "league": "MLB",
-    "region": "US",
-    "trend_score": 23.673,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9127,
-        "weight": 1.0,
-        "weighted": 0.9127
-      },
-      "views": {
-        "raw": 5.0717,
-        "weight": 1.0,
-        "weighted": 5.0717
-      },
-      "velocity": {
-        "raw": 4.0946,
-        "weight": 2.0,
-        "weighted": 8.1892
-      },
-      "engagement": {
-        "raw": 4.4994,
-        "weight": 1.0,
-        "weighted": 4.4994
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-17T23:00:02+00:00",
-    "last_seen_at": "2026-09-18T05:00:02+00:00",
     "observation_count": 2
   },
   {
@@ -1998,7 +818,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-16T05:00:02+00:00",
@@ -2057,71 +877,12 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-14T19:25:32+00:00",
     "last_seen_at": "2026-09-15T05:00:01+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "2XLvY9seNks",
-    "title": "Cooked so bad he started breakdancing 😭 #basketball",
-    "channel_id": "UCtQNVmtvVVwaFtWqu2QvEPw",
-    "channel_title": "Rim Reaper",
-    "published_at": "2026-09-18T11:30:13Z",
-    "view_count": 198551,
-    "like_count": 7191,
-    "comment_count": 125,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.564,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8959,
-        "weight": 1.0,
-        "weighted": 0.8959
-      },
-      "views": {
-        "raw": 5.2979,
-        "weight": 1.0,
-        "weighted": 5.2979
-      },
-      "velocity": {
-        "raw": 4.317,
-        "weight": 2.0,
-        "weighted": 8.6339
-      },
-      "engagement": {
-        "raw": 3.7363,
-        "weight": 1.0,
-        "weighted": 3.7363
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-18T23:00:03+00:00",
-    "last_seen_at": "2026-09-19T05:00:02+00:00",
-    "observation_count": 2
   },
   {
     "video_id": "5iosR5oKAJI",
@@ -2175,7 +936,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-17T23:00:02+00:00",
@@ -2234,130 +995,12 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-18T23:00:03+00:00",
     "last_seen_at": "2026-09-19T14:30:03+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "xJd-UF1e2SU",
-    "title": "Women vs Men's Dunk. Pt 4. #nba #nbaedits #basketball #basketballball #respect",
-    "channel_id": "UCkJ_x7Rbudn1QJndhgiv2Vg",
-    "channel_title": "BKT Stash",
-    "published_at": "2026-09-20T02:08:02Z",
-    "view_count": 706782,
-    "like_count": 14398,
-    "comment_count": 341,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "US",
-    "trend_score": 23.474,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8758,
-        "weight": 1.0,
-        "weighted": 0.8758
-      },
-      "views": {
-        "raw": 5.8493,
-        "weight": 1.0,
-        "weighted": 5.8493
-      },
-      "velocity": {
-        "raw": 4.8081,
-        "weight": 2.0,
-        "weighted": 9.6162
-      },
-      "engagement": {
-        "raw": 2.1327,
-        "weight": 1.0,
-        "weighted": 2.1327
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-20T14:30:02+00:00",
-    "last_seen_at": "2026-09-20T23:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "IjH5V67yQqI",
-    "title": "The Best NBA Moments From Each Year",
-    "channel_id": "UCmgMQUgO5nJxM5ORoz59MXg",
-    "channel_title": "The Deep 3",
-    "published_at": "2026-09-14T01:47:43Z",
-    "view_count": 137742,
-    "like_count": 9078,
-    "comment_count": 78,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.3185,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8738,
-        "weight": 1.0,
-        "weighted": 0.8738
-      },
-      "views": {
-        "raw": 5.1391,
-        "weight": 1.0,
-        "weighted": 5.1391
-      },
-      "velocity": {
-        "raw": 3.6528,
-        "weight": 2.0,
-        "weighted": 7.3057
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T19:25:32+00:00",
-    "last_seen_at": "2026-09-14T23:00:00+00:00",
-    "observation_count": 2
   },
   {
     "video_id": "a9pbKXyZZC4",
@@ -2411,7 +1054,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-20T05:00:02+00:00",
@@ -2419,38 +1062,38 @@
     "observation_count": 2
   },
   {
-    "video_id": "kaGxgOpBhbs",
-    "title": "【日韓野球論争】ソン・アソプ「2653安打」なのにMLB入札ゼロ…「韓国のイチロー」と呼ばれた安打製造機を待ち受けていた、守備 走塁 市場価値という残酷な現実これはMLB史上最大の見落としだったのか！",
-    "channel_id": "UCs1cEUBcY7wLED8YnVAj6uw",
-    "channel_title": "368-Jaka",
-    "published_at": "2026-09-18T07:44:55Z",
-    "view_count": 135302,
-    "like_count": 6629,
-    "comment_count": 104,
-    "sport": "baseball",
-    "league": "KBO",
-    "region": "KR",
-    "trend_score": 23.2859,
+    "video_id": "pvYN0luukM4",
+    "title": "ATLÉTICO DE MADRID 2 - 1 REAL MADRID | RESUMEN LALIGA EA SPORTS",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-09-20T16:30:50Z",
+    "view_count": 5144820,
+    "like_count": 49384,
+    "comment_count": 2358,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.2993,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.8735,
+        "raw": 0.8185,
         "weight": 1.0,
-        "weighted": 0.8735
+        "weighted": 0.8185
       },
       "views": {
-        "raw": 5.1313,
+        "raw": 6.7114,
         "weight": 1.0,
-        "weighted": 5.1313
+        "weighted": 6.7114
       },
       "velocity": {
-        "raw": 3.6406,
+        "raw": 4.8589,
         "weight": 2.0,
-        "weighted": 7.2811
+        "weighted": 9.7178
       },
       "engagement": {
-        "raw": 5.0,
+        "raw": 1.0516,
         "weight": 1.0,
-        "weighted": 5.0
+        "weighted": 1.0516
       },
       "sport": {
         "raw": 1.0,
@@ -2469,72 +1112,13 @@
       }
     },
     "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-18T23:00:03+00:00",
-    "last_seen_at": "2026-09-19T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "2svhnjOflsk",
-    "title": "TUVO QUE REZAR A DIOS🙏 #nba #baloncesto #basketball",
-    "channel_id": "UC1ala5DiuCKC5-CEzC1Ckdg",
-    "channel_title": "Frankie Basket",
-    "published_at": "2026-09-15T17:58:52Z",
-    "view_count": 115718,
-    "like_count": 8148,
-    "comment_count": 42,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.2824,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8779,
-        "weight": 1.0,
-        "weighted": 0.8779
-      },
-      "views": {
-        "raw": 5.0634,
-        "weight": 1.0,
-        "weighted": 5.0634
-      },
-      "velocity": {
-        "raw": 3.6706,
-        "weight": 2.0,
-        "weighted": 7.3411
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-16T05:00:02+00:00",
-    "last_seen_at": "2026-09-16T14:30:02+00:00",
-    "observation_count": 2
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-20T23:00:02+00:00",
+    "last_seen_at": "2026-09-21T23:00:01+00:00",
+    "observation_count": 4
   },
   {
     "video_id": "uEZTuVdLVS4",
@@ -2588,7 +1172,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-18T05:00:02+00:00",
@@ -2647,7 +1231,7 @@
     },
     "scope_verdict": "IN_SCOPE",
     "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-16T23:00:02+00:00",
@@ -2655,38 +1239,38 @@
     "observation_count": 2
   },
   {
-    "video_id": "fEekEgUT_o4",
-    "title": "¿QUE PASO CON JA MORANT? #nba #baloncesto #basketball",
-    "channel_id": "UC1ala5DiuCKC5-CEzC1Ckdg",
-    "channel_title": "Frankie Basket",
-    "published_at": "2026-09-14T22:58:48Z",
-    "view_count": 96228,
-    "like_count": 8077,
-    "comment_count": 42,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.2634,
+    "video_id": "e0ym2ef7LnI",
+    "title": "⚔️ ALL SET FOR ELCHE | Real Madrid Training",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-09-14T18:32:23Z",
+    "view_count": 124249,
+    "like_count": 5775,
+    "comment_count": 169,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.0781,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.9076,
+        "raw": 0.8812,
         "weight": 1.0,
-        "weighted": 0.9076
+        "weighted": 0.8812
       },
       "views": {
-        "raw": 4.9833,
+        "raw": 5.0943,
         "weight": 1.0,
-        "weighted": 4.9833
+        "weighted": 5.0943
       },
       "velocity": {
-        "raw": 3.6862,
+        "raw": 3.605,
         "weight": 2.0,
-        "weighted": 7.3725
+        "weighted": 7.21
       },
       "engagement": {
-        "raw": 5.0,
+        "raw": 4.8926,
         "weight": 1.0,
-        "weighted": 5.0
+        "weighted": 4.8926
       },
       "sport": {
         "raw": 1.0,
@@ -2705,47 +1289,47 @@
       }
     },
     "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
-    "first_seen_at": "2026-09-15T05:00:01+00:00",
+    "first_seen_at": "2026-09-14T23:00:00+00:00",
     "last_seen_at": "2026-09-15T14:30:01+00:00",
-    "observation_count": 2
+    "observation_count": 3
   },
   {
-    "video_id": "xU88TSzb1kg",
-    "title": "This Might Be The Dumbest Rule in The NBA 😨",
-    "channel_id": "UCO8VZ_YLfNRmiYKjyspQVEA",
-    "channel_title": "Jonathan Editz",
-    "published_at": "2026-09-19T06:21:50Z",
-    "view_count": 1237824,
-    "like_count": 21702,
-    "comment_count": 81,
-    "sport": "baseball",
-    "league": "KBO",
-    "region": "KR",
-    "trend_score": 23.1826,
+    "video_id": "jCIU4nxBFrw",
+    "title": "FIOUUUU.. (OM 1-2 PSG)",
+    "channel_id": "UCzSSwnU5MohO6vQqmMjKUyw",
+    "channel_title": "L' immigré parisien",
+    "published_at": "2026-09-20T22:09:45Z",
+    "view_count": 153567,
+    "like_count": 4996,
+    "comment_count": 449,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.9259,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.8653,
+        "raw": 0.9027,
         "weight": 1.0,
-        "weighted": 0.8653
+        "weighted": 0.9027
       },
       "views": {
-        "raw": 6.0927,
+        "raw": 5.1863,
         "weight": 1.0,
-        "weighted": 6.0927
+        "weighted": 5.1863
       },
       "velocity": {
-        "raw": 4.7293,
+        "raw": 4.007,
         "weight": 2.0,
-        "weighted": 9.4586
+        "weighted": 8.014
       },
       "engagement": {
-        "raw": 1.7661,
+        "raw": 3.8229,
         "weight": 1.0,
-        "weighted": 1.7661
+        "weighted": 3.8229
       },
       "sport": {
         "raw": 1.0,
@@ -2764,47 +1348,47 @@
       }
     },
     "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
-    "first_seen_at": "2026-09-19T23:00:03+00:00",
-    "last_seen_at": "2026-09-20T05:00:02+00:00",
+    "first_seen_at": "2026-09-21T05:00:03+00:00",
+    "last_seen_at": "2026-09-21T14:30:02+00:00",
     "observation_count": 2
   },
   {
-    "video_id": "idNcEatQeB0",
-    "title": "why is he always so into his character? #summertime #kbl #koreanblseries #blseries #fyp #shorts",
-    "channel_id": "UCEV3sDJh0Ob4qZpvDqO8nJw",
-    "channel_title": "blesthetics",
-    "published_at": "2026-09-19T17:59:00Z",
-    "view_count": 66789,
-    "like_count": 3523,
-    "comment_count": 5,
-    "sport": "basketball",
-    "league": "KBL",
-    "region": "KR",
-    "trend_score": 23.1635,
+    "video_id": "bo9g36xT5UA",
+    "title": "FC BARCELONA 7 - 2 R. RACING CLUB | RESUMEN LALIGA EA SPORTS",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-09-16T21:43:33Z",
+    "view_count": 8584278,
+    "like_count": 105240,
+    "comment_count": 3177,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.9248,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.8779,
+        "raw": 0.671,
         "weight": 1.0,
-        "weighted": 0.8779
+        "weighted": 0.671
       },
       "views": {
-        "raw": 4.8247,
+        "raw": 6.9337,
         "weight": 1.0,
-        "weighted": 4.8247
+        "weighted": 6.9337
       },
       "velocity": {
-        "raw": 3.7304,
+        "raw": 4.5101,
         "weight": 2.0,
-        "weighted": 7.4609
+        "weighted": 9.0202
       },
       "engagement": {
-        "raw": 5.0,
+        "raw": 1.3,
         "weight": 1.0,
-        "weighted": 5.0
+        "weighted": 1.3
       },
       "sport": {
         "raw": 1.0,
@@ -2823,8 +1407,67 @@
       }
     },
     "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-16T23:00:02+00:00",
+    "last_seen_at": "2026-09-19T05:00:02+00:00",
+    "observation_count": 8
+  },
+  {
+    "video_id": "AgVaYZbzkpE",
+    "title": "MANZAMBI, JACKSON & BUENDÍA ON TARGET | Tottenham Hotspur 2-3 Villa | Premier League Highlights",
+    "channel_id": "UCICNP0mvtr0prFwGUQIABfQ",
+    "channel_title": "Aston Villa Football Club",
+    "published_at": "2026-09-19T21:00:34Z",
+    "view_count": 1450789,
+    "like_count": 13506,
+    "comment_count": 376,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.8909,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8959,
+        "weight": 1.0,
+        "weighted": 0.8959
+      },
+      "views": {
+        "raw": 6.1616,
+        "weight": 1.0,
+        "weighted": 6.1616
+      },
+      "velocity": {
+        "raw": 4.9251,
+        "weight": 2.0,
+        "weighted": 9.8502
+      },
+      "engagement": {
+        "raw": 0.9831,
+        "weight": 1.0,
+        "weighted": 0.9831
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-19T23:00:03+00:00",
@@ -2832,38 +1475,38 @@
     "observation_count": 3
   },
   {
-    "video_id": "w1n9NJVi5Z8",
-    "title": "A tough break for the Mets' star players in the field 😲",
-    "channel_id": "UCvHm-lDQEhRJNCd8BdpzDkQ",
-    "channel_title": "ESPN MLB",
-    "published_at": "2026-09-17T03:39:40Z",
-    "view_count": 198032,
-    "like_count": 5539,
-    "comment_count": 602,
-    "sport": "baseball",
-    "league": "MLB",
-    "region": "US",
-    "trend_score": 23.1578,
+    "video_id": "iSLGfFWIzdM",
+    "title": "pemain milan seperti psik*pat, tapi 'monster' sesungguhnya pemain yang paling lugu👹",
+    "channel_id": "UCx2_S53YeMDYVDWGxlx7jdg",
+    "channel_title": "Makelar Sepak Bola",
+    "published_at": "2026-09-18T09:59:23Z",
+    "view_count": 203176,
+    "like_count": 5317,
+    "comment_count": 197,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.7882,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.8849,
+        "raw": 0.8868,
         "weight": 1.0,
-        "weighted": 0.8849
+        "weighted": 0.8868
       },
       "views": {
-        "raw": 5.2967,
+        "raw": 5.3079,
         "weight": 1.0,
-        "weighted": 5.2967
+        "weighted": 5.3079
       },
       "velocity": {
-        "raw": 4.2904,
+        "raw": 4.3945,
         "weight": 2.0,
-        "weighted": 8.5808
+        "weighted": 8.789
       },
       "engagement": {
-        "raw": 3.3954,
+        "raw": 2.8044,
         "weight": 1.0,
-        "weighted": 3.3954
+        "weighted": 2.8044
       },
       "sport": {
         "raw": 1.0,
@@ -2882,27 +1525,676 @@
       }
     },
     "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
-    "first_seen_at": "2026-09-17T14:30:03+00:00",
-    "last_seen_at": "2026-09-17T23:00:02+00:00",
+    "first_seen_at": "2026-09-18T23:00:03+00:00",
+    "last_seen_at": "2026-09-19T05:00:02+00:00",
     "observation_count": 2
   },
   {
-    "video_id": "hQDFinvaTaw",
-    "title": "NBA MYSTERY DRAFT! 🔥 #NBA #TRIVIA #BASKETBALL #SHORTS #VIRAL",
-    "channel_id": "UCDZK0XGNAAM7_xieQPWzcCQ",
-    "channel_title": "Stadium Status",
-    "published_at": "2026-09-18T17:00:35Z",
-    "view_count": 363619,
-    "like_count": 11778,
-    "comment_count": 170,
-    "sport": "basketball",
-    "league": "NBA",
-    "region": "US",
-    "trend_score": 23.1558,
+    "video_id": "v3UqN1yrOeE",
+    "title": "CHRISTOS TZOLIS NEVER GIVES UP!",
+    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
+    "channel_title": "Arsenal",
+    "published_at": "2026-09-14T09:01:07Z",
+    "view_count": 767092,
+    "like_count": 16300,
+    "comment_count": 362,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.7765,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8811,
+        "weight": 1.0,
+        "weighted": 0.8811
+      },
+      "views": {
+        "raw": 5.8848,
+        "weight": 1.0,
+        "weighted": 5.8848
+      },
+      "velocity": {
+        "raw": 4.3961,
+        "weight": 2.0,
+        "weighted": 8.7923
+      },
+      "engagement": {
+        "raw": 2.2183,
+        "weight": 1.0,
+        "weighted": 2.2183
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-14T19:25:32+00:00",
+    "last_seen_at": "2026-09-15T05:00:01+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "XyWuD3fLJyM",
+    "title": "Kid to GOAT 🐐",
+    "channel_id": "UC_kGdJFp4xHHzOCUeC17zXw",
+    "channel_title": "FootySnapFC",
+    "published_at": "2026-09-12T11:59:50Z",
+    "view_count": 11974203,
+    "like_count": 126262,
+    "comment_count": 295,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.7744,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.1845,
+        "weight": 1.0,
+        "weighted": 0.1845
+      },
+      "views": {
+        "raw": 7.0782,
+        "weight": 1.0,
+        "weighted": 7.0782
+      },
+      "velocity": {
+        "raw": 4.7261,
+        "weight": 2.0,
+        "weighted": 9.4522
+      },
+      "engagement": {
+        "raw": 1.0594,
+        "weight": 1.0,
+        "weighted": 1.0594
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_BR",
+    "first_seen_at": "2026-09-16T23:00:02+00:00",
+    "last_seen_at": "2026-09-18T05:00:02+00:00",
+    "observation_count": 5
+  },
+  {
+    "video_id": "Ou6dG-Nc2SY",
+    "title": "Yamal Vs Vinicius is Near… #realmadrid #barcelona #laliga #championsleague",
+    "channel_id": "UC4wZe71o7TPyq_qVrkLuT9g",
+    "channel_title": "𝐑𝐄𝐃𝐗",
+    "published_at": "2026-09-20T14:44:40Z",
+    "view_count": 2616374,
+    "like_count": 15308,
+    "comment_count": 18,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.7476,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8586,
+        "weight": 1.0,
+        "weighted": 0.8586
+      },
+      "views": {
+        "raw": 6.4177,
+        "weight": 1.0,
+        "weighted": 6.4177
+      },
+      "velocity": {
+        "raw": 4.9422,
+        "weight": 2.0,
+        "weighted": 9.8845
+      },
+      "engagement": {
+        "raw": 0.5868,
+        "weight": 1.0,
+        "weighted": 0.5868
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-20T23:00:02+00:00",
+    "last_seen_at": "2026-09-21T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "1wWUI5Kl-N0",
+    "title": "Brentford 3-0 Chelsea | DERBY DAY DELIGHT! 🤩 | Premier League Highlights",
+    "channel_id": "UCAalMUm3LIf504ItA3rqfug",
+    "channel_title": "Brentford Football Club",
+    "published_at": "2026-09-18T23:00:26Z",
+    "view_count": 2378443,
+    "like_count": 20250,
+    "comment_count": 912,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.5399,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8572,
+        "weight": 1.0,
+        "weighted": 0.8572
+      },
+      "views": {
+        "raw": 6.3763,
+        "weight": 1.0,
+        "weighted": 6.3763
+      },
+      "velocity": {
+        "raw": 4.689,
+        "weight": 2.0,
+        "weighted": 9.3781
+      },
+      "engagement": {
+        "raw": 0.9283,
+        "weight": 1.0,
+        "weighted": 0.9283
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-19T05:00:02+00:00",
+    "last_seen_at": "2026-09-19T23:00:03+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "GAvCftCXL0E",
+    "title": "Highlights: Bournemouth 0-1 Liverpool | Isak Goal! Premier League",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-09-20T21:00:28Z",
+    "view_count": 1007062,
+    "like_count": 11423,
+    "comment_count": 275,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.5085,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8959,
+        "weight": 1.0,
+        "weighted": 0.8959
+      },
+      "views": {
+        "raw": 6.0031,
+        "weight": 1.0,
+        "weighted": 6.0031
+      },
+      "velocity": {
+        "raw": 4.7102,
+        "weight": 2.0,
+        "weighted": 9.4204
+      },
+      "engagement": {
+        "raw": 1.1892,
+        "weight": 1.0,
+        "weighted": 1.1892
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-20T23:00:02+00:00",
+    "last_seen_at": "2026-09-21T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "CfRt3Xz9sgY",
+    "title": "Alvarez After Defeating Real Madrid 😭💀",
+    "channel_id": "UCmg5HHr6_EjB8gvcrCT9W6Q",
+    "channel_title": "Playmakerz",
+    "published_at": "2026-09-20T19:07:02Z",
+    "view_count": 1276934,
+    "like_count": 33355,
+    "comment_count": 188,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 22.4741,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8846,
+        "weight": 1.0,
+        "weighted": 0.8846
+      },
+      "views": {
+        "raw": 6.1062,
+        "weight": 1.0,
+        "weighted": 6.1062
+      },
+      "velocity": {
+        "raw": 4.9213,
+        "weight": 2.0,
+        "weighted": 9.8427
+      },
+      "engagement": {
+        "raw": 2.6407,
+        "weight": 1.0,
+        "weighted": 2.6407
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-21T05:00:03+00:00",
+    "last_seen_at": "2026-09-21T14:30:02+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "tqSwz4Yzjxo",
+    "title": "Manchester United \"DIROMPAK\" Referee‼️ - EPL REVIEW GAMEWEEK 4",
+    "channel_id": "UCdLBwyjP9HJ1fWsv4XMqyrg",
+    "channel_title": "PALABOLA Studios",
+    "published_at": "2026-09-14T12:58:21Z",
+    "view_count": 68273,
+    "like_count": 2312,
+    "comment_count": 467,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.4648,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9046,
+        "weight": 1.0,
+        "weighted": 0.9046
+      },
+      "views": {
+        "raw": 4.8343,
+        "weight": 1.0,
+        "weighted": 4.8343
+      },
+      "velocity": {
+        "raw": 3.5093,
+        "weight": 2.0,
+        "weighted": 7.0187
+      },
+      "engagement": {
+        "raw": 4.7073,
+        "weight": 1.0,
+        "weighted": 4.7073
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-14T23:00:00+00:00",
+    "last_seen_at": "2026-09-15T05:00:01+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "B7B4dIhrrnw",
+    "title": "REFCAM POV: FC Barcelona vs Real Racing Club 👀",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-09-18T13:00:22Z",
+    "view_count": 224188,
+    "like_count": 5955,
+    "comment_count": 165,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.4514,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9048,
+        "weight": 1.0,
+        "weighted": 0.9048
+      },
+      "views": {
+        "raw": 5.3506,
+        "weight": 1.0,
+        "weighted": 5.3506
+      },
+      "velocity": {
+        "raw": 4.1992,
+        "weight": 2.0,
+        "weighted": 8.3984
+      },
+      "engagement": {
+        "raw": 2.7976,
+        "weight": 1.0,
+        "weighted": 2.7976
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-18T23:00:03+00:00",
+    "last_seen_at": "2026-09-19T05:00:02+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "LVBE8yV0-5U",
+    "title": "Is Sevilla The Next Victim For Barcelona? 🤯😂 #laliga #realmadrid #barcelona #psg",
+    "channel_id": "UCyPPYnJAoTwSdrqVjdnXkoQ",
+    "channel_title": "PitchlyHR",
+    "published_at": "2026-09-18T11:33:31Z",
+    "view_count": 414043,
+    "like_count": 5410,
+    "comment_count": 8,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.3611,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8962,
+        "weight": 1.0,
+        "weighted": 0.8962
+      },
+      "views": {
+        "raw": 5.617,
+        "weight": 1.0,
+        "weighted": 5.617
+      },
+      "velocity": {
+        "raw": 4.7685,
+        "weight": 2.0,
+        "weighted": 9.5369
+      },
+      "engagement": {
+        "raw": 1.3109,
+        "weight": 1.0,
+        "weighted": 1.3109
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-18T23:00:03+00:00",
+    "last_seen_at": "2026-09-19T05:00:02+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "cHQ6YaQ5gVM",
+    "title": "Barcelona vs Racing Santander 7-2 Raphinha HATTRICK | LALIGA 2026",
+    "channel_id": "UC-OC28ZKc929k3-VOLF0G4A",
+    "channel_title": "Dafer Ela",
+    "published_at": "2026-09-16T22:36:19Z",
+    "view_count": 706008,
+    "like_count": 6434,
+    "comment_count": 99,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.3429,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9054,
+        "weight": 1.0,
+        "weighted": 0.9054
+      },
+      "views": {
+        "raw": 5.8488,
+        "weight": 1.0,
+        "weighted": 5.8488
+      },
+      "velocity": {
+        "raw": 4.8243,
+        "weight": 2.0,
+        "weighted": 9.6485
+      },
+      "engagement": {
+        "raw": 0.9401,
+        "weight": 1.0,
+        "weighted": 0.9401
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-17T05:00:02+00:00",
+    "last_seen_at": "2026-09-17T14:30:03+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "_4iq-7lJnjc",
+    "title": "Levante 2-4 Barcelona La Liga EA Sports 2026/27 #shortsfeed",
+    "channel_id": "UC1rcpsU3KYJECfVb1_63pvQ",
+    "channel_title": "FOOTBALL TAGLINE",
+    "published_at": "2026-09-14T04:13:32Z",
+    "view_count": 609227,
+    "like_count": 4636,
+    "comment_count": 28,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.3417,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8882,
+        "weight": 1.0,
+        "weighted": 0.8882
+      },
+      "views": {
+        "raw": 5.7848,
+        "weight": 1.0,
+        "weighted": 5.7848
+      },
+      "velocity": {
+        "raw": 4.9486,
+        "weight": 2.0,
+        "weighted": 9.8973
+      },
+      "engagement": {
+        "raw": 0.7713,
+        "weight": 1.0,
+        "weighted": 0.7713
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-14T19:25:32+00:00",
+    "last_seen_at": "2026-09-14T23:00:00+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "7YtN19Dvq-A",
+    "title": "Top 5 Best KDB Assist Moments 🥀🥀 #shorts #football #footballshorts #kevindebruyne",
+    "channel_id": "UCzCB1r98MGM-lIxVsm55NBQ",
+    "channel_title": "Le-Haramball",
+    "published_at": "2026-09-19T17:00:35Z",
+    "view_count": 562540,
+    "like_count": 12024,
+    "comment_count": 32,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.3363,
     "trend_score_breakdown": {
       "age": {
         "raw": 0.8721,
@@ -2910,19 +2202,19 @@
         "weighted": 0.8721
       },
       "views": {
-        "raw": 5.5606,
+        "raw": 5.7502,
         "weight": 1.0,
-        "weighted": 5.5606
+        "weighted": 5.7502
       },
       "velocity": {
-        "raw": 4.1977,
+        "raw": 4.2832,
         "weight": 2.0,
-        "weighted": 8.3955
+        "weighted": 8.5664
       },
       "engagement": {
-        "raw": 3.3276,
+        "raw": 2.1477,
         "weight": 1.0,
-        "weighted": 3.3276
+        "weighted": 2.1477
       },
       "sport": {
         "raw": 1.0,
@@ -2941,12 +2233,720 @@
       }
     },
     "scope_verdict": "IN_SCOPE",
-    "scope_reason": "LEAGUE_MATCH",
-    "scope_version": "g066-r6-team-channels-2026-09-15",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-19T23:00:03+00:00",
+    "last_seen_at": "2026-09-20T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "0K73EBeJO9U",
+    "title": "DAVID RAYA IS BUILT DIFFERENT!",
+    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
+    "channel_title": "Arsenal",
+    "published_at": "2026-09-15T11:31:26Z",
+    "view_count": 423365,
+    "like_count": 8842,
+    "comment_count": 168,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.2942,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.896,
+        "weight": 1.0,
+        "weighted": 0.896
+      },
+      "views": {
+        "raw": 5.6267,
+        "weight": 1.0,
+        "weighted": 5.6267
+      },
+      "velocity": {
+        "raw": 4.3026,
+        "weight": 2.0,
+        "weighted": 8.6052
+      },
+      "engagement": {
+        "raw": 2.1663,
+        "weight": 1.0,
+        "weighted": 2.1663
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-15T23:00:02+00:00",
+    "last_seen_at": "2026-09-16T05:00:02+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "sureAACWU4o",
+    "title": "Makin Nyetel! Ternyata Ini Tujuan Barcelona Rekrut Karim Adeyemi! ⚡",
+    "channel_id": "UCBZLdHuf_OpiBAeegcPGIeQ",
+    "channel_title": "Remontada ID",
+    "published_at": "2026-09-14T10:00:13Z",
+    "view_count": 163568,
+    "like_count": 4484,
+    "comment_count": 74,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.2256,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8869,
+        "weight": 1.0,
+        "weighted": 0.8869
+      },
+      "views": {
+        "raw": 5.2137,
+        "weight": 1.0,
+        "weighted": 5.2137
+      },
+      "velocity": {
+        "raw": 4.1506,
+        "weight": 2.0,
+        "weighted": 8.3013
+      },
+      "engagement": {
+        "raw": 2.8237,
+        "weight": 1.0,
+        "weighted": 2.8237
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-14T19:25:32+00:00",
+    "last_seen_at": "2026-09-15T05:00:01+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "BxnyQCormOg",
+    "title": "“Wirtz CANNOT be in the Liverpool team!” | Carra says people are NOT being harsh to Florian Wirtz",
+    "channel_id": "UCNAf1k0yIjyGu3k9BwAg3lg",
+    "channel_title": "Sky Sports Premier League",
+    "published_at": "2026-09-20T18:30:39Z",
+    "view_count": 765188,
+    "like_count": 6866,
+    "comment_count": 1789,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.1911,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.881,
+        "weight": 1.0,
+        "weighted": 0.881
+      },
+      "views": {
+        "raw": 5.8838,
+        "weight": 1.0,
+        "weighted": 5.8838
+      },
+      "velocity": {
+        "raw": 4.5306,
+        "weight": 2.0,
+        "weighted": 9.0612
+      },
+      "engagement": {
+        "raw": 1.3651,
+        "weight": 1.0,
+        "weighted": 1.3651
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-20T23:00:02+00:00",
+    "last_seen_at": "2026-09-21T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "o7P6cvuEnoo",
+    "title": "Chelsea Third Kit 26/27",
+    "channel_id": "UCU2PacFf99vhb3hNiYDmxww",
+    "channel_title": "Chelsea Football Club",
+    "published_at": "2026-09-14T11:00:29Z",
+    "view_count": 45524,
+    "like_count": 4490,
+    "comment_count": 108,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.1865,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8929,
+        "weight": 1.0,
+        "weighted": 0.8929
+      },
+      "views": {
+        "raw": 4.6582,
+        "weight": 1.0,
+        "weighted": 4.6582
+      },
+      "velocity": {
+        "raw": 3.3177,
+        "weight": 2.0,
+        "weighted": 6.6354
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-14T23:00:00+00:00",
+    "last_seen_at": "2026-09-15T05:00:01+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "al6OtpbaBDk",
+    "title": "The Real Xavi Hernández: The Mind Behind The Greatest Team In History",
+    "channel_id": "UCHOKvQW2N4kLVhKYn2bvF7A",
+    "channel_title": "Prakhar Gupta",
+    "published_at": "2026-09-18T15:30:37Z",
+    "view_count": 597157,
+    "like_count": 18299,
+    "comment_count": 1860,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 22.1777,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8632,
+        "weight": 1.0,
+        "weighted": 0.8632
+      },
+      "views": {
+        "raw": 5.7761,
+        "weight": 1.0,
+        "weighted": 5.7761
+      },
+      "velocity": {
+        "raw": 4.4274,
+        "weight": 2.0,
+        "weighted": 8.8549
+      },
+      "engagement": {
+        "raw": 3.6836,
+        "weight": 1.0,
+        "weighted": 3.6836
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-19T05:00:02+00:00",
     "last_seen_at": "2026-09-19T14:30:03+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "3nh3MC33WU8",
+    "title": "It's OVER! 🤬 | Manchester United 2-3 Brighton",
+    "channel_id": "UCs4aCv8PFD0qkkOZ0uiSTcA",
+    "channel_title": "Saeed TV",
+    "published_at": "2026-09-16T21:15:04Z",
+    "view_count": 323168,
+    "like_count": 9610,
+    "comment_count": 2271,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 22.1574,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8973,
+        "weight": 1.0,
+        "weighted": 0.8973
+      },
+      "views": {
+        "raw": 5.5094,
+        "weight": 1.0,
+        "weighted": 5.5094
+      },
+      "velocity": {
+        "raw": 4.1902,
+        "weight": 2.0,
+        "weighted": 8.3804
+      },
+      "engagement": {
+        "raw": 4.3702,
+        "weight": 1.0,
+        "weighted": 4.3702
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-17T05:00:02+00:00",
+    "last_seen_at": "2026-09-17T14:30:03+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "_f5-6jdNP58",
+    "title": "HIGHLIGHTS | Brighton 3-0 Arsenal | Premier League",
+    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
+    "channel_title": "Arsenal",
+    "published_at": "2026-09-19T21:00:37Z",
+    "view_count": 722333,
+    "like_count": 5311,
+    "comment_count": 995,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.127,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8959,
+        "weight": 1.0,
+        "weighted": 0.8959
+      },
+      "views": {
+        "raw": 5.8587,
+        "weight": 1.0,
+        "weighted": 5.8587
+      },
+      "velocity": {
+        "raw": 4.6805,
+        "weight": 2.0,
+        "weighted": 9.361
+      },
+      "engagement": {
+        "raw": 1.0114,
+        "weight": 1.0,
+        "weighted": 1.0114
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-20T05:00:02+00:00",
+    "last_seen_at": "2026-09-20T14:30:02+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "3XhUAsRXcFw",
+    "title": "WE NEED TO SPEAK ABOUT CHELSEA'S DEFENDING...",
+    "channel_id": "UC7AiAq4zB5ylQy23gg3H8hA",
+    "channel_title": "Younes Talks Chelsea",
+    "published_at": "2026-09-14T18:25:42Z",
+    "view_count": 55761,
+    "like_count": 2140,
+    "comment_count": 372,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.0978,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8805,
+        "weight": 1.0,
+        "weighted": 0.8805
+      },
+      "views": {
+        "raw": 4.7463,
+        "weight": 1.0,
+        "weighted": 4.7463
+      },
+      "velocity": {
+        "raw": 3.2355,
+        "weight": 2.0,
+        "weighted": 6.4709
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-15T05:00:01+00:00",
+    "last_seen_at": "2026-09-15T14:30:01+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "ks63JZvS2DM",
+    "title": "Highlights ELCHE vs REAL MADRID | Yan Diomande lên tiếng và khoảnh khắc cứu thầy phút chót | LaLiga",
+    "channel_id": "UCbdlxg0t8O7WGPrFsVcz6Gg",
+    "channel_title": "VTVcab - On Champions League",
+    "published_at": "2026-09-15T21:40:46Z",
+    "view_count": 1009126,
+    "like_count": 3610,
+    "comment_count": 401,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.079,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8999,
+        "weight": 1.0,
+        "weighted": 0.8999
+      },
+      "views": {
+        "raw": 6.0039,
+        "weight": 1.0,
+        "weighted": 6.0039
+      },
+      "velocity": {
+        "raw": 4.8684,
+        "weight": 2.0,
+        "weighted": 9.7369
+      },
+      "engagement": {
+        "raw": 0.4383,
+        "weight": 1.0,
+        "weighted": 0.4383
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-15T23:00:02+00:00",
+    "last_seen_at": "2026-09-16T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "zuRQB2ncE28",
+    "title": "¿’Pleito’ Dembele-Mbappe? | Lamine admite: “Pude haber hecho más” | United y Arsenal vs árbitros",
+    "channel_id": "UCv1xjGi8KibuoOK8StRFCWg",
+    "channel_title": "Cracks",
+    "published_at": "2026-09-14T16:19:35Z",
+    "view_count": 239832,
+    "like_count": 6525,
+    "comment_count": 170,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.0647,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.868,
+        "weight": 1.0,
+        "weighted": 0.868
+      },
+      "views": {
+        "raw": 5.3799,
+        "weight": 1.0,
+        "weighted": 5.3799
+      },
+      "velocity": {
+        "raw": 3.98,
+        "weight": 2.0,
+        "weighted": 7.9601
+      },
+      "engagement": {
+        "raw": 2.8567,
+        "weight": 1.0,
+        "weighted": 2.8567
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-14T19:25:32+00:00",
+    "last_seen_at": "2026-09-15T14:30:01+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "NG4nNP5HNXw",
+    "title": "[라리가] 7R AT. 마드리드 vs 레알 마드리드 이강인 주요장면",
+    "channel_id": "UCnBht7BrOx-A328KFXgysqQ",
+    "channel_title": "쿠팡플레이 스포츠",
+    "published_at": "2026-09-20T20:15:21Z",
+    "view_count": 2960882,
+    "like_count": 15240,
+    "comment_count": 3597,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": "EU",
+    "trend_score": 22.0561,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8408,
+        "weight": 1.0,
+        "weighted": 0.8408
+      },
+      "views": {
+        "raw": 6.4714,
+        "weight": 1.0,
+        "weighted": 6.4714
+      },
+      "velocity": {
+        "raw": 4.493,
+        "weight": 2.0,
+        "weighted": 8.986
+      },
+      "engagement": {
+        "raw": 0.7579,
+        "weight": 1.0,
+        "weighted": 0.7579
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_KR",
+    "first_seen_at": "2026-09-21T14:30:02+00:00",
+    "last_seen_at": "2026-09-21T23:00:01+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "wxLAoSyE0AE",
+    "title": "EXTENDED HIGHLIGHTS | Brighton v Arsenal | Premier League",
+    "channel_id": "UCf-cpC9WAdOsas19JHipukA",
+    "channel_title": "Official Brighton & Hove Albion FC",
+    "published_at": "2026-09-20T22:55:04Z",
+    "view_count": 683209,
+    "like_count": 4674,
+    "comment_count": 260,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.055,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9072,
+        "weight": 1.0,
+        "weighted": 0.9072
+      },
+      "views": {
+        "raw": 5.8346,
+        "weight": 1.0,
+        "weighted": 5.8346
+      },
+      "velocity": {
+        "raw": 4.776,
+        "weight": 2.0,
+        "weighted": 9.5519
+      },
+      "engagement": {
+        "raw": 0.7613,
+        "weight": 1.0,
+        "weighted": 0.7613
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-21T05:00:03+00:00",
+    "last_seen_at": "2026-09-21T14:30:02+00:00",
     "observation_count": 2
   }
 ]
