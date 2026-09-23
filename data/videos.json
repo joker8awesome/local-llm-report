@@ -1475,6 +1475,65 @@
     "observation_count": 8
   },
   {
+    "video_id": "0pylAjEhYN8",
+    "title": "Current Arsenal Vs 08 Manchester United Combined XI",
+    "channel_id": "UCIKEHdQlCUKUn7eGXy9CBiA",
+    "channel_title": "Conner Cole",
+    "published_at": "2026-09-22T11:29:19Z",
+    "view_count": 404375,
+    "like_count": 20685,
+    "comment_count": 565,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 22.9099,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8958,
+        "weight": 1.0,
+        "weighted": 0.8958
+      },
+      "views": {
+        "raw": 5.6068,
+        "weight": 1.0,
+        "weighted": 5.6068
+      },
+      "velocity": {
+        "raw": 4.2037,
+        "weight": 2.0,
+        "weighted": 8.4073
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-22T23:00:02+00:00",
+    "last_seen_at": "2026-09-23T05:00:02+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "AgVaYZbzkpE",
     "title": "MANZAMBI, JACKSON & BUENDÍA ON TARGET | Tottenham Hotspur 2-3 Villa | Premier League Highlights",
     "channel_id": "UCICNP0mvtr0prFwGUQIABfQ",
@@ -1711,6 +1770,65 @@
     "observation_count": 5
   },
   {
+    "video_id": "SvDQwmZlXRA",
+    "title": "REFCAM POV: Atlético de Madrid vs Real Madrid 👀",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-09-22T15:04:43Z",
+    "view_count": 411547,
+    "like_count": 7024,
+    "comment_count": 620,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.7664,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9171,
+        "weight": 1.0,
+        "weighted": 0.9171
+      },
+      "views": {
+        "raw": 5.6144,
+        "weight": 1.0,
+        "weighted": 5.6144
+      },
+      "velocity": {
+        "raw": 4.614,
+        "weight": 2.0,
+        "weighted": 9.228
+      },
+      "engagement": {
+        "raw": 2.0068,
+        "weight": 1.0,
+        "weighted": 2.0068
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-22T23:00:02+00:00",
+    "last_seen_at": "2026-09-23T05:00:02+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "Ou6dG-Nc2SY",
     "title": "Yamal Vs Vinicius is Near… #realmadrid #barcelona #laliga #championsleague",
     "channel_id": "UC4wZe71o7TPyq_qVrkLuT9g",
@@ -1768,6 +1886,65 @@
     "first_seen_at": "2026-09-20T23:00:02+00:00",
     "last_seen_at": "2026-09-21T14:30:02+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "ox-eYw6UF7I",
+    "title": "Admin Atletico Madrid sedang memasak! ☠️",
+    "channel_id": "UCjZRshElyyL6zQnxRNZqK-g",
+    "channel_title": "Sejarah Bola Update",
+    "published_at": "2026-09-22T07:52:09Z",
+    "view_count": 226390,
+    "like_count": 8140,
+    "comment_count": 316,
+    "sport": "soccer",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 22.5842,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8742,
+        "weight": 1.0,
+        "weighted": 0.8742
+      },
+      "views": {
+        "raw": 5.3549,
+        "weight": 1.0,
+        "weighted": 5.3549
+      },
+      "velocity": {
+        "raw": 3.7455,
+        "weight": 2.0,
+        "weighted": 7.4909
+      },
+      "engagement": {
+        "raw": 3.8642,
+        "weight": 1.0,
+        "weighted": 3.8642
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-22T23:00:02+00:00",
+    "last_seen_at": "2026-09-23T05:00:02+00:00",
+    "observation_count": 2
   },
   {
     "video_id": "1wWUI5Kl-N0",
@@ -2006,6 +2183,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "8J5Ls3ydGdo",
+    "title": "No disimulaba nada Szczesny😂😂 #barcelona #realmadrid #laliga #lacobraaa #davooxeneize",
+    "channel_id": "UC_PEQJKHIZ9zZPF5_QqmR0w",
+    "channel_title": "MordoTv",
+    "published_at": "2026-09-22T12:00:08Z",
+    "view_count": 80088,
+    "like_count": 3268,
+    "comment_count": 51,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.471,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8988,
+        "weight": 1.0,
+        "weighted": 0.8988
+      },
+      "views": {
+        "raw": 4.9036,
+        "weight": 1.0,
+        "weighted": 4.9036
+      },
+      "velocity": {
+        "raw": 3.7471,
+        "weight": 2.0,
+        "weighted": 7.4943
+      },
+      "engagement": {
+        "raw": 4.1744,
+        "weight": 1.0,
+        "weighted": 4.1744
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-22T23:00:02+00:00",
+    "last_seen_at": "2026-09-23T05:00:02+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "tqSwz4Yzjxo",
     "title": "Manchester United \"DIROMPAK\" Referee‼️ - EPL REVIEW GAMEWEEK 4",
     "channel_id": "UCdLBwyjP9HJ1fWsv4XMqyrg",
@@ -2240,6 +2476,65 @@
     "first_seen_at": "2026-09-18T23:00:03+00:00",
     "last_seen_at": "2026-09-19T05:00:02+00:00",
     "observation_count": 2
+  },
+  {
+    "video_id": "SzFM2D-hs8g",
+    "title": "HARRY KANE virou goleiro🤯☠️🔥",
+    "channel_id": "UCcAg-rvBbiCE3tCg42aTIEQ",
+    "channel_title": "Futecem",
+    "published_at": "2026-09-19T15:00:26Z",
+    "view_count": 1828472,
+    "like_count": 32353,
+    "comment_count": 62,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.3438,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.4881,
+        "weight": 1.0,
+        "weighted": 0.4881
+      },
+      "views": {
+        "raw": 6.2621,
+        "weight": 1.0,
+        "weighted": 6.2621
+      },
+      "velocity": {
+        "raw": 4.4088,
+        "weight": 2.0,
+        "weighted": 8.8176
+      },
+      "engagement": {
+        "raw": 1.776,
+        "weight": 1.0,
+        "weighted": 1.776
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_BR",
+    "first_seen_at": "2026-09-20T05:00:02+00:00",
+    "last_seen_at": "2026-09-23T05:00:02+00:00",
+    "observation_count": 6
   },
   {
     "video_id": "cHQ6YaQ5gVM",
@@ -2653,300 +2948,5 @@
     "first_seen_at": "2026-09-14T19:25:32+00:00",
     "last_seen_at": "2026-09-15T05:00:01+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "BxnyQCormOg",
-    "title": "“Wirtz CANNOT be in the Liverpool team!” | Carra says people are NOT being harsh to Florian Wirtz",
-    "channel_id": "UCNAf1k0yIjyGu3k9BwAg3lg",
-    "channel_title": "Sky Sports Premier League",
-    "published_at": "2026-09-20T18:30:39Z",
-    "view_count": 765188,
-    "like_count": 6866,
-    "comment_count": 1789,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.1911,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.881,
-        "weight": 1.0,
-        "weighted": 0.881
-      },
-      "views": {
-        "raw": 5.8838,
-        "weight": 1.0,
-        "weighted": 5.8838
-      },
-      "velocity": {
-        "raw": 4.5306,
-        "weight": 2.0,
-        "weighted": 9.0612
-      },
-      "engagement": {
-        "raw": 1.3651,
-        "weight": 1.0,
-        "weighted": 1.3651
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-20T23:00:02+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "o7P6cvuEnoo",
-    "title": "Chelsea Third Kit 26/27",
-    "channel_id": "UCU2PacFf99vhb3hNiYDmxww",
-    "channel_title": "Chelsea Football Club",
-    "published_at": "2026-09-14T11:00:29Z",
-    "view_count": 45524,
-    "like_count": 4490,
-    "comment_count": 108,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.1865,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8929,
-        "weight": 1.0,
-        "weighted": 0.8929
-      },
-      "views": {
-        "raw": 4.6582,
-        "weight": 1.0,
-        "weighted": 4.6582
-      },
-      "velocity": {
-        "raw": 3.3177,
-        "weight": 2.0,
-        "weighted": 6.6354
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T23:00:00+00:00",
-    "last_seen_at": "2026-09-15T05:00:01+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "al6OtpbaBDk",
-    "title": "The Real Xavi Hernández: The Mind Behind The Greatest Team In History",
-    "channel_id": "UCHOKvQW2N4kLVhKYn2bvF7A",
-    "channel_title": "Prakhar Gupta",
-    "published_at": "2026-09-18T15:30:37Z",
-    "view_count": 597157,
-    "like_count": 18299,
-    "comment_count": 1860,
-    "sport": "soccer",
-    "league": null,
-    "region": null,
-    "trend_score": 22.1777,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8632,
-        "weight": 1.0,
-        "weighted": 0.8632
-      },
-      "views": {
-        "raw": 5.7761,
-        "weight": 1.0,
-        "weighted": 5.7761
-      },
-      "velocity": {
-        "raw": 4.4274,
-        "weight": 2.0,
-        "weighted": 8.8549
-      },
-      "engagement": {
-        "raw": 3.6836,
-        "weight": 1.0,
-        "weighted": 3.6836
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 0.0,
-        "weight": 2.0,
-        "weighted": 0.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-19T05:00:02+00:00",
-    "last_seen_at": "2026-09-19T14:30:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "3nh3MC33WU8",
-    "title": "It's OVER! 🤬 | Manchester United 2-3 Brighton",
-    "channel_id": "UCs4aCv8PFD0qkkOZ0uiSTcA",
-    "channel_title": "Saeed TV",
-    "published_at": "2026-09-16T21:15:04Z",
-    "view_count": 323168,
-    "like_count": 9610,
-    "comment_count": 2271,
-    "sport": "soccer",
-    "league": null,
-    "region": null,
-    "trend_score": 22.1574,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8973,
-        "weight": 1.0,
-        "weighted": 0.8973
-      },
-      "views": {
-        "raw": 5.5094,
-        "weight": 1.0,
-        "weighted": 5.5094
-      },
-      "velocity": {
-        "raw": 4.1902,
-        "weight": 2.0,
-        "weighted": 8.3804
-      },
-      "engagement": {
-        "raw": 4.3702,
-        "weight": 1.0,
-        "weighted": 4.3702
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 0.0,
-        "weight": 2.0,
-        "weighted": 0.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-17T05:00:02+00:00",
-    "last_seen_at": "2026-09-17T14:30:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "_f5-6jdNP58",
-    "title": "HIGHLIGHTS | Brighton 3-0 Arsenal | Premier League",
-    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
-    "channel_title": "Arsenal",
-    "published_at": "2026-09-19T21:00:37Z",
-    "view_count": 722333,
-    "like_count": 5311,
-    "comment_count": 995,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.127,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8959,
-        "weight": 1.0,
-        "weighted": 0.8959
-      },
-      "views": {
-        "raw": 5.8587,
-        "weight": 1.0,
-        "weighted": 5.8587
-      },
-      "velocity": {
-        "raw": 4.6805,
-        "weight": 2.0,
-        "weighted": 9.361
-      },
-      "engagement": {
-        "raw": 1.0114,
-        "weight": 1.0,
-        "weighted": 1.0114
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-20T05:00:02+00:00",
-    "last_seen_at": "2026-09-20T14:30:02+00:00",
-    "observation_count": 2
   }
 ]
