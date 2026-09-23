@@ -1357,6 +1357,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "JDTCu9IvvSA",
+    "title": "Haaland Gets Trolled by Sunderland Fans 😅",
+    "channel_id": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+    "channel_title": "Premier League",
+    "published_at": "2026-09-22T16:00:34Z",
+    "view_count": 980648,
+    "like_count": 22805,
+    "comment_count": 340,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.0353,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8155,
+        "weight": 1.0,
+        "weighted": 0.8155
+      },
+      "views": {
+        "raw": 5.9915,
+        "weight": 1.0,
+        "weighted": 5.9915
+      },
+      "velocity": {
+        "raw": 4.4172,
+        "weight": 2.0,
+        "weighted": 8.8343
+      },
+      "engagement": {
+        "raw": 2.3939,
+        "weight": 1.0,
+        "weighted": 2.3939
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-23T14:30:01+00:00",
+    "last_seen_at": "2026-09-23T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "jCIU4nxBFrw",
     "title": "FIOUUUU.. (OM 1-2 PSG)",
     "channel_id": "UCzSSwnU5MohO6vQqmMjKUyw",
@@ -2301,6 +2360,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "Wce3LIKDOos",
+    "title": "Who's in charge of the fines? 👀💰",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-09-23T13:00:12Z",
+    "view_count": 79123,
+    "like_count": 2918,
+    "comment_count": 49,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.4048,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9405,
+        "weight": 1.0,
+        "weighted": 0.9405
+      },
+      "views": {
+        "raw": 4.8983,
+        "weight": 1.0,
+        "weighted": 4.8983
+      },
+      "velocity": {
+        "raw": 3.8916,
+        "weight": 2.0,
+        "weighted": 7.7832
+      },
+      "engagement": {
+        "raw": 3.7828,
+        "weight": 1.0,
+        "weighted": 3.7828
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-09-23T14:30:01+00:00",
+    "last_seen_at": "2026-09-23T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "16NpJfbDFaQ",
     "title": "Goalkeepers After Facing Bayern & Barça 😭🧤",
     "channel_id": "UCmg5HHr6_EjB8gvcrCT9W6Q",
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-09-14T19:25:32+00:00",
     "last_seen_at": "2026-09-15T05:00:01+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "BxnyQCormOg",
-    "title": "“Wirtz CANNOT be in the Liverpool team!” | Carra says people are NOT being harsh to Florian Wirtz",
-    "channel_id": "UCNAf1k0yIjyGu3k9BwAg3lg",
-    "channel_title": "Sky Sports Premier League",
-    "published_at": "2026-09-20T18:30:39Z",
-    "view_count": 765188,
-    "like_count": 6866,
-    "comment_count": 1789,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.1911,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.881,
-        "weight": 1.0,
-        "weighted": 0.881
-      },
-      "views": {
-        "raw": 5.8838,
-        "weight": 1.0,
-        "weighted": 5.8838
-      },
-      "velocity": {
-        "raw": 4.5306,
-        "weight": 2.0,
-        "weighted": 9.0612
-      },
-      "engagement": {
-        "raw": 1.3651,
-        "weight": 1.0,
-        "weighted": 1.3651
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-20T23:00:02+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "o7P6cvuEnoo",
-    "title": "Chelsea Third Kit 26/27",
-    "channel_id": "UCU2PacFf99vhb3hNiYDmxww",
-    "channel_title": "Chelsea Football Club",
-    "published_at": "2026-09-14T11:00:29Z",
-    "view_count": 45524,
-    "like_count": 4490,
-    "comment_count": 108,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.1865,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8929,
-        "weight": 1.0,
-        "weighted": 0.8929
-      },
-      "views": {
-        "raw": 4.6582,
-        "weight": 1.0,
-        "weighted": 4.6582
-      },
-      "velocity": {
-        "raw": 3.3177,
-        "weight": 2.0,
-        "weighted": 6.6354
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T23:00:00+00:00",
-    "last_seen_at": "2026-09-15T05:00:01+00:00",
-    "observation_count": 2
   }
 ]
