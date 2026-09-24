@@ -531,6 +531,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "pVTeh7FkbQk",
+    "title": "Haaland SHOCKED by KSI's Skills 🥶🔥 #footballshorts #ronaldo #shortvideo",
+    "channel_id": "UCfDfXkturThR19P7wSeQ64w",
+    "channel_title": "TIER LV7",
+    "published_at": "2026-09-22T20:50:02Z",
+    "view_count": 6212202,
+    "like_count": 90158,
+    "comment_count": 220,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.0547,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.7014,
+        "weight": 1.0,
+        "weighted": 0.7014
+      },
+      "views": {
+        "raw": 6.7932,
+        "weight": 1.0,
+        "weighted": 6.7932
+      },
+      "velocity": {
+        "raw": 5.0508,
+        "weight": 2.0,
+        "weighted": 10.1017
+      },
+      "engagement": {
+        "raw": 1.4584,
+        "weight": 1.0,
+        "weighted": 1.4584
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-23T23:00:03+00:00",
+    "last_seen_at": "2026-09-24T23:00:03+00:00",
+    "observation_count": 4
+  },
+  {
     "video_id": "bWOX89kHMbM",
     "title": "Extended Highlights: Must-see Szoboszlai Goal! Liverpool 3-1 Tottenham | Carabao Cup",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -646,65 +705,6 @@
     "source": "live",
     "first_seen_at": "2026-09-19T23:00:03+00:00",
     "last_seen_at": "2026-09-20T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "pVTeh7FkbQk",
-    "title": "Haaland SHOCKED by KSI's Skills 🥶🔥 #footballshorts #ronaldo #shortvideo",
-    "channel_id": "UCfDfXkturThR19P7wSeQ64w",
-    "channel_title": "TIER LV7",
-    "published_at": "2026-09-22T20:50:02Z",
-    "view_count": 5256604,
-    "like_count": 78360,
-    "comment_count": 201,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 23.8672,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.752,
-        "weight": 1.0,
-        "weighted": 0.752
-      },
-      "views": {
-        "raw": 6.7207,
-        "weight": 1.0,
-        "weighted": 6.7207
-      },
-      "velocity": {
-        "raw": 4.9481,
-        "weight": 2.0,
-        "weighted": 9.8961
-      },
-      "engagement": {
-        "raw": 1.4983,
-        "weight": 1.0,
-        "weighted": 1.4983
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-23T23:00:03+00:00",
-    "last_seen_at": "2026-09-24T14:30:02+00:00",
     "observation_count": 3
   },
   {
@@ -1711,6 +1711,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "9OQR_gGPxyk",
+    "title": "Robertson: Love with Klopp, Liverpool Glory and Why I Left For Spurs! | Stick to Football Ep 150",
+    "channel_id": "UCjXIw1GlwaY1IzpW_jN9iCQ",
+    "channel_title": "The Overlap",
+    "published_at": "2026-09-24T07:00:31Z",
+    "view_count": 889707,
+    "like_count": 11595,
+    "comment_count": 434,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.8002,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9048,
+        "weight": 1.0,
+        "weighted": 0.9048
+      },
+      "views": {
+        "raw": 5.9492,
+        "weight": 1.0,
+        "weighted": 5.9492
+      },
+      "velocity": {
+        "raw": 4.7726,
+        "weight": 2.0,
+        "weighted": 9.5452
+      },
+      "engagement": {
+        "raw": 1.4009,
+        "weight": 1.0,
+        "weighted": 1.4009
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-24T14:30:02+00:00",
+    "last_seen_at": "2026-09-24T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "iSLGfFWIzdM",
     "title": "pemain milan seperti psik*pat, tapi 'monster' sesungguhnya pemain yang paling lugu👹",
     "channel_id": "UCx2_S53YeMDYVDWGxlx7jdg",
@@ -1945,6 +2004,65 @@
     "first_seen_at": "2026-09-20T23:00:02+00:00",
     "last_seen_at": "2026-09-21T14:30:02+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "TWS4-6QS_zo",
+    "title": "Gvardiol's Dolphin Dive Celebration 🤣🐬",
+    "channel_id": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+    "channel_title": "Premier League",
+    "published_at": "2026-09-23T17:00:22Z",
+    "view_count": 1499542,
+    "like_count": 22490,
+    "comment_count": 75,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.6804,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8215,
+        "weight": 1.0,
+        "weighted": 0.8215
+      },
+      "views": {
+        "raw": 6.176,
+        "weight": 1.0,
+        "weighted": 6.176
+      },
+      "velocity": {
+        "raw": 4.5866,
+        "weight": 2.0,
+        "weighted": 9.1732
+      },
+      "engagement": {
+        "raw": 1.5098,
+        "weight": 1.0,
+        "weighted": 1.5098
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-24T14:30:02+00:00",
+    "last_seen_at": "2026-09-24T23:00:03+00:00",
+    "observation_count": 2
   },
   {
     "video_id": "xUynJFSeqiY",
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-09-17T05:00:02+00:00",
     "last_seen_at": "2026-09-17T14:30:03+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "_4iq-7lJnjc",
-    "title": "Levante 2-4 Barcelona La Liga EA Sports 2026/27 #shortsfeed",
-    "channel_id": "UC1rcpsU3KYJECfVb1_63pvQ",
-    "channel_title": "FOOTBALL TAGLINE",
-    "published_at": "2026-09-14T04:13:32Z",
-    "view_count": 609227,
-    "like_count": 4636,
-    "comment_count": 28,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 22.3417,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8882,
-        "weight": 1.0,
-        "weighted": 0.8882
-      },
-      "views": {
-        "raw": 5.7848,
-        "weight": 1.0,
-        "weighted": 5.7848
-      },
-      "velocity": {
-        "raw": 4.9486,
-        "weight": 2.0,
-        "weighted": 9.8973
-      },
-      "engagement": {
-        "raw": 0.7713,
-        "weight": 1.0,
-        "weighted": 0.7713
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T19:25:32+00:00",
-    "last_seen_at": "2026-09-14T23:00:00+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "7YtN19Dvq-A",
-    "title": "Top 5 Best KDB Assist Moments 🥀🥀 #shorts #football #footballshorts #kevindebruyne",
-    "channel_id": "UCzCB1r98MGM-lIxVsm55NBQ",
-    "channel_title": "Le-Haramball",
-    "published_at": "2026-09-19T17:00:35Z",
-    "view_count": 562540,
-    "like_count": 12024,
-    "comment_count": 32,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 22.3363,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8721,
-        "weight": 1.0,
-        "weighted": 0.8721
-      },
-      "views": {
-        "raw": 5.7502,
-        "weight": 1.0,
-        "weighted": 5.7502
-      },
-      "velocity": {
-        "raw": 4.2832,
-        "weight": 2.0,
-        "weighted": 8.5664
-      },
-      "engagement": {
-        "raw": 2.1477,
-        "weight": 1.0,
-        "weighted": 2.1477
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-19T23:00:03+00:00",
-    "last_seen_at": "2026-09-20T14:30:02+00:00",
-    "observation_count": 3
   }
 ]
