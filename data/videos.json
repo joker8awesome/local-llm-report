@@ -531,6 +531,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "pVTeh7FkbQk",
+    "title": "Haaland SHOCKED by KSI's Skills 🥶🔥 #footballshorts #ronaldo #shortvideo",
+    "channel_id": "UCfDfXkturThR19P7wSeQ64w",
+    "channel_title": "TIER LV7",
+    "published_at": "2026-09-22T20:50:02Z",
+    "view_count": 4413718,
+    "like_count": 64120,
+    "comment_count": 184,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.0245,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8085,
+        "weight": 1.0,
+        "weighted": 0.8085
+      },
+      "views": {
+        "raw": 6.6448,
+        "weight": 1.0,
+        "weighted": 6.6448
+      },
+      "velocity": {
+        "raw": 5.055,
+        "weight": 2.0,
+        "weighted": 10.11
+      },
+      "engagement": {
+        "raw": 1.4611,
+        "weight": 1.0,
+        "weighted": 1.4611
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-23T23:00:03+00:00",
+    "last_seen_at": "2026-09-24T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "bWOX89kHMbM",
     "title": "Extended Highlights: Must-see Szoboszlai Goal! Liverpool 3-1 Tottenham | Carabao Cup",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -1357,65 +1416,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "JDTCu9IvvSA",
-    "title": "Haaland Gets Trolled by Sunderland Fans 😅",
-    "channel_id": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
-    "channel_title": "Premier League",
-    "published_at": "2026-09-22T16:00:34Z",
-    "view_count": 980648,
-    "like_count": 22805,
-    "comment_count": 340,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.0353,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8155,
-        "weight": 1.0,
-        "weighted": 0.8155
-      },
-      "views": {
-        "raw": 5.9915,
-        "weight": 1.0,
-        "weighted": 5.9915
-      },
-      "velocity": {
-        "raw": 4.4172,
-        "weight": 2.0,
-        "weighted": 8.8343
-      },
-      "engagement": {
-        "raw": 2.3939,
-        "weight": 1.0,
-        "weighted": 2.3939
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-23T14:30:01+00:00",
-    "last_seen_at": "2026-09-23T23:00:03+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "jCIU4nxBFrw",
     "title": "FIOUUUU.. (OM 1-2 PSG)",
     "channel_id": "UCzSSwnU5MohO6vQqmMjKUyw",
@@ -1888,6 +1888,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "xUynJFSeqiY",
+    "title": "If Every Barça Goalkeeper Gets Injured 😭🧤",
+    "channel_id": "UCmg5HHr6_EjB8gvcrCT9W6Q",
+    "channel_title": "Playmakerz",
+    "published_at": "2026-09-23T17:41:15Z",
+    "view_count": 1537714,
+    "like_count": 34193,
+    "comment_count": 438,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 22.6932,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9327,
+        "weight": 1.0,
+        "weighted": 0.9327
+      },
+      "views": {
+        "raw": 6.1869,
+        "weight": 1.0,
+        "weighted": 6.1869
+      },
+      "velocity": {
+        "raw": 5.1468,
+        "weight": 2.0,
+        "weighted": 10.2936
+      },
+      "engagement": {
+        "raw": 2.2801,
+        "weight": 1.0,
+        "weighted": 2.2801
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-23T23:00:03+00:00",
+    "last_seen_at": "2026-09-24T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "ox-eYw6UF7I",
     "title": "Admin Atletico Madrid sedang memasak! ☠️",
     "channel_id": "UCjZRshElyyL6zQnxRNZqK-g",
@@ -1945,6 +2004,65 @@
     "first_seen_at": "2026-09-22T23:00:02+00:00",
     "last_seen_at": "2026-09-23T05:00:02+00:00",
     "observation_count": 2
+  },
+  {
+    "video_id": "JDTCu9IvvSA",
+    "title": "Haaland Gets Trolled by Sunderland Fans 😅",
+    "channel_id": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+    "channel_title": "Premier League",
+    "published_at": "2026-09-22T16:00:34Z",
+    "view_count": 1074178,
+    "like_count": 24650,
+    "comment_count": 371,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.5596,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.7798,
+        "weight": 1.0,
+        "weighted": 0.7798
+      },
+      "views": {
+        "raw": 6.0311,
+        "weight": 1.0,
+        "weighted": 6.0311
+      },
+      "velocity": {
+        "raw": 4.1928,
+        "weight": 2.0,
+        "weighted": 8.3857
+      },
+      "engagement": {
+        "raw": 2.363,
+        "weight": 1.0,
+        "weighted": 2.363
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-23T14:30:01+00:00",
+    "last_seen_at": "2026-09-24T05:00:03+00:00",
+    "observation_count": 3
   },
   {
     "video_id": "1wWUI5Kl-N0",
@@ -2360,6 +2478,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "iCzzKbEggNU",
+    "title": "When 16-Year-Old Dowman Turns Up to Save Arsenal 🤯🔥 #shorts",
+    "channel_id": "UCvMmwBXweHuGefmuMFV2Jhg",
+    "channel_title": "OrthoAep",
+    "published_at": "2026-09-23T12:45:57Z",
+    "view_count": 319352,
+    "like_count": 7038,
+    "comment_count": 88,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.4194,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9034,
+        "weight": 1.0,
+        "weighted": 0.9034
+      },
+      "views": {
+        "raw": 5.5043,
+        "weight": 1.0,
+        "weighted": 5.5043
+      },
+      "velocity": {
+        "raw": 4.3776,
+        "weight": 2.0,
+        "weighted": 8.7553
+      },
+      "engagement": {
+        "raw": 2.2565,
+        "weight": 1.0,
+        "weighted": 2.2565
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-23T23:00:03+00:00",
+    "last_seen_at": "2026-09-24T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "Wce3LIKDOos",
     "title": "Who's in charge of the fines? 👀💰",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2771,182 +2948,5 @@
     "first_seen_at": "2026-09-20T23:00:02+00:00",
     "last_seen_at": "2026-09-22T14:30:02+00:00",
     "observation_count": 6
-  },
-  {
-    "video_id": "0K73EBeJO9U",
-    "title": "DAVID RAYA IS BUILT DIFFERENT!",
-    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
-    "channel_title": "Arsenal",
-    "published_at": "2026-09-15T11:31:26Z",
-    "view_count": 423365,
-    "like_count": 8842,
-    "comment_count": 168,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 22.2942,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.896,
-        "weight": 1.0,
-        "weighted": 0.896
-      },
-      "views": {
-        "raw": 5.6267,
-        "weight": 1.0,
-        "weighted": 5.6267
-      },
-      "velocity": {
-        "raw": 4.3026,
-        "weight": 2.0,
-        "weighted": 8.6052
-      },
-      "engagement": {
-        "raw": 2.1663,
-        "weight": 1.0,
-        "weighted": 2.1663
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-15T23:00:02+00:00",
-    "last_seen_at": "2026-09-16T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "ycXTxOhI8q4",
-    "title": "Ketika Bek Arsenal Ini, Sukses Bikin Kaum Pria Iri Berjamaah!",
-    "channel_id": "UCqjrDZzr8pWyfQjoVUQxaMA",
-    "channel_title": "Ruang Bola",
-    "published_at": "2026-09-21T12:30:14Z",
-    "view_count": 129859,
-    "like_count": 3740,
-    "comment_count": 94,
-    "sport": "soccer",
-    "league": "KBO",
-    "region": "KR",
-    "trend_score": 22.2405,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9018,
-        "weight": 1.0,
-        "weighted": 0.9018
-      },
-      "views": {
-        "raw": 5.1135,
-        "weight": 1.0,
-        "weighted": 5.1135
-      },
-      "velocity": {
-        "raw": 4.1061,
-        "weight": 2.0,
-        "weighted": 8.2121
-      },
-      "engagement": {
-        "raw": 3.0131,
-        "weight": 1.0,
-        "weighted": 3.0131
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-21T23:00:01+00:00",
-    "last_seen_at": "2026-09-22T05:00:01+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "sureAACWU4o",
-    "title": "Makin Nyetel! Ternyata Ini Tujuan Barcelona Rekrut Karim Adeyemi! ⚡",
-    "channel_id": "UCBZLdHuf_OpiBAeegcPGIeQ",
-    "channel_title": "Remontada ID",
-    "published_at": "2026-09-14T10:00:13Z",
-    "view_count": 163568,
-    "like_count": 4484,
-    "comment_count": 74,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 22.2256,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8869,
-        "weight": 1.0,
-        "weighted": 0.8869
-      },
-      "views": {
-        "raw": 5.2137,
-        "weight": 1.0,
-        "weighted": 5.2137
-      },
-      "velocity": {
-        "raw": 4.1506,
-        "weight": 2.0,
-        "weighted": 8.3013
-      },
-      "engagement": {
-        "raw": 2.8237,
-        "weight": 1.0,
-        "weighted": 2.8237
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T19:25:32+00:00",
-    "last_seen_at": "2026-09-15T05:00:01+00:00",
-    "observation_count": 3
   }
 ]
