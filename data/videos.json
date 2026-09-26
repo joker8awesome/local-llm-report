@@ -649,6 +649,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "XJnV_Nv_s_4",
+    "title": "Rooney Really Went From Fighting To Scoring 😭 #football #footballshorts #waynerooney #rooney",
+    "channel_id": "UCh2ouDMrtX5ZyX3XLvgTwTw",
+    "channel_title": "Aneesiano Ronaldo",
+    "published_at": "2026-09-24T04:00:37Z",
+    "view_count": 1053596,
+    "like_count": 31354,
+    "comment_count": 342,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.9095,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.6518,
+        "weight": 1.0,
+        "weighted": 0.6518
+      },
+      "views": {
+        "raw": 6.0227,
+        "weight": 1.0,
+        "weighted": 6.0227
+      },
+      "velocity": {
+        "raw": 4.5978,
+        "weight": 2.0,
+        "weighted": 9.1956
+      },
+      "engagement": {
+        "raw": 3.0394,
+        "weight": 1.0,
+        "weighted": 3.0394
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-25T23:00:03+00:00",
+    "last_seen_at": "2026-09-26T14:30:03+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "d_VP2iey2Lk",
     "title": "Barcelona Enjoying This Way Too Much 😭",
     "channel_id": "UCShl1wUZzq6YHlDjRcj1FZQ",
@@ -824,6 +883,65 @@
     "first_seen_at": "2026-09-14T19:25:32+00:00",
     "last_seen_at": "2026-09-15T05:00:01+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "QeeEQk58Q1s",
+    "title": "O DIOMANDE tá sendo criticado por ser LERDO DEMAIS",
+    "channel_id": "UCskOkN5gEfv3rESJrDaTmKg",
+    "channel_title": "Outset Sports",
+    "published_at": "2026-09-25T20:48:56Z",
+    "view_count": 129151,
+    "like_count": 8892,
+    "comment_count": 72,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.6842,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8947,
+        "weight": 1.0,
+        "weighted": 0.8947
+      },
+      "views": {
+        "raw": 5.1111,
+        "weight": 1.0,
+        "weighted": 5.1111
+      },
+      "velocity": {
+        "raw": 3.8392,
+        "weight": 2.0,
+        "weighted": 7.6784
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-26T05:00:02+00:00",
+    "last_seen_at": "2026-09-26T14:30:03+00:00",
+    "observation_count": 2
   },
   {
     "video_id": "D5RcZ7xzbJ4",
@@ -1062,65 +1180,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "iIJInBFSt6U",
-    "title": "Manchester City Found GUILTY On Virtually All Charges! Howson Reacts",
-    "channel_id": "UCmX3073pl-9ASXYaWDrEAHw",
-    "channel_title": "Stephen Howson",
-    "published_at": "2026-09-25T14:36:15Z",
-    "view_count": 185433,
-    "like_count": 6367,
-    "comment_count": 1394,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.5425,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9143,
-        "weight": 1.0,
-        "weighted": 0.9143
-      },
-      "views": {
-        "raw": 5.2682,
-        "weight": 1.0,
-        "weighted": 5.2682
-      },
-      "velocity": {
-        "raw": 3.7207,
-        "weight": 2.0,
-        "weighted": 7.4414
-      },
-      "engagement": {
-        "raw": 4.9186,
-        "weight": 1.0,
-        "weighted": 4.9186
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-26T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "5iosR5oKAJI",
     "title": "THIS BARCELONA IS SCARY 🤯",
     "channel_id": "UCl6h5FMzAIHbbHMLIxmdUXA",
@@ -1237,65 +1296,6 @@
     "first_seen_at": "2026-09-18T23:00:03+00:00",
     "last_seen_at": "2026-09-19T14:30:03+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "XJnV_Nv_s_4",
-    "title": "Rooney Really Went From Fighting To Scoring 😭 #football #footballshorts #waynerooney #rooney",
-    "channel_id": "UCh2ouDMrtX5ZyX3XLvgTwTw",
-    "channel_title": "Aneesiano Ronaldo",
-    "published_at": "2026-09-24T04:00:37Z",
-    "view_count": 677284,
-    "like_count": 19735,
-    "comment_count": 230,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.3439,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.7084,
-        "weight": 1.0,
-        "weighted": 0.7084
-      },
-      "views": {
-        "raw": 5.8308,
-        "weight": 1.0,
-        "weighted": 5.8308
-      },
-      "velocity": {
-        "raw": 4.4126,
-        "weight": 2.0,
-        "weighted": 8.8252
-      },
-      "engagement": {
-        "raw": 2.9796,
-        "weight": 1.0,
-        "weighted": 2.9796
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-26T05:00:02+00:00",
-    "observation_count": 2
   },
   {
     "video_id": "a9pbKXyZZC4",
@@ -1475,6 +1475,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "pVTeh7FkbQk",
+    "title": "Haaland SHOCKED by KSI's Skills 🥶🔥 #footballshorts #ronaldo #shortvideo",
+    "channel_id": "UCfDfXkturThR19P7wSeQ64w",
+    "channel_title": "TIER LV7",
+    "published_at": "2026-09-22T20:50:02Z",
+    "view_count": 8520179,
+    "like_count": 119257,
+    "comment_count": 257,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.245,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.4663,
+        "weight": 1.0,
+        "weighted": 0.4663
+      },
+      "views": {
+        "raw": 6.9304,
+        "weight": 1.0,
+        "weighted": 6.9304
+      },
+      "velocity": {
+        "raw": 4.7213,
+        "weight": 2.0,
+        "weighted": 9.4426
+      },
+      "engagement": {
+        "raw": 1.4057,
+        "weight": 1.0,
+        "weighted": 1.4057
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-23T23:00:03+00:00",
+    "last_seen_at": "2026-09-26T14:30:03+00:00",
+    "observation_count": 9
+  },
+  {
     "video_id": "YlL4fLAh3X8",
     "title": "FC 27 Ratings Reveal 👀😂",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -1650,65 +1709,6 @@
     "first_seen_at": "2026-09-14T23:00:00+00:00",
     "last_seen_at": "2026-09-15T14:30:01+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "pVTeh7FkbQk",
-    "title": "Haaland SHOCKED by KSI's Skills 🥶🔥 #footballshorts #ronaldo #shortvideo",
-    "channel_id": "UCfDfXkturThR19P7wSeQ64w",
-    "channel_title": "TIER LV7",
-    "published_at": "2026-09-22T20:50:02Z",
-    "view_count": 8020121,
-    "like_count": 111580,
-    "comment_count": 245,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 23.036,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.5228,
-        "weight": 1.0,
-        "weighted": 0.5228
-      },
-      "views": {
-        "raw": 6.9042,
-        "weight": 1.0,
-        "weighted": 6.9042
-      },
-      "velocity": {
-        "raw": 4.6058,
-        "weight": 2.0,
-        "weighted": 9.2116
-      },
-      "engagement": {
-        "raw": 1.3974,
-        "weight": 1.0,
-        "weighted": 1.3974
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-23T23:00:03+00:00",
-    "last_seen_at": "2026-09-26T05:00:02+00:00",
-    "observation_count": 8
   },
   {
     "video_id": "jCIU4nxBFrw",
@@ -2183,38 +2183,38 @@
     "observation_count": 3
   },
   {
-    "video_id": "wpuR6_5y6xc",
-    "title": "We Need To Talk About 115...",
-    "channel_id": "UCCrm4XNObcP2mY47BvqoZLQ",
-    "channel_title": "Buvey",
-    "published_at": "2026-09-25T16:17:49Z",
-    "view_count": 69950,
-    "like_count": 1048,
-    "comment_count": 1149,
+    "video_id": "iIJInBFSt6U",
+    "title": "Manchester City Found GUILTY On Virtually All Charges! Howson Reacts",
+    "channel_id": "UCmX3073pl-9ASXYaWDrEAHw",
+    "channel_title": "Stephen Howson",
+    "published_at": "2026-09-25T14:36:15Z",
+    "view_count": 208879,
+    "like_count": 6885,
+    "comment_count": 1501,
     "sport": "soccer",
     "league": "EPL",
     "region": null,
-    "trend_score": 22.7389,
+    "trend_score": 22.6806,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.9244,
+        "raw": 0.8578,
         "weight": 1.0,
-        "weighted": 0.9244
+        "weighted": 0.8578
       },
       "views": {
-        "raw": 4.8448,
+        "raw": 5.3199,
         "weight": 1.0,
-        "weighted": 4.8448
+        "weighted": 5.3199
       },
       "velocity": {
-        "raw": 3.6164,
+        "raw": 3.3925,
         "weight": 2.0,
-        "weighted": 7.2327
+        "weighted": 6.785
       },
       "engagement": {
-        "raw": 4.737,
+        "raw": 4.7179,
         "weight": 1.0,
-        "weighted": 4.737
+        "weighted": 4.7179
       },
       "sport": {
         "raw": 1.0,
@@ -2238,8 +2238,8 @@
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-26T05:00:02+00:00",
-    "observation_count": 2
+    "last_seen_at": "2026-09-26T14:30:03+00:00",
+    "observation_count": 3
   },
   {
     "video_id": "xUynJFSeqiY",
@@ -2357,6 +2357,65 @@
     "source": "live",
     "first_seen_at": "2026-09-22T23:00:02+00:00",
     "last_seen_at": "2026-09-23T05:00:02+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "e-kLGwhNLbk",
+    "title": "100 goals for Erling Haaland! 🇳🇴🥶 #football #skills #mancity #premierleague #shorts",
+    "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+    "channel_title": "Man City",
+    "published_at": "2026-09-25T16:00:02Z",
+    "view_count": 62875,
+    "like_count": 2787,
+    "comment_count": 279,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.5818,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8661,
+        "weight": 1.0,
+        "weighted": 0.8661
+      },
+      "views": {
+        "raw": 4.7985,
+        "weight": 1.0,
+        "weighted": 4.7985
+      },
+      "velocity": {
+        "raw": 3.4586,
+        "weight": 2.0,
+        "weighted": 6.9172
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-09-25T23:00:03+00:00",
+    "last_seen_at": "2026-09-26T14:30:03+00:00",
     "observation_count": 2
   },
   {
@@ -2888,65 +2947,6 @@
     "source": "live",
     "first_seen_at": "2026-09-18T23:00:03+00:00",
     "last_seen_at": "2026-09-19T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "tKH-Ng6M16k",
-    "title": "🚨EL MANCHESTER CITY DECLARADO CULPABLE POR FAIR PLAY FINANCIERO",
-    "channel_id": "UCrd8pmcZ0Za0ufAfxOrIzmQ",
-    "channel_title": "Ramon Alvarez de Mon ",
-    "published_at": "2026-09-25T14:13:43Z",
-    "view_count": 70214,
-    "like_count": 3170,
-    "comment_count": 416,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.4254,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9121,
-        "weight": 1.0,
-        "weighted": 0.9121
-      },
-      "views": {
-        "raw": 4.8464,
-        "weight": 1.0,
-        "weighted": 4.8464
-      },
-      "velocity": {
-        "raw": 3.3335,
-        "weight": 2.0,
-        "weighted": 6.6669
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-26T05:00:02+00:00",
     "observation_count": 2
   }
 ]
