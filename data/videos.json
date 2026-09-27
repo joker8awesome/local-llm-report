@@ -354,65 +354,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "XJnV_Nv_s_4",
-    "title": "Rooney Really Went From Fighting To Scoring 😭 #football #footballshorts #waynerooney #rooney",
-    "channel_id": "UCh2ouDMrtX5ZyX3XLvgTwTw",
-    "channel_title": "Aneesiano Ronaldo",
-    "published_at": "2026-09-24T04:00:37Z",
-    "view_count": 2477930,
-    "like_count": 69277,
-    "comment_count": 566,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 24.2835,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.509,
-        "weight": 1.0,
-        "weighted": 0.509
-      },
-      "views": {
-        "raw": 6.3941,
-        "weight": 1.0,
-        "weighted": 6.3941
-      },
-      "velocity": {
-        "raw": 4.7697,
-        "weight": 2.0,
-        "weighted": 9.5395
-      },
-      "engagement": {
-        "raw": 2.8409,
-        "weight": 1.0,
-        "weighted": 2.8409
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-27T14:30:03+00:00",
-    "observation_count": 6
-  },
-  {
     "video_id": "rq4PzwKmmM0",
     "title": "😂 سر سرعة كريم أديمي طلع في المطبخ… «أكل أفريقي»! 💀",
     "channel_id": "UCjsgrQEvdNqopKTijeeGpww",
@@ -706,6 +647,65 @@
     "first_seen_at": "2026-09-19T23:00:03+00:00",
     "last_seen_at": "2026-09-20T14:30:02+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "XJnV_Nv_s_4",
+    "title": "Rooney Really Went From Fighting To Scoring 😭 #football #footballshorts #waynerooney #rooney",
+    "channel_id": "UCh2ouDMrtX5ZyX3XLvgTwTw",
+    "channel_title": "Aneesiano Ronaldo",
+    "published_at": "2026-09-24T04:00:37Z",
+    "view_count": 2739465,
+    "like_count": 78673,
+    "comment_count": 617,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.7887,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.4584,
+        "weight": 1.0,
+        "weighted": 0.4584
+      },
+      "views": {
+        "raw": 6.4377,
+        "weight": 1.0,
+        "weighted": 6.4377
+      },
+      "velocity": {
+        "raw": 4.4881,
+        "weight": 2.0,
+        "weighted": 8.9763
+      },
+      "engagement": {
+        "raw": 2.9164,
+        "weight": 1.0,
+        "weighted": 2.9164
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-25T23:00:03+00:00",
+    "last_seen_at": "2026-09-27T23:00:03+00:00",
+    "observation_count": 7
   },
   {
     "video_id": "d_VP2iey2Lk",
@@ -1003,6 +1003,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "i6Ql5yB3IAM",
+    "title": "Así el problema del Manchester City vs Premier League #futbol #juegodedoce #humor",
+    "channel_id": "UCyC4gDCqTjIgearJEhBw6Mg",
+    "channel_title": "Juego de Doce ",
+    "published_at": "2026-09-27T00:01:44Z",
+    "view_count": 123652,
+    "like_count": 8576,
+    "comment_count": 91,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.6639,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8633,
+        "weight": 1.0,
+        "weighted": 0.8633
+      },
+      "views": {
+        "raw": 5.0922,
+        "weight": 1.0,
+        "weighted": 5.0922
+      },
+      "velocity": {
+        "raw": 3.8542,
+        "weight": 2.0,
+        "weighted": 7.7084
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-27T14:30:03+00:00",
+    "last_seen_at": "2026-09-27T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "1bvL_TgSjMA",
     "title": "HIGHLIGHTS | Elche 2-3 Real Madrid | LaLiga",
     "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
@@ -1121,65 +1180,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "pVTeh7FkbQk",
-    "title": "Haaland SHOCKED by KSI's Skills 🥶🔥 #footballshorts #ronaldo #shortvideo",
-    "channel_id": "UCfDfXkturThR19P7wSeQ64w",
-    "channel_title": "TIER LV7",
-    "published_at": "2026-09-22T20:50:02Z",
-    "view_count": 10288757,
-    "like_count": 143092,
-    "comment_count": 274,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 23.6085,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.3234,
-        "weight": 1.0,
-        "weighted": 0.3234
-      },
-      "views": {
-        "raw": 7.0124,
-        "weight": 1.0,
-        "weighted": 7.0124
-      },
-      "velocity": {
-        "raw": 4.9383,
-        "weight": 2.0,
-        "weighted": 9.8766
-      },
-      "engagement": {
-        "raw": 1.3961,
-        "weight": 1.0,
-        "weighted": 1.3961
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-23T23:00:03+00:00",
-    "last_seen_at": "2026-09-27T14:30:03+00:00",
-    "observation_count": 12
-  },
-  {
     "video_id": "453f-VVcdDw",
     "title": "When Atletico Madrid Met Their Owner Ronaldo🐐🥶 #shorts #ronaldo #realmadrid #atleticomadrid",
     "channel_id": "UCKPh4z7XD10sa5paTkku2uw",
@@ -1296,6 +1296,65 @@
     "first_seen_at": "2026-09-17T23:00:02+00:00",
     "last_seen_at": "2026-09-18T05:00:02+00:00",
     "observation_count": 2
+  },
+  {
+    "video_id": "pVTeh7FkbQk",
+    "title": "Haaland SHOCKED by KSI's Skills 🥶🔥 #footballshorts #ronaldo #shortvideo",
+    "channel_id": "UCfDfXkturThR19P7wSeQ64w",
+    "channel_title": "TIER LV7",
+    "published_at": "2026-09-22T20:50:02Z",
+    "view_count": 10967781,
+    "like_count": 150923,
+    "comment_count": 281,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.4991,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.2728,
+        "weight": 1.0,
+        "weighted": 0.2728
+      },
+      "views": {
+        "raw": 7.0401,
+        "weight": 1.0,
+        "weighted": 7.0401
+      },
+      "velocity": {
+        "raw": 4.9025,
+        "weight": 2.0,
+        "weighted": 9.8049
+      },
+      "engagement": {
+        "raw": 1.3812,
+        "weight": 1.0,
+        "weighted": 1.3812
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-23T23:00:03+00:00",
+    "last_seen_at": "2026-09-27T23:00:03+00:00",
+    "observation_count": 13
   },
   {
     "video_id": "YyRS82WiIog",
@@ -2065,6 +2124,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "Ez5UQv49-pk",
+    "title": "Prime Ronaldinho Goal ☠️🥶",
+    "channel_id": "UCxMVza5sUHI6xihWgw5Xl0Q",
+    "channel_title": "FootyX",
+    "published_at": "2026-09-25T02:02:54Z",
+    "view_count": 8807244,
+    "like_count": 0,
+    "comment_count": 657,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.8025,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.5896,
+        "weight": 1.0,
+        "weighted": 0.5896
+      },
+      "views": {
+        "raw": 6.9448,
+        "weight": 1.0,
+        "weighted": 6.9448
+      },
+      "velocity": {
+        "raw": 5.1265,
+        "weight": 2.0,
+        "weighted": 10.253
+      },
+      "engagement": {
+        "raw": 0.0151,
+        "weight": 1.0,
+        "weighted": 0.0151
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-26T14:30:03+00:00",
+    "last_seen_at": "2026-09-27T23:00:03+00:00",
+    "observation_count": 5
+  },
+  {
     "video_id": "iSLGfFWIzdM",
     "title": "pemain milan seperti psik*pat, tapi 'monster' sesungguhnya pemain yang paling lugu👹",
     "channel_id": "UCx2_S53YeMDYVDWGxlx7jdg",
@@ -2358,65 +2476,6 @@
     "first_seen_at": "2026-09-25T23:00:03+00:00",
     "last_seen_at": "2026-09-26T14:30:03+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "Ez5UQv49-pk",
-    "title": "Prime Ronaldinho Goal ☠️🥶",
-    "channel_id": "UCxMVza5sUHI6xihWgw5Xl0Q",
-    "channel_title": "FootyX",
-    "published_at": "2026-09-25T02:02:54Z",
-    "view_count": 7669872,
-    "like_count": 0,
-    "comment_count": 588,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 22.6791,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.6402,
-        "weight": 1.0,
-        "weighted": 0.6402
-      },
-      "views": {
-        "raw": 6.8848,
-        "weight": 1.0,
-        "weighted": 6.8848
-      },
-      "velocity": {
-        "raw": 5.0693,
-        "weight": 2.0,
-        "weighted": 10.1386
-      },
-      "engagement": {
-        "raw": 0.0155,
-        "weight": 1.0,
-        "weighted": 0.0155
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_BR",
-    "first_seen_at": "2026-09-26T14:30:03+00:00",
-    "last_seen_at": "2026-09-27T14:30:03+00:00",
-    "observation_count": 4
   },
   {
     "video_id": "xUynJFSeqiY",
@@ -2832,38 +2891,38 @@
     "observation_count": 3
   },
   {
-    "video_id": "GAvCftCXL0E",
-    "title": "Highlights: Bournemouth 0-1 Liverpool | Isak Goal! Premier League",
-    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
-    "channel_title": "Liverpool FC",
-    "published_at": "2026-09-20T21:00:28Z",
-    "view_count": 1007062,
-    "like_count": 11423,
-    "comment_count": 275,
+    "video_id": "wDxZqcqEfXM",
+    "title": "MARTIN ØDEGAARD IN SLOW-MØ ⏯️",
+    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
+    "channel_title": "Arsenal",
+    "published_at": "2026-09-27T09:32:52Z",
+    "view_count": 54395,
+    "like_count": 2453,
+    "comment_count": 43,
     "sport": "soccer",
     "league": "EPL",
     "region": "EU",
-    "trend_score": 22.5085,
+    "trend_score": 22.5138,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.8959,
+        "raw": 0.9199,
         "weight": 1.0,
-        "weighted": 0.8959
+        "weighted": 0.9199
       },
       "views": {
-        "raw": 6.0031,
+        "raw": 4.7356,
         "weight": 1.0,
-        "weighted": 6.0031
+        "weighted": 4.7356
       },
       "velocity": {
-        "raw": 4.7102,
+        "raw": 3.624,
         "weight": 2.0,
-        "weighted": 9.4204
+        "weighted": 7.2479
       },
       "engagement": {
-        "raw": 1.1892,
+        "raw": 4.6103,
         "weight": 1.0,
-        "weighted": 1.1892
+        "weighted": 4.6103
       },
       "sport": {
         "raw": 1.0,
@@ -2885,68 +2944,9 @@
     "scope_reason": "CEO_TEAM_CHANNEL",
     "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-20T23:00:02+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "iUgxcIv3IxQ",
-    "title": "LIGHTS! CAMERA! ACTION! LaLiga's Shooting day - The Making Of | FC BARCELONA 🎥🔵🔴",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-09-21T11:21:05Z",
-    "view_count": 134824,
-    "like_count": 5591,
-    "comment_count": 178,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 22.5014,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8949,
-        "weight": 1.0,
-        "weighted": 0.8949
-      },
-      "views": {
-        "raw": 5.1298,
-        "weight": 1.0,
-        "weighted": 5.1298
-      },
-      "velocity": {
-        "raw": 3.5436,
-        "weight": 2.0,
-        "weighted": 7.0872
-      },
-      "engagement": {
-        "raw": 4.3894,
-        "weight": 1.0,
-        "weighted": 4.3894
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-21T23:00:01+00:00",
-    "last_seen_at": "2026-09-22T05:00:01+00:00",
+    "source": "official_rss",
+    "first_seen_at": "2026-09-27T14:30:03+00:00",
+    "last_seen_at": "2026-09-27T23:00:03+00:00",
     "observation_count": 2
   }
 ]
