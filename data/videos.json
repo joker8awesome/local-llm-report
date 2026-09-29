@@ -2714,38 +2714,38 @@
     "observation_count": 3
   },
   {
-    "video_id": "XJnV_Nv_s_4",
-    "title": "Rooney Really Went From Fighting To Scoring 😭 #football #footballshorts #waynerooney #rooney",
-    "channel_id": "UCh2ouDMrtX5ZyX3XLvgTwTw",
-    "channel_title": "Aneesiano Ronaldo",
-    "published_at": "2026-09-24T04:00:37Z",
-    "view_count": 3741872,
-    "like_count": 101868,
-    "comment_count": 767,
+    "video_id": "UlzhuF_YD_A",
+    "title": "isso deveria ser PROIBIDO🚫🤬💔",
+    "channel_id": "UCcAg-rvBbiCE3tCg42aTIEQ",
+    "channel_title": "Futecem",
+    "published_at": "2026-09-28T23:00:18Z",
+    "view_count": 303064,
+    "like_count": 7218,
+    "comment_count": 34,
     "sport": "soccer",
-    "league": "EPL",
+    "league": "LaLiga",
     "region": null,
-    "trend_score": 22.5436,
+    "trend_score": 22.5536,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.2233,
+        "raw": 0.8572,
         "weight": 1.0,
-        "weighted": 0.2233
+        "weighted": 0.8572
       },
       "views": {
-        "raw": 6.5731,
+        "raw": 5.4815,
         "weight": 1.0,
-        "weighted": 6.5731
+        "weighted": 5.4815
       },
       "velocity": {
-        "raw": 3.9921,
+        "raw": 4.4069,
         "weight": 2.0,
-        "weighted": 7.9842
+        "weighted": 8.8138
       },
       "engagement": {
-        "raw": 2.763,
+        "raw": 2.4011,
         "weight": 1.0,
-        "weighted": 2.763
+        "weighted": 2.4011
       },
       "sport": {
         "raw": 1.0,
@@ -2767,10 +2767,10 @@
     "scope_reason": "CEO_TEAM_MATCH",
     "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-29T14:30:03+00:00",
-    "observation_count": 12
+    "source": "live",
+    "first_seen_at": "2026-09-29T14:30:03+00:00",
+    "last_seen_at": "2026-09-29T23:00:03+00:00",
+    "observation_count": 2
   },
   {
     "video_id": "1wWUI5Kl-N0",
