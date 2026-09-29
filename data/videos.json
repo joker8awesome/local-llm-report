@@ -1475,6 +1475,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "dakIPfbobWo",
+    "title": "What would the Premier League do without Tottenham?! 🤣",
+    "channel_id": "UCNl1ow8Z3UwGgPGyRq6hs3A",
+    "channel_title": "Augeyboyz",
+    "published_at": "2026-09-28T17:16:52Z",
+    "view_count": 131749,
+    "like_count": 6650,
+    "comment_count": 142,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.2644,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8737,
+        "weight": 1.0,
+        "weighted": 0.8737
+      },
+      "views": {
+        "raw": 5.1198,
+        "weight": 1.0,
+        "weighted": 5.1198
+      },
+      "velocity": {
+        "raw": 3.6355,
+        "weight": 2.0,
+        "weighted": 7.2709
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-29T05:00:03+00:00",
+    "last_seen_at": "2026-09-29T14:30:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "YlL4fLAh3X8",
     "title": "FC 27 Ratings Reveal 👀😂",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2006,65 +2065,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "iEsTjh477_s",
-    "title": "esse é o time de futebol mais fraco do mundo😭💔🥀",
-    "channel_id": "UCcAg-rvBbiCE3tCg42aTIEQ",
-    "channel_title": "Futecem",
-    "published_at": "2026-09-27T21:00:36Z",
-    "view_count": 771842,
-    "like_count": 17082,
-    "comment_count": 394,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 22.8435,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8096,
-        "weight": 1.0,
-        "weighted": 0.8096
-      },
-      "views": {
-        "raw": 5.8875,
-        "weight": 1.0,
-        "weighted": 5.8875
-      },
-      "velocity": {
-        "raw": 4.4161,
-        "weight": 2.0,
-        "weighted": 8.8322
-      },
-      "engagement": {
-        "raw": 2.3142,
-        "weight": 1.0,
-        "weighted": 2.3142
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_BR",
-    "first_seen_at": "2026-09-28T05:00:03+00:00",
-    "last_seen_at": "2026-09-29T05:00:03+00:00",
-    "observation_count": 4
-  },
-  {
     "video_id": "iSLGfFWIzdM",
     "title": "pemain milan seperti psik*pat, tapi 'monster' sesungguhnya pemain yang paling lugu👹",
     "channel_id": "UCx2_S53YeMDYVDWGxlx7jdg",
@@ -2358,65 +2358,6 @@
     "first_seen_at": "2026-09-25T23:00:03+00:00",
     "last_seen_at": "2026-09-26T14:30:03+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "XJnV_Nv_s_4",
-    "title": "Rooney Really Went From Fighting To Scoring 😭 #football #footballshorts #waynerooney #rooney",
-    "channel_id": "UCh2ouDMrtX5ZyX3XLvgTwTw",
-    "channel_title": "Aneesiano Ronaldo",
-    "published_at": "2026-09-24T04:00:37Z",
-    "view_count": 3648596,
-    "like_count": 100236,
-    "comment_count": 757,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.6759,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.2798,
-        "weight": 1.0,
-        "weighted": 0.2798
-      },
-      "views": {
-        "raw": 6.5621,
-        "weight": 1.0,
-        "weighted": 6.5621
-      },
-      "velocity": {
-        "raw": 4.0228,
-        "weight": 2.0,
-        "weighted": 8.0455
-      },
-      "engagement": {
-        "raw": 2.7884,
-        "weight": 1.0,
-        "weighted": 2.7884
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-29T05:00:03+00:00",
-    "observation_count": 11
   },
   {
     "video_id": "xUynJFSeqiY",
@@ -2771,6 +2712,65 @@
     "first_seen_at": "2026-09-23T14:30:01+00:00",
     "last_seen_at": "2026-09-24T05:00:03+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "XJnV_Nv_s_4",
+    "title": "Rooney Really Went From Fighting To Scoring 😭 #football #footballshorts #waynerooney #rooney",
+    "channel_id": "UCh2ouDMrtX5ZyX3XLvgTwTw",
+    "channel_title": "Aneesiano Ronaldo",
+    "published_at": "2026-09-24T04:00:37Z",
+    "view_count": 3741872,
+    "like_count": 101868,
+    "comment_count": 767,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.5436,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.2233,
+        "weight": 1.0,
+        "weighted": 0.2233
+      },
+      "views": {
+        "raw": 6.5731,
+        "weight": 1.0,
+        "weighted": 6.5731
+      },
+      "velocity": {
+        "raw": 3.9921,
+        "weight": 2.0,
+        "weighted": 7.9842
+      },
+      "engagement": {
+        "raw": 2.763,
+        "weight": 1.0,
+        "weighted": 2.763
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-25T23:00:03+00:00",
+    "last_seen_at": "2026-09-29T14:30:03+00:00",
+    "observation_count": 12
   },
   {
     "video_id": "1wWUI5Kl-N0",
