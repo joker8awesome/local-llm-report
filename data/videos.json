@@ -1534,6 +1534,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "PwYDlELz-f8",
+    "title": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
+    "channel_id": "UC5_bl5EXSUXplvOj67NOQgg",
+    "channel_title": "Muzam",
+    "published_at": "2026-09-27T13:30:25Z",
+    "view_count": 22004381,
+    "like_count": 254898,
+    "comment_count": 654,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 23.2227,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.5149,
+        "weight": 1.0,
+        "weighted": 0.5149
+      },
+      "views": {
+        "raw": 7.3425,
+        "weight": 1.0,
+        "weighted": 7.3425
+      },
+      "velocity": {
+        "raw": 5.6005,
+        "weight": 2.0,
+        "weighted": 11.201
+      },
+      "engagement": {
+        "raw": 1.1644,
+        "weight": 1.0,
+        "weighted": 1.1644
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_BR",
+    "first_seen_at": "2026-09-28T05:00:03+00:00",
+    "last_seen_at": "2026-09-30T23:00:03+00:00",
+    "observation_count": 9
+  },
+  {
     "video_id": "3CYsrsRVsRQ",
     "title": "Manchester City’s 115 charges situation is getting out of control 😭💀",
     "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
@@ -1768,65 +1827,6 @@
     "first_seen_at": "2026-09-14T23:00:00+00:00",
     "last_seen_at": "2026-09-15T14:30:01+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "PwYDlELz-f8",
-    "title": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
-    "channel_id": "UC5_bl5EXSUXplvOj67NOQgg",
-    "channel_title": "Muzam",
-    "published_at": "2026-09-27T13:30:25Z",
-    "view_count": 18616775,
-    "like_count": 223939,
-    "comment_count": 566,
-    "sport": "soccer",
-    "league": null,
-    "region": null,
-    "trend_score": 23.0456,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.5655,
-        "weight": 1.0,
-        "weighted": 0.5655
-      },
-      "views": {
-        "raw": 7.2699,
-        "weight": 1.0,
-        "weighted": 7.2699
-      },
-      "velocity": {
-        "raw": 5.5006,
-        "weight": 2.0,
-        "weighted": 11.0012
-      },
-      "engagement": {
-        "raw": 1.209,
-        "weight": 1.0,
-        "weighted": 1.209
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 0.0,
-        "weight": 2.0,
-        "weighted": 0.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_BR",
-    "first_seen_at": "2026-09-28T05:00:03+00:00",
-    "last_seen_at": "2026-09-30T14:30:03+00:00",
-    "observation_count": 8
   },
   {
     "video_id": "jCIU4nxBFrw",
