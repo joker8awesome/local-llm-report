@@ -1121,65 +1121,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "Hd1x0pSJcZg",
-    "title": "Man City Guilty Of ALL Charges!",
-    "channel_id": "UCs4aCv8PFD0qkkOZ0uiSTcA",
-    "channel_title": "Saeed TV",
-    "published_at": "2026-09-29T17:01:34Z",
-    "view_count": 114859,
-    "like_count": 4506,
-    "comment_count": 847,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.5849,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9287,
-        "weight": 1.0,
-        "weighted": 0.9287
-      },
-      "views": {
-        "raw": 5.0602,
-        "weight": 1.0,
-        "weighted": 5.0602
-      },
-      "velocity": {
-        "raw": 3.798,
-        "weight": 2.0,
-        "weighted": 7.596
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-29T23:00:03+00:00",
-    "last_seen_at": "2026-09-30T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "453f-VVcdDw",
     "title": "When Atletico Madrid Met Their Owner Ronaldo🐐🥶 #shorts #ronaldo #realmadrid #atleticomadrid",
     "channel_id": "UCKPh4z7XD10sa5paTkku2uw",
@@ -1295,65 +1236,6 @@
     "source": "live",
     "first_seen_at": "2026-09-17T23:00:02+00:00",
     "last_seen_at": "2026-09-18T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "3CYsrsRVsRQ",
-    "title": "Manchester City’s 115 charges situation is getting out of control 😭💀",
-    "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
-    "channel_title": "God Ares AI",
-    "published_at": "2026-09-27T15:32:22Z",
-    "view_count": 1749447,
-    "like_count": 55036,
-    "comment_count": 917,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.5268,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.6342,
-        "weight": 1.0,
-        "weighted": 0.6342
-      },
-      "views": {
-        "raw": 6.2429,
-        "weight": 1.0,
-        "weighted": 6.2429
-      },
-      "velocity": {
-        "raw": 4.2,
-        "weight": 2.0,
-        "weighted": 8.4
-      },
-      "engagement": {
-        "raw": 3.2497,
-        "weight": 1.0,
-        "weighted": 3.2497
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-29T23:00:03+00:00",
-    "last_seen_at": "2026-09-30T05:00:03+00:00",
     "observation_count": 2
   },
   {
@@ -1652,6 +1534,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "3CYsrsRVsRQ",
+    "title": "Manchester City’s 115 charges situation is getting out of control 😭💀",
+    "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
+    "channel_title": "God Ares AI",
+    "published_at": "2026-09-27T15:32:22Z",
+    "view_count": 1856135,
+    "like_count": 58129,
+    "comment_count": 991,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.1846,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.5776,
+        "weight": 1.0,
+        "weighted": 0.5776
+      },
+      "views": {
+        "raw": 6.2686,
+        "weight": 1.0,
+        "weighted": 6.2686
+      },
+      "velocity": {
+        "raw": 4.0504,
+        "weight": 2.0,
+        "weighted": 8.1009
+      },
+      "engagement": {
+        "raw": 3.2376,
+        "weight": 1.0,
+        "weighted": 3.2376
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-29T23:00:03+00:00",
+    "last_seen_at": "2026-09-30T14:30:03+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "YlL4fLAh3X8",
     "title": "FC 27 Ratings Reveal 👀😂",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -1829,38 +1770,38 @@
     "observation_count": 3
   },
   {
-    "video_id": "QZGD46_gVNs",
-    "title": "🚨OFICIAL: EL MANCHESTER CITY ES DECLARADO CULPABLE POR LA PREMIER",
-    "channel_id": "UCrd8pmcZ0Za0ufAfxOrIzmQ",
-    "channel_title": "Ramon Alvarez de Mon ",
-    "published_at": "2026-09-29T17:12:48Z",
-    "view_count": 73011,
-    "like_count": 3901,
-    "comment_count": 329,
+    "video_id": "PwYDlELz-f8",
+    "title": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
+    "channel_id": "UC5_bl5EXSUXplvOj67NOQgg",
+    "channel_title": "Muzam",
+    "published_at": "2026-09-27T13:30:25Z",
+    "view_count": 18616775,
+    "like_count": 223939,
+    "comment_count": 566,
     "sport": "soccer",
-    "league": "EPL",
+    "league": null,
     "region": null,
-    "trend_score": 22.9844,
+    "trend_score": 23.0456,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.9298,
+        "raw": 0.5655,
         "weight": 1.0,
-        "weighted": 0.9298
+        "weighted": 0.5655
       },
       "views": {
-        "raw": 4.8634,
+        "raw": 7.2699,
         "weight": 1.0,
-        "weighted": 4.8634
+        "weighted": 7.2699
       },
       "velocity": {
-        "raw": 3.5956,
+        "raw": 5.5006,
         "weight": 2.0,
-        "weighted": 7.1912
+        "weighted": 11.0012
       },
       "engagement": {
-        "raw": 5.0,
+        "raw": 1.209,
         "weight": 1.0,
-        "weighted": 5.0
+        "weighted": 1.209
       },
       "sport": {
         "raw": 1.0,
@@ -1868,9 +1809,9 @@
         "weighted": 3.0
       },
       "league": {
-        "raw": 1.0,
+        "raw": 0.0,
         "weight": 2.0,
-        "weighted": 2.0
+        "weighted": 0.0
       },
       "news": {
         "raw": 0.0,
@@ -1882,10 +1823,10 @@
     "scope_reason": "CEO_TEAM_MATCH",
     "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-29T23:00:03+00:00",
-    "last_seen_at": "2026-09-30T05:00:03+00:00",
-    "observation_count": 2
+    "source": "trending_BR",
+    "first_seen_at": "2026-09-28T05:00:03+00:00",
+    "last_seen_at": "2026-09-30T14:30:03+00:00",
+    "observation_count": 8
   },
   {
     "video_id": "jCIU4nxBFrw",
@@ -2183,65 +2124,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "PwYDlELz-f8",
-    "title": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
-    "channel_id": "UC5_bl5EXSUXplvOj67NOQgg",
-    "channel_title": "Muzam",
-    "published_at": "2026-09-27T13:30:25Z",
-    "view_count": 15608328,
-    "like_count": 188085,
-    "comment_count": 507,
-    "sport": "soccer",
-    "league": null,
-    "region": null,
-    "trend_score": 22.8578,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.6221,
-        "weight": 1.0,
-        "weighted": 0.6221
-      },
-      "views": {
-        "raw": 7.1934,
-        "weight": 1.0,
-        "weighted": 7.1934
-      },
-      "velocity": {
-        "raw": 5.4154,
-        "weight": 2.0,
-        "weighted": 10.8308
-      },
-      "engagement": {
-        "raw": 1.2115,
-        "weight": 1.0,
-        "weighted": 1.2115
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 0.0,
-        "weight": 2.0,
-        "weighted": 0.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_BR",
-    "first_seen_at": "2026-09-28T05:00:03+00:00",
-    "last_seen_at": "2026-09-30T05:00:03+00:00",
-    "observation_count": 7
-  },
-  {
     "video_id": "3J0NCQ5IkBc",
     "title": "Erling നെ റാഞ്ചാൻ Barcelona 😱🚨 | Football Shorts News",
     "channel_id": "UCrIefSjdWxxi1XyKLP45zDA",
@@ -2537,33 +2419,33 @@
     "observation_count": 3
   },
   {
-    "video_id": "db-esuwbQn8",
-    "title": "MAN CITY FOUND GUILTY! WHAT THIS MEANS FOR CHELSEA...",
-    "channel_id": "UC7AiAq4zB5ylQy23gg3H8hA",
-    "channel_title": "Younes Talks Chelsea",
-    "published_at": "2026-09-29T19:09:16Z",
-    "view_count": 37185,
-    "like_count": 1754,
-    "comment_count": 295,
+    "video_id": "Hd1x0pSJcZg",
+    "title": "Man City Guilty Of ALL Charges!",
+    "channel_id": "UCs4aCv8PFD0qkkOZ0uiSTcA",
+    "channel_title": "Saeed TV",
+    "published_at": "2026-09-29T17:01:34Z",
+    "view_count": 137001,
+    "like_count": 5033,
+    "comment_count": 929,
     "sport": "soccer",
     "league": "EPL",
     "region": null,
-    "trend_score": 22.7148,
+    "trend_score": 22.7443,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.9414,
+        "raw": 0.8722,
         "weight": 1.0,
-        "weighted": 0.9414
+        "weighted": 0.8722
       },
       "views": {
-        "raw": 4.5704,
+        "raw": 5.1367,
         "weight": 1.0,
-        "weighted": 4.5704
+        "weighted": 5.1367
       },
       "velocity": {
-        "raw": 3.6015,
+        "raw": 3.3677,
         "weight": 2.0,
-        "weighted": 7.203
+        "weighted": 6.7354
       },
       "engagement": {
         "raw": 5.0,
@@ -2592,8 +2474,8 @@
     "status": "DISCOVERED",
     "source": "live",
     "first_seen_at": "2026-09-29T23:00:03+00:00",
-    "last_seen_at": "2026-09-30T05:00:03+00:00",
-    "observation_count": 2
+    "last_seen_at": "2026-09-30T14:30:03+00:00",
+    "observation_count": 3
   },
   {
     "video_id": "iIJInBFSt6U",
@@ -2948,5 +2830,123 @@
     "first_seen_at": "2026-09-23T23:00:03+00:00",
     "last_seen_at": "2026-09-28T05:00:03+00:00",
     "observation_count": 14
+  },
+  {
+    "video_id": "JDTCu9IvvSA",
+    "title": "Haaland Gets Trolled by Sunderland Fans 😅",
+    "channel_id": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+    "channel_title": "Premier League",
+    "published_at": "2026-09-22T16:00:34Z",
+    "view_count": 1074178,
+    "like_count": 24650,
+    "comment_count": 371,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.5596,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.7798,
+        "weight": 1.0,
+        "weighted": 0.7798
+      },
+      "views": {
+        "raw": 6.0311,
+        "weight": 1.0,
+        "weighted": 6.0311
+      },
+      "velocity": {
+        "raw": 4.1928,
+        "weight": 2.0,
+        "weighted": 8.3857
+      },
+      "engagement": {
+        "raw": 2.363,
+        "weight": 1.0,
+        "weighted": 2.363
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-23T14:30:01+00:00",
+    "last_seen_at": "2026-09-24T05:00:03+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "UlzhuF_YD_A",
+    "title": "isso deveria ser PROIBIDO🚫🤬💔",
+    "channel_id": "UCcAg-rvBbiCE3tCg42aTIEQ",
+    "channel_title": "Futecem",
+    "published_at": "2026-09-28T23:00:18Z",
+    "view_count": 303064,
+    "like_count": 7218,
+    "comment_count": 34,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.5536,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8572,
+        "weight": 1.0,
+        "weighted": 0.8572
+      },
+      "views": {
+        "raw": 5.4815,
+        "weight": 1.0,
+        "weighted": 5.4815
+      },
+      "velocity": {
+        "raw": 4.4069,
+        "weight": 2.0,
+        "weighted": 8.8138
+      },
+      "engagement": {
+        "raw": 2.4011,
+        "weight": 1.0,
+        "weighted": 2.4011
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-09-29T14:30:03+00:00",
+    "last_seen_at": "2026-09-29T23:00:03+00:00",
+    "observation_count": 2
   }
 ]
