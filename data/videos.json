@@ -1888,65 +1888,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "M-LOMoObw20",
-    "title": "Why was Tielemans mimicing Bruno’s penalty 😭",
-    "channel_id": "UCUr_2t6IpvNowrM3gPEdE8g",
-    "channel_title": "Ballers",
-    "published_at": "2026-09-27T18:03:11Z",
-    "view_count": 2786720,
-    "like_count": 47058,
-    "comment_count": 156,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.925,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.5063,
-        "weight": 1.0,
-        "weighted": 0.5063
-      },
-      "views": {
-        "raw": 6.4451,
-        "weight": 1.0,
-        "weighted": 6.4451
-      },
-      "velocity": {
-        "raw": 4.637,
-        "weight": 2.0,
-        "weighted": 9.2739
-      },
-      "engagement": {
-        "raw": 1.6998,
-        "weight": 1.0,
-        "weighted": 1.6998
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-30T23:00:03+00:00",
-    "last_seen_at": "2026-10-01T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "bo9g36xT5UA",
     "title": "FC BARCELONA 7 - 2 R. RACING CLUB | RESUMEN LALIGA EA SPORTS",
     "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
@@ -2419,6 +2360,65 @@
     "observation_count": 5
   },
   {
+    "video_id": "M-LOMoObw20",
+    "title": "Why was Tielemans mimicing Bruno’s penalty 😭",
+    "channel_id": "UCUr_2t6IpvNowrM3gPEdE8g",
+    "channel_title": "Ballers",
+    "published_at": "2026-09-27T18:03:11Z",
+    "view_count": 3128256,
+    "like_count": 52811,
+    "comment_count": 177,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.7559,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.4497,
+        "weight": 1.0,
+        "weighted": 0.4497
+      },
+      "views": {
+        "raw": 6.4953,
+        "weight": 1.0,
+        "weighted": 6.4953
+      },
+      "velocity": {
+        "raw": 4.5557,
+        "weight": 2.0,
+        "weighted": 9.1115
+      },
+      "engagement": {
+        "raw": 1.6994,
+        "weight": 1.0,
+        "weighted": 1.6994
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-30T23:00:03+00:00",
+    "last_seen_at": "2026-10-01T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "Ou6dG-Nc2SY",
     "title": "Yamal Vs Vinicius is Near… #realmadrid #barcelona #laliga #championsleague",
     "channel_id": "UC4wZe71o7TPyq_qVrkLuT9g",
@@ -2714,65 +2714,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "PwYDlELz-f8",
-    "title": "Lamine Yamal vs Ronaldo Dressing Challenge 😱🔥#viral",
-    "channel_id": "UC5_bl5EXSUXplvOj67NOQgg",
-    "channel_title": "Muzam",
-    "published_at": "2026-09-27T13:30:25Z",
-    "view_count": 23193903,
-    "like_count": 266960,
-    "comment_count": 678,
-    "sport": "soccer",
-    "league": null,
-    "region": null,
-    "trend_score": 22.5959,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.4792,
-        "weight": 1.0,
-        "weighted": 0.4792
-      },
-      "views": {
-        "raw": 7.3654,
-        "weight": 1.0,
-        "weighted": 7.3654
-      },
-      "velocity": {
-        "raw": 5.2972,
-        "weight": 2.0,
-        "weighted": 10.5944
-      },
-      "engagement": {
-        "raw": 1.1569,
-        "weight": 1.0,
-        "weighted": 1.1569
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 0.0,
-        "weight": 2.0,
-        "weighted": 0.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_BR",
-    "first_seen_at": "2026-09-28T05:00:03+00:00",
-    "last_seen_at": "2026-10-01T05:00:03+00:00",
-    "observation_count": 10
-  },
-  {
     "video_id": "ox-eYw6UF7I",
     "title": "Admin Atletico Madrid sedang memasak! ☠️",
     "channel_id": "UCjZRshElyyL6zQnxRNZqK-g",
@@ -2948,5 +2889,64 @@
     "first_seen_at": "2026-09-23T23:00:03+00:00",
     "last_seen_at": "2026-09-28T05:00:03+00:00",
     "observation_count": 14
+  },
+  {
+    "video_id": "JDTCu9IvvSA",
+    "title": "Haaland Gets Trolled by Sunderland Fans 😅",
+    "channel_id": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
+    "channel_title": "Premier League",
+    "published_at": "2026-09-22T16:00:34Z",
+    "view_count": 1074178,
+    "like_count": 24650,
+    "comment_count": 371,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.5596,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.7798,
+        "weight": 1.0,
+        "weighted": 0.7798
+      },
+      "views": {
+        "raw": 6.0311,
+        "weight": 1.0,
+        "weighted": 6.0311
+      },
+      "velocity": {
+        "raw": 4.1928,
+        "weight": 2.0,
+        "weighted": 8.3857
+      },
+      "engagement": {
+        "raw": 2.363,
+        "weight": 1.0,
+        "weighted": 2.363
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-23T14:30:01+00:00",
+    "last_seen_at": "2026-09-24T05:00:03+00:00",
+    "observation_count": 3
   }
 ]
