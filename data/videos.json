@@ -2360,65 +2360,6 @@
     "observation_count": 5
   },
   {
-    "video_id": "M-LOMoObw20",
-    "title": "Why was Tielemans mimicing Bruno’s penalty 😭",
-    "channel_id": "UCUr_2t6IpvNowrM3gPEdE8g",
-    "channel_title": "Ballers",
-    "published_at": "2026-09-27T18:03:11Z",
-    "view_count": 3128256,
-    "like_count": 52811,
-    "comment_count": 177,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.7559,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.4497,
-        "weight": 1.0,
-        "weighted": 0.4497
-      },
-      "views": {
-        "raw": 6.4953,
-        "weight": 1.0,
-        "weighted": 6.4953
-      },
-      "velocity": {
-        "raw": 4.5557,
-        "weight": 2.0,
-        "weighted": 9.1115
-      },
-      "engagement": {
-        "raw": 1.6994,
-        "weight": 1.0,
-        "weighted": 1.6994
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-30T23:00:03+00:00",
-    "last_seen_at": "2026-10-01T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
     "video_id": "Ou6dG-Nc2SY",
     "title": "Yamal Vs Vinicius is Near… #realmadrid #barcelona #laliga #championsleague",
     "channel_id": "UC4wZe71o7TPyq_qVrkLuT9g",
@@ -2948,5 +2889,64 @@
     "first_seen_at": "2026-09-23T14:30:01+00:00",
     "last_seen_at": "2026-09-24T05:00:03+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "M-LOMoObw20",
+    "title": "Why was Tielemans mimicing Bruno’s penalty 😭",
+    "channel_id": "UCUr_2t6IpvNowrM3gPEdE8g",
+    "channel_title": "Ballers",
+    "published_at": "2026-09-27T18:03:11Z",
+    "view_count": 3374699,
+    "like_count": 57064,
+    "comment_count": 185,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.5538,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.3991,
+        "weight": 1.0,
+        "weighted": 0.3991
+      },
+      "views": {
+        "raw": 6.5282,
+        "weight": 1.0,
+        "weighted": 6.5282
+      },
+      "velocity": {
+        "raw": 4.4623,
+        "weight": 2.0,
+        "weighted": 8.9246
+      },
+      "engagement": {
+        "raw": 1.7018,
+        "weight": 1.0,
+        "weighted": 1.7018
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-09-30T23:00:03+00:00",
+    "last_seen_at": "2026-10-01T23:00:03+00:00",
+    "observation_count": 4
   }
 ]
