@@ -531,6 +531,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "CUGySHlJBds",
+    "title": "PSG vs Real Madrid UCL 17/18",
+    "channel_id": "UCumFHPYc4CHHVtcD_WD7Ysw",
+    "channel_title": "FT2005xc",
+    "published_at": "2026-10-01T16:26:07Z",
+    "view_count": 253237,
+    "like_count": 9262,
+    "comment_count": 51,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.0776,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9252,
+        "weight": 1.0,
+        "weighted": 0.9252
+      },
+      "views": {
+        "raw": 5.4035,
+        "weight": 1.0,
+        "weighted": 5.4035
+      },
+      "velocity": {
+        "raw": 4.5299,
+        "weight": 2.0,
+        "weighted": 9.0599
+      },
+      "engagement": {
+        "raw": 3.689,
+        "weight": 1.0,
+        "weighted": 3.689
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-01T23:00:03+00:00",
+    "last_seen_at": "2026-10-02T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "bWOX89kHMbM",
     "title": "Extended Highlights: Must-see Szoboszlai Goal! Liverpool 3-1 Tottenham | Carabao Cup",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2183,6 +2242,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "efM_B4X5krE",
+    "title": "Man City Guilty: Titles Stripped, Relegation & Owners Must Go! | Stick to Football EP 151",
+    "channel_id": "UCjXIw1GlwaY1IzpW_jN9iCQ",
+    "channel_title": "The Overlap",
+    "published_at": "2026-10-01T07:00:07Z",
+    "view_count": 2122189,
+    "like_count": 25207,
+    "comment_count": 1526,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 22.8442,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8691,
+        "weight": 1.0,
+        "weighted": 0.8691
+      },
+      "views": {
+        "raw": 6.3268,
+        "weight": 1.0,
+        "weighted": 6.3268
+      },
+      "velocity": {
+        "raw": 4.6584,
+        "weight": 2.0,
+        "weighted": 9.3167
+      },
+      "engagement": {
+        "raw": 1.3317,
+        "weight": 1.0,
+        "weighted": 1.3317
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-10-01T23:00:03+00:00",
+    "last_seen_at": "2026-10-02T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "iSLGfFWIzdM",
     "title": "pemain milan seperti psik*pat, tapi 'monster' sesungguhnya pemain yang paling lugu👹",
     "channel_id": "UCx2_S53YeMDYVDWGxlx7jdg",
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-09-23T23:00:03+00:00",
     "last_seen_at": "2026-09-28T05:00:03+00:00",
     "observation_count": 14
-  },
-  {
-    "video_id": "JDTCu9IvvSA",
-    "title": "Haaland Gets Trolled by Sunderland Fans 😅",
-    "channel_id": "UCG5qGWdu8nIRZqJ_GgDwQ-w",
-    "channel_title": "Premier League",
-    "published_at": "2026-09-22T16:00:34Z",
-    "view_count": 1074178,
-    "like_count": 24650,
-    "comment_count": 371,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.5596,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.7798,
-        "weight": 1.0,
-        "weighted": 0.7798
-      },
-      "views": {
-        "raw": 6.0311,
-        "weight": 1.0,
-        "weighted": 6.0311
-      },
-      "velocity": {
-        "raw": 4.1928,
-        "weight": 2.0,
-        "weighted": 8.3857
-      },
-      "engagement": {
-        "raw": 2.363,
-        "weight": 1.0,
-        "weighted": 2.363
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-23T14:30:01+00:00",
-    "last_seen_at": "2026-09-24T05:00:03+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "M-LOMoObw20",
-    "title": "Why was Tielemans mimicing Bruno’s penalty 😭",
-    "channel_id": "UCUr_2t6IpvNowrM3gPEdE8g",
-    "channel_title": "Ballers",
-    "published_at": "2026-09-27T18:03:11Z",
-    "view_count": 3374699,
-    "like_count": 57064,
-    "comment_count": 185,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.5538,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.3991,
-        "weight": 1.0,
-        "weighted": 0.3991
-      },
-      "views": {
-        "raw": 6.5282,
-        "weight": 1.0,
-        "weighted": 6.5282
-      },
-      "velocity": {
-        "raw": 4.4623,
-        "weight": 2.0,
-        "weighted": 8.9246
-      },
-      "engagement": {
-        "raw": 1.7018,
-        "weight": 1.0,
-        "weighted": 1.7018
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-30T23:00:03+00:00",
-    "last_seen_at": "2026-10-01T23:00:03+00:00",
-    "observation_count": 4
   }
 ]
