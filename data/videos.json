@@ -354,6 +354,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "jbpsD384oVo",
+    "title": "JOGAR com o YAMAL ou com o DEMBELÉ",
+    "channel_id": "UCskOkN5gEfv3rESJrDaTmKg",
+    "channel_title": "Outset Sports",
+    "published_at": "2026-10-03T20:10:28Z",
+    "view_count": 114749,
+    "like_count": 7224,
+    "comment_count": 96,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.4196,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9475,
+        "weight": 1.0,
+        "weighted": 0.9475
+      },
+      "views": {
+        "raw": 5.0598,
+        "weight": 1.0,
+        "weighted": 5.0598
+      },
+      "velocity": {
+        "raw": 4.2062,
+        "weight": 2.0,
+        "weighted": 8.4124
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-03T23:00:03+00:00",
+    "last_seen_at": "2026-10-04T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "rq4PzwKmmM0",
     "title": "😂 سر سرعة كريم أديمي طلع في المطبخ… «أكل أفريقي»! 💀",
     "channel_id": "UCjsgrQEvdNqopKTijeeGpww",
@@ -2773,6 +2832,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "jszof7H77X0",
+    "title": "Best Doue Goal Moments 🥀🥀 #shorts #football #footballshorts #doué",
+    "channel_id": "UCzCB1r98MGM-lIxVsm55NBQ",
+    "channel_title": "Le-Haramball",
+    "published_at": "2026-10-03T17:00:00Z",
+    "view_count": 82172,
+    "like_count": 3083,
+    "comment_count": 5,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.6019,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9286,
+        "weight": 1.0,
+        "weighted": 0.9286
+      },
+      "views": {
+        "raw": 4.9147,
+        "weight": 1.0,
+        "weighted": 4.9147
+      },
+      "velocity": {
+        "raw": 4.0109,
+        "weight": 2.0,
+        "weighted": 8.0218
+      },
+      "engagement": {
+        "raw": 3.7367,
+        "weight": 1.0,
+        "weighted": 3.7367
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-03T23:00:03+00:00",
+    "last_seen_at": "2026-10-04T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "ox-eYw6UF7I",
     "title": "Admin Atletico Madrid sedang memasak! ☠️",
     "channel_id": "UCjZRshElyyL6zQnxRNZqK-g",
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-09-22T23:00:02+00:00",
     "last_seen_at": "2026-09-23T05:00:02+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "e-kLGwhNLbk",
-    "title": "100 goals for Erling Haaland! 🇳🇴🥶 #football #skills #mancity #premierleague #shorts",
-    "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
-    "channel_title": "Man City",
-    "published_at": "2026-09-25T16:00:02Z",
-    "view_count": 62875,
-    "like_count": 2787,
-    "comment_count": 279,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.5818,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8661,
-        "weight": 1.0,
-        "weighted": 0.8661
-      },
-      "views": {
-        "raw": 4.7985,
-        "weight": 1.0,
-        "weighted": 4.7985
-      },
-      "velocity": {
-        "raw": 3.4586,
-        "weight": 2.0,
-        "weighted": 6.9172
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-26T14:30:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "pVTeh7FkbQk",
-    "title": "Haaland SHOCKED by KSI's Skills 🥶🔥 #footballshorts #ronaldo #shortvideo",
-    "channel_id": "UCfDfXkturThR19P7wSeQ64w",
-    "channel_title": "TIER LV7",
-    "published_at": "2026-09-22T20:50:02Z",
-    "view_count": 11139465,
-    "like_count": 152663,
-    "comment_count": 282,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 22.5727,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.2371,
-        "weight": 1.0,
-        "weighted": 0.2371
-      },
-      "views": {
-        "raw": 7.0469,
-        "weight": 1.0,
-        "weighted": 7.0469
-      },
-      "velocity": {
-        "raw": 4.4566,
-        "weight": 2.0,
-        "weighted": 8.9132
-      },
-      "engagement": {
-        "raw": 1.3755,
-        "weight": 1.0,
-        "weighted": 1.3755
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-23T23:00:03+00:00",
-    "last_seen_at": "2026-09-28T05:00:03+00:00",
-    "observation_count": 14
   }
 ]
