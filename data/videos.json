@@ -413,6 +413,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "J0xwwBOTAys",
+    "title": "Raphinha's last touch is pure class 🤌 #LaLigaHighlights",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-05T09:00:17Z",
+    "view_count": 140420,
+    "like_count": 8957,
+    "comment_count": 61,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.2621,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9167,
+        "weight": 1.0,
+        "weighted": 0.9167
+      },
+      "views": {
+        "raw": 5.1474,
+        "weight": 1.0,
+        "weighted": 5.1474
+      },
+      "velocity": {
+        "raw": 4.099,
+        "weight": 2.0,
+        "weighted": 8.198
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-05T14:30:04+00:00",
+    "last_seen_at": "2026-10-05T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "rq4PzwKmmM0",
     "title": "😂 سر سرعة كريم أديمي طلع في المطبخ… «أكل أفريقي»! 💀",
     "channel_id": "UCjsgrQEvdNqopKTijeeGpww",
@@ -941,6 +1000,65 @@
     "source": "official_rss",
     "first_seen_at": "2026-09-25T14:30:03+00:00",
     "last_seen_at": "2026-09-25T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "dkTx-9-W_gA",
+    "title": "James Milner 🥶",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-05T14:00:27Z",
+    "view_count": 79067,
+    "like_count": 3897,
+    "comment_count": 62,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.7125,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9465,
+        "weight": 1.0,
+        "weighted": 0.9465
+      },
+      "views": {
+        "raw": 4.898,
+        "weight": 1.0,
+        "weighted": 4.898
+      },
+      "velocity": {
+        "raw": 3.934,
+        "weight": 2.0,
+        "weighted": 7.868
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-05T14:30:04+00:00",
+    "last_seen_at": "2026-10-05T23:00:03+00:00",
     "observation_count": 2
   },
   {
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-10-01T23:00:03+00:00",
     "last_seen_at": "2026-10-02T14:30:04+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "iIJInBFSt6U",
-    "title": "Manchester City Found GUILTY On Virtually All Charges! Howson Reacts",
-    "channel_id": "UCmX3073pl-9ASXYaWDrEAHw",
-    "channel_title": "Stephen Howson",
-    "published_at": "2026-09-25T14:36:15Z",
-    "view_count": 208879,
-    "like_count": 6885,
-    "comment_count": 1501,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.6806,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8578,
-        "weight": 1.0,
-        "weighted": 0.8578
-      },
-      "views": {
-        "raw": 5.3199,
-        "weight": 1.0,
-        "weighted": 5.3199
-      },
-      "velocity": {
-        "raw": 3.3925,
-        "weight": 2.0,
-        "weighted": 6.785
-      },
-      "engagement": {
-        "raw": 4.7179,
-        "weight": 1.0,
-        "weighted": 4.7179
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-25T23:00:03+00:00",
-    "last_seen_at": "2026-09-26T14:30:03+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "xUynJFSeqiY",
-    "title": "If Every Barça Goalkeeper Gets Injured 😭🧤",
-    "channel_id": "UCmg5HHr6_EjB8gvcrCT9W6Q",
-    "channel_title": "Playmakerz",
-    "published_at": "2026-09-23T17:41:15Z",
-    "view_count": 2711204,
-    "like_count": 57804,
-    "comment_count": 633,
-    "sport": "soccer",
-    "league": null,
-    "region": null,
-    "trend_score": 22.6713,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8761,
-        "weight": 1.0,
-        "weighted": 0.8761
-      },
-      "views": {
-        "raw": 6.4332,
-        "weight": 1.0,
-        "weighted": 6.4332
-      },
-      "velocity": {
-        "raw": 5.0918,
-        "weight": 2.0,
-        "weighted": 10.1835
-      },
-      "engagement": {
-        "raw": 2.1785,
-        "weight": 1.0,
-        "weighted": 2.1785
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 0.0,
-        "weight": 2.0,
-        "weighted": 0.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-23T23:00:03+00:00",
-    "last_seen_at": "2026-09-24T14:30:02+00:00",
-    "observation_count": 3
   }
 ]
