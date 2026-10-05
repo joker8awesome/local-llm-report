@@ -295,65 +295,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "nnmBNCoKRyo",
-    "title": "💀¡¡OTRA HUMILLACIÓN del BARÇA al REAL MADRID en el FEMENINO!! ¡7-0 DE VERGÜENZA! YA ESTOY HARTO",
-    "channel_id": "UCsgIPWMeotXTlzNg0uOt_cA",
-    "channel_title": "JKCLife",
-    "published_at": "2026-10-04T21:18:00Z",
-    "view_count": 148151,
-    "like_count": 5818,
-    "comment_count": 657,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 24.5538,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9542,
-        "weight": 1.0,
-        "weighted": 0.9542
-      },
-      "views": {
-        "raw": 5.1707,
-        "weight": 1.0,
-        "weighted": 5.1707
-      },
-      "velocity": {
-        "raw": 4.3186,
-        "weight": 2.0,
-        "weighted": 8.6372
-      },
-      "engagement": {
-        "raw": 4.7917,
-        "weight": 1.0,
-        "weighted": 4.7917
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-04T23:00:03+00:00",
-    "last_seen_at": "2026-10-05T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "3gtrg2YharI",
     "title": "HAT TRICK DE RAPHINHA Y 7REMENDA PALIZA DEL FC BARCELONA 7-2 AL RACING DE SANTANDER | Ubietoo",
     "channel_id": "UCk7gk2oKjCYTQ5VbNd0NsBQ",
@@ -1593,6 +1534,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "Z5BOcOYT4iM",
+    "title": "Where Should JJ Gabriel Go?",
+    "channel_id": "UC6F8qNdFapfoprCOQmhD2KA",
+    "channel_title": "Pêche Football",
+    "published_at": "2026-10-04T21:29:17Z",
+    "view_count": 199986,
+    "like_count": 7269,
+    "comment_count": 72,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.338,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8987,
+        "weight": 1.0,
+        "weighted": 0.8987
+      },
+      "views": {
+        "raw": 5.301,
+        "weight": 1.0,
+        "weighted": 5.301
+      },
+      "velocity": {
+        "raw": 4.2213,
+        "weight": 2.0,
+        "weighted": 8.4425
+      },
+      "engagement": {
+        "raw": 3.6957,
+        "weight": 1.0,
+        "weighted": 3.6957
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-05T05:00:03+00:00",
+    "last_seen_at": "2026-10-05T14:30:04+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "a9pbKXyZZC4",
     "title": "HIGHLIGHTS | Brighton v Arsenal | Premier League",
     "channel_id": "UCf-cpC9WAdOsas19JHipukA",
@@ -2242,6 +2242,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "nnmBNCoKRyo",
+    "title": "💀¡¡OTRA HUMILLACIÓN del BARÇA al REAL MADRID en el FEMENINO!! ¡7-0 DE VERGÜENZA! YA ESTOY HARTO",
+    "channel_id": "UCsgIPWMeotXTlzNg0uOt_cA",
+    "channel_title": "JKCLife",
+    "published_at": "2026-10-04T21:18:00Z",
+    "view_count": 208071,
+    "like_count": 6960,
+    "comment_count": 803,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.9199,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8976,
+        "weight": 1.0,
+        "weighted": 0.8976
+      },
+      "views": {
+        "raw": 5.3182,
+        "weight": 1.0,
+        "weighted": 5.3182
+      },
+      "velocity": {
+        "raw": 3.7999,
+        "weight": 2.0,
+        "weighted": 7.5998
+      },
+      "engagement": {
+        "raw": 4.1043,
+        "weight": 1.0,
+        "weighted": 4.1043
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-04T23:00:03+00:00",
+    "last_seen_at": "2026-10-05T14:30:04+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "0pylAjEhYN8",
     "title": "Current Arsenal Vs 08 Manchester United Combined XI",
     "channel_id": "UCIKEHdQlCUKUn7eGXy9CBiA",
@@ -2889,64 +2948,5 @@
     "first_seen_at": "2026-09-23T23:00:03+00:00",
     "last_seen_at": "2026-09-24T14:30:02+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "PaX9Ik2Fmug",
-    "title": "Monaco vs Real Madrid UCL 03/04",
-    "channel_id": "UCumFHPYc4CHHVtcD_WD7Ysw",
-    "channel_title": "FT2005xc",
-    "published_at": "2026-09-26T13:41:48Z",
-    "view_count": 311328,
-    "like_count": 7724,
-    "comment_count": 121,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 22.6093,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9089,
-        "weight": 1.0,
-        "weighted": 0.9089
-      },
-      "views": {
-        "raw": 5.4932,
-        "weight": 1.0,
-        "weighted": 5.4932
-      },
-      "velocity": {
-        "raw": 4.3259,
-        "weight": 2.0,
-        "weighted": 8.6519
-      },
-      "engagement": {
-        "raw": 2.5553,
-        "weight": 1.0,
-        "weighted": 2.5553
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-26T23:00:04+00:00",
-    "last_seen_at": "2026-09-27T05:00:03+00:00",
-    "observation_count": 2
   }
 ]
