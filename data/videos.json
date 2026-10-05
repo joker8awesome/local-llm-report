@@ -295,6 +295,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "nnmBNCoKRyo",
+    "title": "💀¡¡OTRA HUMILLACIÓN del BARÇA al REAL MADRID en el FEMENINO!! ¡7-0 DE VERGÜENZA! YA ESTOY HARTO",
+    "channel_id": "UCsgIPWMeotXTlzNg0uOt_cA",
+    "channel_title": "JKCLife",
+    "published_at": "2026-10-04T21:18:00Z",
+    "view_count": 148151,
+    "like_count": 5818,
+    "comment_count": 657,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.5538,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9542,
+        "weight": 1.0,
+        "weighted": 0.9542
+      },
+      "views": {
+        "raw": 5.1707,
+        "weight": 1.0,
+        "weighted": 5.1707
+      },
+      "velocity": {
+        "raw": 4.3186,
+        "weight": 2.0,
+        "weighted": 8.6372
+      },
+      "engagement": {
+        "raw": 4.7917,
+        "weight": 1.0,
+        "weighted": 4.7917
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-04T23:00:03+00:00",
+    "last_seen_at": "2026-10-05T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "3gtrg2YharI",
     "title": "HAT TRICK DE RAPHINHA Y 7REMENDA PALIZA DEL FC BARCELONA 7-2 AL RACING DE SANTANDER | Ubietoo",
     "channel_id": "UCk7gk2oKjCYTQ5VbNd0NsBQ",
@@ -2888,65 +2947,6 @@
     "source": "live",
     "first_seen_at": "2026-09-26T23:00:04+00:00",
     "last_seen_at": "2026-09-27T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "ox-eYw6UF7I",
-    "title": "Admin Atletico Madrid sedang memasak! ☠️",
-    "channel_id": "UCjZRshElyyL6zQnxRNZqK-g",
-    "channel_title": "Sejarah Bola Update",
-    "published_at": "2026-09-22T07:52:09Z",
-    "view_count": 226390,
-    "like_count": 8140,
-    "comment_count": 316,
-    "sport": "soccer",
-    "league": "KBO",
-    "region": "KR",
-    "trend_score": 22.5842,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8742,
-        "weight": 1.0,
-        "weighted": 0.8742
-      },
-      "views": {
-        "raw": 5.3549,
-        "weight": 1.0,
-        "weighted": 5.3549
-      },
-      "velocity": {
-        "raw": 3.7455,
-        "weight": 2.0,
-        "weighted": 7.4909
-      },
-      "engagement": {
-        "raw": 3.8642,
-        "weight": 1.0,
-        "weighted": 3.8642
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-22T23:00:02+00:00",
-    "last_seen_at": "2026-09-23T05:00:02+00:00",
     "observation_count": 2
   }
 ]
