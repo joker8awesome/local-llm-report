@@ -413,6 +413,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "sbbRoWpSojw",
+    "title": "Manchester City Football Club... LET'S TALK! | The Big 6ix",
+    "channel_id": "UCUP5RcljxXkKm3agi9WNrDA",
+    "channel_title": "The Big 6ix",
+    "published_at": "2026-10-05T23:25:45Z",
+    "view_count": 162675,
+    "like_count": 6037,
+    "comment_count": 716,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 24.3887,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9668,
+        "weight": 1.0,
+        "weighted": 0.9668
+      },
+      "views": {
+        "raw": 5.2113,
+        "weight": 1.0,
+        "weighted": 5.2113
+      },
+      "velocity": {
+        "raw": 4.319,
+        "weight": 2.0,
+        "weighted": 8.6381
+      },
+      "engagement": {
+        "raw": 4.5724,
+        "weight": 1.0,
+        "weighted": 4.5724
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-05T23:00:03+00:00",
+    "last_seen_at": "2026-10-06T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "J0xwwBOTAys",
     "title": "Raphinha's last touch is pure class 🤌 #LaLigaHighlights",
     "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
@@ -2655,6 +2714,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "DDIRHn-eVPg",
+    "title": "Manchester United vs Arsenal 🔥 EPL 2021/22",
+    "channel_id": "UC2lqqxbF2q-PXPcKMg22SNg",
+    "channel_title": "Ronaldo Reacts",
+    "published_at": "2026-10-05T13:15:23Z",
+    "view_count": 136630,
+    "like_count": 5017,
+    "comment_count": 52,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.7837,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9063,
+        "weight": 1.0,
+        "weighted": 0.9063
+      },
+      "views": {
+        "raw": 5.1355,
+        "weight": 1.0,
+        "weighted": 5.1355
+      },
+      "velocity": {
+        "raw": 4.0051,
+        "weight": 2.0,
+        "weighted": 8.0102
+      },
+      "engagement": {
+        "raw": 3.7317,
+        "weight": 1.0,
+        "weighted": 3.7317
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-05T23:00:03+00:00",
+    "last_seen_at": "2026-10-06T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "v3UqN1yrOeE",
     "title": "CHRISTOS TZOLIS NEVER GIVES UP!",
     "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-09-20T23:00:02+00:00",
     "last_seen_at": "2026-09-21T14:30:02+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "Hd1x0pSJcZg",
-    "title": "Man City Guilty Of ALL Charges!",
-    "channel_id": "UCs4aCv8PFD0qkkOZ0uiSTcA",
-    "channel_title": "Saeed TV",
-    "published_at": "2026-09-29T17:01:34Z",
-    "view_count": 137001,
-    "like_count": 5033,
-    "comment_count": 929,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.7443,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8722,
-        "weight": 1.0,
-        "weighted": 0.8722
-      },
-      "views": {
-        "raw": 5.1367,
-        "weight": 1.0,
-        "weighted": 5.1367
-      },
-      "velocity": {
-        "raw": 3.3677,
-        "weight": 2.0,
-        "weighted": 6.7354
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-29T23:00:03+00:00",
-    "last_seen_at": "2026-09-30T14:30:03+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "AXejZGPs4yI",
-    "title": "And the goal of the month goes to... CANCELO! 🔥 #laligahighlights",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-01T21:00:11Z",
-    "view_count": 61408,
-    "like_count": 5633,
-    "comment_count": 69,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 22.7017,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8958,
-        "weight": 1.0,
-        "weighted": 0.8958
-      },
-      "views": {
-        "raw": 4.7882,
-        "weight": 1.0,
-        "weighted": 4.7882
-      },
-      "velocity": {
-        "raw": 3.5088,
-        "weight": 2.0,
-        "weighted": 7.0176
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-01T23:00:03+00:00",
-    "last_seen_at": "2026-10-02T14:30:04+00:00",
-    "observation_count": 2
   }
 ]
