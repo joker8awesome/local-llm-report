@@ -708,65 +708,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "sbbRoWpSojw",
-    "title": "Manchester City Football Club... LET'S TALK! | The Big 6ix",
-    "channel_id": "UCUP5RcljxXkKm3agi9WNrDA",
-    "channel_title": "The Big 6ix",
-    "published_at": "2026-10-05T23:25:45Z",
-    "view_count": 242128,
-    "like_count": 8170,
-    "comment_count": 1841,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 24.0201,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9103,
-        "weight": 1.0,
-        "weighted": 0.9103
-      },
-      "views": {
-        "raw": 5.384,
-        "weight": 1.0,
-        "weighted": 5.384
-      },
-      "velocity": {
-        "raw": 3.9224,
-        "weight": 2.0,
-        "weighted": 7.8449
-      },
-      "engagement": {
-        "raw": 4.8809,
-        "weight": 1.0,
-        "weighted": 4.8809
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-05T23:00:03+00:00",
-    "last_seen_at": "2026-10-06T14:30:03+00:00",
-    "observation_count": 3
-  },
-  {
     "video_id": "bWOX89kHMbM",
     "title": "Extended Highlights: Must-see Szoboszlai Goal! Liverpool 3-1 Tottenham | Carabao Cup",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -1709,6 +1650,65 @@
     "first_seen_at": "2026-09-18T23:00:03+00:00",
     "last_seen_at": "2026-09-19T14:30:03+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "sbbRoWpSojw",
+    "title": "Manchester City Football Club... LET'S TALK! | The Big 6ix",
+    "channel_id": "UCUP5RcljxXkKm3agi9WNrDA",
+    "channel_title": "The Big 6ix",
+    "published_at": "2026-10-05T23:25:45Z",
+    "view_count": 321760,
+    "like_count": 9044,
+    "comment_count": 2134,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.4397,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8597,
+        "weight": 1.0,
+        "weighted": 0.8597
+      },
+      "views": {
+        "raw": 5.5075,
+        "weight": 1.0,
+        "weighted": 5.5075
+      },
+      "velocity": {
+        "raw": 3.9717,
+        "weight": 2.0,
+        "weighted": 7.9434
+      },
+      "engagement": {
+        "raw": 4.129,
+        "weight": 1.0,
+        "weighted": 4.129
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-05T23:00:03+00:00",
+    "last_seen_at": "2026-10-06T23:00:03+00:00",
+    "observation_count": 4
   },
   {
     "video_id": "Z5BOcOYT4iM",
@@ -2714,6 +2714,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "rU86QF9OJVg",
+    "title": "Which is Van Dijk's favourite moment? 🥰 @WasabiTube",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-06T14:17:13Z",
+    "view_count": 38066,
+    "like_count": 3072,
+    "comment_count": 80,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.8196,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9481,
+        "weight": 1.0,
+        "weighted": 0.9481
+      },
+      "views": {
+        "raw": 4.5805,
+        "weight": 1.0,
+        "weighted": 4.5805
+      },
+      "velocity": {
+        "raw": 3.6455,
+        "weight": 2.0,
+        "weighted": 7.2909
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-06T14:30:03+00:00",
+    "last_seen_at": "2026-10-06T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "iSLGfFWIzdM",
     "title": "pemain milan seperti psik*pat, tapi 'monster' sesungguhnya pemain yang paling lugu👹",
     "channel_id": "UCx2_S53YeMDYVDWGxlx7jdg",
@@ -2889,64 +2948,5 @@
     "first_seen_at": "2026-09-14T19:25:32+00:00",
     "last_seen_at": "2026-09-15T05:00:01+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "XyWuD3fLJyM",
-    "title": "Kid to GOAT 🐐",
-    "channel_id": "UC_kGdJFp4xHHzOCUeC17zXw",
-    "channel_title": "FootySnapFC",
-    "published_at": "2026-09-12T11:59:50Z",
-    "view_count": 11974203,
-    "like_count": 126262,
-    "comment_count": 295,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 22.7744,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.1845,
-        "weight": 1.0,
-        "weighted": 0.1845
-      },
-      "views": {
-        "raw": 7.0782,
-        "weight": 1.0,
-        "weighted": 7.0782
-      },
-      "velocity": {
-        "raw": 4.7261,
-        "weight": 2.0,
-        "weighted": 9.4522
-      },
-      "engagement": {
-        "raw": 1.0594,
-        "weight": 1.0,
-        "weighted": 1.0594
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_BR",
-    "first_seen_at": "2026-09-16T23:00:02+00:00",
-    "last_seen_at": "2026-09-18T05:00:02+00:00",
-    "observation_count": 5
   }
 ]
