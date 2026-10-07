@@ -708,6 +708,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "JpkVXz0dNKQ",
+    "title": "Vivimos historia😭😢. #messi #argentina #futbol #football #shorts #parati #barcelona #fyp #leo",
+    "channel_id": "UC4ssSP_O7PqdAgGbuRyizaA",
+    "channel_title": "Bertetti Melu",
+    "published_at": "2026-10-07T02:41:31Z",
+    "view_count": 718029,
+    "like_count": 47487,
+    "comment_count": 905,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 24.0465,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8791,
+        "weight": 1.0,
+        "weighted": 0.8791
+      },
+      "views": {
+        "raw": 5.8561,
+        "weight": 1.0,
+        "weighted": 5.8561
+      },
+      "velocity": {
+        "raw": 4.6556,
+        "weight": 2.0,
+        "weighted": 9.3112
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-07T14:30:03+00:00",
+    "last_seen_at": "2026-10-07T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "bWOX89kHMbM",
     "title": "Extended Highlights: Must-see Szoboszlai Goal! Liverpool 3-1 Tottenham | Carabao Cup",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -1000,6 +1059,65 @@
     "source": "live",
     "first_seen_at": "2026-09-21T23:00:01+00:00",
     "last_seen_at": "2026-09-22T05:00:01+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "4yLvlqlI38k",
+    "title": "Mikel Arteta is here to stay ❤️",
+    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
+    "channel_title": "Arsenal",
+    "published_at": "2026-10-07T11:00:40Z",
+    "view_count": 92161,
+    "like_count": 6035,
+    "comment_count": 442,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 23.74,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9286,
+        "weight": 1.0,
+        "weighted": 0.9286
+      },
+      "views": {
+        "raw": 4.9646,
+        "weight": 1.0,
+        "weighted": 4.9646
+      },
+      "velocity": {
+        "raw": 3.9234,
+        "weight": 2.0,
+        "weighted": 7.8468
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-07T14:30:03+00:00",
+    "last_seen_at": "2026-10-07T23:00:03+00:00",
     "observation_count": 2
   },
   {
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-09-18T23:00:03+00:00",
     "last_seen_at": "2026-09-19T05:00:02+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "DDIRHn-eVPg",
-    "title": "Manchester United vs Arsenal 🔥 EPL 2021/22",
-    "channel_id": "UC2lqqxbF2q-PXPcKMg22SNg",
-    "channel_title": "Ronaldo Reacts",
-    "published_at": "2026-10-05T13:15:23Z",
-    "view_count": 136630,
-    "like_count": 5017,
-    "comment_count": 52,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 22.7837,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9063,
-        "weight": 1.0,
-        "weighted": 0.9063
-      },
-      "views": {
-        "raw": 5.1355,
-        "weight": 1.0,
-        "weighted": 5.1355
-      },
-      "velocity": {
-        "raw": 4.0051,
-        "weight": 2.0,
-        "weighted": 8.0102
-      },
-      "engagement": {
-        "raw": 3.7317,
-        "weight": 1.0,
-        "weighted": 3.7317
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-05T23:00:03+00:00",
-    "last_seen_at": "2026-10-06T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "v3UqN1yrOeE",
-    "title": "CHRISTOS TZOLIS NEVER GIVES UP!",
-    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
-    "channel_title": "Arsenal",
-    "published_at": "2026-09-14T09:01:07Z",
-    "view_count": 767092,
-    "like_count": 16300,
-    "comment_count": 362,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 22.7765,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8811,
-        "weight": 1.0,
-        "weighted": 0.8811
-      },
-      "views": {
-        "raw": 5.8848,
-        "weight": 1.0,
-        "weighted": 5.8848
-      },
-      "velocity": {
-        "raw": 4.3961,
-        "weight": 2.0,
-        "weighted": 8.7923
-      },
-      "engagement": {
-        "raw": 2.2183,
-        "weight": 1.0,
-        "weighted": 2.2183
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T19:25:32+00:00",
-    "last_seen_at": "2026-09-15T05:00:01+00:00",
-    "observation_count": 3
   }
 ]
