@@ -413,6 +413,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "JM9OFF6c-So",
+    "title": "Five In Five: The Enzo Maresca Era Begins",
+    "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+    "channel_title": "Man City",
+    "published_at": "2026-10-09T14:00:32Z",
+    "view_count": 125808,
+    "like_count": 6142,
+    "comment_count": 491,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 24.3622,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9465,
+        "weight": 1.0,
+        "weighted": 0.9465
+      },
+      "views": {
+        "raw": 5.0997,
+        "weight": 1.0,
+        "weighted": 5.0997
+      },
+      "velocity": {
+        "raw": 4.158,
+        "weight": 2.0,
+        "weighted": 8.316
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-09T14:30:03+00:00",
+    "last_seen_at": "2026-10-09T23:00:02+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "J0xwwBOTAys",
     "title": "Raphinha's last touch is pure class 🤌 #LaLigaHighlights",
     "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
@@ -2889,64 +2948,5 @@
     "first_seen_at": "2026-09-19T23:00:03+00:00",
     "last_seen_at": "2026-09-20T14:30:02+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "3J0NCQ5IkBc",
-    "title": "Erling നെ റാഞ്ചാൻ Barcelona 😱🚨 | Football Shorts News",
-    "channel_id": "UCrIefSjdWxxi1XyKLP45zDA",
-    "channel_title": "Midfielder 19",
-    "published_at": "2026-09-26T00:30:11Z",
-    "view_count": 131612,
-    "like_count": 6182,
-    "comment_count": 107,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.8474,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8661,
-        "weight": 1.0,
-        "weighted": 0.8661
-      },
-      "views": {
-        "raw": 5.1193,
-        "weight": 1.0,
-        "weighted": 5.1193
-      },
-      "velocity": {
-        "raw": 3.5138,
-        "weight": 2.0,
-        "weighted": 7.0277
-      },
-      "engagement": {
-        "raw": 4.8343,
-        "weight": 1.0,
-        "weighted": 4.8343
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-26T14:30:03+00:00",
-    "last_seen_at": "2026-09-26T23:00:04+00:00",
-    "observation_count": 2
   }
 ]
