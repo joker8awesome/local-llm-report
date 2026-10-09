@@ -2124,65 +2124,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "fWOWPf19koU",
-    "title": "Inside Training: Liverpool squad return ahead of Manchester City match!",
-    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
-    "channel_title": "Liverpool FC",
-    "published_at": "2026-10-08T17:00:09Z",
-    "view_count": 342647,
-    "like_count": 9258,
-    "comment_count": 413,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 23.247,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9286,
-        "weight": 1.0,
-        "weighted": 0.9286
-      },
-      "views": {
-        "raw": 5.5348,
-        "weight": 1.0,
-        "weighted": 5.5348
-      },
-      "velocity": {
-        "raw": 4.4224,
-        "weight": 2.0,
-        "weighted": 8.8449
-      },
-      "engagement": {
-        "raw": 2.9387,
-        "weight": 1.0,
-        "weighted": 2.9387
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-08T23:00:03+00:00",
-    "last_seen_at": "2026-10-09T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "3CYsrsRVsRQ",
     "title": "Manchester City’s 115 charges situation is getting out of control 😭💀",
     "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
@@ -2830,6 +2771,65 @@
     "first_seen_at": "2026-09-22T23:00:02+00:00",
     "last_seen_at": "2026-09-23T05:00:02+00:00",
     "observation_count": 2
+  },
+  {
+    "video_id": "fWOWPf19koU",
+    "title": "Inside Training: Liverpool squad return ahead of Manchester City match!",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-08T17:00:09Z",
+    "view_count": 602543,
+    "like_count": 13219,
+    "comment_count": 553,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 22.9022,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.872,
+        "weight": 1.0,
+        "weighted": 0.872
+      },
+      "views": {
+        "raw": 5.78,
+        "weight": 1.0,
+        "weighted": 5.78
+      },
+      "velocity": {
+        "raw": 4.4371,
+        "weight": 2.0,
+        "weighted": 8.8742
+      },
+      "engagement": {
+        "raw": 2.376,
+        "weight": 1.0,
+        "weighted": 2.376
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-08T23:00:03+00:00",
+    "last_seen_at": "2026-10-09T14:30:03+00:00",
+    "observation_count": 3
   },
   {
     "video_id": "AgVaYZbzkpE",
