@@ -708,6 +708,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "fC-Tc2lBwu0",
+    "title": "CLUB FOOTBALL IS FINALLYYYY BACK🔥",
+    "channel_id": "UCl6h5FMzAIHbbHMLIxmdUXA",
+    "channel_title": "Sharma Football",
+    "published_at": "2026-10-09T11:00:11Z",
+    "view_count": 204665,
+    "like_count": 9741,
+    "comment_count": 126,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 24.0874,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8929,
+        "weight": 1.0,
+        "weighted": 0.8929
+      },
+      "views": {
+        "raw": 5.311,
+        "weight": 1.0,
+        "weighted": 5.311
+      },
+      "velocity": {
+        "raw": 4.0087,
+        "weight": 2.0,
+        "weighted": 8.0174
+      },
+      "engagement": {
+        "raw": 4.8661,
+        "weight": 1.0,
+        "weighted": 4.8661
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-09T14:30:03+00:00",
+    "last_seen_at": "2026-10-10T05:00:02+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "z3ymbZyTos8",
     "title": "Highlights: Liverpool 3-1 Tottenham | Szoboszlai Worldie! | Carabao Cup",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2888,65 +2947,6 @@
     "source": "official_rss",
     "first_seen_at": "2026-10-08T23:00:03+00:00",
     "last_seen_at": "2026-10-09T14:30:03+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "AgVaYZbzkpE",
-    "title": "MANZAMBI, JACKSON & BUENDÍA ON TARGET | Tottenham Hotspur 2-3 Villa | Premier League Highlights",
-    "channel_id": "UCICNP0mvtr0prFwGUQIABfQ",
-    "channel_title": "Aston Villa Football Club",
-    "published_at": "2026-09-19T21:00:34Z",
-    "view_count": 1450789,
-    "like_count": 13506,
-    "comment_count": 376,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 22.8909,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8959,
-        "weight": 1.0,
-        "weighted": 0.8959
-      },
-      "views": {
-        "raw": 6.1616,
-        "weight": 1.0,
-        "weighted": 6.1616
-      },
-      "velocity": {
-        "raw": 4.9251,
-        "weight": 2.0,
-        "weighted": 9.8502
-      },
-      "engagement": {
-        "raw": 0.9831,
-        "weight": 1.0,
-        "weighted": 0.9831
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-19T23:00:03+00:00",
-    "last_seen_at": "2026-09-20T14:30:02+00:00",
     "observation_count": 3
   }
 ]
