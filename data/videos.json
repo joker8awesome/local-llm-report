@@ -2537,6 +2537,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "I5peZUrNhz8",
+    "title": "Goalkeepers Getting Cooked 💀",
+    "channel_id": "UCupISe8r7XNqGQaESmdUPug",
+    "channel_title": "NaniFoty",
+    "published_at": "2026-10-06T12:52:33Z",
+    "view_count": 7005932,
+    "like_count": 48318,
+    "comment_count": 172,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 22.9486,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.4189,
+        "weight": 1.0,
+        "weighted": 0.4189
+      },
+      "views": {
+        "raw": 6.8455,
+        "weight": 1.0,
+        "weighted": 6.8455
+      },
+      "velocity": {
+        "raw": 4.9948,
+        "weight": 2.0,
+        "weighted": 9.9895
+      },
+      "engagement": {
+        "raw": 0.6947,
+        "weight": 1.0,
+        "weighted": 0.6947
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_BR",
+    "first_seen_at": "2026-10-10T05:00:02+00:00",
+    "last_seen_at": "2026-10-10T14:30:02+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "jCIU4nxBFrw",
     "title": "FIOUUUU.. (OM 1-2 PSG)",
     "channel_id": "UCzSSwnU5MohO6vQqmMjKUyw",
@@ -2889,64 +2948,5 @@
     "first_seen_at": "2026-09-22T23:00:02+00:00",
     "last_seen_at": "2026-09-23T05:00:02+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "fWOWPf19koU",
-    "title": "Inside Training: Liverpool squad return ahead of Manchester City match!",
-    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
-    "channel_title": "Liverpool FC",
-    "published_at": "2026-10-08T17:00:09Z",
-    "view_count": 602543,
-    "like_count": 13219,
-    "comment_count": 553,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 22.9022,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.872,
-        "weight": 1.0,
-        "weighted": 0.872
-      },
-      "views": {
-        "raw": 5.78,
-        "weight": 1.0,
-        "weighted": 5.78
-      },
-      "velocity": {
-        "raw": 4.4371,
-        "weight": 2.0,
-        "weighted": 8.8742
-      },
-      "engagement": {
-        "raw": 2.376,
-        "weight": 1.0,
-        "weighted": 2.376
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-08T23:00:03+00:00",
-    "last_seen_at": "2026-10-09T14:30:03+00:00",
-    "observation_count": 3
   }
 ]
