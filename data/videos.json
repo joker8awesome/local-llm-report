@@ -2773,65 +2773,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "q8-nvstquEU",
-    "title": "손흥민 노고 헌신짝 취급한 후배 3인방 만행 폭로! 이재성 작심 일침 터지자 대한민국 들끓는 상황 ㄷㄷ",
-    "channel_id": "UC84aGnDwT_djvdsb8B2WE8Q",
-    "channel_title": "어나더 뉴스",
-    "published_at": "2026-10-10T23:30:34Z",
-    "view_count": 704760,
-    "like_count": 12772,
-    "comment_count": 1113,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 23.2409,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9108,
-        "weight": 1.0,
-        "weighted": 0.9108
-      },
-      "views": {
-        "raw": 5.848,
-        "weight": 1.0,
-        "weighted": 5.848
-      },
-      "velocity": {
-        "raw": 4.6775,
-        "weight": 2.0,
-        "weighted": 9.3549
-      },
-      "engagement": {
-        "raw": 2.1272,
-        "weight": 1.0,
-        "weighted": 2.1272
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-11T05:00:02+00:00",
-    "last_seen_at": "2026-10-11T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "3CYsrsRVsRQ",
     "title": "Manchester City’s 115 charges situation is getting out of control 😭💀",
     "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
@@ -2948,5 +2889,64 @@
     "first_seen_at": "2026-09-24T23:00:03+00:00",
     "last_seen_at": "2026-09-25T14:30:03+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "l6rm5VeUpLc",
+    "title": "Chelsea vs Bayern UCL 19/20",
+    "channel_id": "UCumFHPYc4CHHVtcD_WD7Ysw",
+    "channel_title": "FT2005xc",
+    "published_at": "2026-10-05T17:26:11Z",
+    "view_count": 63986,
+    "like_count": 4179,
+    "comment_count": 32,
+    "sport": "soccer",
+    "league": "Bundesliga",
+    "region": null,
+    "trend_score": 23.0854,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8746,
+        "weight": 1.0,
+        "weighted": 0.8746
+      },
+      "views": {
+        "raw": 4.8061,
+        "weight": 1.0,
+        "weighted": 4.8061
+      },
+      "velocity": {
+        "raw": 3.7024,
+        "weight": 2.0,
+        "weighted": 7.4047
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-06T05:00:03+00:00",
+    "last_seen_at": "2026-10-06T14:30:03+00:00",
+    "observation_count": 2
   }
 ]
