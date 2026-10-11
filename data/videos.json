@@ -59,65 +59,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "spJEbdn8mvM",
-    "title": "FC BARCELONA 3 vs 0 GETAFE  | LALIGA 2026/27 MD08 🔵🔴",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-10T21:05:29Z",
-    "view_count": 322690,
-    "like_count": 13604,
-    "comment_count": 305,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 25.1388,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9529,
-        "weight": 1.0,
-        "weighted": 0.9529
-      },
-      "views": {
-        "raw": 5.5088,
-        "weight": 1.0,
-        "weighted": 5.5088
-      },
-      "velocity": {
-        "raw": 4.6406,
-        "weight": 2.0,
-        "weighted": 9.2813
-      },
-      "engagement": {
-        "raw": 4.3958,
-        "weight": 1.0,
-        "weighted": 4.3958
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "SaOydpY-EZE",
     "title": "🤣🔥LOS MEJORES LLOROS MADRIDISTAS EN EL BARCELONA 7 RACING 2 (EXHIBICIÓN DEL EQUIPO CULÉ)",
     "channel_id": "UCmpbcH5wysuzOBE0cZihStw",
@@ -233,6 +174,65 @@
     "source": "live",
     "first_seen_at": "2026-09-21T05:00:03+00:00",
     "last_seen_at": "2026-09-21T14:30:02+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "HM2n481W58A",
+    "title": "Henderson did THAT 🤩",
+    "channel_id": "UCU2PacFf99vhb3hNiYDmxww",
+    "channel_title": "Chelsea Football Club",
+    "published_at": "2026-10-10T21:00:21Z",
+    "view_count": 285259,
+    "like_count": 14191,
+    "comment_count": 223,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 24.8159,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8959,
+        "weight": 1.0,
+        "weighted": 0.8959
+      },
+      "views": {
+        "raw": 5.4552,
+        "weight": 1.0,
+        "weighted": 5.4552
+      },
+      "velocity": {
+        "raw": 4.2324,
+        "weight": 2.0,
+        "weighted": 8.4648
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-10T23:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
     "observation_count": 2
   },
   {
@@ -354,65 +354,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "mL-qGgJf6Ug",
-    "title": "Chelsea 5-1 Bournemouth | HIGHLIGHTS | Premier League 2026/27",
-    "channel_id": "UCU2PacFf99vhb3hNiYDmxww",
-    "channel_title": "Chelsea Football Club",
-    "published_at": "2026-10-10T21:00:36Z",
-    "view_count": 713737,
-    "like_count": 17750,
-    "comment_count": 620,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 24.471,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9524,
-        "weight": 1.0,
-        "weighted": 0.9524
-      },
-      "views": {
-        "raw": 5.8535,
-        "weight": 1.0,
-        "weighted": 5.8535
-      },
-      "velocity": {
-        "raw": 5.003,
-        "weight": 2.0,
-        "weighted": 10.0061
-      },
-      "engagement": {
-        "raw": 2.659,
-        "weight": 1.0,
-        "weighted": 2.659
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "3gtrg2YharI",
     "title": "HAT TRICK DE RAPHINHA Y 7REMENDA PALIZA DEL FC BARCELONA 7-2 AL RACING DE SANTANDER | Ubietoo",
     "channel_id": "UCk7gk2oKjCYTQ5VbNd0NsBQ",
@@ -469,65 +410,6 @@
     "source": "live",
     "first_seen_at": "2026-09-17T05:00:02+00:00",
     "last_seen_at": "2026-09-17T14:30:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "08RWFNVutzM",
-    "title": "FC BARCELONA 3 - 0 GETAFE CF | RESUMEN LALIGA EA SPORTS",
-    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
-    "channel_title": "LALIGA EA SPORTS",
-    "published_at": "2026-10-10T18:51:03Z",
-    "view_count": 1805204,
-    "like_count": 31592,
-    "comment_count": 470,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 24.4318,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9396,
-        "weight": 1.0,
-        "weighted": 0.9396
-      },
-      "views": {
-        "raw": 6.2565,
-        "weight": 1.0,
-        "weighted": 6.2565
-      },
-      "velocity": {
-        "raw": 5.2169,
-        "weight": 2.0,
-        "weighted": 10.4338
-      },
-      "engagement": {
-        "raw": 1.802,
-        "weight": 1.0,
-        "weighted": 1.802
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T05:00:02+00:00",
     "observation_count": 2
   },
   {
@@ -767,6 +649,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "mL-qGgJf6Ug",
+    "title": "Chelsea 5-1 Bournemouth | HIGHLIGHTS | Premier League 2026/27",
+    "channel_id": "UCU2PacFf99vhb3hNiYDmxww",
+    "channel_title": "Chelsea Football Club",
+    "published_at": "2026-10-10T21:00:36Z",
+    "view_count": 1982347,
+    "like_count": 33108,
+    "comment_count": 1108,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 24.2261,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8959,
+        "weight": 1.0,
+        "weighted": 0.8959
+      },
+      "views": {
+        "raw": 6.2972,
+        "weight": 1.0,
+        "weighted": 6.2972
+      },
+      "velocity": {
+        "raw": 5.1256,
+        "weight": 2.0,
+        "weighted": 10.2512
+      },
+      "engagement": {
+        "raw": 1.7818,
+        "weight": 1.0,
+        "weighted": 1.7818
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-10T23:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "klcCO4pfcOA",
     "title": "El Clasico Will be Crazy… #realmadrid #barcelona #laliga #championsleague",
     "channel_id": "UC4wZe71o7TPyq_qVrkLuT9g",
@@ -1003,6 +944,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "spJEbdn8mvM",
+    "title": "FC BARCELONA 3 vs 0 GETAFE  | LALIGA 2026/27 MD08 🔵🔴",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-10T21:05:29Z",
+    "view_count": 799839,
+    "like_count": 22053,
+    "comment_count": 437,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.066,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8964,
+        "weight": 1.0,
+        "weighted": 0.8964
+      },
+      "views": {
+        "raw": 5.903,
+        "weight": 1.0,
+        "weighted": 5.903
+      },
+      "velocity": {
+        "raw": 4.7009,
+        "weight": 2.0,
+        "weighted": 9.4019
+      },
+      "engagement": {
+        "raw": 2.8647,
+        "weight": 1.0,
+        "weighted": 2.8647
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-10T23:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "JpkVXz0dNKQ",
     "title": "Vivimos historia😭😢. #messi #argentina #futbol #football #shorts #parati #barcelona #fyp #leo",
     "channel_id": "UC4ssSP_O7PqdAgGbuRyizaA",
@@ -1059,6 +1059,65 @@
     "source": "live",
     "first_seen_at": "2026-10-07T14:30:03+00:00",
     "last_seen_at": "2026-10-07T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "_sZK1UhrlFI",
+    "title": "REAL MADRID 1 - 0 VILLARREAL CF | RESUMEN LALIGA EA SPORTS",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-10-10T21:11:15Z",
+    "view_count": 3262495,
+    "like_count": 34234,
+    "comment_count": 1789,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.983,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8969,
+        "weight": 1.0,
+        "weighted": 0.8969
+      },
+      "views": {
+        "raw": 6.5135,
+        "weight": 1.0,
+        "weighted": 6.5135
+      },
+      "velocity": {
+        "raw": 5.2067,
+        "weight": 2.0,
+        "weighted": 10.4134
+      },
+      "engagement": {
+        "raw": 1.1591,
+        "weight": 1.0,
+        "weighted": 1.1591
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-11T05:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
     "observation_count": 2
   },
   {
@@ -1177,6 +1236,65 @@
     "source": "live",
     "first_seen_at": "2026-09-19T23:00:03+00:00",
     "last_seen_at": "2026-09-20T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "08RWFNVutzM",
+    "title": "FC BARCELONA 3 - 0 GETAFE CF | RESUMEN LALIGA EA SPORTS",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-10-10T18:51:03Z",
+    "view_count": 2815872,
+    "like_count": 41459,
+    "comment_count": 601,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.9014,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.883,
+        "weight": 1.0,
+        "weighted": 0.883
+      },
+      "views": {
+        "raw": 6.4496,
+        "weight": 1.0,
+        "weighted": 6.4496
+      },
+      "velocity": {
+        "raw": 5.0269,
+        "weight": 2.0,
+        "weighted": 10.0538
+      },
+      "engagement": {
+        "raw": 1.515,
+        "weight": 1.0,
+        "weighted": 1.515
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-10T23:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
     "observation_count": 3
   },
   {
@@ -1413,65 +1531,6 @@
     "source": "official_rss",
     "first_seen_at": "2026-10-07T14:30:03+00:00",
     "last_seen_at": "2026-10-07T23:00:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "AlB7Yb2EFjI",
-    "title": "Who is it? It’s Gabriel ☎️ #laligahighlights",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-10T17:33:22Z",
-    "view_count": 126003,
-    "like_count": 7142,
-    "comment_count": 64,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.7305,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9319,
-        "weight": 1.0,
-        "weighted": 0.9319
-      },
-      "views": {
-        "raw": 5.1004,
-        "weight": 1.0,
-        "weighted": 5.1004
-      },
-      "velocity": {
-        "raw": 3.8491,
-        "weight": 2.0,
-        "weighted": 7.6982
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T05:00:02+00:00",
     "observation_count": 2
   },
   {
@@ -1888,6 +1947,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "D2ppXXuX5rw",
+    "title": "You'll never forget this day, AG #laligahighlights",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-10T17:18:49Z",
+    "view_count": 203350,
+    "like_count": 11051,
+    "comment_count": 107,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.6414,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8739,
+        "weight": 1.0,
+        "weighted": 0.8739
+      },
+      "views": {
+        "raw": 5.3082,
+        "weight": 1.0,
+        "weighted": 5.3082
+      },
+      "velocity": {
+        "raw": 3.7296,
+        "weight": 2.0,
+        "weighted": 7.4593
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-10T23:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "ix-pGg1N3w0",
     "title": "Barcelona vs PSG: The Match Football Was Made For",
     "channel_id": "UClmr70zMlFNiAqQ2rNgSciw",
@@ -1945,6 +2063,124 @@
     "first_seen_at": "2026-09-14T19:25:32+00:00",
     "last_seen_at": "2026-09-15T05:00:01+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "5LSKRh9vgfs",
+    "title": "If Barcelona Signed Eden Hazard After Neymar Left… 🔥",
+    "channel_id": "UCe9vJPjd7AOqQeIY6EIKEUg",
+    "channel_title": "M11M",
+    "published_at": "2026-10-10T19:17:59Z",
+    "view_count": 227345,
+    "like_count": 9191,
+    "comment_count": 39,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.6095,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8857,
+        "weight": 1.0,
+        "weighted": 0.8857
+      },
+      "views": {
+        "raw": 5.3567,
+        "weight": 1.0,
+        "weighted": 5.3567
+      },
+      "velocity": {
+        "raw": 4.1507,
+        "weight": 2.0,
+        "weighted": 8.3013
+      },
+      "engagement": {
+        "raw": 4.0657,
+        "weight": 1.0,
+        "weighted": 4.0657
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-11T05:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "zcNOQjbRk48",
+    "title": "HIGHLIGHTS | Real Madrid 1-0 Villarreal | LaLiga",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-10T22:46:29Z",
+    "view_count": 114068,
+    "like_count": 5463,
+    "comment_count": 80,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.5821,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9064,
+        "weight": 1.0,
+        "weighted": 0.9064
+      },
+      "views": {
+        "raw": 5.0572,
+        "weight": 1.0,
+        "weighted": 5.0572
+      },
+      "velocity": {
+        "raw": 3.8595,
+        "weight": 2.0,
+        "weighted": 7.719
+      },
+      "engagement": {
+        "raw": 4.8996,
+        "weight": 1.0,
+        "weighted": 4.8996
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-10T23:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
+    "observation_count": 2
   },
   {
     "video_id": "453f-VVcdDw",
@@ -2242,6 +2478,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "AlB7Yb2EFjI",
+    "title": "Who is it? It’s Gabriel ☎️ #laligahighlights",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-10T17:33:22Z",
+    "view_count": 165394,
+    "like_count": 9360,
+    "comment_count": 76,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.3294,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8753,
+        "weight": 1.0,
+        "weighted": 0.8753
+      },
+      "views": {
+        "raw": 5.2185,
+        "weight": 1.0,
+        "weighted": 5.2185
+      },
+      "velocity": {
+        "raw": 3.6178,
+        "weight": 2.0,
+        "weighted": 7.2356
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-10T23:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "a9pbKXyZZC4",
     "title": "HIGHLIGHTS | Brighton v Arsenal | Premier League",
     "channel_id": "UCf-cpC9WAdOsas19JHipukA",
@@ -2478,6 +2773,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "q8-nvstquEU",
+    "title": "손흥민 노고 헌신짝 취급한 후배 3인방 만행 폭로! 이재성 작심 일침 터지자 대한민국 들끓는 상황 ㄷㄷ",
+    "channel_id": "UC84aGnDwT_djvdsb8B2WE8Q",
+    "channel_title": "어나더 뉴스",
+    "published_at": "2026-10-10T23:30:34Z",
+    "view_count": 704760,
+    "like_count": 12772,
+    "comment_count": 1113,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.2409,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9108,
+        "weight": 1.0,
+        "weighted": 0.9108
+      },
+      "views": {
+        "raw": 5.848,
+        "weight": 1.0,
+        "weighted": 5.848
+      },
+      "velocity": {
+        "raw": 4.6775,
+        "weight": 2.0,
+        "weighted": 9.3549
+      },
+      "engagement": {
+        "raw": 2.1272,
+        "weight": 1.0,
+        "weighted": 2.1272
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-11T05:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "3CYsrsRVsRQ",
     "title": "Manchester City’s 115 charges situation is getting out of control 😭💀",
     "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
@@ -2537,65 +2891,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "h4GvSktI1BI",
-    "title": "CALAFIORI AND BRUNO GUIMARAES COMPLETE THE COMEBACK | HIGHLIGHTS | Arsenal vs Leeds (2-1) | PL",
-    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
-    "channel_title": "Arsenal",
-    "published_at": "2026-10-10T21:00:13Z",
-    "view_count": 306296,
-    "like_count": 6467,
-    "comment_count": 449,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 23.1474,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9524,
-        "weight": 1.0,
-        "weighted": 0.9524
-      },
-      "views": {
-        "raw": 5.4861,
-        "weight": 1.0,
-        "weighted": 5.4861
-      },
-      "velocity": {
-        "raw": 4.6537,
-        "weight": 2.0,
-        "weighted": 9.3073
-      },
-      "engagement": {
-        "raw": 2.4016,
-        "weight": 1.0,
-        "weighted": 2.4016
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "YlL4fLAh3X8",
     "title": "FC 27 Ratings Reveal 👀😂",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2653,300 +2948,5 @@
     "first_seen_at": "2026-09-24T23:00:03+00:00",
     "last_seen_at": "2026-09-25T14:30:03+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "l6rm5VeUpLc",
-    "title": "Chelsea vs Bayern UCL 19/20",
-    "channel_id": "UCumFHPYc4CHHVtcD_WD7Ysw",
-    "channel_title": "FT2005xc",
-    "published_at": "2026-10-05T17:26:11Z",
-    "view_count": 63986,
-    "like_count": 4179,
-    "comment_count": 32,
-    "sport": "soccer",
-    "league": "Bundesliga",
-    "region": null,
-    "trend_score": 23.0854,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8746,
-        "weight": 1.0,
-        "weighted": 0.8746
-      },
-      "views": {
-        "raw": 4.8061,
-        "weight": 1.0,
-        "weighted": 4.8061
-      },
-      "velocity": {
-        "raw": 3.7024,
-        "weight": 2.0,
-        "weighted": 7.4047
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-06T05:00:03+00:00",
-    "last_seen_at": "2026-10-06T14:30:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "mWINKmhcUzs",
-    "title": "ALLAN ALLAN ALLAN 🩵🇧🇷 #allan #goals #brasil #mancity #carabaocup #football #skills",
-    "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
-    "channel_title": "Man City",
-    "published_at": "2026-09-23T18:30:40Z",
-    "view_count": 79393,
-    "like_count": 5337,
-    "comment_count": 99,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.0827,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.881,
-        "weight": 1.0,
-        "weighted": 0.881
-      },
-      "views": {
-        "raw": 4.8998,
-        "weight": 1.0,
-        "weighted": 4.8998
-      },
-      "velocity": {
-        "raw": 3.651,
-        "weight": 2.0,
-        "weighted": 7.3019
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-09-23T23:00:03+00:00",
-    "last_seen_at": "2026-09-24T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "e0ym2ef7LnI",
-    "title": "⚔️ ALL SET FOR ELCHE | Real Madrid Training",
-    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
-    "channel_title": "Real Madrid",
-    "published_at": "2026-09-14T18:32:23Z",
-    "view_count": 124249,
-    "like_count": 5775,
-    "comment_count": 169,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.0781,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8812,
-        "weight": 1.0,
-        "weighted": 0.8812
-      },
-      "views": {
-        "raw": 5.0943,
-        "weight": 1.0,
-        "weighted": 5.0943
-      },
-      "velocity": {
-        "raw": 3.605,
-        "weight": 2.0,
-        "weighted": 7.21
-      },
-      "engagement": {
-        "raw": 4.8926,
-        "weight": 1.0,
-        "weighted": 4.8926
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-14T23:00:00+00:00",
-    "last_seen_at": "2026-09-15T14:30:01+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "jCIU4nxBFrw",
-    "title": "FIOUUUU.. (OM 1-2 PSG)",
-    "channel_id": "UCzSSwnU5MohO6vQqmMjKUyw",
-    "channel_title": "L' immigré parisien",
-    "published_at": "2026-09-20T22:09:45Z",
-    "view_count": 153567,
-    "like_count": 4996,
-    "comment_count": 449,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 22.9259,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9027,
-        "weight": 1.0,
-        "weighted": 0.9027
-      },
-      "views": {
-        "raw": 5.1863,
-        "weight": 1.0,
-        "weighted": 5.1863
-      },
-      "velocity": {
-        "raw": 4.007,
-        "weight": 2.0,
-        "weighted": 8.014
-      },
-      "engagement": {
-        "raw": 3.8229,
-        "weight": 1.0,
-        "weighted": 3.8229
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-21T05:00:03+00:00",
-    "last_seen_at": "2026-09-21T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "bo9g36xT5UA",
-    "title": "FC BARCELONA 7 - 2 R. RACING CLUB | RESUMEN LALIGA EA SPORTS",
-    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
-    "channel_title": "LALIGA EA SPORTS",
-    "published_at": "2026-09-16T21:43:33Z",
-    "view_count": 8584278,
-    "like_count": 105240,
-    "comment_count": 3177,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 22.9248,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.671,
-        "weight": 1.0,
-        "weighted": 0.671
-      },
-      "views": {
-        "raw": 6.9337,
-        "weight": 1.0,
-        "weighted": 6.9337
-      },
-      "velocity": {
-        "raw": 4.5101,
-        "weight": 2.0,
-        "weighted": 9.0202
-      },
-      "engagement": {
-        "raw": 1.3,
-        "weight": 1.0,
-        "weighted": 1.3
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-16T23:00:02+00:00",
-    "last_seen_at": "2026-09-19T05:00:02+00:00",
-    "observation_count": 8
   }
 ]
