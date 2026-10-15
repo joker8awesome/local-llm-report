@@ -236,6 +236,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "UM6cgQoRVOs",
+    "title": "Hat-trick. POTM. Bradley Barcola 🤩🏆",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-14T20:37:06Z",
+    "view_count": 170138,
+    "like_count": 10438,
+    "comment_count": 147,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.7998,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9501,
+        "weight": 1.0,
+        "weighted": 0.9501
+      },
+      "views": {
+        "raw": 5.2308,
+        "weight": 1.0,
+        "weighted": 5.2308
+      },
+      "velocity": {
+        "raw": 4.3095,
+        "weight": 2.0,
+        "weighted": 8.6189
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-14T23:00:02+00:00",
+    "last_seen_at": "2026-10-15T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "ZJom79fRhv0",
     "title": "SEVILLA FC 1 - 3 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
     "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
@@ -1888,6 +1947,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "fLUvg1aECXI",
+    "title": "A message from Lewis Koumas! 🗣️⚽️",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-14T20:16:04Z",
+    "view_count": 78228,
+    "like_count": 5123,
+    "comment_count": 122,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.671,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.948,
+        "weight": 1.0,
+        "weighted": 0.948
+      },
+      "views": {
+        "raw": 4.8934,
+        "weight": 1.0,
+        "weighted": 4.8934
+      },
+      "velocity": {
+        "raw": 3.9148,
+        "weight": 2.0,
+        "weighted": 7.8296
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-14T23:00:02+00:00",
+    "last_seen_at": "2026-10-15T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "i6Ql5yB3IAM",
     "title": "Así el problema del Manchester City vs Premier League #futbol #juegodedoce #humor",
     "channel_id": "UCyC4gDCqTjIgearJEhBw6Mg",
@@ -2478,6 +2596,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "ly8_fZX9MKw",
+    "title": "Agen Verdonk beraksi, kasih jersey bersejarah UCL demi ajak bintang muda Arsenal ke Garuda!",
+    "channel_id": "UCfrE6xYOi1_a7b6MfPnU2Rw",
+    "channel_title": "Revisi Terakhir",
+    "published_at": "2026-10-14T10:54:17Z",
+    "view_count": 426163,
+    "like_count": 15636,
+    "comment_count": 230,
+    "sport": "soccer",
+    "league": "KBO",
+    "region": "KR",
+    "trend_score": 23.3564,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8923,
+        "weight": 1.0,
+        "weighted": 0.8923
+      },
+      "views": {
+        "raw": 5.6296,
+        "weight": 1.0,
+        "weighted": 5.6296
+      },
+      "velocity": {
+        "raw": 4.0315,
+        "weight": 2.0,
+        "weighted": 8.0629
+      },
+      "engagement": {
+        "raw": 3.7716,
+        "weight": 1.0,
+        "weighted": 3.7716
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-14T23:00:02+00:00",
+    "last_seen_at": "2026-10-15T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "Z5BOcOYT4iM",
     "title": "Where Should JJ Gabriel Go?",
     "channel_id": "UC6F8qNdFapfoprCOQmhD2KA",
@@ -2770,183 +2947,6 @@
     "source": "live",
     "first_seen_at": "2026-09-16T23:00:02+00:00",
     "last_seen_at": "2026-09-17T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "dakIPfbobWo",
-    "title": "What would the Premier League do without Tottenham?! 🤣",
-    "channel_id": "UCNl1ow8Z3UwGgPGyRq6hs3A",
-    "channel_title": "Augeyboyz",
-    "published_at": "2026-09-28T17:16:52Z",
-    "view_count": 131749,
-    "like_count": 6650,
-    "comment_count": 142,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.2644,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8737,
-        "weight": 1.0,
-        "weighted": 0.8737
-      },
-      "views": {
-        "raw": 5.1198,
-        "weight": 1.0,
-        "weighted": 5.1198
-      },
-      "velocity": {
-        "raw": 3.6355,
-        "weight": 2.0,
-        "weighted": 7.2709
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-29T05:00:03+00:00",
-    "last_seen_at": "2026-09-29T14:30:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "3CYsrsRVsRQ",
-    "title": "Manchester City’s 115 charges situation is getting out of control 😭💀",
-    "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
-    "channel_title": "God Ares AI",
-    "published_at": "2026-09-27T15:32:22Z",
-    "view_count": 1856135,
-    "like_count": 58129,
-    "comment_count": 991,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.1846,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.5776,
-        "weight": 1.0,
-        "weighted": 0.5776
-      },
-      "views": {
-        "raw": 6.2686,
-        "weight": 1.0,
-        "weighted": 6.2686
-      },
-      "velocity": {
-        "raw": 4.0504,
-        "weight": 2.0,
-        "weighted": 8.1009
-      },
-      "engagement": {
-        "raw": 3.2376,
-        "weight": 1.0,
-        "weighted": 3.2376
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-09-29T23:00:03+00:00",
-    "last_seen_at": "2026-09-30T14:30:03+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "4TVDHkYqhAE",
-    "title": "THE FOCUS SHIFTS TO GALATASARAY | FC Barcelona Training Session 🔵🔴",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-11T15:14:24Z",
-    "view_count": 295842,
-    "like_count": 10382,
-    "comment_count": 314,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.1465,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9181,
-        "weight": 1.0,
-        "weighted": 0.9181
-      },
-      "views": {
-        "raw": 5.4711,
-        "weight": 1.0,
-        "weighted": 5.4711
-      },
-      "velocity": {
-        "raw": 4.0216,
-        "weight": 2.0,
-        "weighted": 8.0432
-      },
-      "engagement": {
-        "raw": 3.7141,
-        "weight": 1.0,
-        "weighted": 3.7141
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-11T23:00:03+00:00",
-    "last_seen_at": "2026-10-12T05:00:03+00:00",
     "observation_count": 2
   }
 ]
