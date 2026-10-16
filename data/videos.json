@@ -413,65 +413,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "ZexT_hlg8zw",
-    "title": "O GOLAÇO do CRISTIANO RONALDO mostra que ele VAI se APOSENTAR",
-    "channel_id": "UCskOkN5gEfv3rESJrDaTmKg",
-    "channel_title": "Outset Sports",
-    "published_at": "2026-10-13T21:02:57Z",
-    "view_count": 956989,
-    "like_count": 42842,
-    "comment_count": 430,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 24.5772,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.7027,
-        "weight": 1.0,
-        "weighted": 0.7027
-      },
-      "views": {
-        "raw": 5.9809,
-        "weight": 1.0,
-        "weighted": 5.9809
-      },
-      "velocity": {
-        "raw": 4.1651,
-        "weight": 2.0,
-        "weighted": 8.3302
-      },
-      "engagement": {
-        "raw": 4.5634,
-        "weight": 1.0,
-        "weighted": 4.5634
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_BR",
-    "first_seen_at": "2026-10-15T14:30:03+00:00",
-    "last_seen_at": "2026-10-15T23:00:03+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "3gtrg2YharI",
     "title": "HAT TRICK DE RAPHINHA Y 7REMENDA PALIZA DEL FC BARCELONA 7-2 AL RACING DE SANTANDER | Ubietoo",
     "channel_id": "UCk7gk2oKjCYTQ5VbNd0NsBQ",
@@ -587,6 +528,65 @@
     "source": "live",
     "first_seen_at": "2026-10-15T05:00:03+00:00",
     "last_seen_at": "2026-10-15T14:30:03+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "GrVCtDx7jiQ",
+    "title": "MAN CITY'S AYYOUB BOUADDI'S BEST BITS v PSG!  #champiosleague #football #mancity #haaland",
+    "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+    "channel_title": "Man City",
+    "published_at": "2026-10-15T15:18:22Z",
+    "view_count": 155654,
+    "like_count": 8115,
+    "comment_count": 307,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 24.4237,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9185,
+        "weight": 1.0,
+        "weighted": 0.9185
+      },
+      "views": {
+        "raw": 5.1922,
+        "weight": 1.0,
+        "weighted": 5.1922
+      },
+      "velocity": {
+        "raw": 4.1565,
+        "weight": 2.0,
+        "weighted": 8.3131
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-15T23:00:03+00:00",
+    "last_seen_at": "2026-10-16T05:00:03+00:00",
     "observation_count": 2
   },
   {
@@ -1059,6 +1059,65 @@
     "source": "live",
     "first_seen_at": "2026-10-01T23:00:03+00:00",
     "last_seen_at": "2026-10-02T14:30:04+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "ZexT_hlg8zw",
+    "title": "O GOLAÇO do CRISTIANO RONALDO mostra que ele VAI se APOSENTAR",
+    "channel_id": "UCskOkN5gEfv3rESJrDaTmKg",
+    "channel_title": "Outset Sports",
+    "published_at": "2026-10-13T21:02:57Z",
+    "view_count": 1012435,
+    "like_count": 44796,
+    "comment_count": 442,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.1128,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.667,
+        "weight": 1.0,
+        "weighted": 0.667
+      },
+      "views": {
+        "raw": 6.0054,
+        "weight": 1.0,
+        "weighted": 6.0054
+      },
+      "velocity": {
+        "raw": 3.9658,
+        "weight": 2.0,
+        "weighted": 7.9315
+      },
+      "engagement": {
+        "raw": 4.5089,
+        "weight": 1.0,
+        "weighted": 4.5089
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_BR",
+    "first_seen_at": "2026-10-15T14:30:03+00:00",
+    "last_seen_at": "2026-10-16T05:00:03+00:00",
     "observation_count": 3
   },
   {
@@ -2655,6 +2714,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "Lz59NfCJ5xc",
+    "title": "Barcola hat-trick 🎩⚽️",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-15T19:30:22Z",
+    "view_count": 69671,
+    "like_count": 3904,
+    "comment_count": 43,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.508,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9435,
+        "weight": 1.0,
+        "weighted": 0.9435
+      },
+      "views": {
+        "raw": 4.8431,
+        "weight": 1.0,
+        "weighted": 4.8431
+      },
+      "velocity": {
+        "raw": 3.8607,
+        "weight": 2.0,
+        "weighted": 7.7214
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-15T23:00:03+00:00",
+    "last_seen_at": "2026-10-16T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "YyRS82WiIog",
     "title": "OLISE is Unstoppable 🔥 Hattrick & Assist | FC BAYERN - UNION BERLIN | Highlights | MD 4 - Bundesliga",
     "channel_id": "UC6UL29enLNe4mqwTfAyeNuw",
@@ -2719,33 +2837,33 @@
     "channel_id": "UCcAg-rvBbiCE3tCg42aTIEQ",
     "channel_title": "Futecem",
     "published_at": "2026-10-13T19:00:24Z",
-    "view_count": 1651459,
-    "like_count": 31423,
-    "comment_count": 59,
+    "view_count": 2063128,
+    "like_count": 37888,
+    "comment_count": 68,
     "sport": "soccer",
     "league": "LaLiga",
     "region": null,
-    "trend_score": 23.3723,
+    "trend_score": 23.485,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.6905,
+        "raw": 0.6548,
         "weight": 1.0,
-        "weighted": 0.6905
+        "weighted": 0.6548
       },
       "views": {
-        "raw": 6.2179,
+        "raw": 6.3145,
         "weight": 1.0,
-        "weighted": 6.2179
+        "weighted": 6.3145
       },
       "velocity": {
-        "raw": 4.7772,
+        "raw": 4.8364,
         "weight": 2.0,
-        "weighted": 9.5543
+        "weighted": 9.6728
       },
       "engagement": {
-        "raw": 1.9096,
+        "raw": 1.8429,
         "weight": 1.0,
-        "weighted": 1.9096
+        "weighted": 1.8429
       },
       "sport": {
         "raw": 1.0,
@@ -2769,8 +2887,8 @@
     "status": "DISCOVERED",
     "source": "trending_BR",
     "first_seen_at": "2026-10-14T14:30:03+00:00",
-    "last_seen_at": "2026-10-15T23:00:03+00:00",
-    "observation_count": 5
+    "last_seen_at": "2026-10-16T05:00:03+00:00",
+    "observation_count": 6
   },
   {
     "video_id": "ly8_fZX9MKw",
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-10-14T23:00:02+00:00",
     "last_seen_at": "2026-10-15T05:00:03+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "Z5BOcOYT4iM",
-    "title": "Where Should JJ Gabriel Go?",
-    "channel_id": "UC6F8qNdFapfoprCOQmhD2KA",
-    "channel_title": "Pêche Football",
-    "published_at": "2026-10-04T21:29:17Z",
-    "view_count": 199986,
-    "like_count": 7269,
-    "comment_count": 72,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.338,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8987,
-        "weight": 1.0,
-        "weighted": 0.8987
-      },
-      "views": {
-        "raw": 5.301,
-        "weight": 1.0,
-        "weighted": 5.301
-      },
-      "velocity": {
-        "raw": 4.2213,
-        "weight": 2.0,
-        "weighted": 8.4425
-      },
-      "engagement": {
-        "raw": 3.6957,
-        "weight": 1.0,
-        "weighted": 3.6957
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-05T05:00:03+00:00",
-    "last_seen_at": "2026-10-05T14:30:04+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "AlB7Yb2EFjI",
-    "title": "Who is it? It’s Gabriel ☎️ #laligahighlights",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-10T17:33:22Z",
-    "view_count": 165394,
-    "like_count": 9360,
-    "comment_count": 76,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.3294,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8753,
-        "weight": 1.0,
-        "weighted": 0.8753
-      },
-      "views": {
-        "raw": 5.2185,
-        "weight": 1.0,
-        "weighted": 5.2185
-      },
-      "velocity": {
-        "raw": 3.6178,
-        "weight": 2.0,
-        "weighted": 7.2356
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T14:30:02+00:00",
-    "observation_count": 3
   }
 ]
