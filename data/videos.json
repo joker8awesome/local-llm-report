@@ -413,6 +413,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "UPOSFN-7fQE",
+    "title": "🔥 MATCH PREVIEW: BETIS vs FC BARCELONA🔥 | LA LIGA 2026/27",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-16T20:23:36Z",
+    "view_count": 248261,
+    "like_count": 10229,
+    "comment_count": 277,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.6357,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9488,
+        "weight": 1.0,
+        "weighted": 0.9488
+      },
+      "views": {
+        "raw": 5.3949,
+        "weight": 1.0,
+        "weighted": 5.3949
+      },
+      "velocity": {
+        "raw": 4.48,
+        "weight": 2.0,
+        "weighted": 8.9601
+      },
+      "engagement": {
+        "raw": 4.332,
+        "weight": 1.0,
+        "weighted": 4.332
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-16T23:00:03+00:00",
+    "last_seen_at": "2026-10-17T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "GrVCtDx7jiQ",
     "title": "MAN CITY'S AYYOUB BOUADDI'S BEST BITS v PSG!  #champiosleague #football #mancity #haaland",
     "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
@@ -2888,65 +2947,6 @@
     "source": "live",
     "first_seen_at": "2026-10-14T23:00:02+00:00",
     "last_seen_at": "2026-10-15T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "Z5BOcOYT4iM",
-    "title": "Where Should JJ Gabriel Go?",
-    "channel_id": "UC6F8qNdFapfoprCOQmhD2KA",
-    "channel_title": "Pêche Football",
-    "published_at": "2026-10-04T21:29:17Z",
-    "view_count": 199986,
-    "like_count": 7269,
-    "comment_count": 72,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.338,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8987,
-        "weight": 1.0,
-        "weighted": 0.8987
-      },
-      "views": {
-        "raw": 5.301,
-        "weight": 1.0,
-        "weighted": 5.301
-      },
-      "velocity": {
-        "raw": 4.2213,
-        "weight": 2.0,
-        "weighted": 8.4425
-      },
-      "engagement": {
-        "raw": 3.6957,
-        "weight": 1.0,
-        "weighted": 3.6957
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-05T05:00:03+00:00",
-    "last_seen_at": "2026-10-05T14:30:04+00:00",
     "observation_count": 2
   }
 ]
