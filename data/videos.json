@@ -1,5 +1,64 @@
 [
   {
+    "video_id": "E9xwMBuGC_E",
+    "title": "barcelona vs psg: the match football was made for",
+    "channel_id": "UC8Ve-jFguRnps_1dhovaHUA",
+    "channel_title": "Riza ┃ريزا",
+    "published_at": "2026-10-16T20:05:05Z",
+    "view_count": 723478,
+    "like_count": 29909,
+    "comment_count": 27,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 25.5112,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8904,
+        "weight": 1.0,
+        "weighted": 0.8904
+      },
+      "views": {
+        "raw": 5.8594,
+        "weight": 1.0,
+        "weighted": 5.8594
+      },
+      "velocity": {
+        "raw": 4.8118,
+        "weight": 2.0,
+        "weighted": 9.6235
+      },
+      "engagement": {
+        "raw": 4.1379,
+        "weight": 1.0,
+        "weighted": 4.1379
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-16T23:00:03+00:00",
+    "last_seen_at": "2026-10-17T14:30:03+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "0Fcoe9pKeKk",
     "title": "FC BARCELONA 7 vs 2 RACING SANTANDER | LALIGA 2026/27 MD06 🔵🔴",
     "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
@@ -410,65 +469,6 @@
     "source": "live",
     "first_seen_at": "2026-09-16T05:00:02+00:00",
     "last_seen_at": "2026-09-16T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "UPOSFN-7fQE",
-    "title": "🔥 MATCH PREVIEW: BETIS vs FC BARCELONA🔥 | LA LIGA 2026/27",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-16T20:23:36Z",
-    "view_count": 248261,
-    "like_count": 10229,
-    "comment_count": 277,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 24.6357,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9488,
-        "weight": 1.0,
-        "weighted": 0.9488
-      },
-      "views": {
-        "raw": 5.3949,
-        "weight": 1.0,
-        "weighted": 5.3949
-      },
-      "velocity": {
-        "raw": 4.48,
-        "weight": 2.0,
-        "weighted": 8.9601
-      },
-      "engagement": {
-        "raw": 4.332,
-        "weight": 1.0,
-        "weighted": 4.332
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-16T23:00:03+00:00",
-    "last_seen_at": "2026-10-17T05:00:03+00:00",
     "observation_count": 2
   },
   {
@@ -2419,6 +2419,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "UPOSFN-7fQE",
+    "title": "🔥 MATCH PREVIEW: BETIS vs FC BARCELONA🔥 | LA LIGA 2026/27",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-16T20:23:36Z",
+    "view_count": 467068,
+    "like_count": 14918,
+    "comment_count": 377,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.6377,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8922,
+        "weight": 1.0,
+        "weighted": 0.8922
+      },
+      "views": {
+        "raw": 5.6694,
+        "weight": 1.0,
+        "weighted": 5.6694
+      },
+      "velocity": {
+        "raw": 4.3624,
+        "weight": 2.0,
+        "weighted": 8.7247
+      },
+      "engagement": {
+        "raw": 3.3514,
+        "weight": 1.0,
+        "weighted": 3.3514
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-16T23:00:03+00:00",
+    "last_seen_at": "2026-10-17T14:30:03+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "ix-pGg1N3w0",
     "title": "Barcelona vs PSG: The Match Football Was Made For",
     "channel_id": "UClmr70zMlFNiAqQ2rNgSciw",
@@ -2889,64 +2948,5 @@
     "first_seen_at": "2026-10-15T23:00:03+00:00",
     "last_seen_at": "2026-10-16T14:30:02+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "ly8_fZX9MKw",
-    "title": "Agen Verdonk beraksi, kasih jersey bersejarah UCL demi ajak bintang muda Arsenal ke Garuda!",
-    "channel_id": "UCfrE6xYOi1_a7b6MfPnU2Rw",
-    "channel_title": "Revisi Terakhir",
-    "published_at": "2026-10-14T10:54:17Z",
-    "view_count": 426163,
-    "like_count": 15636,
-    "comment_count": 230,
-    "sport": "soccer",
-    "league": "KBO",
-    "region": "KR",
-    "trend_score": 23.3564,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8923,
-        "weight": 1.0,
-        "weighted": 0.8923
-      },
-      "views": {
-        "raw": 5.6296,
-        "weight": 1.0,
-        "weighted": 5.6296
-      },
-      "velocity": {
-        "raw": 4.0315,
-        "weight": 2.0,
-        "weighted": 8.0629
-      },
-      "engagement": {
-        "raw": 3.7716,
-        "weight": 1.0,
-        "weighted": 3.7716
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-14T23:00:02+00:00",
-    "last_seen_at": "2026-10-15T05:00:03+00:00",
-    "observation_count": 2
   }
 ]
