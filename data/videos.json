@@ -1652,6 +1652,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "nAUwLDQz6r0",
+    "title": "Winning mentality. ✊",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-18T11:00:32Z",
+    "view_count": 200753,
+    "like_count": 8751,
+    "comment_count": 130,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.0602,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9286,
+        "weight": 1.0,
+        "weighted": 0.9286
+      },
+      "views": {
+        "raw": 5.3027,
+        "weight": 1.0,
+        "weighted": 5.3027
+      },
+      "velocity": {
+        "raw": 4.1776,
+        "weight": 2.0,
+        "weighted": 8.3552
+      },
+      "engagement": {
+        "raw": 4.4737,
+        "weight": 1.0,
+        "weighted": 4.4737
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-18T14:30:03+00:00",
+    "last_seen_at": "2026-10-18T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "JpkVXz0dNKQ",
     "title": "Vivimos historia😭😢. #messi #argentina #futbol #football #shorts #parati #barcelona #fyp #leo",
     "channel_id": "UC4ssSP_O7PqdAgGbuRyizaA",
@@ -2888,65 +2947,6 @@
     "source": "live",
     "first_seen_at": "2026-10-11T05:00:02+00:00",
     "last_seen_at": "2026-10-11T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "mo28Z5ugodI",
-    "title": "Haaland's too strong 💪🇳🇴 #haaland #mancity #goals #football #premierleague #ndiaye #strength",
-    "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
-    "channel_title": "Man City",
-    "published_at": "2026-10-17T21:27:44Z",
-    "view_count": 107681,
-    "like_count": 6097,
-    "comment_count": 138,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.5837,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8986,
-        "weight": 1.0,
-        "weighted": 0.8986
-      },
-      "views": {
-        "raw": 5.0321,
-        "weight": 1.0,
-        "weighted": 5.0321
-      },
-      "velocity": {
-        "raw": 3.8265,
-        "weight": 2.0,
-        "weighted": 7.653
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-17T23:00:03+00:00",
-    "last_seen_at": "2026-10-18T14:30:03+00:00",
     "observation_count": 2
   }
 ]
