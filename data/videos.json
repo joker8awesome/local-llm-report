@@ -59,124 +59,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "nM0DYaUUDBg",
-    "title": "Highlights: Brentford 1-2 Liverpool",
-    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
-    "channel_title": "Liverpool FC",
-    "published_at": "2026-10-17T21:05:20Z",
-    "view_count": 247410,
-    "like_count": 12434,
-    "comment_count": 207,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 25.4622,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9529,
-        "weight": 1.0,
-        "weighted": 0.9529
-      },
-      "views": {
-        "raw": 5.3934,
-        "weight": 1.0,
-        "weighted": 5.3934
-      },
-      "velocity": {
-        "raw": 4.5579,
-        "weight": 2.0,
-        "weighted": 9.1159
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-17T23:00:03+00:00",
-    "last_seen_at": "2026-10-18T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "l5ODLAXQyGA",
-    "title": "BETIS 2 vs 5 FC BARCELONA  | LALIGA 2026/27 MD09 🔵🔴",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-17T21:05:21Z",
-    "view_count": 734689,
-    "like_count": 23921,
-    "comment_count": 620,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 25.2634,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9529,
-        "weight": 1.0,
-        "weighted": 0.9529
-      },
-      "views": {
-        "raw": 5.8661,
-        "weight": 1.0,
-        "weighted": 5.8661
-      },
-      "velocity": {
-        "raw": 5.0112,
-        "weight": 2.0,
-        "weighted": 10.0223
-      },
-      "engagement": {
-        "raw": 3.4221,
-        "weight": 1.0,
-        "weighted": 3.4221
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-17T23:00:03+00:00",
-    "last_seen_at": "2026-10-18T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "0Fcoe9pKeKk",
     "title": "FC BARCELONA 7 vs 2 RACING SANTANDER | LALIGA 2026/27 MD06 🔵🔴",
     "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
@@ -413,65 +295,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "cYMIsxPkeZo",
-    "title": "REAL BETIS 2 - 5 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
-    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
-    "channel_title": "LALIGA EA SPORTS",
-    "published_at": "2026-10-17T18:46:08Z",
-    "view_count": 2640337,
-    "like_count": 43049,
-    "comment_count": 1158,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 24.753,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9391,
-        "weight": 1.0,
-        "weighted": 0.9391
-      },
-      "views": {
-        "raw": 6.4217,
-        "weight": 1.0,
-        "weighted": 6.4217
-      },
-      "velocity": {
-        "raw": 5.3371,
-        "weight": 2.0,
-        "weighted": 10.6742
-      },
-      "engagement": {
-        "raw": 1.7181,
-        "weight": 1.0,
-        "weighted": 1.7181
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-17T23:00:03+00:00",
-    "last_seen_at": "2026-10-18T05:00:03+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "UM6cgQoRVOs",
     "title": "Hat-trick. POTM. Bradley Barcola 🤩🏆",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -647,6 +470,65 @@
     "first_seen_at": "2026-09-16T05:00:02+00:00",
     "last_seen_at": "2026-09-16T14:30:02+00:00",
     "observation_count": 2
+  },
+  {
+    "video_id": "nM0DYaUUDBg",
+    "title": "Highlights: Brentford 1-2 Liverpool",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-17T21:05:20Z",
+    "view_count": 671565,
+    "like_count": 22988,
+    "comment_count": 376,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.5551,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8964,
+        "weight": 1.0,
+        "weighted": 0.8964
+      },
+      "views": {
+        "raw": 5.8271,
+        "weight": 1.0,
+        "weighted": 5.8271
+      },
+      "velocity": {
+        "raw": 4.6498,
+        "weight": 2.0,
+        "weighted": 9.2996
+      },
+      "engagement": {
+        "raw": 3.532,
+        "weight": 1.0,
+        "weighted": 3.532
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-17T23:00:03+00:00",
+    "last_seen_at": "2026-10-18T14:30:03+00:00",
+    "observation_count": 3
   },
   {
     "video_id": "GrVCtDx7jiQ",
@@ -885,6 +767,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "l5ODLAXQyGA",
+    "title": "BETIS 2 vs 5 FC BARCELONA  | LALIGA 2026/27 MD09 🔵🔴",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-17T21:05:21Z",
+    "view_count": 1930846,
+    "like_count": 37367,
+    "comment_count": 922,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.4127,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8964,
+        "weight": 1.0,
+        "weighted": 0.8964
+      },
+      "views": {
+        "raw": 6.2857,
+        "weight": 1.0,
+        "weighted": 6.2857
+      },
+      "velocity": {
+        "raw": 5.1001,
+        "weight": 2.0,
+        "weighted": 10.2001
+      },
+      "engagement": {
+        "raw": 2.0305,
+        "weight": 1.0,
+        "weighted": 2.0305
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-17T23:00:03+00:00",
+    "last_seen_at": "2026-10-18T14:30:03+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "JM9OFF6c-So",
     "title": "Five In Five: The Enzo Maresca Era Begins",
     "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
@@ -1000,6 +941,65 @@
     "source": "live",
     "first_seen_at": "2026-10-11T23:00:03+00:00",
     "last_seen_at": "2026-10-12T05:00:03+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "i4Y-KAr3alU",
+    "title": "Gabriel never leaves a call unanswered 📞 #LaLigaHighlights",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-17T18:15:57Z",
+    "view_count": 283841,
+    "like_count": 14601,
+    "comment_count": 104,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.3189,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8796,
+        "weight": 1.0,
+        "weighted": 0.8796
+      },
+      "views": {
+        "raw": 5.4531,
+        "weight": 1.0,
+        "weighted": 5.4531
+      },
+      "velocity": {
+        "raw": 3.9931,
+        "weight": 2.0,
+        "weighted": 7.9863
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-17T23:00:03+00:00",
+    "last_seen_at": "2026-10-18T14:30:03+00:00",
     "observation_count": 2
   },
   {
@@ -1180,6 +1180,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "E9tEXvULuQ0",
+    "title": "LAMINE IS UNREAL 😵‍💫 #LaLigaHighlights #fcbarcelona #shorts",
+    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
+    "channel_title": "FC Barcelona",
+    "published_at": "2026-10-17T17:02:09Z",
+    "view_count": 271738,
+    "like_count": 13900,
+    "comment_count": 147,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.1675,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8722,
+        "weight": 1.0,
+        "weighted": 0.8722
+      },
+      "views": {
+        "raw": 5.4342,
+        "weight": 1.0,
+        "weighted": 5.4342
+      },
+      "velocity": {
+        "raw": 3.9306,
+        "weight": 2.0,
+        "weighted": 7.8612
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-17T23:00:03+00:00",
+    "last_seen_at": "2026-10-18T14:30:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "klcCO4pfcOA",
     "title": "El Clasico Will be Crazy… #realmadrid #barcelona #laliga #championsleague",
     "channel_id": "UC4wZe71o7TPyq_qVrkLuT9g",
@@ -1237,6 +1296,65 @@
     "first_seen_at": "2026-09-17T23:00:02+00:00",
     "last_seen_at": "2026-09-18T05:00:02+00:00",
     "observation_count": 2
+  },
+  {
+    "video_id": "cYMIsxPkeZo",
+    "title": "REAL BETIS 2 - 5 FC BARCELONA | RESUMEN LALIGA EA SPORTS",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-10-17T18:46:08Z",
+    "view_count": 3862394,
+    "like_count": 52910,
+    "comment_count": 1386,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.1298,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8825,
+        "weight": 1.0,
+        "weighted": 0.8825
+      },
+      "views": {
+        "raw": 6.5869,
+        "weight": 1.0,
+        "weighted": 6.5869
+      },
+      "velocity": {
+        "raw": 5.1094,
+        "weight": 2.0,
+        "weighted": 10.2187
+      },
+      "engagement": {
+        "raw": 1.4417,
+        "weight": 1.0,
+        "weighted": 1.4417
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-17T23:00:03+00:00",
+    "last_seen_at": "2026-10-18T14:30:03+00:00",
+    "observation_count": 3
   },
   {
     "video_id": "CUGySHlJBds",
@@ -1649,65 +1767,6 @@
     "source": "live",
     "first_seen_at": "2026-10-11T05:00:02+00:00",
     "last_seen_at": "2026-10-11T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "qejZlpiqC9g",
-    "title": "LamineKadabra 🧞 #LaLigaHighlights #fcbarcelona #shorts",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-17T17:32:30Z",
-    "view_count": 989160,
-    "like_count": 20973,
-    "comment_count": 157,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.9786,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9318,
-        "weight": 1.0,
-        "weighted": 0.9318
-      },
-      "views": {
-        "raw": 5.9953,
-        "weight": 1.0,
-        "weighted": 5.9953
-      },
-      "velocity": {
-        "raw": 4.9501,
-        "weight": 2.0,
-        "weighted": 9.9002
-      },
-      "engagement": {
-        "raw": 2.1514,
-        "weight": 1.0,
-        "weighted": 2.1514
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-17T23:00:03+00:00",
-    "last_seen_at": "2026-10-18T05:00:03+00:00",
     "observation_count": 2
   },
   {
@@ -2832,92 +2891,33 @@
     "observation_count": 2
   },
   {
-    "video_id": "zcNOQjbRk48",
-    "title": "HIGHLIGHTS | Real Madrid 1-0 Villarreal | LaLiga",
-    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
-    "channel_title": "Real Madrid",
-    "published_at": "2026-10-10T22:46:29Z",
-    "view_count": 114068,
-    "like_count": 5463,
-    "comment_count": 80,
+    "video_id": "mo28Z5ugodI",
+    "title": "Haaland's too strong 💪🇳🇴 #haaland #mancity #goals #football #premierleague #ndiaye #strength",
+    "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
+    "channel_title": "Man City",
+    "published_at": "2026-10-17T21:27:44Z",
+    "view_count": 107681,
+    "like_count": 6097,
+    "comment_count": 138,
     "sport": "soccer",
-    "league": "LaLiga",
+    "league": "EPL",
     "region": null,
-    "trend_score": 23.5821,
+    "trend_score": 23.5837,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.9064,
+        "raw": 0.8986,
         "weight": 1.0,
-        "weighted": 0.9064
+        "weighted": 0.8986
       },
       "views": {
-        "raw": 5.0572,
+        "raw": 5.0321,
         "weight": 1.0,
-        "weighted": 5.0572
+        "weighted": 5.0321
       },
       "velocity": {
-        "raw": 3.8595,
+        "raw": 3.8265,
         "weight": 2.0,
-        "weighted": 7.719
-      },
-      "engagement": {
-        "raw": 4.8996,
-        "weight": 1.0,
-        "weighted": 4.8996
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "453f-VVcdDw",
-    "title": "When Atletico Madrid Met Their Owner Ronaldo🐐🥶 #shorts #ronaldo #realmadrid #atleticomadrid",
-    "channel_id": "UCKPh4z7XD10sa5paTkku2uw",
-    "channel_title": "@xa07_Editx",
-    "published_at": "2026-09-21T05:10:54Z",
-    "view_count": 276435,
-    "like_count": 16487,
-    "comment_count": 376,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.5518,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8582,
-        "weight": 1.0,
-        "weighted": 0.8582
-      },
-      "views": {
-        "raw": 5.4416,
-        "weight": 1.0,
-        "weighted": 5.4416
-      },
-      "velocity": {
-        "raw": 3.626,
-        "weight": 2.0,
-        "weighted": 7.252
+        "weighted": 7.653
       },
       "engagement": {
         "raw": 5.0,
@@ -2941,12 +2941,12 @@
       }
     },
     "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_reason": "CEO_TEAM_CHANNEL",
     "scope_version": "scope-soccer-only-2026-09-22",
     "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-21T23:00:01+00:00",
-    "last_seen_at": "2026-09-22T05:00:01+00:00",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-17T23:00:03+00:00",
+    "last_seen_at": "2026-10-18T14:30:03+00:00",
     "observation_count": 2
   }
 ]
