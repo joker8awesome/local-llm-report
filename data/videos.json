@@ -531,6 +531,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "1ZRirT79Buw",
+    "title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-20T08:36:29Z",
+    "view_count": 330840,
+    "like_count": 13831,
+    "comment_count": 240,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.6053,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9143,
+        "weight": 1.0,
+        "weighted": 0.9143
+      },
+      "views": {
+        "raw": 5.5196,
+        "weight": 1.0,
+        "weighted": 5.5196
+      },
+      "velocity": {
+        "raw": 4.4271,
+        "weight": 2.0,
+        "weighted": 8.8542
+      },
+      "engagement": {
+        "raw": 4.3171,
+        "weight": 1.0,
+        "weighted": 4.3171
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-20T14:30:03+00:00",
+    "last_seen_at": "2026-10-20T23:00:03+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "nM0DYaUUDBg",
     "title": "Highlights: Brentford 1-2 Liverpool",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2065,65 +2124,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "k4v5pUdpoWw",
-    "title": "PSG vs Barcelona is about to be CHAOS. 😂🔥",
-    "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
-    "channel_title": "God Ares AI",
-    "published_at": "2026-10-19T15:02:17Z",
-    "view_count": 3700259,
-    "like_count": 104231,
-    "comment_count": 1062,
-    "sport": "soccer",
-    "league": null,
-    "region": null,
-    "trend_score": 23.9095,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8603,
-        "weight": 1.0,
-        "weighted": 0.8603
-      },
-      "views": {
-        "raw": 6.5682,
-        "weight": 1.0,
-        "weighted": 6.5682
-      },
-      "velocity": {
-        "raw": 5.3035,
-        "weight": 2.0,
-        "weighted": 10.6071
-      },
-      "engagement": {
-        "raw": 2.8739,
-        "weight": 1.0,
-        "weighted": 2.8739
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 0.0,
-        "weight": 2.0,
-        "weighted": 0.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-19T23:00:03+00:00",
-    "last_seen_at": "2026-10-20T14:30:03+00:00",
-    "observation_count": 3
-  },
-  {
     "video_id": "08RWFNVutzM",
     "title": "FC BARCELONA 3 - 0 GETAFE CF | RESUMEN LALIGA EA SPORTS",
     "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
@@ -2416,6 +2416,65 @@
     "source": "live",
     "first_seen_at": "2026-09-21T23:00:01+00:00",
     "last_seen_at": "2026-09-22T05:00:01+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "8C_Nyd0R1GM",
+    "title": "🥶 @KMbappe 🥶  #LaLigaHighlights #RealMadrid",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-20T09:00:07Z",
+    "view_count": 107065,
+    "like_count": 6549,
+    "comment_count": 107,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.7755,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9167,
+        "weight": 1.0,
+        "weighted": 0.9167
+      },
+      "views": {
+        "raw": 5.0297,
+        "weight": 1.0,
+        "weighted": 5.0297
+      },
+      "velocity": {
+        "raw": 3.9146,
+        "weight": 2.0,
+        "weighted": 7.8291
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-20T14:30:03+00:00",
+    "last_seen_at": "2026-10-20T23:00:03+00:00",
     "observation_count": 2
   },
   {
@@ -2889,64 +2948,5 @@
     "first_seen_at": "2026-10-18T23:00:03+00:00",
     "last_seen_at": "2026-10-19T14:30:03+00:00",
     "observation_count": 3
-  },
-  {
-    "video_id": "1bvL_TgSjMA",
-    "title": "HIGHLIGHTS | Elche 2-3 Real Madrid | LaLiga",
-    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
-    "channel_title": "Real Madrid",
-    "published_at": "2026-09-15T22:54:32Z",
-    "view_count": 1023925,
-    "like_count": 16342,
-    "comment_count": 942,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.6495,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9072,
-        "weight": 1.0,
-        "weighted": 0.9072
-      },
-      "views": {
-        "raw": 6.0103,
-        "weight": 1.0,
-        "weighted": 6.0103
-      },
-      "velocity": {
-        "raw": 4.9762,
-        "weight": 2.0,
-        "weighted": 9.9523
-      },
-      "engagement": {
-        "raw": 1.7797,
-        "weight": 1.0,
-        "weighted": 1.7797
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-16T05:00:02+00:00",
-    "last_seen_at": "2026-09-16T14:30:02+00:00",
-    "observation_count": 2
   }
 ]
