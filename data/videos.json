@@ -2065,6 +2065,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "k4v5pUdpoWw",
+    "title": "PSG vs Barcelona is about to be CHAOS. 😂🔥",
+    "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
+    "channel_title": "God Ares AI",
+    "published_at": "2026-10-19T15:02:17Z",
+    "view_count": 3700259,
+    "like_count": 104231,
+    "comment_count": 1062,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 23.9095,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8603,
+        "weight": 1.0,
+        "weighted": 0.8603
+      },
+      "views": {
+        "raw": 6.5682,
+        "weight": 1.0,
+        "weighted": 6.5682
+      },
+      "velocity": {
+        "raw": 5.3035,
+        "weight": 2.0,
+        "weighted": 10.6071
+      },
+      "engagement": {
+        "raw": 2.8739,
+        "weight": 1.0,
+        "weighted": 2.8739
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-19T23:00:03+00:00",
+    "last_seen_at": "2026-10-20T14:30:03+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "08RWFNVutzM",
     "title": "FC BARCELONA 3 - 0 GETAFE CF | RESUMEN LALIGA EA SPORTS",
     "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
@@ -2888,65 +2947,6 @@
     "source": "live",
     "first_seen_at": "2026-09-16T05:00:02+00:00",
     "last_seen_at": "2026-09-16T14:30:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "D2ppXXuX5rw",
-    "title": "You'll never forget this day, AG #laligahighlights",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-10T17:18:49Z",
-    "view_count": 203350,
-    "like_count": 11051,
-    "comment_count": 107,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.6414,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8739,
-        "weight": 1.0,
-        "weighted": 0.8739
-      },
-      "views": {
-        "raw": 5.3082,
-        "weight": 1.0,
-        "weighted": 5.3082
-      },
-      "velocity": {
-        "raw": 3.7296,
-        "weight": 2.0,
-        "weighted": 7.4593
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T14:30:02+00:00",
     "observation_count": 2
   }
 ]
