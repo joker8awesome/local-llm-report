@@ -590,6 +590,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "rja5XPaMZZo",
+    "title": "Some performance from Rio👏",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-20T21:30:59Z",
+    "view_count": 273729,
+    "like_count": 12902,
+    "comment_count": 242,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.588,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8989,
+        "weight": 1.0,
+        "weighted": 0.8989
+      },
+      "views": {
+        "raw": 5.4373,
+        "weight": 1.0,
+        "weighted": 5.4373
+      },
+      "velocity": {
+        "raw": 4.187,
+        "weight": 2.0,
+        "weighted": 8.3739
+      },
+      "engagement": {
+        "raw": 4.8779,
+        "weight": 1.0,
+        "weighted": 4.8779
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-20T23:00:03+00:00",
+    "last_seen_at": "2026-10-21T14:30:04+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "nM0DYaUUDBg",
     "title": "Highlights: Brentford 1-2 Liverpool",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2242,6 +2301,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "SPvrdVWWCJo",
+    "title": "🚀 Diomande 🚀",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-20T15:19:23Z",
+    "view_count": 206538,
+    "like_count": 11295,
+    "comment_count": 135,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.8621,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.862,
+        "weight": 1.0,
+        "weighted": 0.862
+      },
+      "views": {
+        "raw": 5.315,
+        "weight": 1.0,
+        "weighted": 5.315
+      },
+      "velocity": {
+        "raw": 3.8425,
+        "weight": 2.0,
+        "weighted": 7.685
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-20T23:00:03+00:00",
+    "last_seen_at": "2026-10-21T14:30:04+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "oYLFd5Jh5Wg",
     "title": "All Time Chelsea Vs The Current Best Premier League XI Combined XI",
     "channel_id": "UCIKEHdQlCUKUn7eGXy9CBiA",
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-09-15T05:00:01+00:00",
     "last_seen_at": "2026-09-15T14:30:01+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "i6Ql5yB3IAM",
-    "title": "Así el problema del Manchester City vs Premier League #futbol #juegodedoce #humor",
-    "channel_id": "UCyC4gDCqTjIgearJEhBw6Mg",
-    "channel_title": "Juego de Doce ",
-    "published_at": "2026-09-27T00:01:44Z",
-    "view_count": 123652,
-    "like_count": 8576,
-    "comment_count": 91,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.6639,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8633,
-        "weight": 1.0,
-        "weighted": 0.8633
-      },
-      "views": {
-        "raw": 5.0922,
-        "weight": 1.0,
-        "weighted": 5.0922
-      },
-      "velocity": {
-        "raw": 3.8542,
-        "weight": 2.0,
-        "weighted": 7.7084
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-27T14:30:03+00:00",
-    "last_seen_at": "2026-09-27T23:00:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "6pFAdSkQbc8",
-    "title": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
-    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
-    "channel_title": "Real Madrid",
-    "published_at": "2026-10-18T21:16:37Z",
-    "view_count": 133345,
-    "like_count": 7052,
-    "comment_count": 95,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.6559,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8975,
-        "weight": 1.0,
-        "weighted": 0.8975
-      },
-      "views": {
-        "raw": 5.125,
-        "weight": 1.0,
-        "weighted": 5.125
-      },
-      "velocity": {
-        "raw": 3.8167,
-        "weight": 2.0,
-        "weighted": 7.6335
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-18T23:00:03+00:00",
-    "last_seen_at": "2026-10-19T14:30:03+00:00",
-    "observation_count": 3
   }
 ]
