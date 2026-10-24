@@ -2006,65 +2006,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "rccvCYM8JrE",
-    "title": "Champions League Matchday 3 was ABSOLUTE CHAOS! 😂🏆🔥",
-    "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
-    "channel_title": "God Ares AI",
-    "published_at": "2026-10-22T15:06:11Z",
-    "view_count": 5156840,
-    "like_count": 117768,
-    "comment_count": 747,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 24.0479,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.7179,
-        "weight": 1.0,
-        "weighted": 0.7179
-      },
-      "views": {
-        "raw": 6.7124,
-        "weight": 1.0,
-        "weighted": 6.7124
-      },
-      "velocity": {
-        "raw": 4.6525,
-        "weight": 2.0,
-        "weighted": 9.3051
-      },
-      "engagement": {
-        "raw": 2.3125,
-        "weight": 1.0,
-        "weighted": 2.3125
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-10-23T14:30:03+00:00",
-    "last_seen_at": "2026-10-24T14:30:02+00:00",
-    "observation_count": 4
-  },
-  {
     "video_id": "JpkVXz0dNKQ",
     "title": "Vivimos historia😭😢. #messi #argentina #futbol #football #shorts #parati #barcelona #fyp #leo",
     "channel_id": "UC4ssSP_O7PqdAgGbuRyizaA",
@@ -2948,5 +2889,64 @@
     "first_seen_at": "2026-10-05T14:30:04+00:00",
     "last_seen_at": "2026-10-05T23:00:03+00:00",
     "observation_count": 2
+  },
+  {
+    "video_id": "rccvCYM8JrE",
+    "title": "Champions League Matchday 3 was ABSOLUTE CHAOS! 😂🏆🔥",
+    "channel_id": "UCIL_RXu3iXyYcFsuInZmh2Q",
+    "channel_title": "God Ares AI",
+    "published_at": "2026-10-22T15:06:11Z",
+    "view_count": 5428843,
+    "like_count": 122695,
+    "comment_count": 778,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.7009,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.6673,
+        "weight": 1.0,
+        "weighted": 0.6673
+      },
+      "views": {
+        "raw": 6.7347,
+        "weight": 1.0,
+        "weighted": 6.7347
+      },
+      "velocity": {
+        "raw": 4.5052,
+        "weight": 2.0,
+        "weighted": 9.0103
+      },
+      "engagement": {
+        "raw": 2.2886,
+        "weight": 1.0,
+        "weighted": 2.2886
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-10-23T14:30:03+00:00",
+    "last_seen_at": "2026-10-24T23:00:03+00:00",
+    "observation_count": 5
   }
 ]
