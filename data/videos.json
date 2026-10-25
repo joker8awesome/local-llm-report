@@ -118,6 +118,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "Cx_L2sAGhPA",
+    "title": "Nicolas Jackson handed Manchester City their first Premier League defeat of the season. ☠️🔥",
+    "channel_id": "UC3Ad7MMhJ1NHAkYbtgbVJ1Q",
+    "channel_title": "hamid sahari",
+    "published_at": "2026-10-24T16:40:04Z",
+    "view_count": 578820,
+    "like_count": 36434,
+    "comment_count": 458,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": null,
+    "trend_score": 25.0453,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.87,
+        "weight": 1.0,
+        "weighted": 0.87
+      },
+      "views": {
+        "raw": 5.7625,
+        "weight": 1.0,
+        "weighted": 5.7625
+      },
+      "velocity": {
+        "raw": 4.2063,
+        "weight": 2.0,
+        "weighted": 8.4127
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-25T05:45:04+00:00",
+    "last_seen_at": "2026-10-25T14:30:04+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "yu_va7r7kko",
     "title": "REAL MADRID 4 - 1 SEVILLA FC | RESUMEN LALIGA EA SPORTS",
     "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
@@ -2062,65 +2121,6 @@
     "source": "live",
     "first_seen_at": "2026-10-07T14:30:03+00:00",
     "last_seen_at": "2026-10-07T23:00:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "enxkWlBQvc4",
-    "title": "🔥 MATCH PREVIEW: FC BARCELONA vs REAL MADRID🔥 | EL CLÁSICO | LALIGA 26/27 🔵🔴",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-24T17:36:24Z",
-    "view_count": 442681,
-    "like_count": 14417,
-    "comment_count": 485,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 24.0438,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9277,
-        "weight": 1.0,
-        "weighted": 0.9277
-      },
-      "views": {
-        "raw": 5.6461,
-        "weight": 1.0,
-        "weighted": 5.6461
-      },
-      "velocity": {
-        "raw": 4.4993,
-        "weight": 2.0,
-        "weighted": 8.9986
-      },
-      "engagement": {
-        "raw": 3.4714,
-        "weight": 1.0,
-        "weighted": 3.4714
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-24T23:00:03+00:00",
-    "last_seen_at": "2026-10-25T05:45:04+00:00",
     "observation_count": 2
   },
   {
