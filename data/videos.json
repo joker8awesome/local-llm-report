@@ -1,5 +1,64 @@
 [
   {
+    "video_id": "VzRr1zWFl8U",
+    "title": "FC BARCELONA 1 - 2 REAL MADRID | RESUMEN LALIGA EA SPORTS",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-10-25T22:13:32Z",
+    "view_count": 5498571,
+    "like_count": 85185,
+    "comment_count": 3750,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 26.2018,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9597,
+        "weight": 1.0,
+        "weighted": 0.9597
+      },
+      "views": {
+        "raw": 6.7402,
+        "weight": 1.0,
+        "weighted": 6.7402
+      },
+      "velocity": {
+        "raw": 5.9081,
+        "weight": 2.0,
+        "weighted": 11.8163
+      },
+      "engagement": {
+        "raw": 1.6856,
+        "weight": 1.0,
+        "weighted": 1.6856
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_GB",
+    "first_seen_at": "2026-10-25T23:00:04+00:00",
+    "last_seen_at": "2026-10-26T05:00:05+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "E9xwMBuGC_E",
     "title": "barcelona vs psg: the match football was made for",
     "channel_id": "UC8Ve-jFguRnps_1dhovaHUA",
@@ -57,6 +116,65 @@
     "first_seen_at": "2026-10-16T23:00:03+00:00",
     "last_seen_at": "2026-10-17T14:30:03+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "V8Q5cQuuOso",
+    "title": "Highlights: Liverpool 2-0 Brighton",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-25T22:00:23Z",
+    "view_count": 207949,
+    "like_count": 11406,
+    "comment_count": 176,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 25.2384,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9584,
+        "weight": 1.0,
+        "weighted": 0.9584
+      },
+      "views": {
+        "raw": 5.318,
+        "weight": 1.0,
+        "weighted": 5.318
+      },
+      "velocity": {
+        "raw": 4.481,
+        "weight": 2.0,
+        "weighted": 8.9621
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-25T23:00:04+00:00",
+    "last_seen_at": "2026-10-26T05:00:05+00:00",
+    "observation_count": 2
   },
   {
     "video_id": "0Fcoe9pKeKk",
@@ -767,65 +885,6 @@
     "observation_count": 3
   },
   {
-    "video_id": "STe7e_Qv2fk",
-    "title": "손흥민 무시한 96라인 결국 대표팀 퇴출! 모레노 감독 극대노하자 축구계 전체가 발칵 뒤집힌 상황 ㄷㄷ",
-    "channel_id": "UC84aGnDwT_djvdsb8B2WE8Q",
-    "channel_title": "어나더 뉴스",
-    "published_at": "2026-10-25T03:00:08Z",
-    "view_count": 1814092,
-    "like_count": 39120,
-    "comment_count": 3848,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 24.5484,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.881,
-        "weight": 1.0,
-        "weighted": 0.881
-      },
-      "views": {
-        "raw": 6.2587,
-        "weight": 1.0,
-        "weighted": 6.2587
-      },
-      "velocity": {
-        "raw": 4.9144,
-        "weight": 2.0,
-        "weighted": 9.8287
-      },
-      "engagement": {
-        "raw": 2.5801,
-        "weight": 1.0,
-        "weighted": 2.5801
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_KR",
-    "first_seen_at": "2026-10-25T14:30:04+00:00",
-    "last_seen_at": "2026-10-25T23:00:04+00:00",
-    "observation_count": 2
-  },
-  {
     "video_id": "GrVCtDx7jiQ",
     "title": "MAN CITY'S AYYOUB BOUADDI'S BEST BITS v PSG!  #champiosleague #football #mancity #haaland",
     "channel_id": "UCkzCjdRMrW2vXLx8mvPVLdQ",
@@ -1298,6 +1357,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "STe7e_Qv2fk",
+    "title": "손흥민 무시한 96라인 결국 대표팀 퇴출! 모레노 감독 극대노하자 축구계 전체가 발칵 뒤집힌 상황 ㄷㄷ",
+    "channel_id": "UC84aGnDwT_djvdsb8B2WE8Q",
+    "channel_title": "어나더 뉴스",
+    "published_at": "2026-10-25T03:00:08Z",
+    "view_count": 2274944,
+    "like_count": 45803,
+    "comment_count": 4228,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.3577,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8452,
+        "weight": 1.0,
+        "weighted": 0.8452
+      },
+      "views": {
+        "raw": 6.357,
+        "weight": 1.0,
+        "weighted": 6.357
+      },
+      "velocity": {
+        "raw": 4.8854,
+        "weight": 2.0,
+        "weighted": 9.7708
+      },
+      "engagement": {
+        "raw": 2.3847,
+        "weight": 1.0,
+        "weighted": 2.3847
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "trending_KR",
+    "first_seen_at": "2026-10-25T14:30:04+00:00",
+    "last_seen_at": "2026-10-26T05:00:05+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "Ee056pjJMzM",
     "title": "Araujo🇺🇾🌟",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -1590,65 +1708,6 @@
     "source": "live",
     "first_seen_at": "2026-09-17T23:00:02+00:00",
     "last_seen_at": "2026-09-18T05:00:02+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "MDklX1d_ABY",
-    "title": "El Clásico is here. #LaLigaHighlights",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-10-25T11:00:09Z",
-    "view_count": 154969,
-    "like_count": 9484,
-    "comment_count": 143,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 24.2281,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9286,
-        "weight": 1.0,
-        "weighted": 0.9286
-      },
-      "views": {
-        "raw": 5.1902,
-        "weight": 1.0,
-        "weighted": 5.1902
-      },
-      "velocity": {
-        "raw": 4.0547,
-        "weight": 2.0,
-        "weighted": 8.1093
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-25T14:30:04+00:00",
-    "last_seen_at": "2026-10-25T23:00:04+00:00",
     "observation_count": 2
   },
   {
@@ -2888,65 +2947,6 @@
     "source": "official_rss",
     "first_seen_at": "2026-10-20T14:30:03+00:00",
     "last_seen_at": "2026-10-20T23:00:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "4yLvlqlI38k",
-    "title": "Mikel Arteta is here to stay ❤️",
-    "channel_id": "UCpryVRk_VDudG8SHXgWcG0w",
-    "channel_title": "Arsenal",
-    "published_at": "2026-10-07T11:00:40Z",
-    "view_count": 92161,
-    "like_count": 6035,
-    "comment_count": 442,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.74,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9286,
-        "weight": 1.0,
-        "weighted": 0.9286
-      },
-      "views": {
-        "raw": 4.9646,
-        "weight": 1.0,
-        "weighted": 4.9646
-      },
-      "velocity": {
-        "raw": 3.9234,
-        "weight": 2.0,
-        "weighted": 7.8468
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-07T14:30:03+00:00",
-    "last_seen_at": "2026-10-07T23:00:03+00:00",
     "observation_count": 2
   }
 ]
