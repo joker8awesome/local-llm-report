@@ -5,33 +5,33 @@
     "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
     "channel_title": "LALIGA EA SPORTS",
     "published_at": "2026-10-25T22:13:32Z",
-    "view_count": 5498571,
-    "like_count": 85185,
-    "comment_count": 3750,
+    "view_count": 10369050,
+    "like_count": 121277,
+    "comment_count": 4788,
     "sport": "soccer",
     "league": "LaLiga",
     "region": null,
-    "trend_score": 26.2018,
+    "trend_score": 25.6006,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.9597,
+        "raw": 0.9031,
         "weight": 1.0,
-        "weighted": 0.9597
+        "weighted": 0.9031
       },
       "views": {
-        "raw": 6.7402,
+        "raw": 7.0157,
         "weight": 1.0,
-        "weighted": 6.7402
+        "weighted": 7.0157
       },
       "velocity": {
-        "raw": 5.9081,
+        "raw": 5.7099,
         "weight": 2.0,
-        "weighted": 11.8163
+        "weighted": 11.4197
       },
       "engagement": {
-        "raw": 1.6856,
+        "raw": 1.262,
         "weight": 1.0,
-        "weighted": 1.6856
+        "weighted": 1.262
       },
       "sport": {
         "raw": 1.0,
@@ -55,8 +55,8 @@
     "status": "DISCOVERED",
     "source": "trending_GB",
     "first_seen_at": "2026-10-25T23:00:04+00:00",
-    "last_seen_at": "2026-10-26T05:00:05+00:00",
-    "observation_count": 2
+    "last_seen_at": "2026-10-26T14:30:04+00:00",
+    "observation_count": 3
   },
   {
     "video_id": "E9xwMBuGC_E",
@@ -118,33 +118,92 @@
     "observation_count": 3
   },
   {
-    "video_id": "V8Q5cQuuOso",
-    "title": "Highlights: Liverpool 2-0 Brighton",
-    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
-    "channel_title": "Liverpool FC",
-    "published_at": "2026-10-25T22:00:23Z",
-    "view_count": 207949,
-    "like_count": 11406,
-    "comment_count": 176,
+    "video_id": "C0_-oRabgxA",
+    "title": "LUNIN SAYS NO ✋🛑",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-25T21:46:23Z",
+    "view_count": 782618,
+    "like_count": 33041,
+    "comment_count": 708,
     "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 25.2384,
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 25.4415,
     "trend_score_breakdown": {
       "age": {
-        "raw": 0.9584,
+        "raw": 0.9004,
         "weight": 1.0,
-        "weighted": 0.9584
+        "weighted": 0.9004
       },
       "views": {
-        "raw": 5.318,
+        "raw": 5.8936,
         "weight": 1.0,
-        "weighted": 5.318
+        "weighted": 5.8936
       },
       "velocity": {
-        "raw": 4.481,
+        "raw": 4.6242,
         "weight": 2.0,
-        "weighted": 8.9621
+        "weighted": 9.2484
+      },
+      "engagement": {
+        "raw": 4.3991,
+        "weight": 1.0,
+        "weighted": 4.3991
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-25T23:00:04+00:00",
+    "last_seen_at": "2026-10-26T14:30:04+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "-yYpGOkdr9g",
+    "title": "MBAPPÉ SEALS THE WIN! 🔥🔥",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-25T22:22:05Z",
+    "view_count": 469408,
+    "like_count": 22622,
+    "comment_count": 484,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 25.3681,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.904,
+        "weight": 1.0,
+        "weighted": 0.904
+      },
+      "views": {
+        "raw": 5.6716,
+        "weight": 1.0,
+        "weighted": 5.6716
+      },
+      "velocity": {
+        "raw": 4.3963,
+        "weight": 2.0,
+        "weighted": 8.7926
       },
       "engagement": {
         "raw": 5.0,
@@ -173,7 +232,7 @@
     "status": "DISCOVERED",
     "source": "official_rss",
     "first_seen_at": "2026-10-25T23:00:04+00:00",
-    "last_seen_at": "2026-10-26T05:00:05+00:00",
+    "last_seen_at": "2026-10-26T14:30:04+00:00",
     "observation_count": 2
   },
   {
@@ -352,6 +411,124 @@
     "first_seen_at": "2026-10-18T23:00:03+00:00",
     "last_seen_at": "2026-10-19T14:30:03+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "T5B3ZVTvrhM",
+    "title": "HIGHLIGHTS | FC Barcelona 1-2 Real Madrid | LaLiga",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-25T23:36:00Z",
+    "view_count": 3065147,
+    "like_count": 49834,
+    "comment_count": 2316,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.8828,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9113,
+        "weight": 1.0,
+        "weighted": 0.9113
+      },
+      "views": {
+        "raw": 6.4865,
+        "weight": 1.0,
+        "weighted": 6.4865
+      },
+      "velocity": {
+        "raw": 5.3541,
+        "weight": 2.0,
+        "weighted": 10.7082
+      },
+      "engagement": {
+        "raw": 1.7769,
+        "weight": 1.0,
+        "weighted": 1.7769
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-26T05:00:05+00:00",
+    "last_seen_at": "2026-10-26T14:30:04+00:00",
+    "observation_count": 2
+  },
+  {
+    "video_id": "Y8_8Nl0-Zp0",
+    "title": "NOTHING LIKE A CLÁSICO GOAL 😍",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-25T21:08:48Z",
+    "view_count": 406164,
+    "like_count": 18853,
+    "comment_count": 316,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 24.8693,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8967,
+        "weight": 1.0,
+        "weighted": 0.8967
+      },
+      "views": {
+        "raw": 5.6087,
+        "weight": 1.0,
+        "weighted": 5.6087
+      },
+      "velocity": {
+        "raw": 4.2873,
+        "weight": 2.0,
+        "weighted": 8.5747
+      },
+      "engagement": {
+        "raw": 4.7892,
+        "weight": 1.0,
+        "weighted": 4.7892
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-25T23:00:04+00:00",
+    "last_seen_at": "2026-10-26T14:30:04+00:00",
+    "observation_count": 2
   },
   {
     "video_id": "SaOydpY-EZE",
@@ -706,6 +883,65 @@
     "first_seen_at": "2026-09-16T05:00:02+00:00",
     "last_seen_at": "2026-09-16T14:30:02+00:00",
     "observation_count": 2
+  },
+  {
+    "video_id": "V8Q5cQuuOso",
+    "title": "Highlights: Liverpool 2-0 Brighton",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-25T22:00:23Z",
+    "view_count": 506527,
+    "like_count": 20026,
+    "comment_count": 280,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.6602,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9018,
+        "weight": 1.0,
+        "weighted": 0.9018
+      },
+      "views": {
+        "raw": 5.7046,
+        "weight": 1.0,
+        "weighted": 5.7046
+      },
+      "velocity": {
+        "raw": 4.4974,
+        "weight": 2.0,
+        "weighted": 8.9947
+      },
+      "engagement": {
+        "raw": 4.0591,
+        "weight": 1.0,
+        "weighted": 4.0591
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-25T23:00:04+00:00",
+    "last_seen_at": "2026-10-26T14:30:04+00:00",
+    "observation_count": 3
   },
   {
     "video_id": "1ZRirT79Buw",
@@ -1357,65 +1593,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "STe7e_Qv2fk",
-    "title": "손흥민 무시한 96라인 결국 대표팀 퇴출! 모레노 감독 극대노하자 축구계 전체가 발칵 뒤집힌 상황 ㄷㄷ",
-    "channel_id": "UC84aGnDwT_djvdsb8B2WE8Q",
-    "channel_title": "어나더 뉴스",
-    "published_at": "2026-10-25T03:00:08Z",
-    "view_count": 2274944,
-    "like_count": 45803,
-    "comment_count": 4228,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 24.3577,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8452,
-        "weight": 1.0,
-        "weighted": 0.8452
-      },
-      "views": {
-        "raw": 6.357,
-        "weight": 1.0,
-        "weighted": 6.357
-      },
-      "velocity": {
-        "raw": 4.8854,
-        "weight": 2.0,
-        "weighted": 9.7708
-      },
-      "engagement": {
-        "raw": 2.3847,
-        "weight": 1.0,
-        "weighted": 2.3847
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_KR",
-    "first_seen_at": "2026-10-25T14:30:04+00:00",
-    "last_seen_at": "2026-10-26T05:00:05+00:00",
-    "observation_count": 3
-  },
-  {
     "video_id": "Ee056pjJMzM",
     "title": "Araujo🇺🇾🌟",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2065,6 +2242,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "YqEFwRwC4xg",
+    "title": "Ronald Araujo by any means necessary 🫡",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-25T23:00:37Z",
+    "view_count": 775972,
+    "like_count": 20181,
+    "comment_count": 544,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.0904,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9078,
+        "weight": 1.0,
+        "weighted": 0.9078
+      },
+      "views": {
+        "raw": 5.8898,
+        "weight": 1.0,
+        "weighted": 5.8898
+      },
+      "velocity": {
+        "raw": 4.7767,
+        "weight": 2.0,
+        "weighted": 9.5534
+      },
+      "engagement": {
+        "raw": 2.7393,
+        "weight": 1.0,
+        "weighted": 2.7393
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-26T05:00:05+00:00",
+    "last_seen_at": "2026-10-26T14:30:04+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "fC-Tc2lBwu0",
     "title": "CLUB FOOTBALL IS FINALLYYYY BACK🔥",
     "channel_id": "UCl6h5FMzAIHbbHMLIxmdUXA",
@@ -2537,6 +2773,65 @@
     "observation_count": 3
   },
   {
+    "video_id": "iYG8pDNb9U0",
+    "title": "Barcola 💪 Isak 🎯",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-25T22:30:38Z",
+    "view_count": 122233,
+    "like_count": 6368,
+    "comment_count": 87,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 23.8795,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.9048,
+        "weight": 1.0,
+        "weighted": 0.9048
+      },
+      "views": {
+        "raw": 5.0872,
+        "weight": 1.0,
+        "weighted": 5.0872
+      },
+      "velocity": {
+        "raw": 3.9437,
+        "weight": 2.0,
+        "weighted": 7.8875
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-25T23:00:04+00:00",
+    "last_seen_at": "2026-10-26T14:30:04+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "aZSA-8E8chE",
     "title": "If you blink, you'll miss Adeyemi's nutmeg 🌰 #LaLigaHighlights",
     "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
@@ -2652,301 +2947,6 @@
     "source": "official_rss",
     "first_seen_at": "2026-10-20T23:00:03+00:00",
     "last_seen_at": "2026-10-21T14:30:04+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "oYLFd5Jh5Wg",
-    "title": "All Time Chelsea Vs The Current Best Premier League XI Combined XI",
-    "channel_id": "UCIKEHdQlCUKUn7eGXy9CBiA",
-    "channel_title": "Conner Cole",
-    "published_at": "2026-10-06T16:11:48Z",
-    "view_count": 214798,
-    "like_count": 13274,
-    "comment_count": 372,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": null,
-    "trend_score": 23.8594,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8672,
-        "weight": 1.0,
-        "weighted": 0.8672
-      },
-      "views": {
-        "raw": 5.332,
-        "weight": 1.0,
-        "weighted": 5.332
-      },
-      "velocity": {
-        "raw": 3.8301,
-        "weight": 2.0,
-        "weighted": 7.6601
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-06T23:00:03+00:00",
-    "last_seen_at": "2026-10-07T14:30:03+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "73kUrOF02XA",
-    "title": "Araujo completes his Villarreal goal celebration ❤️ 🥹",
-    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
-    "channel_title": "Liverpool FC",
-    "published_at": "2026-10-23T17:16:08Z",
-    "view_count": 220230,
-    "like_count": 12014,
-    "comment_count": 319,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 23.8544,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8736,
-        "weight": 1.0,
-        "weighted": 0.8736
-      },
-      "views": {
-        "raw": 5.3429,
-        "weight": 1.0,
-        "weighted": 5.3429
-      },
-      "velocity": {
-        "raw": 3.819,
-        "weight": 2.0,
-        "weighted": 7.6379
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-23T23:00:03+00:00",
-    "last_seen_at": "2026-10-24T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "fLUvg1aECXI",
-    "title": "A message from Lewis Koumas! 🗣️⚽️",
-    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
-    "channel_title": "Liverpool FC",
-    "published_at": "2026-10-14T20:16:04Z",
-    "view_count": 148940,
-    "like_count": 7973,
-    "comment_count": 166,
-    "sport": "soccer",
-    "league": "EPL",
-    "region": "EU",
-    "trend_score": 23.8081,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8915,
-        "weight": 1.0,
-        "weighted": 0.8915
-      },
-      "views": {
-        "raw": 5.173,
-        "weight": 1.0,
-        "weighted": 5.173
-      },
-      "velocity": {
-        "raw": 3.8718,
-        "weight": 2.0,
-        "weighted": 7.7437
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-14T23:00:02+00:00",
-    "last_seen_at": "2026-10-15T14:30:03+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "d_VP2iey2Lk",
-    "title": "Barcelona Enjoying This Way Too Much 😭",
-    "channel_id": "UCShl1wUZzq6YHlDjRcj1FZQ",
-    "channel_title": "Boot Theory",
-    "published_at": "2026-09-21T11:00:36Z",
-    "view_count": 455324,
-    "like_count": 17010,
-    "comment_count": 406,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.7757,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8929,
-        "weight": 1.0,
-        "weighted": 0.8929
-      },
-      "views": {
-        "raw": 5.6583,
-        "weight": 1.0,
-        "weighted": 5.6583
-      },
-      "velocity": {
-        "raw": 4.1578,
-        "weight": 2.0,
-        "weighted": 8.3156
-      },
-      "engagement": {
-        "raw": 3.9088,
-        "weight": 1.0,
-        "weighted": 3.9088
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-21T23:00:01+00:00",
-    "last_seen_at": "2026-09-22T05:00:01+00:00",
-    "observation_count": 2
-  },
-  {
-    "video_id": "8C_Nyd0R1GM",
-    "title": "🥶 @KMbappe 🥶  #LaLigaHighlights #RealMadrid",
-    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
-    "channel_title": "Real Madrid",
-    "published_at": "2026-10-20T09:00:07Z",
-    "view_count": 107065,
-    "like_count": 6549,
-    "comment_count": 107,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.7755,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.9167,
-        "weight": 1.0,
-        "weighted": 0.9167
-      },
-      "views": {
-        "raw": 5.0297,
-        "weight": 1.0,
-        "weighted": 5.0297
-      },
-      "velocity": {
-        "raw": 3.9146,
-        "weight": 2.0,
-        "weighted": 7.8291
-      },
-      "engagement": {
-        "raw": 5.0,
-        "weight": 1.0,
-        "weighted": 5.0
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-20T14:30:03+00:00",
-    "last_seen_at": "2026-10-20T23:00:03+00:00",
     "observation_count": 2
   }
 ]
