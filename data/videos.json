@@ -1711,6 +1711,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "W1jNME8wWCI",
+    "title": "Isak's 6️⃣ Premier League goals 🇸🇪⚽️",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-26T19:00:09Z",
+    "view_count": 226486,
+    "like_count": 11828,
+    "comment_count": 184,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.3377,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8839,
+        "weight": 1.0,
+        "weighted": 0.8839
+      },
+      "views": {
+        "raw": 5.355,
+        "weight": 1.0,
+        "weighted": 5.355
+      },
+      "velocity": {
+        "raw": 4.0494,
+        "weight": 2.0,
+        "weighted": 8.0987
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-26T23:00:04+00:00",
+    "last_seen_at": "2026-10-27T14:30:04+00:00",
+    "observation_count": 2
+  },
+  {
     "video_id": "Ee056pjJMzM",
     "title": "Araujo🇺🇾🌟",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2063,6 +2122,65 @@
     "first_seen_at": "2026-10-10T23:00:02+00:00",
     "last_seen_at": "2026-10-11T14:30:02+00:00",
     "observation_count": 3
+  },
+  {
+    "video_id": "Bq8CTqE3qbw",
+    "title": "Storm Boelo? ❌ Storm Araujo 🌪️",
+    "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
+    "channel_title": "Liverpool FC",
+    "published_at": "2026-10-26T15:00:46Z",
+    "view_count": 417164,
+    "like_count": 17503,
+    "comment_count": 502,
+    "sport": "soccer",
+    "league": "EPL",
+    "region": "EU",
+    "trend_score": 24.2227,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8602,
+        "weight": 1.0,
+        "weighted": 0.8602
+      },
+      "views": {
+        "raw": 5.6203,
+        "weight": 1.0,
+        "weighted": 5.6203
+      },
+      "velocity": {
+        "raw": 4.1564,
+        "weight": 2.0,
+        "weighted": 8.3128
+      },
+      "engagement": {
+        "raw": 4.4293,
+        "weight": 1.0,
+        "weighted": 4.4293
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-26T23:00:04+00:00",
+    "last_seen_at": "2026-10-27T14:30:04+00:00",
+    "observation_count": 2
   },
   {
     "video_id": "OG3x10tQQ5M",
@@ -2830,123 +2948,5 @@
     "first_seen_at": "2026-09-16T05:00:02+00:00",
     "last_seen_at": "2026-09-16T14:30:02+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "d43_hiFvuGs",
-    "title": "SEVILLA 1 vs 3 FC BARCELONA | LALIGA 2026/27 MD07 🔵🔴",
-    "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
-    "channel_title": "FC Barcelona",
-    "published_at": "2026-09-19T21:24:00Z",
-    "view_count": 1101165,
-    "like_count": 24797,
-    "comment_count": 942,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.951,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8982,
-        "weight": 1.0,
-        "weighted": 0.8982
-      },
-      "views": {
-        "raw": 6.0419,
-        "weight": 1.0,
-        "weighted": 6.0419
-      },
-      "velocity": {
-        "raw": 4.7944,
-        "weight": 2.0,
-        "weighted": 9.5888
-      },
-      "engagement": {
-        "raw": 2.4221,
-        "weight": 1.0,
-        "weighted": 2.4221
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-09-19T23:00:03+00:00",
-    "last_seen_at": "2026-09-20T14:30:02+00:00",
-    "observation_count": 3
-  },
-  {
-    "video_id": "08RWFNVutzM",
-    "title": "FC BARCELONA 3 - 0 GETAFE CF | RESUMEN LALIGA EA SPORTS",
-    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
-    "channel_title": "LALIGA EA SPORTS",
-    "published_at": "2026-10-10T18:51:03Z",
-    "view_count": 2815872,
-    "like_count": 41459,
-    "comment_count": 601,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 23.9014,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.883,
-        "weight": 1.0,
-        "weighted": 0.883
-      },
-      "views": {
-        "raw": 6.4496,
-        "weight": 1.0,
-        "weighted": 6.4496
-      },
-      "velocity": {
-        "raw": 5.0269,
-        "weight": 2.0,
-        "weighted": 10.0538
-      },
-      "engagement": {
-        "raw": 1.515,
-        "weight": 1.0,
-        "weighted": 1.515
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "live",
-    "first_seen_at": "2026-10-10T23:00:02+00:00",
-    "last_seen_at": "2026-10-11T14:30:02+00:00",
-    "observation_count": 3
   }
 ]
