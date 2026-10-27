@@ -1003,65 +1003,6 @@
     "observation_count": 2
   },
   {
-    "video_id": "VzRr1zWFl8U",
-    "title": "FC BARCELONA 1 - 2 REAL MADRID | RESUMEN LALIGA EA SPORTS",
-    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
-    "channel_title": "LALIGA EA SPORTS",
-    "published_at": "2026-10-25T22:13:32Z",
-    "view_count": 11848310,
-    "like_count": 130242,
-    "comment_count": 5036,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 24.5917,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8525,
-        "weight": 1.0,
-        "weighted": 0.8525
-      },
-      "views": {
-        "raw": 7.0737,
-        "weight": 1.0,
-        "weighted": 7.0737
-      },
-      "velocity": {
-        "raw": 5.2406,
-        "weight": 2.0,
-        "weighted": 10.4813
-      },
-      "engagement": {
-        "raw": 1.1843,
-        "weight": 1.0,
-        "weighted": 1.1843
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_MATCH",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "trending_GB",
-    "first_seen_at": "2026-10-25T23:00:04+00:00",
-    "last_seen_at": "2026-10-26T23:00:04+00:00",
-    "observation_count": 4
-  },
-  {
     "video_id": "rja5XPaMZZo",
     "title": "Some performance from Rio👏",
     "channel_id": "UC9LQwHZoucFT94I2h6JOcjw",
@@ -2947,6 +2888,65 @@
     "source": "live",
     "first_seen_at": "2026-09-19T23:00:03+00:00",
     "last_seen_at": "2026-09-20T14:30:02+00:00",
+    "observation_count": 3
+  },
+  {
+    "video_id": "08RWFNVutzM",
+    "title": "FC BARCELONA 3 - 0 GETAFE CF | RESUMEN LALIGA EA SPORTS",
+    "channel_id": "UCTv-XvfzLX3i4IGWAm4sbmA",
+    "channel_title": "LALIGA EA SPORTS",
+    "published_at": "2026-10-10T18:51:03Z",
+    "view_count": 2815872,
+    "like_count": 41459,
+    "comment_count": 601,
+    "sport": "soccer",
+    "league": "LaLiga",
+    "region": null,
+    "trend_score": 23.9014,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.883,
+        "weight": 1.0,
+        "weighted": 0.883
+      },
+      "views": {
+        "raw": 6.4496,
+        "weight": 1.0,
+        "weighted": 6.4496
+      },
+      "velocity": {
+        "raw": 5.0269,
+        "weight": 2.0,
+        "weighted": 10.0538
+      },
+      "engagement": {
+        "raw": 1.515,
+        "weight": 1.0,
+        "weighted": 1.515
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 1.0,
+        "weight": 2.0,
+        "weighted": 2.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_MATCH",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "live",
+    "first_seen_at": "2026-10-10T23:00:02+00:00",
+    "last_seen_at": "2026-10-11T14:30:02+00:00",
     "observation_count": 3
   }
 ]
