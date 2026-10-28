@@ -2065,6 +2065,65 @@
     "observation_count": 2
   },
   {
+    "video_id": "W7XUmOR4dKs",
+    "title": "🎯 MBAPPÉ’S 100 GOALS FOR REAL MADRID 🤯",
+    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "channel_title": "Real Madrid",
+    "published_at": "2026-10-27T15:37:49Z",
+    "view_count": 1118347,
+    "like_count": 71608,
+    "comment_count": 807,
+    "sport": "soccer",
+    "league": null,
+    "region": null,
+    "trend_score": 24.3064,
+    "trend_score_breakdown": {
+      "age": {
+        "raw": 0.8639,
+        "weight": 1.0,
+        "weighted": 0.8639
+      },
+      "views": {
+        "raw": 6.0486,
+        "weight": 1.0,
+        "weighted": 6.0486
+      },
+      "velocity": {
+        "raw": 4.697,
+        "weight": 2.0,
+        "weighted": 9.394
+      },
+      "engagement": {
+        "raw": 5.0,
+        "weight": 1.0,
+        "weighted": 5.0
+      },
+      "sport": {
+        "raw": 1.0,
+        "weight": 3.0,
+        "weighted": 3.0
+      },
+      "league": {
+        "raw": 0.0,
+        "weight": 2.0,
+        "weighted": 0.0
+      },
+      "news": {
+        "raw": 0.0,
+        "weight": 1.0,
+        "weighted": 0.0
+      }
+    },
+    "scope_verdict": "IN_SCOPE",
+    "scope_reason": "CEO_TEAM_CHANNEL",
+    "scope_version": "scope-soccer-only-2026-09-22",
+    "status": "DISCOVERED",
+    "source": "official_rss",
+    "first_seen_at": "2026-10-27T23:00:04+00:00",
+    "last_seen_at": "2026-10-28T14:30:03+00:00",
+    "observation_count": 3
+  },
+  {
     "video_id": "J0xwwBOTAys",
     "title": "Raphinha's last touch is pure class 🤌 #LaLigaHighlights",
     "channel_id": "UC14UlmYlSNiQCBe9Eookf_A",
@@ -2889,64 +2948,5 @@
     "first_seen_at": "2026-10-07T14:30:03+00:00",
     "last_seen_at": "2026-10-07T23:00:03+00:00",
     "observation_count": 2
-  },
-  {
-    "video_id": "T5B3ZVTvrhM",
-    "title": "HIGHLIGHTS | FC Barcelona 1-2 Real Madrid | LaLiga",
-    "channel_id": "UCWV3obpZVGgJ3j9FVhEjF2Q",
-    "channel_title": "Real Madrid",
-    "published_at": "2026-10-25T23:36:00Z",
-    "view_count": 3899830,
-    "like_count": 56066,
-    "comment_count": 2624,
-    "sport": "soccer",
-    "league": "LaLiga",
-    "region": null,
-    "trend_score": 24.0082,
-    "trend_score_breakdown": {
-      "age": {
-        "raw": 0.8607,
-        "weight": 1.0,
-        "weighted": 0.8607
-      },
-      "views": {
-        "raw": 6.591,
-        "weight": 1.0,
-        "weighted": 6.591
-      },
-      "velocity": {
-        "raw": 4.9921,
-        "weight": 2.0,
-        "weighted": 9.9842
-      },
-      "engagement": {
-        "raw": 1.5722,
-        "weight": 1.0,
-        "weighted": 1.5722
-      },
-      "sport": {
-        "raw": 1.0,
-        "weight": 3.0,
-        "weighted": 3.0
-      },
-      "league": {
-        "raw": 1.0,
-        "weight": 2.0,
-        "weighted": 2.0
-      },
-      "news": {
-        "raw": 0.0,
-        "weight": 1.0,
-        "weighted": 0.0
-      }
-    },
-    "scope_verdict": "IN_SCOPE",
-    "scope_reason": "CEO_TEAM_CHANNEL",
-    "scope_version": "scope-soccer-only-2026-09-22",
-    "status": "DISCOVERED",
-    "source": "official_rss",
-    "first_seen_at": "2026-10-26T05:00:05+00:00",
-    "last_seen_at": "2026-10-26T23:00:04+00:00",
-    "observation_count": 3
   }
 ]
